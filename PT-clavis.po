@@ -1,0 +1,6205 @@
+# Translation memory and generic terms for Portuguese translators.
+# Copyright (C) 2018 Pedro Albuquerque
+# This file is distributed under the <https://www.gnu.org/licenses/gpl-3.0.en.html>.
+# Pedro Albuquerque <palbuquerque73@gmail.com>, 2015, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
+"Report-Msgid-Bugs-To: <palbuquerque73@gmail.com>product=gvfs&keywords=I18N"
+"+L10N&component=general\n"
+"POT-Creation-Date: 2015-08-15 22:13+0000\n"
+"PO-Revision-Date: 2018-05-13 11:57+0100\n"
+"Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"X-Project-Style: \n"
+
+
+msgid "`File' Menu"
+msgstr "MENU FICHEIRO - as cadeias seguintes são usadas no menu "
+	   "\"Ficheiro\" de qualquer programa"
+
+# en - 
+# pt -
+# Shortcut / Atalho: F
+msgid "_File"
+msgstr "_Ficheiro"
+
+# en - Can be 'New <anything>'
+# pt - Pode ser "Novo(a) <qualquer coisa>"
+# Shortcut / Atalho: N
+msgid "_New"
+msgstr "_Novo(a)"
+
+# en - Can be 'Open <anything>'
+# pt - Pode ser "Abrir <qualquer coisa>"
+# Caso em que o atalho é forçosamente diferente do original. A primeira letra é a opção favorita
+# Shortcut / Atalho: A
+msgid "_Open"
+msgstr "_Abrir"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: D
+msgid "_Recent documents"
+msgstr "Documentos _recentes"
+
+# en - Save Data, Store clothing, Save lives
+# pt - Gravar dados, Guardar roupa, Salvar vidas
+# Shortcut / Atalho: G
+msgid "_Save"
+msgstr "_Gravar"
+
+# en - cannot be original A (used for 'Open') nor G (used for 'Save').
+# Chosen V as the least probable under 'File' menu.
+# pt -não pode ser o original A (já usado em "Abrir") nem G (já usado em "Gravar").
+# Escolhido "V" como menos provável no menu "Ficheiro".
+# Shortcut / Atalho: V
+msgid "S_ave as..."
+msgstr "Gra_var como..."
+
+# en - 
+# pt - 
+# Shortcut / Atalho: C
+msgid "Save a _copy"
+msgstr "Gravar uma _cópia"
+
+# en - 
+# pt - A utilização de "tudo" evita o género masculino/feminino
+# Shortcut / Atalho: T
+msgid "Save all"
+msgstr "Gravar _tudo"
+
+# en - Export, Export as, etc.
+# pt - Exportar, Exportar como, etc.
+# Shortcut / Atalho: E
+msgid "_Export"
+msgstr "_Exportar"
+
+# en - Import
+# pt - Importar
+# Shortcut / Atalho: I
+msgid "_Import"
+msgstr "_Importar"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: P
+msgid "_Print"
+msgstr "Im_primir"
+
+# en - 
+# pt - Preferi Antevisão por ser mais curta. É usada em botões onde o
+# espaço é limitado
+# Shortcut / Atalho: E
+msgid "Print Pr_eview"
+msgstr "Ant_ever impressão"
+
+# en - 
+# pt - É preferível impressão a impressora.
+# Shortcut / Atalho: R
+msgid "P_rinter Setup"
+msgstr "Configurar imp_ressão"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: G
+msgid "Pa_ge Setup"
+msgstr "Configurar pá_gina"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: S
+msgid "_Exit"
+msgstr "_Sair"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: S
+msgid "_Quit"
+msgstr "_Sair"
+
+#######################################################################
+msgid "`Edit' Menu'"
+msgstr "MENU EDITAR - as cadeias seguintes são usadas no menu "
+"\"Editar\" de qualquer programa."
+
+# en - 
+# pt - 
+# Shortcut / Atalho: C
+msgid "_Copy"
+msgstr "_Copiar"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: T
+msgid "Cu_t"
+msgstr "Cor_tar"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: L
+msgid "_Paste"
+msgstr "Co_lar"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: D
+msgid "_Undo"
+msgstr "_Desfazer"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: R
+msgid "_Redo"
+msgstr "_Refazer"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: S
+msgid "_Select"
+msgstr "_Seleccionar"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: A
+msgid "Select _All"
+msgstr "Seleccion_ar tudo"
+
+#######################################################################
+msgid "Countries"
+msgstr "Países"
+
+msgid "Afghanistan"
+msgstr "Afeganistão"
+msgid "Akrotiri"
+msgstr "Akrotiri"
+msgid "Albania"
+msgstr "Albânia"
+msgid "Algeria"
+msgstr "Argélia"
+msgid "American Samoa"
+msgstr "Samoa Americana"
+msgid "Andorra"
+msgstr "Andorra"
+msgid "Angola"
+msgstr "Angola"
+msgid "Anguilla"
+msgstr "Anguila"
+msgid "Antarctica"
+msgstr "Antárctica"
+msgid "Antigua and Barbuda"
+msgstr "Antígua e Barbuda"
+msgid "Argentina"
+msgstr "Argentina"
+msgid "Armenia"
+msgstr "Arménia"
+msgid "Aruba"
+msgstr "Aruba"
+msgid "Ashmore and Cartier Islands"
+msgstr "Ilhas Ashmore e Cartier"
+msgid "Australia"
+msgstr "Austrália"
+msgid "Austria"
+msgstr "Áustria"
+msgid "Azerbaijan"
+msgstr "Azerbaijão"
+msgid "Bahamas, The"
+msgstr "Bahamas"
+msgid "Bahrain"
+msgstr "Bahrein"
+msgid "Bangladesh"
+msgstr "Bangladesh"
+msgid "Barbados"
+msgstr "Barbados"
+msgid "Bassas da India"
+msgstr "Bassas da Índia"
+msgid "Belarus"
+msgstr "Bielorrússia"
+msgid "Belgium"
+msgstr "Bélgica"
+msgid "Belize"
+msgstr "Belize"
+msgid "Benin"
+msgstr "Benin"
+msgid "Bermuda"
+msgstr "Bermudas"
+msgid "Bhutan"
+msgstr "Butão"
+msgid "Bolivia"
+msgstr "Bolívia"
+msgid "Bosnia and Herzegovina"
+msgstr "Bósnia e Herzegovina"
+msgid "Botswana"
+msgstr "Botswana"
+msgid "Bouvet Island"
+msgstr "Ilha de Bouvet"
+msgid "Brazil"
+msgstr "Brasil"
+msgid "British Indian Ocean Territory"
+msgstr "Território britânico do Oceano Índico"
+msgid "British Virgin Islands"
+msgstr "Ilhas Virgens Britânicas"
+msgid "Brunei"
+msgstr "Brunei"
+msgid "Bulgaria"
+msgstr "Bulgária"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+msgid "Burma"
+msgstr "Birmânia"
+msgid "Burundi"
+msgstr "Burundi"
+msgid "Cambodia"
+msgstr "Cambodja"
+msgid "Cameroon"
+msgstr "Camarões"
+msgid "Canada"
+msgstr "Canadá"
+msgid "Cape Verde"
+msgstr "cabo Verde"
+msgid "Cayman Islands"
+msgstr "Ilhas Cayman"
+msgid "Central African Republic"
+msgstr "República Centro-Africana"
+msgid "Chad"
+msgstr "Chade"
+msgid "Chile"
+msgstr "Chile"
+msgid "China"
+msgstr "China"
+msgid "Christmas Island"
+msgstr "Ilha do Natal"
+msgid "Clipperton Island"
+msgstr "Ilha Clipperton"
+msgid "Cocos (Keeling) Islands"
+msgstr "Ilhas Cocos (Keeling)"
+msgid "Colombia"
+msgstr "Colômbia"
+msgid "Comoros"
+msgstr "Comores"
+msgid "Congo, Democratic Republic of the"
+msgstr "República Democrática do Congo"
+msgid "Congo, Republic of the"
+msgstr "República do Congo"
+msgid "Cook Islands"
+msgstr "Ilhas Cook"
+msgid "Coral Sea Islands"
+msgstr "Ilhas do Mar do Coral"
+msgid "Costa Rica"
+msgstr "Costa Rica"
+msgid "Cote d'Ivoire"
+msgstr "Costa do Marfim"
+msgid "Croatia"
+msgstr "Croácia"
+msgid "Cuba"
+msgstr "Cuba"
+msgid "Cyprus"
+msgstr "Chipre"
+msgid "Czech Republic"
+msgstr "República Checa"
+msgid "Denmark"
+msgstr "Dinamarca"
+msgid "Dhekelia"
+msgstr "Dhekelia"
+msgid "Djibouti"
+msgstr "Djibouti"
+msgid "Dominica"
+msgstr "Dominica"
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+msgid "Ecuador"
+msgstr "Equador"
+msgid "Egypt"
+msgstr "Egito"
+msgid "El Salvador"
+msgstr "El Salvador"
+msgid "Equatorial Guinea"
+msgstr "Guiné Equatorial"
+msgid "Eritrea"
+msgstr "Eritreia"
+msgid "Estonia"
+msgstr "Estónia"
+msgid "Ethiopia"
+msgstr "Etiópia"
+msgid "Europa Island"
+msgstr "Ilha Europa"
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "Ilhas Falkland (Malvinas)"
+msgid "Faroe Islands"
+msgstr "ilhas Faroe"
+msgid "Fiji"
+msgstr "Fiji"
+msgid "Finland"
+msgstr "Finlândia"
+msgid "France"
+msgstr "França"
+msgid "French Guiana"
+msgstr "Guiana Francesa"
+msgid "French Polynesia"
+msgstr "Polinésia Francesa"
+msgid "French Southern and Antarctic Lands"
+msgstr "Terras Austral e Antárctica Francesas"
+msgid "Gabon"
+msgstr "Gabão"
+msgid "Gambia, The"
+msgstr "Gâmbia"
+msgid "Gaza Strip"
+msgstr "Faixa de Gaza"
+msgid "Georgia"
+msgstr "Geórgia"
+msgid "Germany"
+msgstr "Alemanha"
+msgid "Ghana"
+msgstr "Gana"
+msgid "Gibraltar"
+msgstr "Gibraltar"
+msgid "Glorioso Islands"
+msgstr "Ilhas Gloriosas"
+msgid "Greece"
+msgstr "Grécia"
+msgid "Greenland"
+msgstr "Gronelândia"
+msgid "Grenada"
+msgstr "Grenada"
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+msgid "Guam"
+msgstr "Guam"
+msgid "Guatemala"
+msgstr "Guatemala"
+msgid "Guernsey"
+msgstr "Guernsey"
+msgid "Guinea"
+msgstr "Guiné"
+msgid "Guinea-Bissau"
+msgstr "Guiné-Bissau"
+msgid "Guyana"
+msgstr "Guiana"
+msgid "Haiti"
+msgstr "Haiti"
+msgid "Heard Island and McDonald Islands"
+msgstr "Ilha Heard e Ilhas McDonald"
+msgid "Holy See (Vatican City)"
+msgstr "Cidade Estado do Vaticano)"
+msgid "Honduras"
+msgstr "Honduras"
+msgid "Hong Kong"
+msgstr "Hong Kong"
+msgid "Hungary"
+msgstr "Hungria"
+msgid "Iceland"
+msgstr "Islândia"
+msgid "India"
+msgstr "Índia"
+msgid "Indonesia"
+msgstr "Indonésia"
+msgid "Iran"
+msgstr "Irão"
+msgid "Iraq"
+msgstr "Iraque"
+msgid "Ireland"
+msgstr "Irlanda"
+msgid "Isle of Man"
+msgstr "Ilha de Man"
+msgid "Israel"
+msgstr "Israel"
+msgid "Italy"
+msgstr "Itália"
+msgid "Jamaica"
+msgstr "Jamaica"
+msgid "Jan Mayen"
+msgstr "Jan Mayen"
+msgid "Japan"
+msgstr "Japão"
+msgid "Jersey"
+msgstr "Jersey"
+msgid "Jordan"
+msgstr "Jordânia"
+msgid "Juan de Nova Island"
+msgstr "Ilha de Juan de Nova"
+msgid "Kazakhstan"
+msgstr "Cazaquistão"
+msgid "Kenya"
+msgstr "Quênia"
+msgid "Kiribati"
+msgstr "Kiribati"
+msgid "Korea, North"
+msgstr "Coreia do Norte"
+msgid "Korea, South"
+msgstr "Coréia do Sul"
+msgid "Kuwait"
+msgstr "Kuwait"
+msgid "Kyrgyzstan"
+msgstr "Quirguistão"
+msgid "Laos"
+msgstr "Laos"
+msgid "Latvia"
+msgstr "Letónia"
+msgid "Lebanon"
+msgstr "Líbano"
+msgid "Lesotho"
+msgstr "Lesoto"
+msgid "Liberia"
+msgstr "Libéria"
+msgid "Libya"
+msgstr "Líbia"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+msgid "Lithuania"
+msgstr "Lituânia"
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+msgid "Macau"
+msgstr "Macau"
+msgid "Macedonia"
+msgstr "Macedónia"
+msgid "Madagascar"
+msgstr "Madagáscar"
+msgid "Malawi"
+msgstr "Malawi"
+msgid "Malaysia"
+msgstr "Malásia"
+msgid "Maldives"
+msgstr "Maldivas"
+msgid "Mali"
+msgstr "Mali"
+msgid "Malta"
+msgstr "Malta"
+msgid "Marshall Islands"
+msgstr "Ilhas Marshall"
+msgid "Martinique"
+msgstr "Martinica"
+msgid "Mauritania"
+msgstr "Mauritânia"
+msgid "Mauritius"
+msgstr "Maurícia"
+msgid "Mayotte"
+msgstr "Mayotte"
+msgid "Mexico"
+msgstr "México"
+msgid "Micronesia, Federated States of"
+msgstr "Estados Federados da Micronésia"
+msgid "Moldova"
+msgstr "Moldávia"
+msgid "Monaco"
+msgstr "Mónaco"
+msgid "Mongolia"
+msgstr "Mongólia"
+msgid "Montserrat"
+msgstr "Montserrat"
+msgid "Morocco"
+msgstr "Marrocos"
+msgid "Mozambique"
+msgstr "Moçambique"
+msgid "Namibia"
+msgstr "Namíbia"
+msgid "Nauru"
+msgstr "Nauru"
+msgid "Navassa Island"
+msgstr "Ilha de Navassa"
+msgid "Nepal"
+msgstr "Nepal"
+msgid "Netherlands"
+msgstr "Holanda"
+msgid "Netherlands Antilles"
+msgstr "Antilhas holandesas"
+msgid "New Caledonia"
+msgstr "Nova Caledónia"
+msgid "New Zealand"
+msgstr "Nova Zelândia"
+msgid "Nicaragua"
+msgstr "Nicarágua"
+msgid "Niger"
+msgstr "Níger"
+msgid "Nigeria"
+msgstr "Nigéria"
+msgid "Niue"
+msgstr "Niue"
+msgid "Norfolk Island"
+msgstr "Ilha de Norfolk"
+msgid "Northern Mariana Islands"
+msgstr "Ilhas Marianas do Norte"
+msgid "Norway"
+msgstr "Noruega"
+msgid "Oman"
+msgstr "Omã"
+msgid "Pakistan"
+msgstr "Paquistão"
+msgid "Palau"
+msgstr "Palau"
+msgid "Panama"
+msgstr "Panamá"
+msgid "Papua New Guinea"
+msgstr "Papua Nova Guiné"
+msgid "Paracel Islands"
+msgstr "Ilhas Paracel"
+msgid "Paraguay"
+msgstr "Paraguai"
+msgid "Peru"
+msgstr "Peru"
+msgid "Philippines"
+msgstr "Filipinas"
+msgid "Pitcairn Islands"
+msgstr "Ilhas Pitcairn"
+msgid "Poland"
+msgstr "Polónia"
+msgid "Portugal"
+msgstr "Portugal"
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+msgid "Qatar"
+msgstr "Catar"
+msgid "Reunion"
+msgstr "Reunião"
+msgid "Romania"
+msgstr "Roménia"
+msgid "Russia"
+msgstr "Rússia"
+msgid "Rwanda"
+msgstr "Ruanda"
+msgid "Saint Helena"
+msgstr "Santa Helena"
+msgid "Saint Kitts and Nevis"
+msgstr "São Cristóvão e Nevis"
+msgid "Saint Lucia"
+msgstr "Santa Lúcia"
+msgid "Saint Pierre and Miquelon"
+msgstr "São Pedro e Miquelon"
+msgid "Saint Vincent and the Grenadines"
+msgstr "São Vicente e Granadinas"
+msgid "Samoa"
+msgstr "Samoa"
+msgid "San Marino"
+msgstr "San Marino"
+msgid "Sao Tome and Principe"
+msgstr "São Tomé e Príncipe"
+msgid "Saudi Arabia"
+msgstr "Arábia Saudita"
+msgid "Senegal"
+msgstr "Senegal"
+msgid "Serbia and Montenegro"
+msgstr "Sérvia e Montenegro"
+msgid "Seychelles"
+msgstr "Seychelles"
+msgid "Sierra Leone"
+msgstr "Serra Leoa"
+msgid "Singapore"
+msgstr "Singapura"
+msgid "Slovakia"
+msgstr "Eslováquia"
+msgid "Slovenia"
+msgstr "Eslovénia"
+msgid "Solomon Islands"
+msgstr "Ilhas Salomão"
+msgid "Somalia"
+msgstr "Somália"
+msgid "South Africa"
+msgstr "África do Sul"
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Geórgia do Sul e Ilhas Sandwich do Sul"
+msgid "Spain"
+msgstr "Espanha"
+msgid "Spratly Islands"
+msgstr "Ilhas Spratly"
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+msgid "Sudan"
+msgstr "Sudão"
+msgid "Suriname"
+msgstr "Suriname"
+msgid "Svalbard"
+msgstr "Svalbard"
+msgid "Swaziland"
+msgstr "Suazilândia"
+msgid "Sweden"
+msgstr "Suécia"
+msgid "Switzerland"
+msgstr "Suíça"
+msgid "Syria"
+msgstr "Síria"
+msgid "Taiwan"
+msgstr "Taiwan"
+msgid "Tajikistan"
+msgstr "Tajiquistão"
+msgid "Tanzania"
+msgstr "Tanzânia"
+msgid "Thailand"
+msgstr "Tailândia"
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+msgid "Togo"
+msgstr "Togo"
+msgid "Tokelau"
+msgstr "Tokelau"
+msgid "Tonga"
+msgstr "Tonga"
+msgid "Trinidad and Tobago"
+msgstr "Trinidad e Tobago"
+msgid "Tromelin Island"
+msgstr "Ilha de Tromelin"
+msgid "Tunisia"
+msgstr "Tunísia"
+msgid "Turkey"
+msgstr "Turquia"
+msgid "Turkmenistan"
+msgstr "Turquemenistão"
+msgid "Turks and Caicos Islands"
+msgstr "Ilhas Turcas e Caicos"
+msgid "Tuvalu"
+msgstr "Tuvalu"
+msgid "Uganda"
+msgstr "Uganda"
+msgid "Ukraine"
+msgstr "Ucrânia"
+msgid "United Arab Emirates"
+msgstr "Emirados Árabes Unidos"
+msgid "United Kingdom"
+msgstr "Reino Unido"
+msgid "United States"
+msgstr "Estados Unidos"
+msgid "Uruguay"
+msgstr "Uruguai"
+msgid "Uzbekistan"
+msgstr "Uzbequistão"
+msgid "Vanuatu"
+msgstr "Vanuatu"
+msgid "Venezuela"
+msgstr "Venezuela"
+msgid "Vietnam"
+msgstr "Vietname"
+msgid "Virgin Islands"
+msgstr "Ilhas Virgens"
+msgid "Wake Island"
+msgstr "Wake Island"
+msgid "Wallis and Futuna"
+msgstr "Wallis e Futuna"
+msgid "West Bank"
+msgstr "Cisjordânia"
+msgid "Western Sahara"
+msgstr "Saara Ocidental"
+msgid "Yemen"
+msgstr "Iémen"
+msgid "Zambia"
+msgstr "Zâmbia"
+msgid "Zimbabwe"
+msgstr "Zimbábue"
+
+#######################################################################
+msgid "Languages"
+msgstr "Idiomas"
+
+msgid "Portuguese"
+msgstr "Português"
+
+#######################################################################
+msgid "Colors"
+msgstr "Cores"
+
+# en - hex color code:
+# pt - código hexadecimal da cor: #5d8aa8
+msgid "Air Force blue"
+msgstr "Azul da Força Aérea"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f0f8ff
+msgid "Alice blue"
+msgstr "Azul Alice"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e32636
+msgid "Alizarin crimson"
+msgstr "Carmesim Alizarin"
+# en - hex color code:
+# pt - código hexadecimal da cor: # #efdecd
+msgid "Almond"
+msgstr "Amêndoa"
+# en - hex color code:
+# en - hex color code:
+# pt - código hexadecimal da cor: # #e52b50
+msgid "Amaranth"
+msgstr "Amaranto"
+# en - hex color code:
+# en - hex color code:
+# pt - código hexadecimal da cor: # #ffbf00
+msgid "Amber"
+msgstr "Âmbar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff033e
+msgid "American rose"
+msgstr "Rosa americano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9966cc
+msgid "Amethyst"
+msgstr "Ametista"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a4c639
+msgid "Android Green"
+msgstr "Verde Android"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f2f3f4
+msgid "Anti-flash white"
+msgstr "Branco anti-flash"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cd9575
+msgid "Antique brass"
+msgstr "Bronze antigo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #915c83
+msgid "Antique fuchsia"
+msgstr "Fúcsia antigo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #faebd7
+msgid "Antique white"
+msgstr "Branco antigo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #008000
+msgid "Ao"
+msgstr "Ao"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8db600
+msgid "Apple green"
+msgstr "Maçã verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fbceb1
+msgid "Apricot"
+msgstr "Damasco"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ffff
+msgid "Aqua"
+msgstr "Aqua"
+# en - hex color code:
+# pt - código hexadecimal da cor: #7fffd4
+msgid "Aquamarine"
+msgstr "Aquamarine"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4b5320
+msgid "Army green"
+msgstr "Verde Exército"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e9d66b
+msgid "Arylide yellow"
+msgstr "Amarelo Arilide"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b2beb5
+msgid "Ash grey"
+msgstr "Cor de cinza"
+# en - hex color code:
+# pt - código hexadecimal da cor: #87a96b
+msgid "Asparagus"
+msgstr "Espargos"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff9966
+msgid "Atomic tangerine"
+msgstr "Tangerina atómica"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a52a2a
+msgid "Auburn"
+msgstr "Auburn"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fdee00
+msgid "Aureolin"
+msgstr "Aureolina"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6e7f80
+msgid "AuroMetalSaurus"
+msgstr "AuroMetalSaurus"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff2052
+msgid "Awesome"
+msgstr "Impressionante"
+# en - hex color code:
+# pt - código hexadecimal da cor: #007fff
+msgid "Azure"
+msgstr "Azure"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f0ffff
+msgid "Azure mist/web"
+msgstr "Névoa/Teia Azure"
+# en - hex color code:
+# pt - código hexadecimal da cor: #89cff0
+msgid "Baby blue"
+msgstr "Azul bebé"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a1caf1
+msgid "Baby blue eyes"
+msgstr "Olhos azul bebé"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f4c2c2
+msgid "Baby pink"
+msgstr "Rosa bebé"
+# en - hex color code:
+# pt - código hexadecimal da cor: #21abcd
+msgid "Ball Blue"
+msgstr "Azul bola"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fae7b5
+msgid "Banana Mania"
+msgstr "Mania da banana"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffe135
+msgid "Banana yellow"
+msgstr "Amarelo banana"
+# en - hex color code:
+# pt - código hexadecimal da cor: #848482
+msgid "Battleship grey"
+msgstr "Cinzento navio de guerra"
+# en - hex color code:
+# pt - código hexadecimal da cor: #98777b
+msgid "Bazaar"
+msgstr "Bazar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bcd4e6
+msgid "Beau blue"
+msgstr "Azul Beau"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9f8170
+msgid "Beaver"
+msgstr "Castor"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f5f5dc
+msgid "Beige"
+msgstr "Bege"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffe4c4
+msgid "Bisque"
+msgstr "Bisque"
+# en - hex color code:
+# pt - código hexadecimal da cor: #3d2b1f
+msgid "Bistre"
+msgstr "Bistre"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fe6f5e
+msgid "Bittersweet"
+msgstr "Agridoce"
+# en - hex color code:
+# pt - código hexadecimal da cor: #000000
+msgid "Black"
+msgstr "Preto"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffebcd
+msgid "Blanched Almond"
+msgstr "Amêndoa pálida"
+# en - hex color code:
+# pt - código hexadecimal da cor: #318ce7
+msgid "Bleu de France"
+msgstr "Bleu de France"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ace5ee
+msgid "Blizzard Blue"
+msgstr "Azul nevasca"
+# en - hex color code:
+# pt - código hexadecimal da cor: #faf0be
+msgid "Blond"
+msgstr "Loiro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0000ff
+msgid "Blue"
+msgstr "Azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a2a2d0
+msgid "Blue Bell"
+msgstr "Azul sino"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6699cc
+msgid "Blue Gray"
+msgstr "Cinzento azulado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0d98ba
+msgid "Blue green"
+msgstr "Verde azulado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8a2be2
+msgid "Blue purple"
+msgstr "Roxo azulado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8a2be2
+msgid "Blue violet"
+msgstr "Violeta azulado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #de5d83
+msgid "Blush"
+msgstr "Corado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #79443b
+msgid "Bole"
+msgstr "Argila"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0095b6
+msgid "Bondi blue"
+msgstr "Azul Bondi"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e3dac9
+msgid "Bone"
+msgstr "Osso"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc0000
+msgid "Boston University Red"
+msgstr "Vermemlho da Universidade de Boston"
+# en - hex color code:
+# pt - código hexadecimal da cor: #006a4e
+msgid "Bottle green"
+msgstr "Verde garrafa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #873260
+msgid "Boysenberry"
+msgstr "Boysenberry"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0070ff
+msgid "Brandeis blue"
+msgstr "Azul Brandeis"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b5a642
+msgid "Brass"
+msgstr "Latão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cb4154
+msgid "Brick red"
+msgstr "Cor de tijolo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1dacd6
+msgid "Bright cerulean"
+msgstr "Cerúlea brilhante"
+# en - hex color code:
+# pt - código hexadecimal da cor: #66ff00
+msgid "Bright green"
+msgstr "Verde claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bf94e4
+msgid "Bright lavender"
+msgstr "Lavanda claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c32148
+msgid "Bright maroon"
+msgstr "Castanho claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff007f
+msgid "Bright pink"
+msgstr "Rosa claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #08e8de
+msgid "Bright turquoise"
+msgstr "Turquesa claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d19fe8
+msgid "Bright ube"
+msgstr "Ube claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f4bbff
+msgid "Brilliant lavender"
+msgstr "Lavanda brilhante"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff55a3
+msgid "Brilliant rose"
+msgstr "Rosa brilhante"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fb607f
+msgid "Brink pink"
+msgstr "Rosa Brink"
+# en - hex color code:
+# pt - código hexadecimal da cor: #004225
+msgid "British racing green"
+msgstr "Verde Racing inglês"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cd7f32
+msgid "Bronze"
+msgstr "Bronze"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a52a2a
+msgid "Brown"
+msgstr "Castanho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffc1cc
+msgid "Bubble gum"
+msgstr "Chiclete"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e7feff
+msgid "Bubbles"
+msgstr "Bolhas"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f0dc82
+msgid "Buff"
+msgstr "Buff"
+# en - hex color code:
+# pt - código hexadecimal da cor: #480607
+msgid "Bulgarian rose"
+msgstr "Rosa búlgara"
+# en - hex color code:
+# pt - código hexadecimal da cor: #800020
+msgid "Burgundy"
+msgstr "Borgonha"
+# en - hex color code:
+# pt - código hexadecimal da cor: #deb887
+msgid "Burlywood"
+msgstr "Madeira robusta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc5500
+msgid "Burnt orange"
+msgstr "Laranja queimado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e97451
+msgid "Burnt sienna"
+msgstr "Sienna queimado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8a3324
+msgid "Burnt umber"
+msgstr "Umbra queimado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bd33a4
+msgid "Byzantine"
+msgstr "Bizantino"
+# en - hex color code:
+# pt - código hexadecimal da cor: #702963
+msgid "Byzantium"
+msgstr "Bizantino"
+# en - hex color code:
+# pt - código hexadecimal da cor: #007aa5
+msgid "CG Blue"
+msgstr "Azul CG"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e03c31
+msgid "CG Red"
+msgstr "Vermelho CG"
+# en - hex color code:
+# pt - código hexadecimal da cor: #536872
+msgid "Cadet"
+msgstr "Cadete"
+# en - hex color code:
+# pt - código hexadecimal da cor: #5f9ea0
+msgid "Cadet blue"
+msgstr "Azul cadete"
+# en - hex color code:
+# pt - código hexadecimal da cor: #91a3b0
+msgid "Cadet grey"
+msgstr "Cinzento cadete"
+# en - hex color code:
+# pt - código hexadecimal da cor: #006b3c
+msgid "Cadmium green"
+msgstr "Verde cádmio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ed872d
+msgid "Cadmium orange"
+msgstr "Laranja cádmio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e30022
+msgid "Cadmium red"
+msgstr "Vermelho cádmio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fff600
+msgid "Cadmium yellow"
+msgstr "Amarelo cádmio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a67b5b
+msgid "Café au lait"
+msgstr "Café com leite"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4b3621
+msgid "Café noir"
+msgstr "Café preto"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1e4d2b
+msgid "Cal Poly Pomona green"
+msgstr "Verde Cal Poly Pomona"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a3c1ad
+msgid "Cambridge Blue"
+msgstr "Azul Cambridge"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c19a6b
+msgid "Camel"
+msgstr "Camelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #78866b
+msgid "Camouflage green"
+msgstr "Camuflagem verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffff99
+msgid "Canary"
+msgstr "Canário"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffef00
+msgid "Canary yellow"
+msgstr "Amarelo canário"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff0800
+msgid "Candy apple red"
+msgstr "Vermelho Candy apple"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e4717a
+msgid "Candy pink"
+msgstr "Rosa Candy"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00bfff
+msgid "Capri"
+msgstr "Capri"
+# en - hex color code:
+# pt - código hexadecimal da cor: #592720
+msgid "Caput mortuum"
+msgstr "Caput mortuum"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c41e3a
+msgid "Cardinal"
+msgstr "Cardeal"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00cc99
+msgid "Caribbean green"
+msgstr "Verde do Caribe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff0040
+msgid "Carmine"
+msgstr "Carmim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #eb4c42
+msgid "Carmine pink"
+msgstr "Rosa carmim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff0038
+msgid "Carmine red"
+msgstr "Vermelho carmim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffa6c9
+msgid "Carnation pink"
+msgstr "Cravo rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b31b1b
+msgid "Carnelian"
+msgstr "Cornalina"
+# en - hex color code:
+# pt - código hexadecimal da cor: #99badd
+msgid "Carolina blue"
+msgstr "Azul Carolina"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ed9121
+msgid "Carrot orange"
+msgstr "Cor de cenoura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ace1af
+msgid "Celadon"
+msgstr "Celadon"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b2ffff
+msgid "Celeste"
+msgstr "Celeste"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4997d0
+msgid "Celestial blue"
+msgstr "Azul celestial"
+# en - hex color code:
+# pt - código hexadecimal da cor: #de3163
+msgid "Cerise"
+msgstr "Cor de cereja"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ec3b83
+msgid "Cerise pink"
+msgstr "Cor de cereja rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #007ba7
+msgid "Cerulean"
+msgstr "Ceruleano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #2a52be
+msgid "Cerulean blue"
+msgstr "Azul ceruleano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a0785a
+msgid "Chamoisee"
+msgstr "Chamoisee"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fad6a5
+msgid "Champagne"
+msgstr "Champanhe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #36454f
+msgid "Charcoal"
+msgstr "Carvão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #7fff00
+msgid "Chartreuse"
+msgstr "Chartreuse"
+# en - hex color code:
+# pt - código hexadecimal da cor: #de3163
+msgid "Cherry"
+msgstr "Cereja"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffb7c5
+msgid "Cherry blossom pink"
+msgstr "Flor de cerejeira rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cd5c5c
+msgid "Chestnut"
+msgstr "Castanha"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d2691e
+msgid "Chocolate"
+msgstr "Chocolate"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffa700
+msgid "Chrome yellow"
+msgstr "Amarelo crómio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #98817b
+msgid "Cinereous"
+msgstr "Cinereous"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e34234
+msgid "Cinnabar"
+msgstr "Cinabre"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d2691e
+msgid "Cinnamon"
+msgstr "Canela"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e4d00a
+msgid "Citrine"
+msgstr "Citrino"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fbcce7
+msgid "Classic rose"
+msgstr "Rosa clássica"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0047ab
+msgid "Cobalt"
+msgstr "Cobalto"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d2691e
+msgid "Cocoa brown"
+msgstr "Cacau castanho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6f4e37
+msgid "Coffee"
+msgstr "Café"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9bddff
+msgid "Columbia blue"
+msgstr "Azul Columbia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #002e63
+msgid "Cool black"
+msgstr "Preto fresco"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8c92ac
+msgid "Cool grey"
+msgstr "Cinzento fresco"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b87333
+msgid "Copper"
+msgstr "Cobre"
+# en - hex color code:
+# pt - código hexadecimal da cor: #996666
+msgid "Copper rose"
+msgstr "Rosa acobreado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff3800
+msgid "Coquelicot"
+msgstr "Coquelicot"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff7f50
+msgid "Coral"
+msgstr "Coral"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f88379
+msgid "Coral pink"
+msgstr "Coral rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff4040
+msgid "Coral red"
+msgstr "Coral vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #893f45
+msgid "Cordovan"
+msgstr "Cordovão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fbec5d
+msgid "Corn"
+msgstr "Milho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b31b1b
+msgid "Cornell Red"
+msgstr "Vermelho Cornell"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9aceeb
+msgid "Cornflower"
+msgstr "Centáurea-azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6495ed
+msgid "Cornflower blue"
+msgstr "Azul Cornflower"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fff8dc
+msgid "Cornsilk"
+msgstr "Cornsilk"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fff8e7
+msgid "Cosmic latte"
+msgstr "Latte cósmico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffbcd9
+msgid "Cotton candy"
+msgstr "Algodão doce"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fffdd0
+msgid "Cream"
+msgstr "Creme"
+# en - hex color code:
+# pt - código hexadecimal da cor: #dc143c
+msgid "Crimson"
+msgstr "Carmesim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #990000
+msgid "Crimson Red"
+msgstr "Vermelho carmesim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #be0032
+msgid "Crimson glory"
+msgstr "Glória carmesim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ffff
+msgid "Cyan"
+msgstr "Ciano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffff31
+msgid "Daffodil"
+msgstr "Daffodil"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f0e130
+msgid "Dandelion"
+msgstr "Dente-de-leão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00008b
+msgid "Dark blue"
+msgstr "Azul escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #654321
+msgid "Dark brown"
+msgstr "Castanho escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #5d3954
+msgid "Dark byzantium"
+msgstr "Byzantium escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a40000
+msgid "Dark candy apple red"
+msgstr "Vermelho maçã escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #08457e
+msgid "Dark cerulean"
+msgstr "Cerulean escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #986960
+msgid "Dark chestnut"
+msgstr "Castanha escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cd5b45
+msgid "Dark coral"
+msgstr "Coral escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #008b8b
+msgid "Dark cyan"
+msgstr "Ciano escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #536878
+msgid "Dark electric blue"
+msgstr "Azul eléctrico escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b8860b
+msgid "Dark goldenrod"
+msgstr "Goldenrod escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a9a9a9
+msgid "Dark gray"
+msgstr "Cinzento escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #013220
+msgid "Dark green"
+msgstr "Verde escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1a2421
+msgid "Dark jungle green"
+msgstr "Verde selva escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bdb76b
+msgid "Dark khaki"
+msgstr "Cáqui escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #483c32
+msgid "Dark lava"
+msgstr "Lava escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #734f96
+msgid "Dark lavender"
+msgstr "Lavanda escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8b008b
+msgid "Dark magenta"
+msgstr "Magenta escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #003366
+msgid "Dark midnight blue"
+msgstr "Azul escuro meia-noite"
+# en - hex color code:
+# pt - código hexadecimal da cor: #556b2f
+msgid "Dark olive green"
+msgstr "Verde-azeitona escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff8c00
+msgid "Dark orange"
+msgstr "Laranja escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9932cc
+msgid "Dark orchid"
+msgstr "Orquídea escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #779ecb
+msgid "Dark pastel blue"
+msgstr "Azul pastel escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #03c03c
+msgid "Dark pastel green"
+msgstr "Verde pastel escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #966fd6
+msgid "Dark pastel purple"
+msgstr "Roxo pastel escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c23b22
+msgid "Dark pastel red"
+msgstr "Vermelho pastel escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e75480
+msgid "Dark pink"
+msgstr "Rosa escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #003399
+msgid "Dark powder blue"
+msgstr "Azul pólvora escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #872657
+msgid "Dark raspberry"
+msgstr "Framboesa escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8b0000
+msgid "Dark red"
+msgstr "Vermelho escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e9967a
+msgid "Dark salmon"
+msgstr "Salmão escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #560319
+msgid "Dark scarlet"
+msgstr "Escarlate escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8fbc8f
+msgid "Dark sea green"
+msgstr "Verde mar escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #3c1414
+msgid "Dark sienna"
+msgstr "Siena escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #483d8b
+msgid "Dark slate blue"
+msgstr "Azul ardósia escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #2f4f4f
+msgid "Dark slate gray"
+msgstr "Dark ardósia cinza"
+# en - hex color code:
+# pt - código hexadecimal da cor: #177245
+msgid "Dark spring green"
+msgstr "Verde Primavera escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #918151
+msgid "Dark tan"
+msgstr "Bronzeado escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffa812
+msgid "Dark tangerine"
+msgstr "Tangerina escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #483c32
+msgid "Dark taupe"
+msgstr "Taupe escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc4e5c
+msgid "Dark terra cotta"
+msgstr "Terracota escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ced1
+msgid "Dark turquoise"
+msgstr "Turquesa escura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9400d3
+msgid "Dark violet"
+msgstr "Violeta escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00693e
+msgid "Dartmouth green"
+msgstr "Verde Dartmouth"
+# en - hex color code:
+# pt - código hexadecimal da cor: #555555
+msgid "Davy grey"
+msgstr "Cinzento Davy"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d70a53
+msgid "Debian red"
+msgstr "Vermelho Debian"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a9203e
+msgid "Deep carmine"
+msgstr "Carmin profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ef3038
+msgid "Deep carmine pink"
+msgstr "Rosa carmin profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e9692c
+msgid "Deep carrot orange"
+msgstr "Cor de cenoura profunda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #da3287
+msgid "Deep cerise"
+msgstr "Cereja profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fad6a5
+msgid "Deep champagne"
+msgstr "Champanhe profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b94e48
+msgid "Deep chestnut"
+msgstr "Castanha profunda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #704241
+msgid "Deep coffee"
+msgstr "Café profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c154c1
+msgid "Deep fuchsia"
+msgstr "Fúcsia profunda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #004b49
+msgid "Deep jungle green"
+msgstr "Verde selva profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9955bb
+msgid "Deep lilac"
+msgstr "Lilás profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc00cc
+msgid "Deep magenta"
+msgstr "Magenta profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffcba4
+msgid "Deep peach"
+msgstr "Pêssego profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff1493
+msgid "Deep pink"
+msgstr "Rosa profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff9933
+msgid "Deep saffron"
+msgstr "Açafrão profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00bfff
+msgid "Deep sky blue"
+msgstr "Azul céu profundo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1560bd
+msgid "Denim"
+msgstr "Denim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c19a6b
+msgid "Desert"
+msgstr "Deserto"
+# en - hex color code:
+# pt - código hexadecimal da cor: #edc9af
+msgid "Desert sand"
+msgstr "Areia do deserto"
+# en - hex color code:
+# pt - código hexadecimal da cor: #696969
+msgid "Dim gray"
+msgstr "Cinzento escuro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1e90ff
+msgid "Dodger blue"
+msgstr "Azul Dodger"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d71868
+msgid "Dogwood rose"
+msgstr "Rosa Dogwood"
+# en - hex color code:
+# pt - código hexadecimal da cor: #85bb65
+msgid "Dollar bill"
+msgstr "Nota de dólar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #967117
+msgid "Drab"
+msgstr "Castanho amarelado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00009c
+msgid "Duke blue"
+msgstr "Azul Duke"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e1a95f
+msgid "Earth yellow"
+msgstr "Terra amarela"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c2b280
+msgid "Ecru"
+msgstr "Ecru"
+# en - hex color code:
+# pt - código hexadecimal da cor: #614051
+msgid "Eggplant"
+msgstr "Berinjela"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f0ead6
+msgid "Eggshell"
+msgstr "Casca de ovo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1034a6
+msgid "Egyptian blue"
+msgstr "Azul egípcio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #7df9ff
+msgid "Electric blue"
+msgstr "Azul eléctrico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff003f
+msgid "Electric crimson"
+msgstr "Carmim eléctrico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ffff
+msgid "Electric cyan"
+msgstr "Ciano eléctrico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ff00
+msgid "Electric green"
+msgstr "Verde eléctrico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6f00ff
+msgid "Electric indigo"
+msgstr "Indigo eléctrico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f4bbff
+msgid "Electric lavender"
+msgstr "Lavanda eléctrica"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ccff00
+msgid "Electric lime"
+msgstr "Cal eléctrica"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bf00ff
+msgid "Electric purple"
+msgstr "Roxo eléctrico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #3f00ff
+msgid "Electric ultramarine"
+msgstr "Electric ultramarine"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8f00ff
+msgid "Electric violet"
+msgstr "Violeta eléctrica"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffff00
+msgid "Electric yellow"
+msgstr "Amarelo eléctrico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #50c878
+msgid "Emerald"
+msgstr "Esmeralda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #96c8a2
+msgid "Eton blue"
+msgstr "Eton azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c19a6b
+msgid "Fallow"
+msgstr "Fallow"
+# en - hex color code:
+# pt - código hexadecimal da cor: #801818
+msgid "Falu red"
+msgstr "Falu red"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff00ff
+msgid "Famous"
+msgstr "Famoso"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b53389
+msgid "Fandango"
+msgstr "Fandango"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f400a1
+msgid "Fashion fuchsia"
+msgstr "Moda fúcsia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e5aa70
+msgid "Fawn"
+msgstr "Fawn"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4d5d53
+msgid "Feldgrau"
+msgstr "Feldgrau"
+# en - hex color code:
+# pt - código hexadecimal da cor: #71bc78
+msgid "Fern"
+msgstr "Fern"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4f7942
+msgid "Fern green"
+msgstr "Fern verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff2800
+msgid "Ferrari Red"
+msgstr "Ferrari Red"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6c541e
+msgid "Field drab"
+msgstr "Campo monótono"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ce2029
+msgid "Fire engine red"
+msgstr "Motor de bombeiros vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b22222
+msgid "Firebrick"
+msgstr "Firebrick"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e25822
+msgid "Flame"
+msgstr "Chama"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fc8eac
+msgid "Flamingo pink"
+msgstr "Flamingo rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f7e98e
+msgid "Flavescent"
+msgstr "Flavescent"
+# en - hex color code:
+# pt - código hexadecimal da cor: #eedc82
+msgid "Flax"
+msgstr "Linho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fffaf0
+msgid "Floral white"
+msgstr "Branco floral"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffbf00
+msgid "Fluorescent orange"
+msgstr "Laranja fluorescente"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff1493
+msgid "Fluorescent pink"
+msgstr "Rosa fluorescente"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ccff00
+msgid "Fluorescent yellow"
+msgstr "Amarelo fluorescente"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff004f
+msgid "Folly"
+msgstr "Loucura"
+# en - hex color code:
+# pt - código hexadecimal da cor: #228b22
+msgid "Forest green"
+msgstr "verde floresta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a67b5b
+msgid "French beige"
+msgstr "Bege francês"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0072bb
+msgid "French blue"
+msgstr "Azul francês"
+# en - hex color code:
+# pt - código hexadecimal da cor: #86608e
+msgid "French lilac"
+msgstr "Lilás francês"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f64a8a
+msgid "French rose"
+msgstr "Rosa francês"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff00ff
+msgid "Fuchsia"
+msgstr "Fúcsia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff77ff
+msgid "Fuchsia pink"
+msgstr "Rosa fúcsia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e48400
+msgid "Fulvous"
+msgstr "Fulvous"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc6666
+msgid "Fuzzy Wuzzy"
+msgstr "Felpudo, macio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #dcdcdc
+msgid "Gainsboro"
+msgstr "Gainsboro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e49b0f
+msgid "Gamboge"
+msgstr "Gamboge"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f8f8ff
+msgid "Ghost white"
+msgstr "Branco fantasma"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b06500
+msgid "Ginger"
+msgstr "Gengibre"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6082b6
+msgid "Glaucous"
+msgstr "Glauco"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e6e8fa
+msgid "Glitter"
+msgstr "Glitter"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffd700
+msgid "Gold"
+msgstr "Ouro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #996515
+msgid "Golden brown"
+msgstr "marrom dourado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fcc200
+msgid "Golden poppy"
+msgstr "Papoula dourada"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffdf00
+msgid "Golden yellow"
+msgstr "amarelo dourado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #daa520
+msgid "Goldenrod"
+msgstr "Goldenrod"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a8e4a0
+msgid "Granny Smith Apple"
+msgstr "Maçã Granny Smith"
+# en - hex color code:
+# pt - código hexadecimal da cor: #808080
+msgid "Gray"
+msgstr "cinzento"
+# en - hex color code:
+# pt - código hexadecimal da cor: #465945
+msgid "Gray asparagus"
+msgstr "Espargos cinzentos"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ff00
+msgid "Green"
+msgstr "Verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1164b4
+msgid "Green Blue"
+msgstr "Azul esverdeado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #adff2f
+msgid "Green yellow"
+msgstr "Verde amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a99a86
+msgid "Grullo"
+msgstr "Grullo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ff7f
+msgid "Guppie green"
+msgstr "Guppie verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #663854
+msgid "Halayà úbe"
+msgstr "Halayà úbe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #446ccf
+msgid "Han blue"
+msgstr "Han azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #5218fa
+msgid "Han purple"
+msgstr "Han roxo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e9d66b
+msgid "Hansa yellow"
+msgstr "Hansa amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #3fff00
+msgid "Harlequin"
+msgstr "Arlequim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c90016
+msgid "Harvard crimson"
+msgstr "Harvard Crimson"
+# en - hex color code:
+# pt - código hexadecimal da cor: #da9100
+msgid "Harvest Gold"
+msgstr "Harvest Gold"
+# en - hex color code:
+# pt - código hexadecimal da cor: #808000
+msgid "Heart Gold"
+msgstr "Coração de ouro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #df73ff
+msgid "Heliotrope"
+msgstr "Heliotrópio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f400a1
+msgid "Hollywood cerise"
+msgstr "Hollywood Cerise"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f0fff0
+msgid "Honeydew"
+msgstr "Melada"
+# en - hex color code:
+# pt - código hexadecimal da cor: #49796b
+msgid "Hooker green"
+msgstr "Hooker verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff1dce
+msgid "Hot magenta"
+msgstr "Magenta quente"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff69b4
+msgid "Hot pink"
+msgstr "Rosa quente"
+# en - hex color code:
+# pt - código hexadecimal da cor: #355e3b
+msgid "Hunter green"
+msgstr "Hunter verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fcf75e
+msgid "Icterine"
+msgstr "Icterine"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b2ec5d
+msgid "Inchworm"
+msgstr "Inchworm"
+# en - hex color code:
+# pt - código hexadecimal da cor: #138808
+msgid "India green"
+msgstr "Verde da Índia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cd5c5c
+msgid "Indian red"
+msgstr "Vermelho indiano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e3a857
+msgid "Indian yellow"
+msgstr "Amarelo indiano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4b0082
+msgid "Indigo"
+msgstr "Índigo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #002fa7
+msgid "International Klein Blue"
+msgstr "International Klein Blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff4f00
+msgid "International orange"
+msgstr "Laranja internacional"
+# en - hex color code:
+# pt - código hexadecimal da cor: #5a4fcf
+msgid "Iris"
+msgstr "Íris"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f4f0ec
+msgid "Isabelline"
+msgstr "Isabelina"
+# en - hex color code:
+# pt - código hexadecimal da cor: #009000
+msgid "Islamic green"
+msgstr "Verde islâmico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fffff0
+msgid "Ivory"
+msgstr "Marfim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00a86b
+msgid "Jade"
+msgstr "Jade"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f8de7e
+msgid "Jasmine"
+msgstr "Jasmim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d73b3e
+msgid "Jasper"
+msgstr "Jaspe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a50b5e
+msgid "Jazzberry jam"
+msgstr "Merda Jazzberry"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fada5e
+msgid "Jonquil"
+msgstr "Jonquil"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bdda57
+msgid "June bud"
+msgstr "Bud de junho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #29ab87
+msgid "Jungle green"
+msgstr "Selva verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e8000d
+msgid "KU Crimson"
+msgstr "KU Crimson"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4cbb17
+msgid "Kelly green"
+msgstr "Kelly verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c3b091
+msgid "Khaki"
+msgstr "Khaki"
+# en - hex color code:
+# pt - código hexadecimal da cor: #087830
+msgid "La Salle Green"
+msgstr "La Salle Green"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d6cadd
+msgid "Languid lavender"
+msgstr "Lavanda Languid"
+# en - hex color code:
+# pt - código hexadecimal da cor: #26619c
+msgid "Lapis lazuli"
+msgstr "Lápis lazúli"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fefe22
+msgid "Laser Lemon"
+msgstr "Laser Lemon"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a9ba9d
+msgid "Laurel green"
+msgstr "Verde laurel"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cf1020
+msgid "Lava"
+msgstr "Lava"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e6e6fa
+msgid "Lavender"
+msgstr "Lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ccccff
+msgid "Lavender blue"
+msgstr "Azul lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fff0f5
+msgid "Lavender blush"
+msgstr "Lavender blush"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c4c3d0
+msgid "Lavender gray"
+msgstr "Cinza lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9457eb
+msgid "Lavender indigo"
+msgstr "Índigo de lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ee82ee
+msgid "Lavender magenta"
+msgstr "Magenta de lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e6e6fa
+msgid "Lavender mist"
+msgstr "Névoa lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fbaed2
+msgid "Lavender pink"
+msgstr "Rosa lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #967bb6
+msgid "Lavender purple"
+msgstr "Lavender purple"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fba0e3
+msgid "Lavender rose"
+msgstr "Lavender rose"
+# en - hex color code:
+# pt - código hexadecimal da cor: #7cfc00
+msgid "Lawn green"
+msgstr "Lawn green"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fff700
+msgid "Lemon"
+msgstr "Limão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fff44f
+msgid "Lemon Yellow"
+msgstr "Limão amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fffacd
+msgid "Lemon chiffon"
+msgstr "Chiffon de limão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bfff00
+msgid "Lemon lime"
+msgstr "Limão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f56991
+msgid "Light Crimson"
+msgstr "Light Crimson"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e68fac
+msgid "Light Thulian pink"
+msgstr "Light Thulian pink"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fdd5b1
+msgid "Light apricot"
+msgstr "Alperce claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #add8e6
+msgid "Light blue"
+msgstr "Azul claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b5651d
+msgid "Light brown"
+msgstr "Castanho claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e66771
+msgid "Light carmine pink"
+msgstr "Light carmine pink"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f08080
+msgid "Light coral"
+msgstr "Coral claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #93ccea
+msgid "Light cornflower blue"
+msgstr "Light cornflower blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e0ffff
+msgid "Light cyan"
+msgstr "Ciano claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f984ef
+msgid "Light fuchsia pink"
+msgstr "Rosa fúcsia leve"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fafad2
+msgid "Light goldenrod yellow"
+msgstr "Amarelo claro dourado amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d3d3d3
+msgid "Light gray"
+msgstr "Cinza claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #90ee90
+msgid "Light green"
+msgstr "Luz verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f0e68c
+msgid "Light khaki"
+msgstr "Light khaki"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b19cd9
+msgid "Light pastel purple"
+msgstr "Light pastel purple"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffb6c1
+msgid "Light pink"
+msgstr "Luz rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffa07a
+msgid "Light salmon"
+msgstr "Salmão claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff9999
+msgid "Light salmon pink"
+msgstr "Rosa salmão claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #20b2aa
+msgid "Light sea green"
+msgstr "Mar verde claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #87cefa
+msgid "Light sky blue"
+msgstr "Céu azul claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #778899
+msgid "Light slate gray"
+msgstr "Light ardósia cinza"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b38b6d
+msgid "Light taupe"
+msgstr "Taupe claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffffed
+msgid "Light yellow"
+msgstr "Luz amarela"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c8a2c8
+msgid "Lilac"
+msgstr "Lilás"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bfff00
+msgid "Lime"
+msgstr "Lima"
+# en - hex color code:
+# pt - código hexadecimal da cor: #32cd32
+msgid "Lime green"
+msgstr "Verde limão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #195905
+msgid "Lincoln green"
+msgstr "Lincoln verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #faf0e6
+msgid "Linen"
+msgstr "Linho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c19a6b
+msgid "Lion"
+msgstr "Leão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #534b4f
+msgid "Liver"
+msgstr "Fígado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e62020
+msgid "Lust"
+msgstr "Luxúria"
+# en - hex color code:
+# pt - código hexadecimal da cor: #18453b
+msgid "MSU Green"
+msgstr "MSU Green"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffbd88
+msgid "Macaroni and Cheese"
+msgstr "Macarrão com queijo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff00ff
+msgid "Magenta"
+msgstr "Magenta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #aaf0d1
+msgid "Magic mint"
+msgstr "Menta mágica"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f8f4ff
+msgid "Magnolia"
+msgstr "Magnólia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c04000
+msgid "Mahogany"
+msgstr "Mogno"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fbec5d
+msgid "Maize"
+msgstr "Milho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6050dc
+msgid "Majorelle Blue"
+msgstr "Majorelle Blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0bda51
+msgid "Malachite"
+msgstr "Malaquita"
+# en - hex color code:
+# pt - código hexadecimal da cor: #979aaa
+msgid "Manatee"
+msgstr "Manatee"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff8243
+msgid "Mango Tango"
+msgstr "Mango Tango"
+# en - hex color code:
+# pt - código hexadecimal da cor: #74c365
+msgid "Mantis"
+msgstr "louva a Deus"
+# en - hex color code:
+# pt - código hexadecimal da cor: #800000
+msgid "Maroon"
+msgstr "Maroon"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e0b0ff
+msgid "Mauve"
+msgstr "Malva"
+# en - hex color code:
+# pt - código hexadecimal da cor: #915f6d
+msgid "Mauve taupe"
+msgstr "Taupe malva"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ef98aa
+msgid "Mauvelous"
+msgstr "Mauvelous"
+# en - hex color code:
+# pt - código hexadecimal da cor: #73c2fb
+msgid "Maya blue"
+msgstr "Maya azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e5b73b
+msgid "Meat brown"
+msgstr "Carne marrom"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0067a5
+msgid "Medium Persian blue"
+msgstr "Médio azul persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #66ddaa
+msgid "Medium aquamarine"
+msgstr "Aquamarine média"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0000cd
+msgid "Medium blue"
+msgstr "Azul médio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e2062c
+msgid "Medium candy apple red"
+msgstr "Maçã de doce de maçã média"
+# en - hex color code:
+# pt - código hexadecimal da cor: #af4035
+msgid "Medium carmine"
+msgstr "Carmin médio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f3e5ab
+msgid "Medium champagne"
+msgstr "Champagne médio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #035096
+msgid "Medium electric blue"
+msgstr "Azul eléctrico médio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1c352d
+msgid "Medium jungle green"
+msgstr "Verde médio da selva"
+# en - hex color code:
+# pt - código hexadecimal da cor: #dda0dd
+msgid "Medium lavender magenta"
+msgstr "Magenta de lavanda média"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ba55d3
+msgid "Medium orchid"
+msgstr "Orquídea média"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9370db
+msgid "Medium purple"
+msgstr "Médio roxo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bb3385
+msgid "Medium red violet"
+msgstr "Médio violeta vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #3cb371
+msgid "Medium sea green"
+msgstr "Verde médio do mar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #7b68ee
+msgid "Medium slate blue"
+msgstr "Meio azul de ardósia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c9dc87
+msgid "Medium spring bud"
+msgstr "Mola de primavera média"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00fa9a
+msgid "Medium spring green"
+msgstr "Primavera média verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #674c47
+msgid "Medium taupe"
+msgstr "Taupe médio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0054b4
+msgid "Medium teal blue"
+msgstr "Metais azuis"
+# en - hex color code:
+# pt - código hexadecimal da cor: #48d1cc
+msgid "Medium turquoise"
+msgstr "Turquesa média"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c71585
+msgid "Medium violet red"
+msgstr "Vermelho violeta médio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fdbcb4
+msgid "Melon"
+msgstr "Melão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #191970
+msgid "Midnight blue"
+msgstr "Azul da meia noite"
+# en - hex color code:
+# pt - código hexadecimal da cor: #004953
+msgid "Midnight green"
+msgstr "Verde da meia-noite"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffc40c
+msgid "Mikado yellow"
+msgstr "Mikado amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #3eb489
+msgid "Mint"
+msgstr "hortelã"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f5fffa
+msgid "Mint cream"
+msgstr "Creme de mint"
+# en - hex color code:
+# pt - código hexadecimal da cor: #98ff98
+msgid "Mint green"
+msgstr "menta verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffe4e1
+msgid "Misty rose"
+msgstr "Misty rose"
+# en - hex color code:
+# pt - código hexadecimal da cor: #faebd7
+msgid "Moccasin"
+msgstr "Mocassim"
+# en - hex color code:
+# pt - código hexadecimal da cor: #967117
+msgid "Mode beige"
+msgstr "Modo bege"
+# en - hex color code:
+# pt - código hexadecimal da cor: #73a9c2
+msgid "Moonstone blue"
+msgstr "Blue Moonstone"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ae0c00
+msgid "Mordant red 19"
+msgstr "Mordant red 19"
+# en - hex color code:
+# pt - código hexadecimal da cor: #addfad
+msgid "Moss green"
+msgstr "musgo verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #30ba8f
+msgid "Mountain Meadow"
+msgstr "Mountain Meadow"
+# en - hex color code:
+# pt - código hexadecimal da cor: #997a8d
+msgid "Mountbatten pink"
+msgstr "Mountbatten pink"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c54b8c
+msgid "Mulberry"
+msgstr "Mulberry"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f2f3f4
+msgid "Munsell"
+msgstr "Munsell"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffdb58
+msgid "Mustard"
+msgstr "Mostarda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #21421e
+msgid "Myrtle"
+msgstr "Murta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f6adc6
+msgid "Nadeshiko pink"
+msgstr "Nadeshiko rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #2a8000
+msgid "Napier green"
+msgstr "Napier verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fada5e
+msgid "Naples yellow"
+msgstr "Nápoles amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffdead
+msgid "Navajo white"
+msgstr "Navajo branco"
+# en - hex color code:
+# pt - código hexadecimal da cor: #000080
+msgid "Navy blue"
+msgstr "azul marinho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffa343
+msgid "Neon Carrot"
+msgstr "Cenoura de néon"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fe59c2
+msgid "Neon fuchsia"
+msgstr "Fúcsia de néon"
+# en - hex color code:
+# pt - código hexadecimal da cor: #39ff14
+msgid "Neon green"
+msgstr "Verde neon"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a4dded
+msgid "Non-photo blue"
+msgstr "Não foto azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #059033
+msgid "North Texas Green"
+msgstr "North Texas Green"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0077be
+msgid "Ocean Boat Blue"
+msgstr "Ocean Boat Blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc7722
+msgid "Ochre"
+msgstr "Ocre"
+# en - hex color code:
+# pt - código hexadecimal da cor: #008000
+msgid "Office green"
+msgstr "Escritório verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cfb53b
+msgid "Old gold"
+msgstr "Ouro Velho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fdf5e6
+msgid "Old lace"
+msgstr "Laço velho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #796878
+msgid "Old lavender"
+msgstr "Lavanda antiga"
+# en - hex color code:
+# pt - código hexadecimal da cor: #673147
+msgid "Old mauve"
+msgstr "Malva velha"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c08081
+msgid "Old rose"
+msgstr "Velho rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #808000
+msgid "Olive"
+msgstr "Oliva"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6b8e23
+msgid "Olive Drab"
+msgstr "Olive Drab"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bab86c
+msgid "Olive Green"
+msgstr "Verde oliva"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9ab973
+msgid "Olivine"
+msgstr "Olivine"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0f0f0f
+msgid "Onyx"
+msgstr "Ônix"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b784a7
+msgid "Opera mauve"
+msgstr "Ópera malva"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffa500
+msgid "Orange"
+msgstr "laranja"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f8d568
+msgid "Orange Yellow"
+msgstr "Laranja amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff9f00
+msgid "Orange peel"
+msgstr "casca de laranja"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff4500
+msgid "Orange red"
+msgstr "Laranja vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #da70d6
+msgid "Orchid"
+msgstr "Orquídea"
+# en - hex color code:
+# pt - código hexadecimal da cor: #654321
+msgid "Otter brown"
+msgstr "Otter brown"
+# en - hex color code:
+# pt - código hexadecimal da cor: #414a4c
+msgid "Outer Space"
+msgstr "Espaço sideral"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff6e4a
+msgid "Outrageous Orange"
+msgstr "Outrageous Orange"
+# en - hex color code:
+# pt - código hexadecimal da cor: #002147
+msgid "Oxford Blue"
+msgstr "Oxford Blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1ca9c9
+msgid "Pacific Blue"
+msgstr "Pacific Blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #006600
+msgid "Pakistan green"
+msgstr "Paquistão verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #273be2
+msgid "Palatinate blue"
+msgstr "Palatinado azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #682860
+msgid "Palatinate purple"
+msgstr "Palatinado roxo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bcd4e6
+msgid "Pale aqua"
+msgstr "Pale aqua"
+# en - hex color code:
+# pt - código hexadecimal da cor: #afeeee
+msgid "Pale blue"
+msgstr "Azul pálido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #987654
+msgid "Pale brown"
+msgstr "Castanho claro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #af4035
+msgid "Pale carmine"
+msgstr "Carmine pálido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9bc4e2
+msgid "Pale cerulean"
+msgstr "Pale cerulean"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ddadaf
+msgid "Pale chestnut"
+msgstr "Castanha pálida"
+# en - hex color code:
+# pt - código hexadecimal da cor: #da8a67
+msgid "Pale copper"
+msgstr "Cobre pálido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #abcdef
+msgid "Pale cornflower blue"
+msgstr "Pale cornflower blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e6be8a
+msgid "Pale gold"
+msgstr "Pale gold"
+# en - hex color code:
+# pt - código hexadecimal da cor: #eee8aa
+msgid "Pale goldenrod"
+msgstr "Pura dourada"
+# en - hex color code:
+# pt - código hexadecimal da cor: #98fb98
+msgid "Pale green"
+msgstr "Verde pálido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #dcd0ff
+msgid "Pale lavender"
+msgstr "Pálido lavanda"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f984e5
+msgid "Pale magenta"
+msgstr "Pálido magenta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fadadd
+msgid "Pale pink"
+msgstr "Rosa pálido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #dda0dd
+msgid "Pale plum"
+msgstr "Ameixa palida"
+# en - hex color code:
+# pt - código hexadecimal da cor: #db7093
+msgid "Pale red violet"
+msgstr "Violeta vermelho pálido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #96ded1
+msgid "Pale robin egg blue"
+msgstr "Pale robin egg blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c9c0bb
+msgid "Pale silver"
+msgstr "Prata pálida"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ecebbd
+msgid "Pale spring bud"
+msgstr "Pale spring bud"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bc987e
+msgid "Pale taupe"
+msgstr "Pale taupe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #db7093
+msgid "Pale violet red"
+msgstr "Pálido violeta vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #78184a
+msgid "Pansy purple"
+msgstr "Pansy purple"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffefd5
+msgid "Papaya whip"
+msgstr "Chicote de papaia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #50c878
+msgid "Paris Green"
+msgstr "Paris Green"
+# en - hex color code:
+# pt - código hexadecimal da cor: #aec6cf
+msgid "Pastel blue"
+msgstr "Pastel azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #836953
+msgid "Pastel brown"
+msgstr "Pastel brown"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cfcfc4
+msgid "Pastel gray"
+msgstr "Cinza Pastel"
+# en - hex color code:
+# pt - código hexadecimal da cor: #77dd77
+msgid "Pastel green"
+msgstr "Pastel verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f49ac2
+msgid "Pastel magenta"
+msgstr "Pastel magenta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffb347
+msgid "Pastel orange"
+msgstr "Laranja Pastel"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffd1dc
+msgid "Pastel pink"
+msgstr "Pastel rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b39eb5
+msgid "Pastel purple"
+msgstr "Pastel roxo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff6961
+msgid "Pastel red"
+msgstr "Pastel vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cb99c9
+msgid "Pastel violet"
+msgstr "Pastel violeta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fdfd96
+msgid "Pastel yellow"
+msgstr "Amarelo em Pastel"
+# en - hex color code:
+# pt - código hexadecimal da cor: #800080
+msgid "Patriarch"
+msgstr "Patriarca"
+# en - hex color code:
+# pt - código hexadecimal da cor: #536878
+msgid "Payne grey"
+msgstr "Payne cinza"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffe5b4
+msgid "Peach"
+msgstr "pêssego"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffdab9
+msgid "Peach puff"
+msgstr "Puff de pêssego"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fadfad
+msgid "Peach yellow"
+msgstr "Amarelo de pêssego"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d1e231
+msgid "Pear"
+msgstr "Pera"
+# en - hex color code:
+# pt - código hexadecimal da cor: #eae0c8
+msgid "Pearl"
+msgstr "Pérola"
+# en - hex color code:
+# pt - código hexadecimal da cor: #88d8c0
+msgid "Pearl Aqua"
+msgstr "Pearl Aqua"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e6e200
+msgid "Peridot"
+msgstr "Peridoto"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ccccff
+msgid "Periwinkle"
+msgstr "Pervinca"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1c39bb
+msgid "Persian blue"
+msgstr "Azul persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #32127a
+msgid "Persian indigo"
+msgstr "Índigo persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d99058
+msgid "Persian orange"
+msgstr "Laranja persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f77fbe
+msgid "Persian pink"
+msgstr "Rosa persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #701c1c
+msgid "Persian plum"
+msgstr "Ameixa persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc3333
+msgid "Persian red"
+msgstr "Vermelho persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fe28a2
+msgid "Persian rose"
+msgstr "Rosa persa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #df00ff
+msgid "Phlox"
+msgstr "Phlox"
+# en - hex color code:
+# pt - código hexadecimal da cor: #000f89
+msgid "Phthalo blue"
+msgstr "Phthalo blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #123524
+msgid "Phthalo green"
+msgstr "Phthalo verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fddde6
+msgid "Piggy pink"
+msgstr "Piggy pink"
+# en - hex color code:
+# pt - código hexadecimal da cor: #01796f
+msgid "Pine green"
+msgstr "Pinho verde"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffc0cb
+msgid "Pink"
+msgstr "Rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fc74fd
+msgid "Pink Flamingo"
+msgstr "Pink Flamingo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f78fa7
+msgid "Pink Sherbet"
+msgstr "Sorvete cor-de-rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e7accf
+msgid "Pink pearl"
+msgstr "Pérola rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #93c572
+msgid "Pistachio"
+msgstr "Pistache"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e5e4e2
+msgid "Platinum"
+msgstr "Platina"
+# en - hex color code:
+# pt - código hexadecimal da cor: #dda0dd
+msgid "Plum"
+msgstr "ameixa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff5a36
+msgid "Portland Orange"
+msgstr "Portland Orange"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b0e0e6
+msgid "Powder blue"
+msgstr "Pó azul"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff8f00
+msgid "Princeton orange"
+msgstr "Laranja Princeton"
+# en - hex color code:
+# pt - código hexadecimal da cor: #003153
+msgid "Prussian blue"
+msgstr "Azul prussiano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #df00ff
+msgid "Psychedelic purple"
+msgstr "Púrpura psicodélico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cc8899
+msgid "Puce"
+msgstr "Puce"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff7518
+msgid "Pumpkin"
+msgstr "Abóbora"
+# en - hex color code:
+# pt - código hexadecimal da cor: #800080
+msgid "Purple"
+msgstr "Roxa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #69359c
+msgid "Purple Heart"
+msgstr "Coração roxo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9d81ba
+msgid "Purple Mountain's Majesty"
+msgstr "Majestade da Montanha Roxa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9678b6
+msgid "Purple mountain majesty"
+msgstr "Majestade da montanha roxa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fe4eda
+msgid "Purple pizzazz"
+msgstr "Pizzazz roxo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #50404d
+msgid "Purple taupe"
+msgstr "Taupe roxo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #5d8aa8
+msgid "Rackley"
+msgstr "Rackley"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff355e
+msgid "Radical Red"
+msgstr "Vermelho radical"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e30b5d
+msgid "Raspberry"
+msgstr "Framboesa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #915f6d
+msgid "Raspberry glace"
+msgstr "Glaseada de framboesa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e25098
+msgid "Raspberry pink"
+msgstr "Rosa de framboesa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b3446c
+msgid "Raspberry rose"
+msgstr "Rosa de framboesa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d68a59
+msgid "Raw Sienna"
+msgstr "Raw Sienna"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff33cc
+msgid "Razzle dazzle rose"
+msgstr "Razzle deslumbrou rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e3256b
+msgid "Razzmatazz"
+msgstr "Razzmatazz"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff0000
+msgid "Red"
+msgstr "Vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff5349
+msgid "Red Orange"
+msgstr "Laranja vermelha"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a52a2a
+msgid "Red brown"
+msgstr "Castanho vermelho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c71585
+msgid "Red violet"
+msgstr "Violeta vermelha"
+# en - hex color code:
+# pt - código hexadecimal da cor: #004040
+msgid "Rich black"
+msgstr "Rico preto"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d70040
+msgid "Rich carmine"
+msgstr "Carmin rico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0892d0
+msgid "Rich electric blue"
+msgstr "Azul eléctrico rico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b666d2
+msgid "Rich lilac"
+msgstr "Lilás rico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b03060
+msgid "Rich maroon"
+msgstr "Castanho rico"
+# en - hex color code:
+# pt - código hexadecimal da cor: #414833
+msgid "Rifle green"
+msgstr "Rifle green"
+# en - hex color code:
+# pt - código hexadecimal da cor: #1fcecb
+msgid "Robin's Egg Blue"
+msgstr "Robin's Egg Blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff007f
+msgid "Rose"
+msgstr "Rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f9429e
+msgid "Rose bonbon"
+msgstr "Bonbon rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #674846
+msgid "Rose ebony"
+msgstr "Ebony Rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b76e79
+msgid "Rose gold"
+msgstr "Rosa ouro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e32636
+msgid "Rose madder"
+msgstr "Rose Madder"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff66cc
+msgid "Rose pink"
+msgstr "Rosa rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #aa98a9
+msgid "Rose quartz"
+msgstr "Quartzo rosa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #905d5d
+msgid "Rose taupe"
+msgstr "Rose Taupe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ab4e52
+msgid "Rose vale"
+msgstr "Rose vale"
+# en - hex color code:
+# pt - código hexadecimal da cor: #65000b
+msgid "Rosewood"
+msgstr "Rosewood"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d40000
+msgid "Rosso corsa"
+msgstr "Rosso corsa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bc8f8f
+msgid "Rosy brown"
+msgstr "Rosy Brown"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0038a8
+msgid "Royal azure"
+msgstr "Royal Azure"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4169e1
+msgid "Royal blue"
+msgstr "Azul real"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ca2c92
+msgid "Royal fuchsia"
+msgstr "Fúcsia real"
+# en - hex color code:
+# pt - código hexadecimal da cor: #7851a9
+msgid "Royal purple"
+msgstr "Roxo real"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e0115f
+msgid "Ruby"
+msgstr "Rubi"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff0028
+msgid "Ruddy"
+msgstr "Ruddy"
+# en - hex color code:
+# pt - código hexadecimal da cor: #bb6528
+msgid "Ruddy brown"
+msgstr "Castanho ruivo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e18e96
+msgid "Ruddy pink"
+msgstr "Rosa ruivo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a81c07
+msgid "Rufous"
+msgstr "Rufous"
+# en - hex color code:
+# pt - código hexadecimal da cor: #80461b
+msgid "Russet"
+msgstr "Russet"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b7410e
+msgid "Rust"
+msgstr "Ferrugem"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00563f
+msgid "Sacramento State green"
+msgstr "Sacramento State green"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8b4513
+msgid "Saddle brown"
+msgstr "Sela marrom"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff6700
+msgid "Safety orange"
+msgstr "Segurança laranja"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f4c430
+msgid "Saffron"
+msgstr "Açafrão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #23297a
+msgid "Saint Patrick Blue"
+msgstr "Saint Patrick Blue"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff8c69
+msgid "Salmon"
+msgstr "Salmão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff91a4
+msgid "Salmon pink"
+msgstr "Rosa salmão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c2b280
+msgid "Sand"
+msgstr "Areia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #967117
+msgid "Sand dune"
+msgstr "Duna de areia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ecd540
+msgid "Sandstorm"
+msgstr "tempestade de areia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f4a460
+msgid "Sandy brown"
+msgstr "Castanho arenoso"
+# en - hex color code:
+# pt - código hexadecimal da cor: #967117
+msgid "Sandy taupe"
+msgstr "Taupe arenoso"
+# en - hex color code:
+# pt - código hexadecimal da cor: #507d2a
+msgid "Sap green"
+msgstr "Verde Sap"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0f52ba
+msgid "Sapphire"
+msgstr "Safira"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cba135
+msgid "Satin sheen gold"
+msgstr "Cetim dourado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff2400
+msgid "Scarlet"
+msgstr "Escarlate"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffd800
+msgid "School bus yellow"
+msgstr "Amarelo Schoolbus"
+# en - hex color code:
+# pt - código hexadecimal da cor: #76ff7a
+msgid "Screamin Green"
+msgstr "Verde berrante"
+# en - hex color code:
+# pt - código hexadecimal da cor: #006994
+msgid "Sea blue"
+msgstr "Azul mar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #2e8b57
+msgid "Sea green"
+msgstr "Verde mar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #321414
+msgid "Seal brown"
+msgstr "Castanho foca"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fff5ee
+msgid "Seashell"
+msgstr "Concha do mar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffba00
+msgid "Selective yellow"
+msgstr "Amarelo selectivo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #704214
+msgid "Sepia"
+msgstr "Sépia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8a795d
+msgid "Shadow"
+msgstr "Sombra"
+# en - hex color code:
+# pt - código hexadecimal da cor: #45cea2
+msgid "Shamrock"
+msgstr "Trevo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #009e60
+msgid "Shamrock green"
+msgstr "Verde trevo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fc0fc0
+msgid "Shocking pink"
+msgstr "Rosa choque"
+# en - hex color code:
+# pt - código hexadecimal da cor: #882d17
+msgid "Sienna"
+msgstr "Siena"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c0c0c0
+msgid "Silver"
+msgstr "Prata"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cb410b
+msgid "Sinopia"
+msgstr "Sinopia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #007474
+msgid "Skobeloff"
+msgstr "Skobeloff"
+# en - hex color code:
+# pt - código hexadecimal da cor: #87ceeb
+msgid "Sky blue"
+msgstr "Azul celeste"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cf71af
+msgid "Sky magenta"
+msgstr "Magenta celeste"
+# en - hex color code:
+# pt - código hexadecimal da cor: #6a5acd
+msgid "Slate blue"
+msgstr "Azul ardósia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #708090
+msgid "Slate gray"
+msgstr "Cinzento ardósia"
+# en - hex color code:
+# pt - código hexadecimal da cor: #003399
+msgid "Smalt"
+msgstr "Smalt"
+# en - hex color code:
+# pt - código hexadecimal da cor: #933d41
+msgid "Smokey topaz"
+msgstr "Topázio Smokey"
+# en - hex color code:
+# pt - código hexadecimal da cor: #100c08
+msgid "Smoky black"
+msgstr "Preto Smoky"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fffafa
+msgid "Snow"
+msgstr "Neve"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0fc0fc
+msgid "Spiro Disco Ball"
+msgstr "Spiro Disco Ball"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a7fc00
+msgid "Spring bud"
+msgstr "Primavera"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ff7f
+msgid "Spring green"
+msgstr "Verde Primavera"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4682b4
+msgid "Steel blue"
+msgstr "Azul aço"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fada5e
+msgid "Stil de grain yellow"
+msgstr "Amarelo grão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #990000
+msgid "Stizza"
+msgstr "Stizza"
+# en - hex color code:
+# pt - código hexadecimal da cor: #008080
+msgid "Stormcloud"
+msgstr "Nuvem de tempestade"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e4d96f
+msgid "Straw"
+msgstr "Palha"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffcc33
+msgid "Sunglow"
+msgstr "Brilho solar"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fad6a5
+msgid "Sunset"
+msgstr "Pôr do Sol"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fd5e53
+msgid "Sunset Orange"
+msgstr "Pôr do Sol laranja"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d2b48c
+msgid "Tan"
+msgstr "Bronzeado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f94d00
+msgid "Tangelo"
+msgstr "Tangelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f28500
+msgid "Tangerine"
+msgstr "Tangerina"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffcc00
+msgid "Tangerine yellow"
+msgstr "Tangerina amarela"
+# en - hex color code:
+# pt - código hexadecimal da cor: #483c32
+msgid "Taupe"
+msgstr "Taupe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8b8589
+msgid "Taupe gray"
+msgstr "Cinzento Taupe"
+# en - hex color code:
+# pt - código hexadecimal da cor: #cd5700
+msgid "Tawny"
+msgstr "Tawny"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d0f0c0
+msgid "Tea green"
+msgstr "Verde chá"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f4c2c2
+msgid "Tea rose"
+msgstr "Rosa chá"
+# en - hex color code:
+# pt - código hexadecimal da cor: #008080
+msgid "Teal"
+msgstr "Cerceta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #367588
+msgid "Teal blue"
+msgstr "Azul cerceta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #006d5b
+msgid "Teal green"
+msgstr "Verde cerceta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e2725b
+msgid "Terra cotta"
+msgstr "Terracota"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d8bfd8
+msgid "Thistle"
+msgstr "Cardo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #de6fa1
+msgid "Thulian pink"
+msgstr "Rosa Thulian"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fc89ac
+msgid "Tickle Me Pink"
+msgstr "Rosa Tickle Me"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0abab5
+msgid "Tiffany Blue"
+msgstr "Azul Tiffany"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e08d3c
+msgid "Tiger eye"
+msgstr "Olho de tigre"
+# en - hex color code:
+# pt - código hexadecimal da cor: #dbd7d2
+msgid "Timberwolf"
+msgstr "Lobo de madeira"
+# en - hex color code:
+# pt - código hexadecimal da cor: #eee600
+msgid "Titanium yellow"
+msgstr "Amarelo titânio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff6347
+msgid "Tomato"
+msgstr "Tomate"
+# en - hex color code:
+# pt - código hexadecimal da cor: #746cc0
+msgid "Toolbox"
+msgstr "Caixa de ferramentas"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffc87c
+msgid "Topaz"
+msgstr "Topázio"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fd0e35
+msgid "Tractor red"
+msgstr "Vermalho Tractor"
+# en - hex color code:
+# pt - código hexadecimal da cor: #808080
+msgid "Trolley Grey"
+msgstr "Cinzento Trolley"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00755e
+msgid "Tropical rain forest"
+msgstr "Floresta tropical"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0073cf
+msgid "True Blue"
+msgstr "Azul verdadeiro"
+# en - hex color code:
+# pt - código hexadecimal da cor: #417dc1
+msgid "Tufts Blue"
+msgstr "Azul Tufts"
+# en - hex color code:
+# pt - código hexadecimal da cor: #deaa88
+msgid "Tumbleweed"
+msgstr "Tumbleweed"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b57281
+msgid "Turkish rose"
+msgstr "Rosa turca"
+# en - hex color code:
+# pt - código hexadecimal da cor: #30d5c8
+msgid "Turquoise"
+msgstr "Turquesa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ffef
+msgid "Turquoise blue"
+msgstr "Azul turquesa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a0d6b4
+msgid "Turquoise green"
+msgstr "Verde turquesa"
+# en - hex color code:
+# pt - código hexadecimal da cor: #66424d
+msgid "Tuscan red"
+msgstr "Vermelho toscano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8a496b
+msgid "Twilight lavender"
+msgstr "Lavanda Crepúsculo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #66023c
+msgid "Tyrian purple"
+msgstr "Púrpura Tyrian"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0033aa
+msgid "UA blue"
+msgstr "Azul UA"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d9004c
+msgid "UA red"
+msgstr "Vermelho UA"
+# en - hex color code:
+# pt - código hexadecimal da cor: #536895
+msgid "UCLA Blue"
+msgstr "Azul UCLA"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffb300
+msgid "UCLA Gold"
+msgstr "Dourado UCLA"
+# en - hex color code:
+# pt - código hexadecimal da cor: #3cd070
+msgid "UFO Green"
+msgstr "Verde UFO"
+# en - hex color code:
+# pt - código hexadecimal da cor: #014421
+msgid "UP Forest green"
+msgstr "Verde floresta UP"
+# en - hex color code:
+# pt - código hexadecimal da cor: #7b1113
+msgid "UP Maroon"
+msgstr "Castanho UP"
+# en - hex color code:
+# pt - código hexadecimal da cor: #990000
+msgid "USC Cardinal"
+msgstr "USC Cardinal"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffcc00
+msgid "USC Gold"
+msgstr "Dourado USC"
+# en - hex color code:
+# pt - código hexadecimal da cor: #8878c3
+msgid "Ube"
+msgstr "Ube"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff6fff
+msgid "Ultra pink"
+msgstr "Rosa ultra"
+# en - hex color code:
+# pt - código hexadecimal da cor: #120a8f
+msgid "Ultramarine"
+msgstr "Ultramarino"
+# en - hex color code:
+# pt - código hexadecimal da cor: #4166f5
+msgid "Ultramarine blue"
+msgstr "Azul ultramarino"
+# en - hex color code:
+# pt - código hexadecimal da cor: #635147
+msgid "Umber"
+msgstr "Umber"
+# en - hex color code:
+# pt - código hexadecimal da cor: #5b92e5
+msgid "United Nations blue"
+msgstr "Azul Nações Unidas"
+# en - hex color code:
+# pt - código hexadecimal da cor: #b78727
+msgid "University of California Gold"
+msgstr "Dourado University of California"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffff66
+msgid "Unmellow Yellow"
+msgstr "Amarelo Unmellow"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ae2029
+msgid "Upsdell red"
+msgstr "Vermelho Upsdell"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e1ad21
+msgid "Urobilin"
+msgstr "Urobilin"
+# en - hex color code:
+# pt - código hexadecimal da cor: #d3003f
+msgid "Utah Crimson"
+msgstr "Carmim Utah"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f3e5ab
+msgid "Vanilla"
+msgstr "Baunilha"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c5b358
+msgid "Vegas gold"
+msgstr "Dourado Vegas"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c80815
+msgid "Venetian red"
+msgstr "Vermelho veneziano"
+# en - hex color code:
+# pt - código hexadecimal da cor: #43b3ae
+msgid "Verdigris"
+msgstr "Verdigris"
+# en - hex color code:
+# pt - código hexadecimal da cor: #e34234
+msgid "Vermilion"
+msgstr "Vermelhão"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a020f0
+msgid "Veronica"
+msgstr "Verónica"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ee82ee
+msgid "Violet"
+msgstr "Violeta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #324ab2
+msgid "Violet Blue"
+msgstr "Azul violeta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f75394
+msgid "Violet Red"
+msgstr "Vermelho violeta"
+# en - hex color code:
+# pt - código hexadecimal da cor: #40826d
+msgid "Viridian"
+msgstr "Viridian"
+# en - hex color code:
+# pt - código hexadecimal da cor: #922724
+msgid "Vivid auburn"
+msgstr "Castanho avermelhado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9f1d35
+msgid "Vivid burgundy"
+msgstr "Borgonha vívido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #da1d81
+msgid "Vivid cerise"
+msgstr "Cereja vívido"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffa089
+msgid "Vivid tangerine"
+msgstr "Tangerina vívida"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9f00ff
+msgid "Vivid violet"
+msgstr "Violeta vívida"
+# en - hex color code:
+# pt - código hexadecimal da cor: #004242
+msgid "Warm black"
+msgstr "Preto quente"
+# en - hex color code:
+# pt - código hexadecimal da cor: #00ffff
+msgid "Waterspout"
+msgstr "Waterspout"
+# en - hex color code:
+# pt - código hexadecimal da cor: #645452
+msgid "Wenge"
+msgstr "Wenge"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f5deb3
+msgid "Wheat"
+msgstr "Trigo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffffff
+msgid "White"
+msgstr "Branco"
+# en - hex color code:
+# pt - código hexadecimal da cor: #f5f5f5
+msgid "White smoke"
+msgstr "Fumo branco"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ff43a4
+msgid "Wild Strawberry"
+msgstr "Morango selvagem"
+# en - hex color code:
+# pt - código hexadecimal da cor: #fc6c85
+msgid "Wild Watermelon"
+msgstr "Melancia selvagem"
+# en - hex color code:
+# pt - código hexadecimal da cor: #a2add0
+msgid "Wild blue yonder"
+msgstr "Azul selvagem"
+# en - hex color code:
+# pt - código hexadecimal da cor: #722f37
+msgid "Wine"
+msgstr "Vinho"
+# en - hex color code:
+# pt - código hexadecimal da cor: #c9a0dc
+msgid "Wisteria"
+msgstr "Wisteria"
+# en - hex color code:
+# pt - código hexadecimal da cor: #738678
+msgid "Xanadu"
+msgstr "Xanadu"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0f4d92
+msgid "Yale Blue"
+msgstr "Azul Yale"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffff00
+msgid "Yellow"
+msgstr "Amarelo"
+# en - hex color code:
+# pt - código hexadecimal da cor: #ffae42
+msgid "Yellow Orange"
+msgstr "Amarelo alaranjado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #9acd32
+msgid "Yellow green"
+msgstr "Amarelo esverdeado"
+# en - hex color code:
+# pt - código hexadecimal da cor: #0014a8
+msgid "Zaffre"
+msgstr "Zaffre"
+# en - hex color code:
+# pt - código hexadecimal da cor: #2c1608
+msgid "Zinnwaldite brown"
+msgstr "Castanho Zinnwaldite"
+
+#######################################################################
+msgid "HARDWARE"
+msgstr "EQUIPAMENTO - secção destinada a equipamento físico, real, "
+"maquinaria, etc."
+
+# en -
+# pt -
+# Shortcut / Atalho: 
+msgid "Laptop"
+msgstr "Portátil"
+
+# en -
+# pt -
+# Shortcut / Atalho: 
+msgid "Desktop"
+msgstr "Computador"
+
+# en -
+# pt -
+# Shortcut / Atalho: 
+msgid "Mobile"
+msgstr "Telemóvel"
+
+# en -
+# pt -
+# Shortcut / Atalho: 
+msgid "Printer"
+msgstr "Impressora"
+
+# en -
+# pt -
+# Shortcut / Atalho: 
+msgid "Plotter"
+msgstr ""
+
+# en -
+# pt -
+# Shortcut / Atalho: 
+msgid "Webcam"
+msgstr "Câmara web"
+
+# en -
+# pt -
+# Shortcut / Atalho: 
+msgid "Headphones"
+msgstr "Auscultadores"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: 
+msgid "Speaker"
+msgstr "Coluna"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: 
+msgid "Keyboard"
+msgstr "Teclado"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: 
+msgid "Mouse"
+msgstr "Rato"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: 
+msgid "Screen"
+msgstr "Monitor"
+
+# en - Microphone, Mic
+# pt - Encontram-se abreviaturas. Se for o caso, pôr um ponto final
+# Shortcut / Atalho: 
+msgid "Microphone"
+msgstr "Microfone"
+
+# en - 
+# pt - 
+# Shortcut / Atalho: 
+msgid "Scanner"
+msgstr "Digitalizador"
+
+#######################################################################
+msgid "PROGRAMMING OBJECTS - section for terms used in computer "
+"programs, like checkbox, dropdown, scrollbar, etc."
+msgstr "OBJECTOS DE PROGRAMAÇÃO - secção destinada a termos usados em "
+"programação, tais como objectos de programação (botões, listas, "
+"barras, etc.)"
+
+msgid "Button"
+msgstr "Botão"
+
+msgid "Checkbox"
+msgstr "Caixa de marcação"
+
+msgid "Dropdown List"
+msgstr "Lista pendente"
+
+#######################################################################
+msgid "List of words sorted alphabetically"
+msgstr "Lista de palavras ordenadas alfabeticamente"
+
+# en - LETTER A
+# pt - LETRA A
+msgid "Portuguese words starting with the letter A"
+msgstr "Palavras portuguesas começadas com a letra A"
+
+msgid "Loading"
+msgstr "A carregar"
+
+msgid "Creating"
+msgstr "A criar"
+
+msgid "Editing"
+msgstr "A editar"
+
+msgid "Formatting"
+msgstr "A formatar"
+
+msgid "Saving"
+msgstr "A gravar"
+
+msgid "Printing"
+msgstr "A imprimir"
+
+msgid "Beginning"
+msgstr "A iniciar, Início"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "april"
+msgstr "Abril"
+
+msgid "Action"
+msgstr "Acção"
+
+msgid "Accept"
+msgstr "Aceitar"
+
+msgid "OK"
+msgstr "Aceitar"
+
+# Eventualmente, alterar para _Sobre
+msgid "About"
+msgstr "Acerca"
+
+msgid "Access"
+msgstr "Acesso"
+
+msgid "Agreement"
+msgstr "Acordo"
+
+msgid "Enable"
+msgstr "Activar"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Updated"
+msgstr "Actualizado"
+
+msgid "Added"
+msgstr "Adicionado"
+
+msgid "Additional"
+msgstr "Adicional"
+
+msgid "Add"
+msgstr "Adicione, Adicionar"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+# en - 
+# pt - normalmente aplicado em programas de desenho, melhorar a 
+# definição
+msgid "Sharpen"
+msgstr "Afiar, Focar"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "august"
+msgstr "Agosto"
+
+msgid "Help"
+msgstr "Ajuda"
+
+# en - 
+# pt - vê-se muito em diálogos de dimensionamento de imagens
+msgid "Fit"
+msgstr "Ajustar"
+
+msgid "Adjust"
+msgstr "Ajustar"
+
+msgid "Align"
+msgstr "Alinhar"
+
+msgid "Alignment"
+msgstr "Alinhamento"
+
+msgid "Lighten"
+msgstr "Aliviar, Clarear"
+
+msgid "Changed"
+msgstr "Alterado"
+
+msgid "Change"
+msgstr "Altere, Alterar"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Environment"
+msgstr "Ambiente"
+
+# en - 
+# pt - ambiente de utilização, de troca de informação, de comunicação
+# embora a palavra exista no dicionário, raras vezes é necessária.
+msgid "Interface"
+msgstr "Ambiente"
+
+msgid "Sample"
+msgstr "Amostra"
+
+msgid "Zoom"
+msgstr "Ampliação"
+
+msgid "Zoom in"
+msgstr "Ampliar"
+
+msgid "Anchor"
+msgstr "Âncora"
+
+msgid "Dock, Dockable"
+msgstr "Ancorar, Ancorável"
+
+# Tem sido traduzido como "Máquina", mas não transmite a ideia correcta
+# Hospedeiro é outra hipótese, mais comprida
+msgid "Host"
+msgstr "Anfitrião"
+
+msgid "Angle"
+msgstr "Ângulo"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Preview"
+msgstr "Antevisão"
+
+msgid "Erase"
+msgstr "Apague, Apagar"
+
+msgid "Shear"
+msgstr "Aparar"
+
+msgid "Flatten"
+msgstr "Aplanar"
+
+msgid "Applied"
+msgstr "Aplicado"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Presentation"
+msgstr "Apresentação"
+
+msgid "Arabic"
+msgstr "Arábico"
+
+msgid "Clipboard"
+msgstr "Área de transferência"
+
+msgid "Argument"
+msgstr "Argumento"
+
+msgid "Stored"
+msgstr "Armazenado"
+
+msgid "Store"
+msgstr "Armazenar"
+
+msgid "Drag"
+msgstr "Arrastar"
+
+msgid "Rounded"
+msgstr "Arredondado"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid "Asian"
+msgstr "Asiático"
+
+msgid "Signed"
+msgstr "Assinado"
+
+msgid "Signature"
+msgstr "Assinatura"
+
+msgid "Wizard"
+msgstr "Assistente"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "Assigned"
+msgstr "Atribuído"
+
+msgid "Assign"
+msgstr "Atribuir"
+
+msgid "Attribute"
+msgstr "Atributo"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "Automatically"
+msgstr "Automaticamente"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Forward"
+msgstr "Avançar, Encaminhar"
+
+msgid "Warning"
+msgstr "Aviso"
+
+# en - LETTER B
+# pt - LETRA B
+msgid "Portuguese words starting with the letter B"
+msgstr "Palavras portuguesas começadas com a letra B"
+
+# en - 
+# pt - normalmente é um "balão" com dicas, menus contextuais, etc.
+msgid "Pop-up Window"
+msgstr "Balão"
+
+msgid "Bar"
+msgstr "Barra"
+
+msgid "Base"
+msgstr "Base"
+
+msgid "Database"
+msgstr "Base de dados"
+
+msgid "Basic"
+msgstr "Básico, Basic (linguagem de programação)"
+
+msgid "Library"
+msgstr "Biblioteca"
+
+msgid "Locked"
+msgstr "Bloqueado"
+
+msgid "Block/Unblock"
+msgstr "Bloquear/Desbloquear"
+
+# en - use to avoid genders
+# pt - usar "Boas vindas" para fugir aos masculinos/femininos
+msgid "Welcome"
+msgstr "Boas vindas"
+
+# en - 
+# pt - NÃO traduzir por "Booleano"
+msgid "Boolean"
+msgstr "Booliano"
+
+msgid "Cap"
+msgstr "Boné, Barrete, Topo"
+
+# en - LETTER C
+# pt - LETRA C
+msgid "Portuguese words starting with the letter C"
+msgstr "Palavras portuguesas começadas com a letra C"
+
+msgid "Header"
+msgstr "Cabeçalho"
+
+# en - 
+# pt - não traduzir por expressão, que implica um resultado.
+# Pode ser um tipo de variável de programação.
+msgid "String"
+msgstr "Cadeia"
+
+msgid "Calculate"
+msgstr "Calcular"
+
+msgid "Calculation"
+msgstr "Cálculo"
+
+msgid "Calculus"
+msgstr "Cálculo"
+
+msgid "Box"
+msgstr "Caixa"
+
+# en - usually refers to computer paths
+# pt - habitualmente refere-se a caminhos dentro de computadores
+msgid "Path"
+msgstr "Caminho"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Bevel"
+msgstr "Chanfro"
+
+msgid "Chapter"
+msgstr "Capítulo"
+
+# Normalmente é usado em expressóes como "Snap to grid",
+# Capturar na grelha, fixar na grelha, ou semelhante
+msgid "Snap"
+msgstr "Capturar, Fixar"
+
+msgid "Character"
+msgstr "Carácter"
+
+msgid "Loaded"
+msgstr "Carregado"
+
+msgid "Load"
+msgstr "Carregar"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Cell"
+msgstr "Célula"
+
+msgid "Center"
+msgstr "Centre, Centrar, Centro"
+
+msgid "Centered"
+msgstr "Centrado"
+
+# en - 
+# pt - "Preenchido" será o mais adequado mas pode não caber"
+msgid "Filled"
+msgstr "Cheio, Preenchido"
+
+msgid "Chinese"
+msgstr "Chinês"
+
+msgid "Top"
+msgstr "Cimo, Topo"
+
+msgid "Circle"
+msgstr "Círculo"
+
+msgid "Class"
+msgstr "Classe"
+
+msgid "Click"
+msgstr "Clique, Clicar"
+
+msgid "Right Click"
+msgstr "Clique direito"
+
+msgid "Left Click"
+msgstr "Clique esquerdo"
+
+# en -
+# pt - Palavra com vários significados mas que pode significar
+#      genericamente cobrir, abranger, etc.
+msgid "Span"
+msgstr "Cobre, Abrange,"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Paste"
+msgstr "Colar"
+
+msgid "Column"
+msgstr "Coluna"
+
+msgid "Command"
+msgstr "Comando"
+
+msgid "Combine"
+msgstr "Combinar"
+
+msgid "Begin"
+msgstr "Começar"
+
+msgid "Comment"
+msgstr "Comentário"
+
+msgid "match"
+msgstr "comparar"
+
+msgid "entire"
+msgstr "completo"
+
+msgid "Complex"
+msgstr "Complexo"
+
+msgid "Component"
+msgstr "Componente"
+
+msgid "Successfully"
+msgstr "Com sucesso"
+
+msgid "Completed"
+msgstr "Concluído"
+
+# en - 
+# pt - para além do tamanho da palavra, refere-se normalmente a
+# concluir automaticamente cadeias, palavras em dicionários, etc.
+msgid "Completion"
+msgstr "Conclusão"
+
+msgid "Condition"
+msgstr "Condição"
+
+msgid "Conditional"
+msgstr "Condicional"
+
+msgid "Configuration"
+msgstr "Configuração"
+
+msgid "Setup"
+msgstr "Configuração"
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Connector"
+msgstr "Conector"
+
+msgid "Account"
+msgstr "Conta"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Contour"
+msgstr "Contorno"
+
+msgid "Contrast"
+msgstr "Contraste"
+
+msgid "Driver"
+msgstr "Controlador"
+
+msgid "Conversion"
+msgstr "Conversão"
+
+# en - 
+# pt - pode ter vários significados. Consulta aplica-se mais a bases
+# de dados
+msgid "Query"
+msgstr "Consulta"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Continue"
+msgstr "Continue, Continuar"
+
+# en -
+# pt - A alternativa "Borda" é bastante feia, embora mais curta
+msgid "Border"
+msgstr "Contorno"
+
+msgid "Control"
+msgstr "Controlo"
+
+msgid "Convert"
+msgstr "Converter"
+
+msgid "Converted"
+msgstr "Convertido"
+
+msgid "Copy"
+msgstr "Copie, Copiar"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Font color"
+msgstr "Cor da letra"
+
+msgid "Background color"
+msgstr "Cor de fundo"
+
+msgid "AutoCorrect"
+msgstr "Correcção automática"
+
+msgid "Mail"
+msgstr "Correio"
+
+# en - 
+# pt - é sinónimo de "Corrompido" e mais curto
+msgid "Corrupt"
+msgstr "Corrupto"
+
+msgid "Create"
+msgstr "Crie, Criar"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "Criteria"
+msgstr "Critério"
+
+msgid "Screen (SVG)"
+msgstr "Crivar"
+
+msgid "Timeline"
+msgstr "Cronologia"
+
+# Este termo é usado em programas de comunicação na rede.
+# Não é o aperto de mão tradicional
+msgid "Handshake"
+msgstr "Cumprimento"
+
+msgid "Cursor"
+msgstr "Cursor"
+
+msgid "Short"
+msgstr "Curto"
+
+msgid "Curve"
+msgstr "Curva"
+
+# en - LETTER D
+# pt - LETRA D
+msgid "Portuguese words starting with the letter D"
+msgstr "Palavras portuguesas começadas com a letra D"
+
+msgid "Data"
+msgstr "Dados"
+
+msgid "Date"
+msgstr "Data"
+
+# en - 
+# pt - não traduzir: https://pt.wikipedia.org/wiki/Dynamic_Data_Exchange
+msgid "DDE"
+msgstr "DDE"
+
+msgid "Decimal"
+msgstr "Decimal"
+
+msgid "Statement"
+msgstr "Declaração"
+
+msgid "Setting"
+msgstr "Definição"
+
+msgid "Defined"
+msgstr "Definido"
+
+msgid "Define"
+msgstr "Definir"
+
+msgid "Leave"
+msgstr "Deixar"
+
+msgid "Inside"
+msgstr "Dentro"
+
+msgid "Within"
+msgstr "Dentro"
+
+msgid "Debug"
+msgstr "Depurar, Depuração"
+
+msgid "Disabled"
+msgstr "Desactivado"
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "Descending"
+msgstr "Descendente"
+
+msgid "Unknown"
+msgstr "Desconhecido"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Desired"
+msgstr "Desejado"
+
+# Pode ser traduzido como "Entregar", como a forma como uma dada imagem 
+# é entregue no ecrã
+msgid "Render"
+msgstr "Desenhar, Entregar"
+
+msgid "Draw"
+msgstr "Desenhar"
+
+# en - 
+# pt - a palavra também existe em português
+msgid "Design"
+msgstr "Desenho"
+
+msgid "Drawing"
+msgstr "Desenho, A desenhar"
+
+msgid "Undo"
+msgstr "Desfazer"
+
+msgid "Blur"
+msgstr "Desfocar"
+
+msgid "Destination"
+msgstr "Destino"
+
+msgid "Target"
+msgstr "Destino, Alvo"
+
+msgid "Fade"
+msgstr "Desvanecer"
+
+msgid "Offset"
+msgstr "Desvio"
+
+msgid "Detailed"
+msgstr "Detalhado"
+
+msgid "Detail"
+msgstr "Detalhe"
+
+msgid "Determined"
+msgstr "Determinado"
+
+msgid "Due"
+msgstr "Devido"
+
+# en - can be a MacOS key on the keyboard
+# pt - além destas pode ser:
+# uma tecla num teclado MacOS
+# uma palavra-chave em linguagens de programação
+msgid "Return"
+msgstr "Devolver, Retornar, Voltar a"
+
+msgid "December"
+msgstr "Dezembro"
+
+msgid "Day"
+msgstr "Dia"
+
+msgid "Diagonal"
+msgstr "Diagonal"
+
+msgid "Slideshow"
+msgstr "Diaporama"
+
+msgid "Slide"
+msgstr "Diapositivo"
+
+msgid "Dialog"
+msgstr "Diálogo"
+
+# Pode ser "Explorar". Exemplo: "Scan mailbox" -> Explorar caixa de correio
+msgid "Scan"
+msgstr "Digitalizar"
+
+msgid "Dimension"
+msgstr "Dimensão"
+
+msgid "Direction"
+msgstr "Direcção"
+
+msgid "Rights"
+msgstr "Direitos"
+
+msgid "Disk"
+msgstr "Disco"
+
+# Normalmente refere-se a discussões em listas de correio ou assuntos 
+# em repositórios. Pode ter outros significados.
+msgid "Thread"
+msgstr "Discussão"
+
+msgid "Arrange"
+msgstr "Dispor"
+
+msgid "Layout"
+msgstr "Disposição, Esquema"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Warp"
+msgstr "Distorcer"
+
+msgid "Distribution"
+msgstr "Distribuição"
+
+msgid "Distro"
+msgstr "Distribuição"
+
+msgid "Split"
+msgstr "Dividir"
+
+msgid "HTML document"
+msgstr "Documento HTML"
+
+msgid "Master document"
+msgstr "Documento mestre"
+
+msgid "Text document"
+msgstr "Documento de texto"
+
+msgid "Duplicate"
+msgstr "Duplicado"
+
+msgid "Double"
+msgstr "Duplo"
+
+# en - LETTER E
+# pt - LETRA E
+msgid "Portuguese words starting with the letter E"
+msgstr "Palavras portuguesas começadas com a letra E"
+
+msgid "screen"
+msgstr "Ecrã, Monitor"
+
+# Usar sempre "Ecrã completo" em vez de "Ecrã inteiro" ou outras alternativas
+msgid "Full Screen"
+msgstr "Ecrã completo"
+
+msgid "Edit"
+msgstr "Edite, Editar"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Effect"
+msgstr "Efeito"
+
+# e.g. significa "exempli gratia", ou seja, "por exemplo"
+msgid "E.g."
+msgstr "E.g."
+
+msgid "Axis"
+msgstr "Eixo"
+
+msgid "Deletion"
+msgstr "Eliminação"
+
+msgid "Element"
+msgstr "Elemento"
+
+# en - 
+# pt - Eliminar para "Delete", Apagar para "Erase" e Limpar para "Clean"
+msgid "Delete"
+msgstr "Elimine, Eliminar"
+
+msgid "Deleted"
+msgstr "Eliminado"
+
+msgid "Blank"
+msgstr "Em branco"
+
+msgid "Emboss"
+msgstr "Embutido"
+
+msgid "Running"
+msgstr "Em execução"
+
+msgid "Missing"
+msgstr "Em falta"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "e-mail"
+msgstr "email"
+
+msgid "Shrink"
+msgstr "Encolher"
+
+msgid "Found"
+msgstr "Encontrado"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "Entry"
+msgstr "Entrada, Elemento de tabela"
+
+msgid "Entries"
+msgstr "Entradas"
+
+msgid "Input"
+msgstr "Entrada"
+
+msgid "Envelope"
+msgstr "Envelope"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Upload"
+msgstr "Enviar"
+
+msgid "Wrong"
+msgstr "Errado"
+
+msgid "Error: "
+msgstr "Erro: "
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Feather"
+msgstr "Esbater"
+
+msgid "Scale"
+msgstr "Escala"
+
+# en - 
+# pt num caso extremo de falta de espaço poderá ser só "Cinzentos"
+msgid "Grayscale"
+msgstr "Escala de cinzentos, Tons de cinzento"
+
+msgid "Choose"
+msgstr "Escolha, Escolher"
+
+msgid "Write"
+msgstr "Escrever"
+
+msgid "Writer"
+msgstr "Escritor"
+
+msgid "Office"
+msgstr "Escritório"
+
+msgid "Spacing"
+msgstr "Espaçamento"
+
+msgid "Space"
+msgstr "Espaço"
+
+# en - 
+# pt - refere-se ao preenchimento do espaço entre um contorno e o
+# conteúdo. Usei "Espaço" só para diferenciar de espaçamento.
+msgid "Padding"
+msgstr "Espaço"
+
+msgid "Line spacing"
+msgstr "Espaçamento entre linhas"
+
+msgid "Special"
+msgstr "Especial"
+
+msgid "Mirroring"
+msgstr "Espelhação"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Established"
+msgstr "Estabelecido"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "character style"
+msgstr "Estilo de carácter"
+
+msgid "Page style"
+msgstr "Estilo de página"
+
+# en -
+# pt - Depende do contexto
+msgid "Label"
+msgstr "Etiqueta, Rótulo"
+
+msgid "Event"
+msgstr "Evento"
+
+msgid "Executed"
+msgstr "Executado"
+
+msgid "Run"
+msgstr "Executar"
+
+msgid "Execute"
+msgstr "Executar"
+
+
+msgid "Exist"
+msgstr "Existe"
+
+msgid "Existing"
+msgstr "Existente"
+
+msgid "Exists"
+msgstr "Existe"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Expression"
+msgstr "Expressão"
+
+msgid "Expunge"
+msgstr "Expurgar"
+
+msgid "Outer"
+msgstr "Exterior"
+
+msgid "Extension"
+msgstr "Extensão"
+
+msgid "External"
+msgstr "Externo"
+
+# en - LETTER F
+# pt - LETRA F
+msgid "Portuguese words starting with the letter F"
+msgstr "Palavras portuguesas começadas com a letra F"
+
+msgid "Failed"
+msgstr "Falha"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Closed"
+msgstr "Fechado"
+
+msgid "Close"
+msgstr "Feche, Fechar"
+
+msgid "Tool"
+msgstr "Ferramenta"
+
+msgid "February"
+msgstr "Fevereiro"
+
+msgid "february"
+msgstr "Fevereiro"
+
+msgid "Fixed"
+msgstr "Fixo"
+
+msgid "Flow"
+msgstr "Fluxo"
+
+
+msgid "Text flow"
+msgstr "Fluxo de texto"
+
+msgid "Sheet"
+msgstr "Folha"
+
+msgid "Spreadsheet"
+msgstr "Folha de cálculo"
+
+# en - as 'source code' or 'genealogical source'
+# pt - como em "código-fonte" ou "fonte de informação".
+# Também pode ser "Origem"
+# Não confundir com "Font", que significa "Letra" ou "Tipo de letra"
+msgid "Source"
+msgstr "Fonte"
+
+# "Feed" aqui refere-se a "RSS feed", fonte de notícias. Poderia ser
+# simplesmente RSS
+msgid "News Feed"
+msgstr "Fonte"
+
+msgid "Data source"
+msgstr "Fonte de dados"
+
+# en - 
+# pt - sem tradução: https://en.wikipedia.org/w/index.php?title=FontWork&redirect=no
+msgid "Fontwork"
+msgstr "Fontwork"
+
+msgid "Morph"
+msgstr "Formar"
+
+msgid "Formatted"
+msgstr "Formatado"
+
+msgid "Form"
+msgstr "Formulário, Forma"
+
+msgid "Shape"
+msgstr "Forma"
+
+msgid "Format"
+msgstr "Formate, Formatar"
+
+msgid "File format"
+msgstr "Formato de ficheiro"
+
+msgid "Formula"
+msgstr "Fórmula"
+
+msgid "Front"
+msgstr "Frente"
+
+msgid "Function"
+msgstr "Função"
+
+msgid "Feature"
+msgstr "Funcionalidade"
+
+msgid "Functionality"
+msgstr "Funcionalidade"
+
+msgid "Background"
+msgstr "Fundo, 2º plano"
+
+# en - LETTER G
+# pt - LETRA G
+msgid "Portuguese words starting with the letter G"
+msgstr "Palavras portuguesas começadas com a letra G"
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Manager"
+msgstr "Gestor"
+
+# en - 
+# pt - NÃO traduzir por gradiente. Não se aplica à generalidade das
+# formas em que a palavra é usada, tal como o aspecto do ecrã.
+msgid "Gradient"
+msgstr "Gradação"
+
+msgid "Grid"
+msgstr "Grelha"
+
+msgid "Graphic"
+msgstr "Gráfico"
+
+# en - can refer to a map or a analisys chart
+# pt - pode referir-se a um gráfico ou a um mapa
+msgid "Chart"
+msgstr "Gráfico (de barras, etc), Mapa"
+
+# en - Save Data, Store clothing, Save lives
+# pt - Gravar dados, Guardar roupa, Salvar vidas
+msgid "Save"
+msgstr "Grave, Gravar"
+
+msgid "Saved"
+msgstr "Gravado"
+
+msgid "Guide"
+msgstr "Guia"
+
+# en - LETTER H
+# pt - LETRA H
+msgid "Portuguese words starting with the letter H"
+msgstr "Palavras portuguesas começadas com a letra H"
+
+# en - 
+# pt - pode-se usar "Hifenação"
+msgid "Hyphenation"
+msgstr "Hifenização"
+
+msgid "Hyperlink"
+msgstr "Hiperligação"
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Horizontally"
+msgstr "Horizontalmente"
+
+msgid "HTML"
+msgstr "HTML"
+
+# en - LETTER I
+# pt - LETRA I
+msgid "Portuguese words starting with the letter I"
+msgstr "Palavras portuguesas começadas com a letra I"
+
+msgid "Icon"
+msgstr "Ícone"
+
+msgid "Language"
+msgstr "Idioma, Língua, Linguagem de programação"
+
+msgid "Equal"
+msgstr "Igual"
+
+msgid "Ignore"
+msgstr "Ignorar"
+
+msgid "Skip, skipped"
+msgstr "Ignorar, ignorado"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Picture"
+msgstr "Imagem"
+
+msgid "Unable"
+msgstr "Impossível"
+
+msgid "Cannot"
+msgstr "Impossível"
+
+msgid "Could not"
+msgstr "Impossível"
+
+msgid "Couldn't"
+msgstr "Impossível"
+
+msgid "Unnable to"
+msgstr "Impossível"
+
+msgid "Printed"
+msgstr "Imprimido"
+
+msgid "Imported"
+msgstr "Importado"
+
+msgid "Import"
+msgstr "Importe, Importar"
+
+# Tem sido traduzido por tempo de espera, tempo esgotado, etc.
+msgid "Timeout"
+msgstr "Inacção"
+
+msgid "Incorrect"
+msgstr "Incorrecto"
+
+msgid "Indent"
+msgstr "Indentar"
+
+msgid "Index"
+msgstr "Índice"
+
+msgid "Table of contents"
+msgstr "Índice"
+
+msgid "Individual"
+msgstr "Indivíduo, Individual"
+
+msgid "Lower"
+msgstr "Inferior"
+
+msgid "Information"
+msgstr "Informação"
+
+msgid "Unexpected"
+msgstr "Inesperado"
+
+msgid "Started"
+msgstr "Iniciado"
+
+msgid "Initial"
+msgstr "Inicial"
+
+msgid "Start"
+msgstr "Iniciar, Início"
+
+# en - command to input something
+# pt - comando para inserir dados ou informação
+msgid "Enter"
+msgstr "Inserir, Insira"
+
+msgid "Entered"
+msgstr "Inserido"
+
+msgid "Inserted"
+msgstr "Inserido"
+
+msgid "Insert"
+msgstr "Inserir"
+
+msgid "Installation"
+msgstr "Instalação"
+
+msgid "Installed"
+msgstr "Instalado"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Internal"
+msgstr "Interno"
+
+msgid "Range"
+msgstr "Intervalo"
+
+msgid "Interval"
+msgstr "Intervalo"
+
+msgid "Invalid"
+msgstr "Inválido"
+
+msgid "Flip"
+msgstr "Inverter"
+
+msgid "Italic"
+msgstr "Itálico"
+
+msgid "Item"
+msgstr "Item"
+
+# en - LETTER J
+# pt - LETRA J
+msgid "Portuguese words starting with the letter J"
+msgstr "Palavras portuguesas começadas com a letra J"
+
+msgid "January"
+msgstr "Janeiro"
+
+msgid "january"
+msgstr "Janeiro"
+
+msgid "Window"
+msgstr "Janela"
+
+msgid "Java"
+msgstr "Java"
+
+msgid "java"
+msgstr "Java"
+
+msgid "June"
+msgstr "Junho"
+
+msgid "june"
+msgstr "Junho"
+
+msgid "July"
+msgstr "Julho"
+
+msgid "july"
+msgstr "Julho"
+
+msgid "Join"
+msgstr "Juntar"
+
+msgid "Justified"
+msgstr "Justificado"
+
+# en - LETTER L
+# pt - LETRA L
+msgid "Portuguese words starting with the letter L"
+msgstr "Palavras portuguesas começadas com a letra L"
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "Drop"
+msgstr "Largar"
+
+msgid "Caption"
+msgstr "Legenda"
+
+msgid "Reminder"
+msgstr "Lembrete"
+
+# en - 
+# pt - também se aplica a leitura de ficheiros
+msgid "Read"
+msgstr "Ler"
+
+# en - 
+# pt - NÃO TRADUZIR por "Fonte"
+msgid "Font"
+msgstr "Letra"
+
+# en - 
+# pt - carta pode ser um tipo de papel ou uma missiva real a alguém
+msgid "Letter"
+msgstr "Letra, Carta"
+
+# en - 
+# pt - e.g. azul claro
+msgid "Light"
+msgstr "Leve, Luz, Claro"
+
+
+# en - 
+# pt - habitualmente traduzido como "Dicionário de sinónimos", 
+# normalmente visto em menus, onde o tamanho não é prejudicial
+msgid "Thesaurus"
+msgstr "Léxico"
+
+msgid "License"
+msgstr "Licença"
+
+# en - Like in "Internet connection"
+# pt - como em "Ligação à Internet"
+msgid "Connection"
+msgstr "Ligação"
+
+# en - Like in "Link a picture to a contact"
+# pt - como em "Ligar uma imagem a um contacto"
+msgid "Link"
+msgstr "Ligação"
+
+# en - 
+# pt - ligação fixa, persistente entre ficheiros
+msgid "Hard Link"
+msgstr "Ligação fixa"
+
+# en - 
+# pt - ligação simbólica, volátil entre ficheiros, 
+# só funciona em memória, desfaz-se ao encerrar o sistema
+msgid "Symbolic Link, SymLink"
+msgstr "Ligação simbólica"
+
+msgid "Linked"
+msgstr "Ligado"
+
+msgid "Connect"
+msgstr "Ligar"
+
+msgid "Clean"
+msgstr "Limpar"
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "Linear"
+msgstr "Linear"
+
+msgid "Line"
+msgstr "Linha"
+
+msgid "Row"
+msgstr "Linha"
+
+# en - May be a command or a noun
+# pt - Pode ser um comando (Listar) ou um substantivo (Lista)
+msgid "List"
+msgstr "Lista"
+
+msgid "Smooth"
+msgstr "Liso"
+
+msgid "Book"
+msgstr "Livro"
+
+msgid "Address book"
+msgstr "Livro de endereços"
+
+msgid "Local"
+msgstr "Local"
+
+msgid "Location"
+msgstr "Localização"
+
+# en - LETTER M
+# pt - LETRA M
+msgid "Portuguese words starting with the letter M"
+msgstr "Palavras portuguesas começadas com a letra M"
+
+# en - 
+# pt - micro-programa de computador
+msgid "Macro"
+msgstr "Macro"
+
+msgid "May"
+msgstr "Maio"
+
+msgid "may"
+msgstr "Maio"
+
+msgid "Slur"
+msgstr "Manchar"
+
+msgid "Smear"
+msgstr "Manchar"
+
+msgid "Smudge"
+msgstr "Manchar"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "Bitmap"
+msgstr "Mapa de bits"
+
+msgid "Bullet"
+msgstr "Marca"
+
+msgid "Mark"
+msgstr "Marca, Marcar"
+
+msgid "Check "
+msgstr "Marcar, Verificar"
+
+# en - 
+# pt - normalmente será marcador. Pode ser "Favorito" num navegador web
+msgid "Bookmark"
+msgstr "Marcador, Favorito"
+
+msgid "Placeholder"
+msgstr "Marcador de posição, Variável"
+
+msgid "March"
+msgstr "Março"
+
+msgid "Edge"
+msgstr "Margem"
+
+msgid "Margin"
+msgstr "Margem"
+
+msgid "Hue"
+msgstr "Matiz"
+
+msgid "Array"
+msgstr "Matriz"
+
+msgid "Maximum"
+msgstr "Máximo"
+
+msgid "Max"
+msgstr "Máximo"
+
+
+msgid "Medium"
+msgstr "Média"
+
+msgid "Middle"
+msgstr "Meio"
+
+# en - 
+# pt - pode ser "Nota" em caso de necessidade de espaço
+msgid "Memo"
+msgstr "Memorando, Nota"
+
+msgid "Memory"
+msgstr "Memória"#
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Month"
+msgstr "Mês"
+
+msgid "Months"
+msgstr "Meses"
+
+msgid "Master"
+msgstr "Mestre"
+
+
+msgid "Method"
+msgstr "Método"
+
+msgid "Thumbnails"
+msgstr "Miniaturas"
+
+# en - can be minimum or minute
+# pt - pode ser mínimo ou minuto. Minuto é abreviado como "m"
+msgid "Min"
+msgstr "Mín., Mínimo"
+
+msgid "Minimum"
+msgstr "Mínimo"
+
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+msgid "Minute"
+msgstr "Minuto"
+
+msgid "Blend"
+msgstr "Misturar"
+
+msgid "Template"
+msgstr "Modelo"
+
+msgid "Modify"
+msgstr "Modifique, Modificar"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Currency"
+msgstr "Moeda"
+
+# en -
+# pt - em imagens habitualmente refere-se a repetir a imagem em todo
+# o ecrã. Em janelas, significa dispô-las em cascada, pilha desalinhada
+msgid "Tile"
+msgstr "Mosaico"
+
+msgid "Shown"
+msgstr "Mostrado"
+
+msgid "Reason"
+msgstr "Motivo, Razão"
+
+msgid "Move"
+msgstr "Mova, Mover"
+
+# en - can be a math function
+# pt - pode ser uma função matemática
+msgid "Mode"
+msgstr "Modo"
+
+msgid "Module"
+msgstr "Módulo"
+
+# en - 
+# pt - as conotações são muitas, há que adaptar ao âmbito em que se insere
+msgid "Frame"
+msgstr "Moldura"
+
+# en - 
+# pt - Preferível a "Apresentar" por ser mais curta.
+msgid "Display"
+msgstr "Mostrar, Exibir"
+
+msgid "Displayed"
+msgstr "Mostrado"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Multiple"
+msgstr "Múltiplo"
+
+# en - LETTER N
+# pt - LETRA N
+msgid "Portuguese words starting with the letter N"
+msgstr "Palavras portuguesas começadas com a letra N"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Unsupported"
+msgstr "Não suportado"
+
+msgid "Navigation"
+msgstr "Navegação"
+
+msgid "Browser"
+msgstr "Navegador, Explorador"
+
+msgid "Navigator"
+msgstr "Navegador"
+
+msgid "Browse"
+msgstr "Navegar, Explorar"
+
+msgid "Bold"
+msgstr "Negrito"
+
+msgid "Business"
+msgstr "Negócio"
+
+msgid "Level"
+msgstr "Nível"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Named"
+msgstr "Nomeado, Chamado, Designado"
+
+msgid "Names"
+msgstr "Nomes"
+
+msgid "Standard"
+msgstr "Norma, Padrão, Standard"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Ordinary"
+msgstr "Normal"
+
+msgid "Regular"
+msgstr "Normal"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Footnote"
+msgstr "Nota de rodapé"
+
+msgid "November"
+msgstr "Novembro"
+
+msgid "november"
+msgstr "Novembro"
+
+msgid "Numbering"
+msgstr "Numeração"
+
+# en - LETTER O
+# pt - LETRA O
+msgid "Portuguese words starting with the letter O"
+msgstr "Palavras portuguesas começadas com a letra O"
+
+msgid "Object"
+msgstr "Objecto"
+
+msgid "OLE objects"
+msgstr "Objectos OLE"
+
+msgid "Occurred"
+msgstr "Ocorreu"
+
+msgid "Error occurred"
+msgstr "Ocorreu um erro"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Hidden"
+msgstr "Oculto"
+
+msgid "ODF"
+msgstr "ODF"
+
+# en - 
+# pt - refere-se a "Object Linking and Embedding" - NÂO TRADUZIR
+msgid "OLE"
+msgstr "OLE"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Option"
+msgstr "Opção"
+
+msgid "Optional"
+msgstr "Opcional"
+
+# en - 
+# pt - formato do documento, NÃO TRADUZIR
+msgid "OpenDocument"
+msgstr "OpenDocument"
+
+msgid "Operation"
+msgstr "Operação"
+
+msgid "Optimal"
+msgstr "Óptimo"
+
+msgid "Sorting"
+msgstr "Ordem, A ordenar"
+
+msgid "Sort"
+msgstr "Ordenar"
+
+# en - 
+# pt - preferi "Ordem" por ser mais curta do que "Ordenação"
+msgid "Sort Order"
+msgstr "Ordem"
+
+msgid "Orientation"
+msgstr "Orientação"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Spellcheck"
+msgstr "Ortografia"
+
+msgid "Spelling"
+msgstr "Ortografia"
+
+msgid "October"
+msgstr "Outubro"
+
+# en - LETTER P
+# pt - LETRA P
+msgid "Portuguese words starting with the letter P"
+msgstr "Palavras portuguesas começadas com a letra P"
+
+msgid "Package"
+msgstr "Pacote"
+
+# en - 
+# pt - "Textura" aplica-se mais a programas de desenho.
+msgid "Pattern"
+msgstr "Padrão, Textura"
+
+msgid "Page"
+msgstr "Página"
+
+# en -
+# pt - entendo como site se houver mais de uma página derivada da 
+# inicial
+msgid "Site"
+msgstr "Página, Site"
+
+# en - can be a variable type, do not translate
+# pt - pode ser um tipo de variável numérica, caso em que não deve ser
+# traduzida
+msgid "Word"
+msgstr "Palavra"
+
+msgid "Paper"
+msgstr "Papel"
+
+msgid "Paragraph"
+msgstr "Parágrafo"
+
+msgid "Parameter"
+msgstr "Parâmetro"
+
+msgid "Stop"
+msgstr "Parar"
+
+msgid "Shared"
+msgstr "Partilhado"
+
+msgid "Step"
+msgstr "Passo"
+
+# en - could be 'Directório' but this word is much smaller
+# podia ser "Directório" mas esta palavra é muito mais curta
+msgid "Directory"
+msgstr "Pasta"
+
+msgid "Folder"
+msgstr "Pasta"
+
+msgid "Lost"
+msgstr "Perdido"
+
+msgid "Period"
+msgstr "Período"
+
+msgid "Allowed"
+msgstr "Permitido"
+
+msgid "Custom"
+msgstr "Personalizado"
+
+msgid "Customize"
+msgstr "Personalizar"
+
+msgid "Personal"
+msgstr "Pessoal"
+
+
+msgid "Pointer"
+msgstr "Ponteiro"
+
+msgid "Dithering"
+msgstr "Pontilhado"
+
+# en - in some cases can be replaced by literal and quoted "."
+# pt - em casos extremos pode ser substítuído pela expressão literal 
+# entre aspas "." 
+msgid "Dot"
+msgstr "Ponto"
+
+msgid "Position"
+msgstr "Posição"
+
+msgid "Sharpness"
+msgstr "Precisão"
+
+# en - 
+# pt - Pode ser "Omissão" mas não reflecte bem a ideia. Omissão é um
+# valor em falta, predefinição é um valor já definido.
+msgid "Default"
+msgstr "Predefinição"
+
+msgid "Fill"
+msgstr "Preencher"
+
+msgid "Press"
+msgstr "Premir, Prima"
+
+msgid "Primary"
+msgstr "Primário"
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "Privilege"
+msgstr "Privilégio"
+
+msgid "Parse"
+msgstr "Processar"
+
+msgid "Process"
+msgstr "Processo"
+
+msgid "Check (for updates)"
+msgstr "Procurar (actualizações)"
+
+# en - 
+# pt - para distinção com "Find - Localizar". Lembrar sempre que quem
+# busca são os cães
+msgid "Search"
+msgstr "Procurar"
+
+msgid "Seek"
+msgstr "Procurar (por)(ir para)"
+
+msgid "Product"
+msgstr "Produto"
+
+msgid "Application"
+msgstr "Programa, Aplicação"
+
+msgid "Software"
+msgstr "Programa, Aplicação"
+
+msgid "Progress"
+msgstr "Progresso"
+
+msgid "Aspect Ratio"
+msgstr "Proporção"
+
+msgid "Property"
+msgstr "Propriedade"
+
+msgid "Proceed"
+msgstr "Prosseguir"
+
+msgid "Protect"
+msgstr "Proteger"
+
+msgid "Protection"
+msgstr "Protecção"
+
+msgid "Protected"
+msgstr "Protegido"
+
+# en - LETTER Q
+# pt - LETRA Q
+msgid "Portuguese words starting with the letter Q"
+msgstr "Palavras portuguesas começadas com a letra Q"
+
+msgid "Quality"
+msgstr "Qualidade"
+
+msgid "Square"
+msgstr "Quadrado"
+
+msgid "Amount"
+msgstr "Quantidade"
+
+msgid "Break"
+msgstr "Quebra"
+
+# en - wrap lines
+# pt - quebrar linhas
+msgid "Wrap"
+msgstr "Quebrar"
+
+# en - LETTER R
+# pt - LETRA R
+msgid "Portuguese words starting with the letter R"
+msgstr "Palavras portuguesas começadas com a letra R"
+
+msgid "Root"
+msgstr "Raiz"
+
+msgid "Strikethrough"
+msgstr "Rasurado"
+
+msgid "Outline"
+msgstr "Realce, Contorno, Perfil, Resumo, Esboço"
+
+msgid "Perform"
+msgstr "Realizar"
+
+msgid "Back"
+msgstr "Recuar"
+
+msgid "Backward"
+msgstr "Recuar"
+
+msgid "Network"
+msgstr "Rede"
+
+msgid "Resize"
+msgstr "Redimensionar"
+
+msgid "Round"
+msgstr "Redondo"
+
+msgid "Zoom out"
+msgstr "Reduzir"
+
+msgid "Reference"
+msgstr "Referência"
+
+msgid "Record"
+msgstr "Registo"
+
+
+msgid "Ruler"
+msgstr "Régua"
+
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgid "Relative"
+msgstr "Relativo"
+
+msgid "Report"
+msgstr "Relatório"
+
+msgid "Repeat"
+msgstr "Repita, Repetir"
+
+
+msgid "Swirl"
+msgstr "Remoinho"
+
+msgid "Whirl"
+msgstr "Remoinho"
+
+msgid "Removed"
+msgstr "Removido"
+
+msgid "Remove"
+msgstr "Remova, Remover"
+
+msgid "Rename"
+msgstr "Renomear"
+
+# en - Would be best to use 'Try again'
+# pt - "Tentar de novo" era melhor mas é muito mais comprido
+msgid "Retry"
+msgstr "Repetir"
+
+msgid "Reset"
+msgstr "Repor"
+
+msgid "Resolution"
+msgstr "Resolução"
+
+
+msgid "Restore"
+msgstr "Restaurar"
+
+msgid "Summary"
+msgstr "Resumo"
+
+msgid "Resume"
+msgstr "Retomar"
+
+msgid "Reverse"
+msgstr "Reverso"
+
+msgid "Scroll"
+msgstr "Rolar"
+
+msgid "Footer"
+msgstr "Rodapé"
+
+msgid "Rotation"
+msgstr "Rotação"
+
+# en - LETTER S
+# pt - LETRA S
+msgid "Portuguese words starting with the letter S"
+msgstr "Palavras portuguesas começadas com a letra S"
+
+msgid "Output"
+msgstr "Saída"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "Quit"
+msgstr "_Sair"
+
+# en - 
+# pt - se referente a scripts de linguagem de programação não deve ser 
+# traduzido
+msgid "script"
+msgstr "Script, Escrito, Rabisco, Nota"
+
+msgid "Section"
+msgstr "Secção"
+
+msgid "Next"
+msgstr "Seguinte"
+
+msgid "Security"
+msgstr "Segurança"
+
+msgid "Separator"
+msgstr "Separador"
+
+msgid "Selection"
+msgstr "Selecção"
+
+msgid "Selected"
+msgstr "Seleccionado"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+# en - 
+# pt - habitualmente NÃO é plural
+msgid "Series"
+msgstr "Série"
+
+msgid "Service"
+msgstr "Serviço"
+
+msgid "Server"
+msgstr "Servidor"
+
+# en - 
+# pt - "Senha" é sempre preferível a "Palavra-passe" por ser mais curta
+msgid "Password"
+msgstr "Senha"
+
+msgid "Arrow"
+msgstr "Seta"
+
+msgid "September"
+msgstr "Setembro"
+
+msgid "september"
+msgstr "Setembro"
+
+msgid "Symbol"
+msgstr "Símbolo"
+
+msgid "Syntax"
+msgstr "Sintaxe"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Overwrite"
+msgstr "Sobrescrever"
+
+msgid "Overline"
+msgstr "Sobre-linha"
+
+msgid "Overlay"
+msgstr "Sobrepor"
+
+# en - 
+# pt - pode ser empregue como expoente (matemática)
+msgid "Superscript"
+msgstr "Sobrescrito, Expoente"
+
+# Poderá ser "Sobrexposição de cor"
+msgid "Color-burn"
+msgstr "Sobrexposição"
+
+msgid "Read-only"
+msgstr "Só de leitura"
+
+msgid "Sound"
+msgstr "Som"
+
+msgid "Sum"
+msgstr "Soma"
+
+msgid "Shadows"
+msgstr "Sombras"
+
+msgid "Spam"
+msgstr "Assédio"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Antialias"
+msgstr "Suavização"
+
+# Poderá ser "Subexposição de cor"
+msgid "Color-dodge"
+msgstr "Subexposição"
+
+msgid "Subscript"
+msgstr "Subscrito, Base (oposto de expoente [matemática])"
+
+msgid "Underline"
+msgstr "Sublinhado"
+
+msgid "Replaced"
+msgstr "Substituído"
+
+msgid "Replace"
+msgstr "Substituir"
+
+msgid "Upper"
+msgstr "Superior"
+
+# en - 
+# pt - não confundir com "multimedia". Refere-se a um suporte de dados,
+# disco, disquete, pen, cartão SD, etc.
+msgid "Media"
+msgstr "Suporte"
+
+# en - 
+# pt - assistência, apoio
+msgid "Support"
+msgstr "Suporte"
+
+msgid "Supported"
+msgstr "Suportado"
+
+# en - LETTER T
+# pt - LETRA T
+msgid "Portuguese words starting with the letter T"
+msgstr "Palavras portuguesas começadas com a letra T"
+
+msgid "Table"
+msgstr "Tabela"
+
+msgid "Tab"
+msgstr "Tabulação"
+
+msgid "Size"
+msgstr "Tamanho"
+
+# en - 
+# - pt "Tamanho" pode ser usado em certos casos por ser mais curta
+msgid "length"
+msgstr "Tamanho, Comprimento"
+
+msgid "Task"
+msgstr "Tarefa"
+
+msgid "Key"
+msgstr "Tecla, Chave"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Finished"
+msgstr "Terminado"
+
+msgid "Finish"
+msgstr "Terminar, Concluir"
+
+msgid "Term"
+msgstr "Termo"
+
+msgid "Test"
+msgstr "Teste, Testar"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Heading"
+msgstr "Título"
+
+msgid "Title"
+msgstr "Título"
+
+# en - 
+# pt - pode ser "Limite"
+msgid "Threshold"
+msgstr "Tolerância"
+
+# en - 
+# pt - não é contagem. Na maioria dos casos fica incorrecto
+msgid "Count"
+msgstr "Total, Contar"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Stroke"
+msgstr "Traçado, Pincelada, Golpe"
+
+msgid "Costume"
+msgstr "Traje"
+
+msgid "Lock/Unlock"
+msgstr "Trancar/Destrancar"
+
+msgid "Download"
+msgstr "Transferir"
+
+msgid "Transparency"
+msgstr "Transparência"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+# en - 
+# pt - normalmente usado para 0 "vai 1" em contas
+msgid "Overflow"
+msgstr "Transporte"
+
+# Salvo possíveis exceções, "Tudo" é mais abrangente e evita erros de género ou quantidade.
+# "All", em inglês, tanto pode ser masculino como feminino e plural ou singular.
+msgid "All"
+msgstr "Tudo"
+
+# en - LETTER U
+# pt - LETRA U
+msgid "Portuguese words starting with the letter U"
+msgstr "Palavras portuguesas começadas com a letra U"
+
+msgid "Single"
+msgstr "Único"
+
+msgid "Merge"
+msgstr "Unir"
+
+# en - 
+# pt - Uniform Resource Locator é masculino
+msgid "URL"
+msgstr "URL"
+
+msgid "Unique"
+msgstr "Único, Exclusivo"
+
+msgid "Drive"
+msgstr "Unidade"
+
+msgid "Unit"
+msgstr "Unidade"
+
+msgid "User"
+msgstr "Utilizador"
+
+# en - LETTER V
+# pt - LETRA V
+msgid "Portuguese words starting with the letter V"
+msgstr "Palavras portuguesas começadas com a letra V"
+
+msgid "Valid"
+msgstr "Válido"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Values"
+msgstr "Valores"
+
+msgid "Variable"
+msgstr "Variável"
+
+msgid "Empty"
+msgstr "Vazio, Em branco"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "True"
+msgstr "Verdadeiro"
+
+msgid "Check (Verify)"
+msgstr "Verificar"
+
+msgid "Version"
+msgstr "Versão"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Vertically"
+msgstr "Verticalmente"
+
+msgid "Visible"
+msgstr "Visível"
+
+msgid "Viewer"
+msgstr "Visualizador"
+
+# en - LETTER W
+# pt - LETRA W
+
+# en - 
+# pt - usar a palavra em minúsculas no meio das frases
+msgid "Web"
+msgstr "Web"
+
+# en - LETTER X
+# pt - LETRA X
+msgid "Portuguese words starting with the letter X"
+msgstr "Palavras portuguesas começadas com a letra X"
+
+# en - LETTER Z
+# pt - LETRA Z
+msgid "Portuguese words starting with the letter Z"
+msgstr "Palavras portuguesas começadas com a letra Z"
+
+#######################################################################
+msgid "Common Sentences"
+msgstr "Frases comuns"
+
+msgid "Soft-burn"
+msgstr "Sobrexposição suave"
+
+msgid "Soft-dodge"
+msgstr "Subexposição suave"
+
+msgid "Soft-light"
+msgstr "Luz suave"
+
+# Não traduzir para "Taxa de amostra""
+msgid "Sample Rate"
+msgstr "Taxa de amostragem"
+
+msgid "Not a regular file"
+msgstr "Não é um ficheiro normal"
+
+msgid "Hard-light"
+msgstr "Luz forte"
+
+# en - 
+# pt - refere-se a um programa que está em execução ou dados obtidos
+# durante a execução de um programa
+msgid "runtime"
+msgstr "em execução"
+
+msgid "Desaturate"
+msgstr "Reduzir saturação"
+
+msgid "1Desktop"
+msgstr "Área de trabalho"
+
+msgid "text direction"
+msgstr "direcção do texto"
+
+msgid "moving"
+msgstr "a mover"
+
+msgid "column width"
+msgstr "largura da coluna"
+
+msgid "endnote"
+msgstr "nota final"
+
+msgid "copying"
+msgstr "a copiar"
+
+msgid "AutoText"
+msgstr "Texto automático"
+
+msgid "asian typography"
+msgstr "tipografia asiática"
+
+msgid "accessing"
+msgstr "a aceder"
+
+msgid "align left"
+msgstr "alinhar à esquerda"
+
+msgid "removing"
+msgstr "a remover"
+
+msgid "file system"
+msgstr "sistema de ficheiros"
+
+msgid "deleting"
+msgstr "a eliminar"
+
+msgid "starting"
+msgstr "a iniciar"
+
+msgid "Left-to-right"
+msgstr "Esquerda->direita"
+
+msgid "paragraph style"
+msgstr "estilo de parágrafo"
+
+msgid "User-defined"
+msgstr "Definido pelo utilizador"
+ 
+msgid "Common sentences"
+msgstr "Frases frequentes"
+
+msgid "Cannot open file"
+msgstr "Impossível abrir o ficheiro"
+
+msgid "Display this information"
+msgstr "Mostrar esta informação"
+
+msgid "Display the program's version"
+msgstr "Mostrar a versão do programa"
+
+msgid "File already exists"
+msgstr "O ficheiro já existe"
+
+msgid "drawing objects"
+msgstr "desenhar objectos"
