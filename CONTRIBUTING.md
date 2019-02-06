@@ -76,5 +76,5 @@ Para dicionário, correcção ortográfica e outras dúvidas linguísticas:
    -  noutra letra qualquer (têm de existir).
 7. respeitar as convenções respeitantes a marcas, modelos e outros
    com direitos de autor;
-8. usar as notas/comentários dos ficheiros ".po" para explicar opções
+8. usar as notas/comentários dos ficheiros de tradução (.po, .properties, etc) para explicar opções
    a outros tradutores
