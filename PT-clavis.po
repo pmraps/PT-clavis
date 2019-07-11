@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: <palbuquerque73@gmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2018-05-13 11:57+0100\n"
-"Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
+"PO-Revision-Date: 2019-06-03 10:13+0100\n"
+"Last-Translator: Pedro Albuquerque <pmra@gmx.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -3722,7 +3722,7 @@ msgstr "Impressora"
 # pt -
 # Shortcut / Atalho: 
 msgid "Plotter"
-msgstr ""
+msgstr "Traçador"
 
 # en -
 # pt -
@@ -3979,6 +3979,11 @@ msgstr "Armazenado"
 msgid "Store"
 msgstr "Armazenar"
 
+# en - boot stands for booting a computer
+# pt - boot refere-se ao arranque inicial du um computador
+msgid "boot"
+msgstr "Arranque"
+
 msgid "Drag"
 msgstr "Arrastar"
 
@@ -4051,6 +4056,11 @@ msgstr "Básico, Basic (linguagem de programação)"
 
 msgid "Library"
 msgstr "Biblioteca"
+
+# en - github fork a repository
+# pt - bifurcar um repositório para fazer alterações
+msgid "Fork"
+msgstr "Bifurcar"
 
 msgid "Locked"
 msgstr "Bloqueado"
@@ -4395,7 +4405,7 @@ msgstr "Desejado"
 # Pode ser traduzido como "Entregar", como a forma como uma dada imagem 
 # é entregue no ecrã
 msgid "Render"
-msgstr "Desenhar, Entregar"
+msgstr "Desenhar, Entregar, Criar"
 
 msgid "Draw"
 msgstr "Desenhar"
@@ -4994,6 +5004,11 @@ msgstr "Instalado"
 
 msgid "Install"
 msgstr "Instalar"
+
+# en - GRUB commands to integrate files, etc.
+# pt - comando GRUB para inserir dados ou informação
+msgid "Embedd"
+msgstr "Integrar"
 
 msgid "Internet"
 msgstr "Internet"
