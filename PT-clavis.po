@@ -9,15 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: <palbuquerque73@gmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2019-06-03 10:13+0100\n"
-"Last-Translator: Pedro Albuquerque <pmra@gmx.com>\n"
+"PO-Revision-Date: 2019-09-22 17:39+0100\n"
+"Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Geany / PoHelper 1.36\n"
 "X-Project-Style: \n"
 
 
@@ -4166,6 +4166,13 @@ msgstr "Círculo"
 
 msgid "Class"
 msgstr "Classe"
+
+# en - Clipboard
+# pt - traduzida habitualmente em Windows como "Área de transferência"
+#	   preferi o termo mais genérico, mais curto e mais abrangente
+#	   "Memória"
+msgid "Clipboard"
+msgstr "Memória"
 
 msgid "Click"
 msgstr "Clique, Clicar"
