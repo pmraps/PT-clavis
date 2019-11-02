@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <palbuquerque73@gmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2019-09-22 17:39+0100\n"
+"PO-Revision-Date: 2019-11-02 08:41+0000\n"
 "Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -4531,6 +4531,9 @@ msgstr "Documento mestre"
 msgid "Text document"
 msgstr "Documento de texto"
 
+msgid "Owner"
+msgstr "Dono, Proprietário"
+
 msgid "Duplicate"
 msgstr "Duplicado"
 
@@ -4605,6 +4608,9 @@ msgstr "Encontrado"
 
 msgid "Address"
 msgstr "Endereço"
+
+msgid "Got it"
+msgstr "Entendi"
 
 msgid "Entry"
 msgstr "Entrada, Elemento de tabela"
@@ -5269,8 +5275,11 @@ msgstr "Meio"
 msgid "Memo"
 msgstr "Memorando, Nota"
 
+msgid "Cache"
+msgstr "Memória"
+
 msgid "Memory"
-msgstr "Memória"#
+msgstr "Memória"
 
 msgid "Menu"
 msgstr "Menu"
@@ -6061,6 +6070,9 @@ msgid "Unit"
 msgstr "Unidade"
 
 msgid "User"
+msgstr "Utilizador"
+
+msgid "User name"
 msgstr "Utilizador"
 
 # en - LETTER V
