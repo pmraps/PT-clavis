@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <palbuquerque73@gmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2019-11-02 08:41+0000\n"
+"PO-Revision-Date: 2019-12-22 06:43+0000\n"
 "Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -6140,6 +6140,9 @@ msgstr "Palavras portuguesas começadas com a letra Z"
 #######################################################################
 msgid "Common Sentences"
 msgstr "Frases comuns"
+ 
+msgid "Common sentences"
+msgstr "Frases frequentes"
 
 msgid "Soft-burn"
 msgstr "Sobrexposição suave"
@@ -6219,9 +6222,6 @@ msgstr "estilo de parágrafo"
 
 msgid "User-defined"
 msgstr "Definido pelo utilizador"
- 
-msgid "Common sentences"
-msgstr "Frases frequentes"
 
 msgid "Cannot open file"
 msgstr "Impossível abrir o ficheiro"
@@ -6237,3 +6237,6 @@ msgstr "O ficheiro já existe"
 
 msgid "drawing objects"
 msgstr "desenhar objectos"
+
+msgid "Try again later"
+msgstr "Tente mais tarde"
