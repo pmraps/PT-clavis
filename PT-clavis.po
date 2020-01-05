@@ -6172,7 +6172,7 @@ msgstr "em execução"
 msgid "Desaturate"
 msgstr "Reduzir saturação"
 
-msgid "1Desktop"
+msgid "Desktop"
 msgstr "Área de trabalho"
 
 msgid "text direction"
