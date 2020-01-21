@@ -1,15 +1,15 @@
 # Translation memory and generic terms for Portuguese translators.
 # Copyright (C) 2018 Pedro Albuquerque
 # This file is distributed under the <https://www.gnu.org/licenses/gpl-3.0.en.html>.
-# Pedro Albuquerque <palbuquerque73@gmail.com>, 2015, 2018.
+# Pedro Albuquerque <pmra@protonmail.com>, 2015, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
-"Report-Msgid-Bugs-To: <palbuquerque73@gmail.com>product=gvfs&keywords=I18N"
+"Report-Msgid-Bugs-To: <ppmra@protonmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2020-01-21 11:37Hora padrão de GMT\n"
+"PO-Revision-Date: 2020-01-21 11:51Hora padrão de GMT\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -2319,7 +2319,7 @@ msgstr "Mango Tango"
 # en - hex color code:
 # pt - código hexadecimal da cor: #74c365
 msgid "Mantis"
-msgstr "louva a Deus"
+msgstr "Louva-a-Deus"
 # en - hex color code:
 # pt - código hexadecimal da cor: #800000
 msgid "Maroon"
@@ -5334,7 +5334,7 @@ msgstr "Moeda"
 
 # en -
 # pt - em imagens habitualmente refere-se a repetir a imagem em todo
-# o ecrã. Em janelas, significa dispô-las em cascada, pilha desalinhada
+# o ecrã. Em janelas, significa dispô-las em cascata, pilha desalinhada
 msgid "Tile"
 msgstr "Mosaico"
 
@@ -5599,7 +5599,7 @@ msgid "Dithering"
 msgstr "Pontilhado"
 
 # en - in some cases can be replaced by literal and quoted "."
-# pt - em casos extremos pode ser substítuído pela expressão literal 
+# pt - em casos extremos pode ser substítuído pelo carácter literal 
 # entre aspas "." 
 msgid "Dot"
 msgstr "Ponto"
@@ -5926,7 +5926,7 @@ msgid "Color-dodge"
 msgstr "Subexposição"
 
 msgid "Subscript"
-msgstr "Subscrito, Base (oposto de expoente [matemática])"
+msgstr "Subscrito, Base (oposto de expoente [matemática]), Índice"
 
 msgid "Underline"
 msgstr "Sublinhado"
