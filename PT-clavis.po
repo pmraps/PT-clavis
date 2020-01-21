@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: <palbuquerque73@gmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2019-12-22 06:43+0000\n"
-"Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
+"PO-Revision-Date: 2020-01-21 11:37Hora padrão de GMT\n"
+"Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -6039,7 +6039,7 @@ msgstr "Transparente"
 msgid "Overflow"
 msgstr "Transporte"
 
-# Salvo possíveis exceções, "Tudo" é mais abrangente e evita erros de género ou quantidade.
+# Salvo possíveis excepções, "Tudo" é mais abrangente e evita erros de género ou quantidade.
 # "All", em inglês, tanto pode ser masculino como feminino e plural ou singular.
 msgid "All"
 msgstr "Tudo"
