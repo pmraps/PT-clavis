@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <ppmra@protonmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2020-01-21 11:51Hora padrão de GMT\n"
+"PO-Revision-Date: 2020-02-15 16:29Hora padrão de GMT\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -4895,6 +4895,9 @@ msgstr "Hifenização"
 
 msgid "Hyperlink"
 msgstr "Hiperligação"
+
+msgid "History"
+msgstr "Histórico, Historial"
 
 msgid "Time"
 msgstr "Hora"
