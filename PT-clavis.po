@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <ppmra@protonmail.com>product=gvfs&keywords=I18N"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2020-02-15 16:29Hora padrão de GMT\n"
+"PO-Revision-Date: 2020-11-28 06:52Hora padrão de GMT\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -5823,6 +5823,9 @@ msgstr "Sair"
 
 msgid "Quit"
 msgstr "_Sair"
+
+msgid "Backup"
+msgstr "Salvaguarda, Segurança, Cópia de segurança"
 
 # en - 
 # pt - se referente a scripts de linguagem de programação não deve ser 
