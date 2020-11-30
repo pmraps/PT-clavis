@@ -1,15 +1,15 @@
 # Translation memory and generic terms for Portuguese translators.
-# Copyright (C) 2018 Pedro Albuquerque
+# Copyright (C) 2020 Pedro Albuquerque
 # This file is distributed under the <https://www.gnu.org/licenses/gpl-3.0.en.html>.
-# Pedro Albuquerque <pmra@protonmail.com>, 2015, 2018.
+# Pedro Albuquerque <pmra@protonmail.com>, 2015, 2018, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
-"Report-Msgid-Bugs-To: <ppmra@protonmail.com>product=gvfs&keywords=I18N"
+"Report-Msgid-Bugs-To: <pmra@protonmail.com>"
 "+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2020-11-28 06:52Hora padrão de GMT\n"
+"PO-Revision-Date: 2020-11-30 16:16Hora padrão de GMT\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
