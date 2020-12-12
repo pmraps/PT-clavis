@@ -1,7 +1,13 @@
 # mo
 /mo
 *.mo
+
+# Dia backup files
 *.*~
+
+# Lazarus project
+/backup
+/lib
 *.exe
 *.lps
 *.res
