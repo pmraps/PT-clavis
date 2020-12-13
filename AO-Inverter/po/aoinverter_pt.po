@@ -1,0 +1,27 @@
+# Portuguese (Portugal) translation of AO Inverter.
+# Copyright © 2020 Pedro Albuquerque.
+# This file is distributed under the same license
+# as the AO Inverter package, see COPYING file.
+#
+# Pedro Albuquerque <pmra@protonmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AO Inverter alpha 0.0.1\n"
+"Report-Msgid-Bugs-To: pmra@protonmail.com\n"
+"POT-Creation-Date: 2019-07-19 07:25+0100\n"
+"PO-Revision-Date: 2020-12-13 17:15Hora padrão de GMT\n"
+"Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
+"Language-Team: Portuguese <pmra@protonmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Geany / PoHelper 1.36\n"
+
+#
+msgid ""
+"Tem a certeza de que deseja sair da aplicação?"
+msgstr ""
+""
