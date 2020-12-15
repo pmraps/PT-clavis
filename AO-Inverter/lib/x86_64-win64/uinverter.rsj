@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":92966850,"name":"uinverter.apptitle","sourcebytes":[65,79,32,73,110,118,101,114,116,101,114],"value":"AO Inverter"},
+{"hash":34243341,"name":"uinverter.exitcaption","sourcebytes":[81,117,105,116,32,116,104,101,32,112,114,111,103,114,97,109],"value":"Quit the program"},
+{"hash":84038367,"name":"uinverter.exitmsg","sourcebytes":[65,114,101,32,89,111,117,32,115,117,114,101,32,121,111,117,32,119,97,110,116,32,116,111,32,101,120,105,116,32,116,104,101,32,97,112,112,108,105,99,97,116,105,111,110,63],"value":"Are You sure you want to exit the application?"},
+{"hash":24515,"name":"uinverter.ybutton","sourcebytes":[89,101,115],"value":"Yes"},
+{"hash":1359,"name":"uinverter.nbutton","sourcebytes":[78,111],"value":"No"}
+]}

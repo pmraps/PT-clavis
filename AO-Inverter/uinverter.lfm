@@ -1,10 +1,10 @@
 object Form1: TForm1
-  Left = 703
+  Left = 590
   Height = 400
-  Top = 265
+  Top = 263
   Width = 400
   BorderStyle = bsDialog
-  Caption = 'Inversor de AO'
+  Caption = 'AO Inverter'
   ClientHeight = 400
   ClientWidth = 400
   Position = poDesktopCenter
@@ -12,7 +12,7 @@ object Form1: TForm1
   object Button1: TButton
     Left = 97
     Height = 50
-    Top = 175
+    Top = 330
     Width = 206
     Caption = 'Quit the program'
     OnClick = Button1Click

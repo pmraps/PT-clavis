@@ -1,25 +1,22 @@
 object Form1: TForm1
-  Left = 715
+  Left = 590
   Height = 400
-  Top = 241
+  Top = 263
   Width = 400
-  HorzScrollBar.Page = 376
-  HorzScrollBar.Range = 376
-  VertScrollBar.Page = 255
-  VertScrollBar.Range = 255
-  AutoSize = True
   BorderStyle = bsDialog
-  Caption = 'Inversor de AO'
+  Caption = 'AO Inverter'
   ClientHeight = 400
   ClientWidth = 400
   Position = poDesktopCenter
   LCLVersion = '2.0.10.0'
   object Button1: TButton
-    Left = 31
+    Left = 97
     Height = 50
-    Top = 30
-    Width = 339
-    Caption = 'Button1'
+    Top = 330
+    Width = 206
+    Caption = 'Quit the program'
+    OnClick = Button1Click
     TabOrder = 0
+    TabStop = False
   end
 end

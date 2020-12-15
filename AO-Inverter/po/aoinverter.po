@@ -4,7 +4,6 @@
 # as the AO Inverter package, see COPYING file.
 #
 # Pedro Albuquerque <pmra@protonmail.com>, 2020.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: AO Inverter alpha 0.0.1\n"
@@ -20,8 +19,35 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Geany / PoHelper 1.36\n"
 
-#
-msgid ""
-"Are you sure you want to quit the program?"
+#: tform1.button1.caption
+msgctxt "tform1.button1.caption"
+msgid "Quit the program"
 msgstr ""
-""
+
+#: tform1.caption
+msgctxt "tform1.caption"
+msgid "AO Inverter"
+msgstr ""
+
+#: uinverter.apptitle
+msgctxt "uinverter.apptitle"
+msgid "AO Inverter"
+msgstr ""
+
+#: uinverter.exitcaption
+msgctxt "uinverter.exitcaption"
+msgid "Quit the program"
+msgstr ""
+
+#: uinverter.exitmsg
+msgid "Are You sure you want to exit the application?"
+msgstr ""
+
+#: uinverter.nbutton
+msgid "No"
+msgstr ""
+
+#: uinverter.ybutton
+msgid "Yes"
+msgstr ""
+

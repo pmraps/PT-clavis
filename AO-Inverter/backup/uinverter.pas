@@ -5,11 +5,7 @@ unit uinverter ;
 interface
 
 uses
-  Crt, Classes , SysUtils , Forms , Controls , Graphics , Dialogs , ExtCtrls , Menus ,
-  ComCtrls , StdCtrls ;
-
-const
-  ENTER = #13;
+  Classes , SysUtils , Forms , Controls , Graphics , Dialogs , StdCtrls ;
 
 type
 
@@ -24,6 +20,13 @@ type
 
   end;
 
+resourcestring en
+  AppTitle    = 'AO Inverter';
+  ExitCaption = 'Quit the program';
+  ExitMsg     = 'Are You sure you want to exit the application?';
+  YButton     = 'Yes';
+  NButton     = 'No';
+
 var
   Form1 : TForm1 ;
 
@@ -35,7 +38,10 @@ implementation
 
 procedure TForm1 .Button1Click (Sender : TObject );
 begin
-  Halt;
+  Button1.Caption := ExitCaption;
+  if MessageDlg (ExitCaption, ExitMsg, mtConfirmation,
+                  [mbYes, mbNo],0) = mrYes
+  then Halt;
 end;
 
 end.

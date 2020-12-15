@@ -21,10 +21,11 @@ type
   end;
 
 resourcestring
+  AppTitle    = 'AO Inverter';
   ExitCaption = 'Quit the program';
-  ExitMsg 	  = 'Are You sure you want to exit the application?';
-  YButton	  = 'Yes';
-  NButton	  = 'No';
+  ExitMsg     = 'Are You sure you want to exit the application?';
+  YButton     = 'Yes';
+  NButton     = 'No';
 
 var
   Form1 : TForm1 ;
