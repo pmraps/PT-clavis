@@ -6,10 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
-"Report-Msgid-Bugs-To: <pmra@protonmail.com>"
-"+L10N&component=general\n"
+"Report-Msgid-Bugs-To: <pmra@protonmail.com>+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2020-12-05 09:43+0000\n"
+"PO-Revision-Date: 2021-01-11 16:15Hora padrão de GMT\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -17,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Geany / PoHelper 1.37\n"
+"X-Generator: Geany / PoHelper 1.36\n"
 "X-Project-Style: \n"
 
 msgid "`File' Menu"
@@ -307,7 +306,7 @@ msgid "Canada"
 msgstr "Canadá"
 
 msgid "Cape Verde"
-msgstr "cabo Verde"
+msgstr "Cabo Verde"
 
 msgid "Cayman Islands"
 msgstr "Ilhas Cayman"
@@ -412,7 +411,7 @@ msgid "Falkland Islands (Islas Malvinas)"
 msgstr "Ilhas Falkland (Malvinas)"
 
 msgid "Faroe Islands"
-msgstr "ilhas Faroe"
+msgstr "Ilhas Faroe"
 
 msgid "Fiji"
 msgstr "Fiji"
@@ -2339,7 +2338,7 @@ msgstr "Loucura"
 # en - hex color code:
 # pt - código hexadecimal da cor: #228b22
 msgid "Forest green"
-msgstr "verde floresta"
+msgstr "Verde floresta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a67b5b
@@ -2419,7 +2418,7 @@ msgstr "Ouro"
 # en - hex color code:
 # pt - código hexadecimal da cor: #996515
 msgid "Golden brown"
-msgstr "marrom dourado"
+msgstr "Castanho dourado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fcc200
@@ -2429,7 +2428,7 @@ msgstr "Papoula dourada"
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffdf00
 msgid "Golden yellow"
-msgstr "amarelo dourado"
+msgstr "Amarelo dourado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #daa520
@@ -2444,7 +2443,7 @@ msgstr "Maçã Granny Smith"
 # en - hex color code:
 # pt - código hexadecimal da cor: #808080
 msgid "Gray"
-msgstr "cinzento"
+msgstr "Cinzento"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #465945
@@ -3134,7 +3133,7 @@ msgstr "Mikado amarelo"
 # en - hex color code:
 # pt - código hexadecimal da cor: #3eb489
 msgid "Mint"
-msgstr "hortelã"
+msgstr "Hortelã"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f5fffa
@@ -3144,7 +3143,7 @@ msgstr "Creme de mint"
 # en - hex color code:
 # pt - código hexadecimal da cor: #98ff98
 msgid "Mint green"
-msgstr "menta verde"
+msgstr "Pimenta verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffe4e1
@@ -3174,7 +3173,7 @@ msgstr "Mordant red 19"
 # en - hex color code:
 # pt - código hexadecimal da cor: #addfad
 msgid "Moss green"
-msgstr "musgo verde"
+msgstr "Musgo verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #30ba8f
@@ -3229,7 +3228,7 @@ msgstr "Navajo branco"
 # en - hex color code:
 # pt - código hexadecimal da cor: #000080
 msgid "Navy blue"
-msgstr "azul marinho"
+msgstr "Azul marinho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa343
@@ -3329,7 +3328,7 @@ msgstr "Ópera malva"
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa500
 msgid "Orange"
-msgstr "laranja"
+msgstr "Laranja"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f8d568
@@ -3339,7 +3338,7 @@ msgstr "Laranja amarelo"
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff9f00
 msgid "Orange peel"
-msgstr "casca de laranja"
+msgstr "Casca de laranja, Celulite"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff4500
@@ -3579,7 +3578,7 @@ msgstr "Payne cinza"
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffe5b4
 msgid "Peach"
-msgstr "pêssego"
+msgstr "Pêssego"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffdab9
@@ -3709,7 +3708,7 @@ msgstr "Platina"
 # en - hex color code:
 # pt - código hexadecimal da cor: #dda0dd
 msgid "Plum"
-msgstr "ameixa"
+msgstr "Ameixa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff5a36
@@ -4039,7 +4038,7 @@ msgstr "Duna de areia"
 # en - hex color code:
 # pt - código hexadecimal da cor: #ecd540
 msgid "Sandstorm"
-msgstr "tempestade de areia"
+msgstr "Tempestade de areia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4a460
@@ -4694,7 +4693,7 @@ msgstr "Castanho Zinnwaldite"
 # ######################################################################
 msgid "HARDWARE"
 msgstr ""
-"EQUIPAMENTO - secção destinada a equipamento físico, real, maquinaria, etc."
+"EQUIPAMENTO - secção destinada a equipamento físico, real, maquinaria, etc. "
 
 # en -
 # pt -
@@ -4829,9 +4828,6 @@ msgstr "A iniciar, Início"
 msgid "April"
 msgstr "Abril"
 
-msgid "april"
-msgstr "Abril"
-
 msgid "Action"
 msgstr "Acção"
 
@@ -4882,9 +4878,6 @@ msgid "Sharpen"
 msgstr "Afiar, Focar"
 
 msgid "August"
-msgstr "Agosto"
-
-msgid "august"
 msgstr "Agosto"
 
 msgid "Help"
@@ -4999,7 +4992,7 @@ msgstr "Armazenar"
 # en - boot stands for booting a computer
 # pt - boot refere-se ao arranque inicial du um computador
 msgid "boot"
-msgstr "Arranque"
+msgstr "arranque"
 
 msgid "Drag"
 msgstr "Arrastar"
@@ -5197,7 +5190,7 @@ msgstr "Clique esquerdo"
 # pt - Palavra com vários significados mas que pode significar
 #      genericamente cobrir, abranger, etc.
 msgid "Span"
-msgstr "Cobre, Abrange,"
+msgstr "Cobre, Abrange"
 
 msgid "Code"
 msgstr "Código"
@@ -5556,7 +5549,7 @@ msgid "Portuguese words starting with the letter E"
 msgstr "Palavras portuguesas começadas com a letra E"
 
 msgid "screen"
-msgstr "Ecrã, Monitor"
+msgstr "ecrã, monitor"
 
 # Usar sempre "Ecrã completo" em vez de "Ecrã inteiro" ou outras alternativas
 msgid "Full Screen"
@@ -5706,7 +5699,7 @@ msgid "Style"
 msgstr "Estilo"
 
 msgid "character style"
-msgstr "Estilo de carácter"
+msgstr "estilo de carácter"
 
 msgid "Page style"
 msgstr "Estilo de página"
@@ -5862,6 +5855,11 @@ msgstr "Galeria"
 
 msgid "Manager"
 msgstr "Gestor"
+
+# en - Free, as in free beer. Maybe free as a bird, who knows...
+# pt - Grátis, gratuito. Também pode ser livre como um pássaro...
+msgid "Free"
+msgstr "Gratuito, grátis"
 
 # en -
 # pt - NÃO traduzir por gradiente. Não se aplica à generalidade das
@@ -6192,6 +6190,11 @@ msgstr "Lista"
 msgid "Smooth"
 msgstr "Liso"
 
+# en - Free as a bird. Maybe free as in free beer, who knows...
+# pt - Livre, como um pássaro fora da gaiola. Também pode ser grátis, gratuito...
+msgid "Free"
+msgstr "Livre, Solto"
+
 msgid "Book"
 msgstr "Livro"
 
@@ -6242,7 +6245,7 @@ msgid "Mark"
 msgstr "Marca, Marcar"
 
 msgid "Check "
-msgstr "Marcar, Verificar"
+msgstr "Marcar, Verificar, Procurar"
 
 # en -
 # pt - normalmente será marcador. Pode ser "Favorito" num navegador web
