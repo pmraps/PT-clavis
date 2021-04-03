@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
 "Report-Msgid-Bugs-To: <pmra@protonmail.com>+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2021-04-03 12:49Hora de Verão de GMT\n"
+"PO-Revision-Date: 2021-04-03 18:57Hora de Verão de GMT\n"
 "PO-Revision-Date: 2021-04-03 12:04+0100\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
@@ -4832,13 +4832,18 @@ msgstr "A imprimir"
 msgid "Beginning"
 msgstr "A iniciar, Início"
 
+# en - Maintaining two or more scanning processes in phase.
+# pt - Manutenção de dois ou mais processos de digitalização em fase.
+msgid "Synchronizing"
+msgstr "A sincronizar"
+
 # en - An optical defect of a lens that causes different colors or wavelengths of light to be focused at different distances from the lens. It is seen as color fringes or halos along edges and around every point in the image.
-# pt -
+# pt - Um defeito óptico de uma lente que faz com que diferentes cores ou comprimentos de onda de luz sejam focados a diferentes distâncias da lente. É visto como franjas ou halos de cor ao longo das margens e em torno de cada ponto da imagem.
 msgid "Chromatic Aberration"
 msgstr "Aberração cromática"
 
 # en - The effective diameter of the lens that controls the amount of light reaching the photoconductive or photo emitting image pickup sensor.
-# pt -
+# pt - O diâmetro efectivo da lente que controla a quantidade de luz que atinge o sensor fotocondutor ou foto-emissor de captação de imagem.
 msgid "Aperture"
 msgstr "Abertura"
 
@@ -4951,54 +4956,58 @@ msgstr "Ambiente"
 msgid "Sample"
 msgstr "Amostra"
 
-# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
 # en - To enlarge or reduce, on a continuously variable basis, the size of a televised image primarily by varying lens focal length.
-# pt -
-#, fuzzy
+# pt - Aumentar ou reduzir, numa base continuamente variável, o tamanho de uma imagem televisiva, principalmente através da variação da distância focal da lente.
 msgid "Zoom"
-msgstr ""
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Ampliação\n"
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Ampliar"
+msgstr "Ampliação"
 
 msgid "Zoom in"
 msgstr "Ampliar"
 
 # en - A device that provides several isolated outputs from one looping or bridging input, and has a sufficiently high input impedance and input-to-output isolation to prevent loading of the input source.
-# pt -
+# pt - Um dispositivo que fornece várias saídas isoladas a partir de um looping ou entrada em ponte, e tem uma impedância de entrada e isolamento de entrada-para-saída suficientemente elevada para evitar o carregamento da fonte de entrada.
 msgid "Distribution Amplifier"
 msgstr "Amplificador de distribuição"
 
 # en - A device used to divide single video signals, while boosting their strength for delivery to multiple video devices.
-# pt -
+# pt - Um dispositivo usado para dividir sinais de vídeo únicos, ao mesmo tempo que aumenta a sua força para a entrega a múltiplos dispositivos de vídeo.
 msgid "Video Distribution Amplifier"
 msgstr "Amplificador de distribuição vídeo"
 
 # en - An amplifier with input circuitry and output circuitry designed to eliminate the effects of changes made at either upon the other. They provide electrical isolation and a safety barrier.
-# pt -
+# pt - Um amplificador com circuito de entrada e circuito de saída concebido para eliminar os efeitos de alterações feitas em qualquer um dos dois sobre o outro. Proporcionam isolamento eléctrico e uma barreira de segurança.
 msgid "Isolation Amplifier"
 msgstr "Amplificador de isolamento"
 
 # en - An amplifier for audio or video signals that in installed in the transmission line to boost the signal as it travels over certain distances; also called program amplifier.
-# pt -
+# pt - Um amplificador para sinais de áudio ou vídeo que em instalado na linha de transmissão para impulsionar o sinal à medida que este percorre certas distâncias; também chamado amplificador de programa.
 msgid "Line Amplifier"
 msgstr "Amplificador de linha"
 
 # en - A wideband amplifier used for passing picture signals.
-# pt -
+# pt - Um amplificador de banda larga utilizado para passar sinais de imagem.
 msgid "Video Amplifier"
 msgstr "Amplificador vídeo"
 
 # en - The maximum absolute peak value of a pulse, excluding those portions considered to be unwanted, such as spikes.
-# pt -
+# pt - O valor máximo absoluto de pico de um pulso, excluindo as porções consideradas indesejáveis, tais como picos.
 msgid "Peak Pulse Amplitude"
 msgstr "Amplitude do pulso"
+
+# en - The process of moving the electron beam of a pickup tube or a picture tube across the target or screen area of a tube.
+# pt - O processo de mover o feixe de electrões de um tubo de captação ou de um tubo de imagem através da área do alvo ou do ecrã de um tubo.
+msgid "Scanning"
+msgstr "Análise"
 
 # en - A technique of combining two television fields in order to produce a full frame. The two fields are composed of only odd and only even lines, which are displayed one after the other but with the physical position of all the lines interleaving each other, hence interlace.
 # pt -
 msgid "Interlaced Scanning"
-msgstr "Anãlise entrelaçada"
+msgstr "Análise entrelaçada"
+
+# en - Display scan pattern where each line of the frame is scanned sequentially.
+# pt - Mostrar padrão de digitalização onde cada linha da moldura é digitalizada sequencialmente.
+msgid "Progressive Scan"
+msgstr "Análise progressiva"
 
 # en - The science of analysis. Arriving at an optimal or realistic decision based on existing data. In the video industry it is often used for analyzing video to detect and determine temporal events not based on single image. It has a wide range of application in safety and security to examine video for specific data, behavior, objects or attitude.
 # pt -
@@ -5135,6 +5144,11 @@ msgstr "Atribuir"
 msgid "Attribute"
 msgstr "Atributo"
 
+# en - A security system that requires more than one method of authentication from independent categories of credentials to verify the user's identity for a login or other transaction.
+# pt - Um sistema de segurança que requer mais do que um método de autenticação de categorias independentes de credenciais para verificar a identidade do utilizador para um login ou outra transacção.
+msgid "Multi-factor Authentication (MFA)"
+msgstr "Autenticação multi-factor (MFA)"
+
 msgid "Automatic"
 msgstr "Automático"
 
@@ -5160,6 +5174,16 @@ msgstr "Palavras portuguesas começadas com a letra B"
 msgid "Pop-up Window"
 msgstr "Balão"
 
+# en - In TV system use, a device having a bandpass greater than the band of a single VHF TV channel.
+# pt - Na utilização de sistemas de TV, um dispositivo com uma passagem de banda superior à banda de um único canal de TV VHF.
+msgid "Broadband"
+msgstr "Banda larga"
+
+# en - The frequency band width utilized to transmit a composite video signal.
+# pt - A largura da banda de frequência utilizada para transmitir um sinal de vídeo composto.
+msgid "Video Band"
+msgstr "Banda vídeo"
+
 msgid "Bar"
 msgstr "Barra"
 
@@ -5180,6 +5204,13 @@ msgstr "Biblioteca"
 msgid "Fork"
 msgstr "Bifurcar"
 
+# en - Short for "Binary Digit". The smallest piece of binary digital data and is represented by either 0 or 1.
+# pt - Diminutivo de "Binary Digit". A peça mais pequena de dados digitais binários e é representada ou por 0 ou 1.
+msgid "Bit"
+msgid_plural "Bits"
+msgstr[0] "Bit"
+msgstr[1] "Bits"
+
 msgid "Locked"
 msgstr "Bloqueado"
 
@@ -5199,6 +5230,11 @@ msgstr "Booliano"
 msgid "Cap"
 msgstr "Boné, Barrete, Topo"
 
+# en - The attribute of visual perception in accordance with which an area appear to emit more of less light. (Luminance is the recommended name for the photo-electric quantity which has also been called brightness.)
+# pt - O atributo da percepção visual segundo o qual uma área parece emitir mais de menos luz. (Luminância é o nome recomendado para a quantidade fotoeléctrica que também tem sido chamada brilho).
+msgid "Brightness"
+msgstr "Brilho"
+
 # en - LETTER C
 # pt - LETRA C
 msgid "Portuguese words starting with the letter C"
@@ -5206,6 +5242,11 @@ msgstr "Palavras portuguesas começadas com a letra C"
 
 msgid "Header"
 msgstr "Cabeçalho"
+
+# en - A particular type of cable capable of passing a wide range of frequencies with very low signal loss. Such a cable in its simplest form consists of a hollow metallic shield with a single wire accurately placed along the center of the shield and isolated from the shield.
+# pt - Um tipo particular de cabo capaz de passar uma vasta gama de frequências com perda de sinal muito baixa. Tal cabo na sua forma mais simples consiste num escudo metálico oco com um único fio colocado com precisão ao longo do centro do escudo e isolado do escudo.
+msgid "Coaxial Cable"
+msgstr "Cabo coaxial"
 
 # en -
 # pt - não traduzir por expressão, que implica um resultado.
@@ -5233,11 +5274,23 @@ msgstr "Caminho"
 msgid "Field"
 msgstr "Campo"
 
+# en - The maximum angle of view that can be seen through a lens.
+# pt - O ângulo de visão máximo que pode ser visto através de uma lente.
+msgid "Field of View"
+msgstr "Campo de visão"
+
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgid "Bevel"
-msgstr "Chanfro"
+# en - A unit for measuring luminous intensity. One candela is approximately equal to the amount of light energy generated by an ordinary candle. Since 1948 a more precise definition of a candela has become: “the luminous intensity of a black body of 1 square centimeter heated up to a temperature at which platinum converges from a liquid state to a solid.”
+# pt - Uma unidade para medir a intensidade luminosa. Uma candela é aproximadamente igual à quantidade de energia luminosa gerada por uma vela comum. Desde 1948 uma definição mais precisa de candela tornou-se: "A intensidade luminosa de um corpo preto de 1 centímetro quadrado aquecido até uma temperatura em que a platina converge de um estado líquido para um sólido".
+msgid "Candela"
+msgstr "Candela"
+
+# en - In software and systems engineering, a use case is a description of a system's behavior in response to external stimuli. This technique is used to develop functional requirements by specifying the system's behavior through scenarios. This concept can be expanded to apply to video systems that are used to perform specific tasks. A use case is a combination of the scene being observed and the task being performed by a viewer (or analyst). See also, the Use Cases topic for more information.
+# pt - # pt - Na engenharia de software e sistemas, um caso de utilização é uma descrição do comportamento de um sistema em resposta a estímulos externos. Esta técnica é utilizada para desenvolver requisitos funcionais, especificando o comportamento do sistema através de cenários. Este conceito pode ser expandido para ser aplicado a sistemas de vídeo que são utilizados para realizar tarefas específicas. Um caso de utilização é uma combinação da cena a ser observada e da tarefa a ser executada por um espectador (ou analista). Ver também, o tópico Casos de Utilização para mais informações.
+msgid "Use Case"
+msgstr "Caso de uso"
 
 msgid "Chapter"
 msgstr "Capítulo"
@@ -5259,6 +5312,16 @@ msgstr "Carregar"
 msgid "Category"
 msgstr "Categoria"
 
+# en - See Charged-Couple Device.
+# pt - Ver Dispositivo emparelhado carregado.
+msgid "CCD (charge-coupled device)"
+msgstr "CCD (dispositivo emparelhado carregado)"
+
+# en - See Closed-Circuit Television.
+# pt - Ver Televisão em circuito fechado
+msgid "CCTV (closed-circuit television)"
+msgstr "CCTV (televisão em circuito fechado)"
+
 msgid "Cell"
 msgstr "Célula"
 
@@ -5268,6 +5331,9 @@ msgstr "Centre, Centrar, Centro"
 msgid "Centered"
 msgstr "Centrado"
 
+msgid "Bevel"
+msgstr "Chanfro"
+
 # en -
 # pt - "Preenchido" será o mais adequado mas pode não caber"
 msgid "Filled"
@@ -5275,6 +5341,16 @@ msgstr "Cheio, Preenchido"
 
 msgid "Chinese"
 msgstr "Chinês"
+
+# en - Heavy random noise.
+# pt - Ruído pesado aleatório.
+msgid "Snow"
+msgstr "Chuva"
+
+# en - Either a repeating section of audio or video material (or of cartoon cells) or a synonym for "post-sync": dialog replacement (i.e. dubbing) during post-processing to improve audio quality.
+# pt - Quer uma secção repetitiva de material áudio ou vídeo (ou de células de desenhos animados) ou um sinónimo de "pós-sync": substituição de diálogo (isto é, dobragem) durante o pós-processamento para melhorar a qualidade de áudio.
+msgid "Loop"
+msgstr "Ciclo"
 
 msgid "Top"
 msgstr "Cimo, Topo"
@@ -5285,6 +5361,11 @@ msgstr "Círculo"
 msgid "Class"
 msgstr "Classe"
 
+# en - A use class shares certain important aspects of specific use cases that are common to other use cases, allowing you to make video quality requirements generalizations between them. For example, all use cases have an analyst and a scene under observation. To identify a use class, the next step is to derive generalized aspects from the analyst's intended use of the video (Use Characteristics — usage timeframe, discrimination level) and what is in the scene under observation (Scene Content — target size, motion, lighting level). See also, the Generalized Use Class Aspects topic for more information.
+# pt - Uma classe de uso partilha certos aspectos importantes de casos de uso específico que são comuns a outros casos de uso, permitindo-lhe fazer generalizações dos requisitos de qualidade de vídeo entre eles. Por exemplo, todos os casos de utilização têm um analista e uma cena sob observação. Para identificar uma classe de uso, o passo seguinte é derivar aspectos generalizados do uso pretendido do vídeo por parte do analista (Características de uso - tempo de uso, nível de discriminação) e o que está na cena em observação (Conteúdo da cena - tamanho do alvo, movimento, nível de iluminação). Ver também, o tópico Aspectos de Classe de Uso Generalizado para mais informações.
+msgid "Use Class"
+msgstr "Classe de uso"
+
 msgid "Click"
 msgstr "Clique, Clicar"
 
@@ -5294,11 +5375,35 @@ msgstr "Clique direito"
 msgid "Left Click"
 msgstr "Clique esquerdo"
 
-# en -
-# pt - Palavra com vários significados mas que pode significar
-#      genericamente cobrir, abranger, etc.
+# en - A type of digital camera sensor.
+# pt - Um tipo de sensor de câmara digital.
+msgid "CMOS (complementary metal-oxide-semiconductor)"
+msgstr "CMOS (semi-condutor complementar semi-óxido)"
+
+# en - The first standard for CCTV lens screw mounting. This mounting is defined by a 1-inch (2.54 cm) diameter hole with 32 TPI (turns/threads per inch), female on the camera side, male on the lens side, and a back flange-to-CCD distance of 17.526 mm (0.69 inches). The C-mount description applies to both lenses and cameras. C-mount lenses can be put on both, C-mount and CS-mount cameras; only in the latter case a 5 mm (.19 inches) adaptor is required.
+# pt - O primeiro padrão para montagem de lentes de CCTV com parafusos. Esta montagem é definida por um furo de 1 polegada (2,54 cm) de diâmetro com 32 TPI (voltas/fios por polegada), fêmea do lado da câmara, macho do lado da lente, e uma distância entre a falange posterior e o CCD de 17,526 mm (0,69 polegadas). A descrição da montagem em C aplica-se tanto às lentes como às câmaras. As lentes de montagem em C podem ser colocadas em ambas as câmaras, montagem em C e montagem em CS; apenas no último caso é necessário um adaptador de 5 mm (0,19 polegadas).
+msgid "C-Mount"
+msgstr "C-Mount"
+
+# en - A word with several meanings but which can generically mean to cover, to encompass, etc.
+# pt - Palavra com vários significados mas que pode significar genericamente cobrir, abranger, etc.
 msgid "Span"
 msgstr "Cobre, Abrange"
+
+# en - 
+#a) The algorithm used to capture analog video or audio in digital form.
+#b) Used to implement the physical combination of the coding and decoding circuits.
+#c) A device for converting signals from analog to coded digital and then back again for use in digital transmission schemes. Most codecs employ proprietary coding algorithms for data compression.
+# pt - #a) O algoritmo utilizado para capturar vídeo ou áudio analógico em formato digital.
+#b) Utilizado para implementar a combinação física dos circuitos de codificação e descodificação.
+#c) Um dispositivo de conversão de sinais do analógico para o digital codificado e depois de novo para utilização em esquemas de transmissão digital. A maioria dos codecs empregam algoritmos de codificação proprietários para compressão de dados.
+msgid "CODEC (Coding/Decoding)"
+msgstr "CODEC (codificar/descodificar)"
+
+# en - A device which produces an NTSC color signal from separate R, G, and B video inputs.
+# pt - Um dispositivo que produz um sinal de cor NTSC a partir de entradas de vídeo R, G, e B separadas.
+msgid "Color Encoder"
+msgstr "Codificador de cor"
 
 msgid "Code"
 msgstr "Código"
@@ -5332,6 +5437,23 @@ msgstr "Complexo"
 
 msgid "Component"
 msgstr "Componente"
+
+# en - Equipment in the video system that can change the video signal, thereby affecting the quality of the delivered video.
+# pt - Equipamento no sistema de vídeo que pode alterar o sinal de vídeo, afectando assim a qualidade do vídeo entregue.
+msgid "Core Components"
+msgstr "Componentes nucleares"
+
+# en - 
+#a) The process of electronically processing a digital video picture to make it use less storage or to allow more video to be sent down a transmission channel.
+#b) The process of removing picture data to decrease the size of a video image. c) The reduction in the volume of data from any given process so that more data can be stored in a smaller space.
+#There are a variety of compression schemes that can be applied to data of which MPEG-1 and MPEG-2 are called lossy since the data produced by compression is not totally recoverable. There are other compression schemes that are totally recoverable, but the degree of compression is much more limited.
+# pt - 
+#a) O processo de processamento electrónico de uma imagem de vídeo digital para que utilize menos armazenamento ou para permitir que mais vídeo seja enviado por um canal de transmissão.
+#b) O processo de remoção de dados de imagem para diminuir o tamanho de uma imagem de vídeo. 
+#c) A redução do volume de dados de um determinado processo para que mais dados possam ser armazenados num espaço menor.
+#Há uma variedade de esquemas de compressão que podem ser aplicados a dados dos quais MPEG-1 e MPEG-2 são chamados de lossy, uma vez que os dados produzidos pela compressão não são totalmente recuperáveis. Existem outros esquemas de compressão que são totalmente recuperáveis, mas o grau de compressão é muito mais limitado.
+msgid "Compression"
+msgstr "Compressão"
 
 msgid "Successfully"
 msgstr "Com sucesso"
@@ -5378,6 +5500,11 @@ msgstr "Contraste"
 msgid "Driver"
 msgstr "Controlador"
 
+# en - The crossover of the three electron beams of a three-gun tri-color picture tube. This normally occurs at the plane of the aperture mask.
+# pt - O cruzamento dos três feixes de electrões de um tubo de imagem tricolor de três pistolas. Isto ocorre normalmente no plano da máscara da abertura.
+msgid "Convergence"
+msgstr "Convergência"
+
 msgid "Conversion"
 msgstr "Conversão"
 
@@ -5398,8 +5525,33 @@ msgstr "Continue, Continuar"
 msgid "Border"
 msgstr "Contorno"
 
+# en - The range of light to dark values in a picture or the ratio between the maximum and minimum brightness values.
+# pt - A gama de valores de luz a escuro numa imagem ou a relação entre os valores máximo e mínimo de brilho.
+msgid "Contrast"
+msgstr "Contraste"
+
 msgid "Control"
 msgstr "Controlo"
+
+# en - In display devices, the self-acting mechanism which controls brightness of the device as a function of ambient light.
+# pt - Nos dispositivos de visualização, o mecanismo auto-activo que controla a luminosidade do dispositivo em função da luz ambiente.
+msgid "Automatic Brightness Control"
+msgstr "Controlo de brilho automático"
+
+# en - A color TV receiver control that regulates the saturation (vividness) of colors in a picture.
+# pt - Um controlo do receptor de TV a cores que regula a saturação (vividez) das cores numa imagem.
+msgid "Chroma Control"
+msgstr "Controlo de croma"
+
+# en - See AGC
+# pt - Ver AGC
+msgid "Automatic Gain Control"
+msgstr "Controlo de ganho automático"
+
+# en - The process by which the illumination incident upon the face of a pickup device is automatically adjusted as a function of scene brightness.
+# pt - O processo pelo qual o incidente de iluminação na face de um dispositivo de captação é automaticamente ajustado em função do brilho da cena.
+msgid "Automatic Light Control"
+msgstr "Controlo de luz automático"
 
 msgid "Convert"
 msgstr "Converter"
@@ -5410,6 +5562,8 @@ msgstr "Convertido"
 msgid "Copy"
 msgstr "Copie, Copiar"
 
+# en - A visual perception that humans correspond to the categories called red, green, blue and others.
+# pt - Uma percepção visual a que os seres humanos correspondem às categorias chamadas vermelho, verde, azul e outras.
 msgid "Color"
 msgstr "Cor"
 
@@ -5419,8 +5573,28 @@ msgstr "Cor da letra"
 msgid "Background color"
 msgstr "Cor de fundo"
 
+# en - Spurious colors introduced into the picture by the change in position of the televised object from field to field.
+# pt - Cores espúrias introduzidas na imagem pela mudança na posição do objecto televisivo de campo para campo.
+msgid "Color Fringing"
+msgstr "Cor marginal"
+
+# en - Three colors wherein no mixture of any two can produce the third. In color television these are the additive primary colors red, blue and green.
+# pt - Três cores em que nenhuma mistura de duas pode produzir a terceira. Na televisão a cores, estas são as cores primárias aditivas vermelho, azul e verde.
+msgid "Primary Colors"
+msgstr "Cores primárias"
+
 msgid "AutoCorrect"
 msgstr "Correcção automática"
+
+# en - Compensation for the loss in sharpness of detail because of the finite dimensions of the image elements or the dot-pitch of the monitor.
+# pt - Compensação pela perda de nitidez dos detalhes devido às dimensões finitas dos elementos de imagem ou ao ponto de inclinação do monitor.
+msgid "Aperture Correction"
+msgstr "Correcção de abertura"
+
+# en - To provide for a linear transfer characteristic from input to output device.
+# pt - Para proporcionar uma característica de transferência linear desde o dispositivo de entrada até ao dispositivo de saída.
+msgid "Gamma Correction"
+msgstr "Correcção gama"
 
 msgid "Mail"
 msgstr "Correio"
@@ -5442,8 +5616,28 @@ msgstr "Critério"
 msgid "Screen (SVG)"
 msgstr "Crivar"
 
+# en - The quality of color that embraces both hue and saturation. White, black, and grays have no chroma.
+# pt - A qualidade da cor que abraça tanto a tonalidade como a saturação. Branco, preto e cinzento não têm cor cromática.
+msgid "Chroma"
+msgstr "Croma"
+
+# en - The color quality of light that is defined by the wavelength (hue) and saturation. Chromaticity defines all the qualities of color except its brightness.
+# pt - A qualidade de cor da luz que é definida pelo comprimento de onda (tonalidade) e saturação. A cromaticidade define todas as qualidades da cor excepto a sua luminosidade.
+msgid "Chromaticity"
+msgstr "Cromaticidade"
+
+# en - A color term defining the hue and saturation of a color. Chrominance does not refer to brightness.
+# pt - Um termo de cor que define a tonalidade e saturação de uma cor. A crominância não se refere à luminosidade.
+msgid "Chrominance"
+msgstr "Crominância"
+
 msgid "Timeline"
 msgstr "Cronologia"
+
+# en - A standard for CCTV lens screw mounting. This mounting is defined by a 1-inch (2.54 mm) diameter hole with 32 TPI (turns/threads per inch), female on the camera side, male on the lens side, and a back flange-to-CCD distance of 12.5 mm (0.49 inches). The CS-mount description applies to both lenses and cameras. CS-mount lens cannot be put on C-mount cameras. C-mount lenses can be put on CS-mount cameras but a 5 mm (1.9 inches) adaptor is required.
+# pt - Uma norma para montagem de lentes de CCTV com parafusos. Esta montagem é definida por um furo de 1 polegada (2,54 mm) de diâmetro com 32 TPI (voltas/fios por polegada), fêmea do lado da câmara, macho do lado da lente, e uma distância de 12,5 mm (0,49 polegadas) entre o flange e o CCD. A descrição CS-mount aplica-se tanto às lentes como às câmaras. As lentes CS-mount não podem ser colocadas em câmaras de montagem em C. As lentes de montagem C podem ser colocadas em câmaras de montagem CS, mas é necessário um adaptador de 5 mm (1,9 polegadas).
+msgid "CS-Mount"
+msgstr "CS-Mount"
 
 # Este termo é usado em programas de comunicação na rede.
 # Não é o aperto de mão tradicional
@@ -5467,8 +5661,18 @@ msgstr "Palavras portuguesas começadas com a letra D"
 msgid "Data"
 msgstr "Dados"
 
+# en - An acronym for Digital Audio Tape. Developed by Sony in 1987, it looks similar to an analogue audio cassette but contains professional quality digital information. It is capable of high fidelity music reproduction.
+# pt - Um acrónimo de Digital Audio Tape. Desenvolvida pela Sony em 1987, parece semelhante a uma cassete áudio analógica mas contém informação digital de qualidade profissional. É capaz de reprodução de música de alta fidelidade.
+msgid "DAT"
+msgstr "DAT"
+
 msgid "Date"
 msgstr "Data"
+
+# en - A measure of the power ratio of two signals. In system use, a measure of the voltage ratio of two signals, provided they are measured across a common impedance.
+# pt - Uma medida da relação de potência de dois sinais. Na utilização do sistema, uma medida da relação de voltagem de dois sinais, desde que estes sejam medidos através de uma impedância comum.
+msgid "dB (Decibel)"
+msgstr "dB (Decibel)"
 
 # en -
 # pt - não traduzir: https://pt.wikipedia.org/wiki/Dynamic_Data_Exchange
@@ -5482,6 +5686,11 @@ msgid "Statement"
 msgstr "Declaração"
 
 msgid "Setting"
+msgstr "Definição"
+
+# en - The aggregate of fine details available on-screen. The higher the definition of an image, the greater the number of details [that can be discerned by the human eye or displayed]. During video recording and subsequent playback, several factors can conspire to cause a loss of definition. Among these are the limited frequency response of magnetic tapes and signal losses associated with electronic circuitry employed in the recording process. These losses occur because fine details appear in the highest frequency region of a video signal and this portion is usually the first casualty of signal degradation. Each additional generation of a videotape results in fewer and fewer fine details as losses are accumulated.
+# pt - O agregado de detalhes finos disponíveis no ecrã. Quanto maior for a definição de uma imagem, maior será o número de detalhes [que podem ser discernidos pelo olho humano ou exibidos]. Durante a gravação de vídeo e subsequente reprodução, vários factores podem conspirar para causar uma perda de definição. Entre estes estão a resposta de frequência limitada das fitas magnéticas e as perdas de sinal associadas aos circuitos electrónicos utilizados no processo de gravação. Estas perdas ocorrem porque detalhes finos aparecem na região de maior frequência de um sinal de vídeo e esta porção é normalmente a primeira vítima da degradação do sinal. Cada geração adicional de uma cassete de vídeo resulta em cada vez menos detalhes finos à medida que as perdas são acumuladas.
+msgid "Definition"
 msgstr "Definição"
 
 msgid "Defined"
@@ -5510,6 +5719,11 @@ msgstr "Desactivar"
 
 msgid "Descending"
 msgstr "Descendente"
+
+# en - Device used to recover the component signals from a composite (encoded) source. Decoders are used in displays and in various processing hardware where components signals are required from a composite source such as composite chroma keying or color correction equipment. Device that changes digital signals to analog, or reconstructs information (data) by performing the inverse (reverse) functions of an encode process.
+# pt - Dispositivo utilizado para recuperar os sinais componentes de uma fonte composta (codificada). Os descodificadores são utilizados em ecrãs e em vários equipamentos de processamento onde são necessários sinais componentes de uma fonte composta, tais como chaveamento de cromatização composta ou equipamento de correcção de cor. Dispositivo que altera sinais digitais para analógicos, ou reconstrói informação (dados) executando as funções inversas (invertidas) de um processo de codificação.
+msgid "Decoder"
+msgstr "Descodificador"
 
 msgid "Unknown"
 msgstr "Desconhecido"
@@ -5560,6 +5774,11 @@ msgstr "Detalhado"
 msgid "Detail"
 msgstr "Detalhe"
 
+# en - Detects the absence of chrominance information in a color encoder input. The chroma detector automatically deletes the color burst from the color encoder output when the absence of chrominance is detected.
+# pt - Detecta a ausência de informação de cor numa entrada de codificador de cor. O detector de crominância elimina automaticamente a explosão de cor da saída do codificador de cor quando é detectada a ausência de crominância.
+msgid "Chroma Detector"
+msgstr "Detector de cor"
+
 msgid "Determined"
 msgstr "Determinado"
 
@@ -5591,7 +5810,13 @@ msgstr "Diapositivo"
 msgid "Dialog"
 msgstr "Diálogo"
 
-# Pode ser "Explorar". Exemplo: "Scan mailbox" -> Explorar caixa de correio
+# en - Converting analog audio and/or video into digital form.
+# pt - Conversão de áudio e/ou vídeo analógico em formato digital.
+msgid "Digitizing"
+msgstr "Digitalizar"
+
+# en - audit, check (out), con, examine, inspect, overlook, oversee, review, scrutinize, survey, view, analyze
+# pt - auditar, verificar, vigiar, examinar, inspeccionar, supervisionar, rever, vigiar, ver, analisar, digitalizar
 msgid "Scan"
 msgstr "Digitalizar"
 
@@ -5621,6 +5846,32 @@ msgstr "Disposição, Esquema"
 msgid "Device"
 msgstr "Dispositivo"
 
+# en -
+# a) A semiconductor device that converts optical images to electronic signals. CCDs are the most commonly found type of image sensor in consumer camcorders and video cameras.
+# b) Serial storage technology that uses MOS capacitors.
+# c) A solid-state image sensor that converts light energy to electricity.
+# pt -
+# a) Um dispositivo semicondutor que converte imagens ópticas em sinais electrónicos. Os CCDs são o tipo de sensor de imagem mais comummente encontrado em câmaras de vídeo e câmaras de vídeo de consumo.
+# b) Tecnologia de armazenamento em série que utiliza condensadores MOS.
+# c) Um sensor de imagem de estado sólido que converte energia luminosa em electricidade.
+msgid "Charged Couple Device"
+msgstr "Dispositivo emparelhado carregado"
+
+# en - The distance from the focal point to the principal point of the lens. The focal length is usually measured in millimeters of the lens. Focal length is an indication of the lens capability to capture a wide angle of view or a narrow view of objects that are far away (telephoto).
+# pt - A distância entre o ponto focal e o ponto principal da lente. A distância focal é normalmente medida em milímetros da lente. A distância focal é uma indicação da capacidade da lente para captar um ângulo de visão amplo ou uma visão estreita de objectos que se encontram longe (tele-objectiva).
+msgid "Focal Length (of a lens)"
+msgstr "Distância focal (da lente)"
+
+# en - The deviation of the received signal waveform from that of the original transmitted waveform.
+# pt - O desvio da forma de onda do sinal recebido em relação à forma de onda original transmitida.
+msgid "Distortion"
+msgstr "Distorção"
+
+# en - An undesired change in a waveform or signals which occur at low frequencies. In television, generally considered as any frequency below the 15.75-kHz line frequency.
+# pt - Uma alteração indesejada numa forma de onda ou sinais que ocorrem a baixas frequências. Na televisão, geralmente considerada como qualquer frequência abaixo da frequência da linha de 15,75-kHz.
+msgid "Low-Frequency Distortion"
+msgstr "Distorção de baixa frequência"
+
 msgid "Warp"
 msgstr "Distorcer"
 
@@ -5629,6 +5880,11 @@ msgstr "Distribuição"
 
 msgid "Distro"
 msgstr "Distribuição"
+
+# en - Small, rapid variations in a waveform due to mechanical disturbances or to changes in the characteristic of components. Supply voltages, imperfect synchronizing signals, circuits, frequency pulses, etc.
+# pt - Pequenas e rápidas variações numa forma de onda devido a perturbações mecânicas ou a alterações nas características dos componentes. Tensões de alimentação, sinais de sincronização imperfeitos, circuitos, impulsos de frequência, etc.
+msgid "Jitter"
+msgstr "Distúrbio"
 
 msgid "Split"
 msgstr "Dividir"
@@ -5650,6 +5906,11 @@ msgstr "Duplicado"
 
 msgid "Double"
 msgstr "Duplo"
+
+# en - An acronym for "Digital Versatile Disk". It is the same size as a compact disc (CD). A single-layer DVD has a storage capacity of 4.7 GB and a dual-layer disc has a capacity of 8.5 GB.
+# pt - Um acrónimo para "Digital Versatile Disk" (Disco Versátil Digital). Tem o mesmo tamanho de um disco compacto (CD). Um DVD de uma camada tem uma capacidade de armazenamento de 4,7 GB e um disco de dupla camada tem uma capacidade de 8,5 GB.
+msgid "DVD"
+msgstr "DVD"
 
 # en - LETTER E
 # pt - LETRA E
@@ -5740,6 +6001,11 @@ msgstr "Enviar"
 
 msgid "Upload"
 msgstr "Enviar"
+
+# en - A system for detecting errors in color balance in white and black areas of the picture and automatically adjusting the white and black levels of both the red and blue signals as needed for correction.
+# pt - Um sistema para detectar erros no equilíbrio de cores nas áreas brancas e pretas da imagem e ajustar automaticamente os níveis de branco e preto dos sinais vermelho e azul, conforme necessário para a correcção.
+msgid "Auto Balance"
+msgstr "Equilíbrio automático"
 
 msgid "Wrong"
 msgstr "Errado"
@@ -5864,6 +6130,11 @@ msgstr "Palavras portuguesas começadas com a letra F"
 msgid "Failed"
 msgstr "Falha"
 
+# en - A spurious image resulting from an echo.
+# pt - Uma imagem espúria resultante de um eco.
+msgid "Ghost"
+msgstr "Fantasma"
+
 msgid "Fax"
 msgstr "Fax"
 
@@ -5882,8 +6153,48 @@ msgstr "Fevereiro"
 msgid "february"
 msgstr "Fevereiro"
 
+# en - The technology of transferring information, e.g., in communications or computer technology, through thin flexible glass or plastic tubes of optical fibers using modulated light waves.
+# pt - # pt - A tecnologia de transferência de informação, por exemplo, em comunicações ou tecnologia informática, através de tubos flexíveis finos de vidro ou plástico de fibras ópticas utilizando ondas de luz modulada.
+msgid "Fiber Optics (use of light transmitted through fibers)"
+msgstr "Fibra óptica (uso de luz transmitida através de fibras)"
+
+# en - Also called RCA connector, it is a widely used cable connector for home audio and video equipment.
+# pt - Também chamado conector RCA, é um conector de cabo amplamente utilizado para equipamento de áudio e vídeo doméstico.
+msgid "Phono plug"
+msgstr "Ficha áudio, ficha RCA"
+
+# en - The extent to which an electronic device such as a stereo system or television accurately reproduces sound or images. a) In interlaced scan systems, the information for one picture is divided up into two fields. Each field contains one-half of the lines required to produce the entire picture. Adjacent lines in the picture are in alternate fields. b) Half of the horizontal lines (262.5 in NTSC and 312.5 in PAL) needed to create a complete picture. c) One complete vertical scan of an image. In a progressive scanning system, all of the scanning lines comprising a frame also comprise a field. d) An area in a window in which you can type text. e) A television picture is produced by scanning the TV screen with an electron beam. One complete scan of the screen is called a field. Two fields are required to make a complete picture, which is called a frame. The duration of a field is approximately 1/60 of a second in NTSC and 1/50 or 1/60 of a second in PAL. f) One half of a complete interlaced video picture (frame), containing all the odd or even scanning lines of the picture.
+# pt - # pt - A medida em que um dispositivo electrónico como um sistema de estéreo ou televisão reproduz com precisão som ou imagens.
+#a) Em sistemas de digitalização entrelaçados, a informação de uma imagem é dividida em dois campos. Cada campo contém metade das linhas necessárias para produzir a imagem inteira. As linhas adjacentes na imagem encontram-se em campos alternativos.
+#b) Metade das linhas horizontais (262,5 em NTSC e 312,5 em PAL) necessárias para criar uma imagem completa. #c) Uma varredura vertical completa de uma imagem. Num sistema de varrimento progressivo, todas as linhas de varrimento que compreendem uma moldura também compreendem um campo.
+#d) Uma área numa janela na qual se pode digitar texto.
+#e) Uma imagem de televisão é produzida por varrimento do ecrã de televisão com um feixe de electrões. Uma varredura completa do ecrã é chamada campo. Dois campos são necessários para fazer uma imagem completa, a que se chama uma moldura. A duração de um campo é aproximadamente 1/60 de um segundo em NTSC e 1/50 ou 1/60 de um segundo em PAL.
+#f) Uma metade de uma imagem de vídeo completa entrelaçada (moldura), contendo todas as linhas ímpares ou uniformes de varrimento da imagem.
+msgid "Fidelity (precision of reproduction field)"
+msgstr "Fidelidade (precisão do campo de reprodução)"
+
+# en - An electronic filter that attenuates audio frequencies below a certain level and allows them above that level.
+# pt - Um filtro electrónico que atenua as frequências de áudio abaixo de um determinado nível e as permite acima desse nível.
+msgid "High Pass Filter"
+msgstr "Filtro passa-altos"
+
+# en - A filter that attenuates frequencies above a specified frequency and allows those below that value to pass.
+# pt - Um filtro que atenua as frequências acima de uma frequência especificada e permite que as frequências abaixo desse valor passem.
+msgid "Lowpass Filter"
+msgstr "Filtro passa-baixos"
+
+# en - A filter that attenuates light evenly over the visible light spectrum. It reduces the light entering a lens, thus forcing the iris to open to its maximum.
+# pt - Um filtro que atenua a luz uniformemente sobre o espectro de luz visível. Reduz a luz que entra numa lente, forçando assim a íris a abrir ao seu máximo.
+msgid "Neutral Density Filter (ND filter)"
+msgstr "Filtro de densidade neutra (ND)"
+
 msgid "Fixed"
 msgstr "Fixo"
+
+# en - This effect is sometimes called whiter-than-white. Blooming occurs when the white voltage level is exceeded and screen objects become fuzzy and large. The defocusing of regions of a picture where brightness is excessive.
+# pt - Este efeito é por vezes chamado de branco mais branco que branco. A floração ocorre quando o nível de voltagem branca é excedido e os objectos de ecrã se tornam confusos e grandes. A desfocagem de regiões de uma imagem onde o brilho é excessivo.
+msgid "Blooming"
+msgstr "Florescente"
 
 msgid "Flow"
 msgstr "Fluxo"
@@ -5917,6 +6228,16 @@ msgstr "Fonte de dados"
 msgid "Fontwork"
 msgstr "Fontwork"
 
+# en - See Lumen/FT2.
+# pt - Ver Lumen/FT2
+msgid "Footcandle"
+msgstr "Footcandle"
+
+# en - A unit of luminance equal to 1 / Π candela per square foot or to the uniform luminance at a perfectly diffusing surface emitting or reflecting light at the rate of one lumen per square foot. A lumen per square foot is a unit of incident light and a footlambert is a unit of emitted or reflected light. For a perfectly reflecting and perfectly diffusing surface, the number of lumens per square foot is equal to the number of footlamberts.
+# pt - Uma unidade de luminância igual a 1 / Π candela por pé quadrado ou à luminância uniforme numa superfície perfeitamente difusa que emite ou reflecte luz à taxa de um lúmen por pé quadrado. Um lúmen por pé quadrado é uma unidade de luz incidente e um footlambert é uma unidade de luz emitida ou reflectida. Para uma superfície perfeitamente reflectora e perfeitamente difusora, o número de lúmenes por pé quadrado é igual ao número de footlamberts.
+msgid "Footlambert (FL)"
+msgstr "Footlambert (FL)"
+
 msgid "Morph"
 msgstr "Formar"
 
@@ -5935,11 +6256,26 @@ msgstr "Formate, Formatar"
 msgid "File format"
 msgstr "Formato de ficheiro"
 
+# en - A camera raw image file contains minimally processed data from the image sensor of either a digital camera, image or motion picture film scanner. Raw files are so named because they are not yet processed and therefore are not ready to be printed or edited with a bitmap graphics editor. Normally, the image is processed by a raw converter in a wide-gamut internal colorspace where precise adjustments can be made before conversion to a positive file format such as TIFF or JPEG for storage, printing, or further manipulation, which often encodes the image in a device-dependent colorspace.
+# pt - Um ficheiro de imagem raw da câmara contém dados minimamente processados do sensor de imagem de uma câmara digital, imagem ou scanner de filme cinematográfico. Os ficheiros em bruto são assim denominados porque ainda não estão processados e, portanto, não estão prontos para serem impressos ou editados com um editor gráfico bitmap. Normalmente, a imagem é processada por um conversor em bruto num amplo espaço de cor interno onde podem ser feitos ajustes precisos antes da conversão para um formato de ficheiro positivo como TIFF ou JPEG para armazenamento, impressão, ou manipulação posterior, o que muitas vezes codifica a imagem num espaço de cor dependente do dispositivo.
+msgid "Raw Image Format"
+msgstr "Formato de imagem em bruto"
+
 msgid "Formula"
 msgstr "Fórmula"
 
 msgid "Front"
 msgstr "Frente"
+
+# en - 	An arrangement whereby the frequency of an oscillator is automatically maintained within specified limits.
+# pt - Uma disposição segundo a qual a frequência de um oscilador é automaticamente mantida dentro de limites especificados.
+msgid "Automatic Frequency"
+msgstr "Frequência automática"
+
+# en - The speed or ability of a lens to pass light. It is calculated by dividing the focal length of the lens by its diameter. The f-stop also is a factor in more areas of focus in the image known as Depth of Field.
+# pt - A velocidade ou capacidade de uma lente para passar a luz. É calculada dividindo a distância focal da lente pelo seu diâmetro. O f-stop também é um factor em mais áreas de focagem na imagem conhecida como Profundidade de Campo.
+msgid "F-Stop (also known as f-number or f-system)"
+msgstr "F-Stop (f-number ou f-system"
 
 msgid "Function"
 msgstr "Função"
@@ -5961,22 +6297,33 @@ msgstr "Palavras portuguesas começadas com a letra G"
 msgid "Gallery"
 msgstr "Galeria"
 
+# en - A numerical value, or the degree of contrast in a video picture, which is the exponent of that power law which is used to approximate the curve of output magnitude versus input magnitude over the region of interest. Since picture monitors have a nonlinear relationship between the input voltage and brightness, the signal must be correspondingly pre distorted. Gamma correction is always done at the source (camera).
+# pt - Um valor numérico, ou o grau de contraste numa imagem de vídeo, que é o expoente dessa lei de potência que é utilizada para aproximar a curva de magnitude de saída versus a magnitude de entrada na região de interesse. Dado que os monitores de imagem têm uma relação não linear entre a tensão de entrada e o brilho, o sinal deve ser correspondentemente pré-distorcido. A correcção gama é sempre feita na fonte (câmara).
+msgid "Gamma"
+msgstr "Gama"
+
+# en - An increase in voltage or power, usually expressed in dB.
+# pt - Um aumento de voltagem ou potência, geralmente expresso em dB.
+msgid "Gain"
+msgstr "Ganho"
+
+# en - A device used to lock the frequency of an internal sync generator to an external source.
+# pt - Um dispositivo utilizado para bloquear a frequência de um gerador de sincronização interno a uma fonte externa.
+msgid "Genlock"
+msgstr "Genlock"
+
+# en - A fundamental component in every digital camera. The imager records the view received from the camera lens.
+# pt - Um componente fundamental em cada câmara digital. O gerador de imagens regista a vista recebida da lente da câmara.
+msgid "Digital Imager"
+msgstr "Gerador de imagens digital"
+
+# en - A device for generating a synchronizing signal.
+# pt - Um dispositivo para gerar um sinal de sincronização.
+msgid "Sync Generator"
+msgstr "Gerador de sincronização"
+
 msgid "Manager"
 msgstr "Gestor"
-
-# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
-# en - Free, as in free beer. Maybe free as a bird, who knows...
-# pt - Grátis, gratuito. Também pode ser livre como um pássaro...
-# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
-# en - Free as a bird. Maybe free as in free beer, who knows...
-# pt - Livre, como um pássaro fora da gaiola. Também pode ser grátis, gratuito...
-#, fuzzy
-msgid "Free"
-msgstr ""
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Gratuito, grátis\n"
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Livre, Solto"
 
 # en -
 # pt - NÃO traduzir por gradiente. Não se aplica à generalidade das
@@ -5995,6 +6342,11 @@ msgstr "Gráfico"
 msgid "Chart"
 msgstr "Gráfico (de barras, etc), Mapa"
 
+# en - A device which functions during the horizontal blanking or synchronizing interval to fix the level of the picture signal at some predetermined reference level at the beginning of each scanning line.
+# pt - Um dispositivo que funciona durante o corte horizontal ou intervalo de sincronização para fixar o nível do sinal da imagem a um nível de referência pré-determinado no início de cada linha de varrimento.
+msgid "Clamp"
+msgstr "Grampo, pinça, braçadeira"
+
 # en - Save Data, Store clothing, Save lives
 # pt - Gravar dados, Guardar roupa, Salvar vidas
 msgid "Save"
@@ -6003,6 +6355,11 @@ msgstr "Grave, Gravar"
 msgid "Saved"
 msgstr "Gravado"
 
+# en - The process by which images are recorded at less than the standard rate of frames per second (NTSC — 29.97; PAL — 25.00) thus extending the period of time that can be covered by the storage medium.
+# pt - O processo pelo qual as imagens são registadas a uma taxa inferior à taxa padrão de fotogramas por segundo (NTSC - 29,97; PAL - 25,00) prolongando assim o período de tempo que pode ser coberto pelo meio de armazenamento.
+msgid "Time Lapse Video Recording"
+msgstr "Gravar vídeo com atraso"
+
 msgid "Guide"
 msgstr "Guia"
 
@@ -6010,6 +6367,24 @@ msgstr "Guia"
 # pt - LETRA H
 msgid "Portuguese words starting with the letter H"
 msgstr "Palavras portuguesas começadas com a letra H"
+
+# en - Also known as MPEG-4 AVC (Advanced Video Coding) it is now one of the most commonly used recording formats for high definition video. It offers significantly greater compression than previous formats.
+# pt - Também conhecido como MPEG-4 AVC (Advanced Video Coding) é agora um dos formatos de gravação mais comummente utilizados para vídeo de alta definição. Oferece uma compressão significativamente maior do que os formatos anteriores.
+msgid "H.264"
+msgstr "H.264"
+
+# en - a) General term for standards pertaining to consumer high-resolution TV. b) A TV format capable of displaying on a wider screen (16:9) as opposed to the conventional 4:3) and at higher resolution. Rather than a single HDTV standard the FCC has approved several different standards, allowing broadcasters to choose which to use. This means new TV sets will have to support all of them. All of the systems will be broadcast as component digital. c) By HDTV, we normally understand transmission, rendering and display systems that feature about double the number of scanning lines, improved color quality, and less artifacts than that of composite systems.
+# pt -
+#a) Termo geral para as normas relativas à TV de alta resolução de consumo.
+#b) Um formato de TV capaz de exibir num ecrã mais largo (16:9) em oposição ao convencional 4:3) e em resolução mais alta. Em vez de uma única norma HDTV, a FCC aprovou várias normas diferentes, permitindo aos radiodifusores escolher quais utilizar. Isto significa que os novos televisores terão de suportar todos eles. Todos os sistemas serão transmitidos como componentes digitais.
+#c) Por HDTV, normalmente entendemos sistemas de transmissão, renderização e exibição que apresentam cerca do dobro do número de linhas de digitalização, melhor qualidade de cor, e menos artefactos do que os sistemas compostos.
+msgid "HDTV (high-definition television)"
+msgstr "HDTV (televisão de alta definição)"
+
+# en - The standard unit for measuring frequency. One hertz (abbreviated Hz) equals one cycle per second. It is commonly used to measure sound waves, light waves and radio waves.
+# pt - A unidade padrão para medir a frequência. Um hertz (Hz abreviado) equivale a um ciclo por segundo. É normalmente usada para medir ondas sonoras, ondas de luz e ondas de rádio.
+msgid "Hertz"
+msgstr "Hertz"
 
 # en -
 # pt - pode-se usar "Hifenação"
@@ -6054,11 +6429,37 @@ msgstr "Ignorar"
 msgid "Skip, skipped"
 msgstr "Ignorar, ignorado"
 
+# en -
+#a) A bit stream duplicate of the original data.
+#b) An imitation or representation of a person or thing, drawn, painted, photographed, axis etc.
+# pt -
+#a) Um bit stream duplicado dos dados originais.
+#b) Uma imitação ou representação de uma pessoa ou coisa, desenhado, pintado, fotografado, eixo, etc.
 msgid "Image"
 msgstr "Imagem"
 
 msgid "Picture"
 msgstr "Imagem"
+
+# en - Any image that has undergone enhancement, restoration or other operation.
+# pt - Qualquer imagem que tenha sido objecto de melhoramento, restauração ou outra operação.
+msgid "Processed Image"
+msgstr "Imagem processada"
+
+# en - Also called burn. An image which persists in a fixed position in the output signal of a camera tube after the camera has been turned to a different scene or, on a monitor screen.
+# pt - Também chamado queimadura. Uma imagem que persiste numa posição fixa no sinal de saída de um tubo de câmara após a câmara ter sido rodada para uma cena diferente ou, num ecrã de monitor.
+msgid "Burned-In-Image"
+msgstr "Imagem queimada"
+
+# en - Also called image burn. A change produced in or on the target which remains for a large number of frames after the removal of a previously stationary light image and which yields a spurious electrical signal corresponding to that light image.
+# pt - Também chamada queimadura de imagem. Uma alteração produzida no ou sobre o alvo que permanece para um grande número de fotogramas após a remoção de uma imagem de luz anteriormente estacionária e que produz um sinal eléctrico espúrio correspondente a essa imagem de luz.
+msgid "Retained Image"
+msgstr "Imagem retida"
+
+# en - The total of the resistance, measured in ohms, that a circuit presents to the flow of alternating current at a given frequency (Columbia University). The characteristics of a system component that determines the type of transmission cable to be used. The cable used must have the same characteristic impedance as the component. Video distribution has standardized on 75-ohm coaxial and 124-ohm balanced cable.
+# pt - O total da resistência, medida em ohms, que um circuito apresenta ao fluxo de corrente alternada a uma dada frequência (Universidade de Columbia). As características de um componente do sistema que determina o tipo de cabo de transmissão a ser utilizado. O cabo utilizado deve ter a mesma impedância característica que o componente. A distribuição de vídeo foi padronizada em cabo coaxial de 75 ohm e cabo balanceado de 124 ohm.
+msgid "Impedance (input or output)"
+msgstr "Impedância (entrada ou saída)"
 
 msgid "Unable"
 msgstr "Impossível"
@@ -6149,6 +6550,16 @@ msgstr "Instalar"
 msgid "Embedd"
 msgstr "Integrar"
 
+# en - A device that intensifies low light-level images to light levels that can be seen with the human eye or can be detected by a video camera. (Lambert Instruments)
+# pt - Um dispositivo que intensifica imagens de baixo nível de luz para níveis de luz que podem ser vistos com o olho humano ou podem ser detectados por uma câmara de vídeo. (Instrumentos Lambert)
+msgid "Image Intensifier"
+msgstr "Intensificador de imagem"
+
+# en - Disturbance to the normal or expected operation electronic devices, equipment and systems. The inhibition or prevention of clear reception of broadcast signals.
+# pt - Perturbação do funcionamento normal ou esperado dos dispositivos electrónicos, equipamentos e sistemas. A inibição ou prevenção da recepção clara de sinais difundidos.
+msgid "Interference"
+msgstr "Interferência"
+
 msgid "Internet"
 msgstr "Internet"
 
@@ -6161,11 +6572,33 @@ msgstr "Intervalo"
 msgid "Interval"
 msgstr "Intervalo"
 
+# en - The ratio between the whitest and blackest portions of a TV image.
+# pt - A relação entre as porções mais brancas e mais negras de uma imagem de televisão.
+msgid "Contrast Range (Ratio)"
+msgstr "Intervalo de contraste (proporção)"
+
+# en - The range of light, e.g., sunlight to moonlight, over which a TV camera is capable of automatically operating at specified output.
+# pt - A gama de luz, por exemplo, luz do sol à luz da lua, sobre a qual uma câmara de televisão é capaz de funcionar automaticamente à saída especificada.
+msgid "Auto Light Range"
+msgstr "Intervalo de luz automático"
+
+# en - The difference between the maximum acceptable signal level and the minimum acceptable signal level.
+# pt - A diferença entre o nível de sinal máximo aceitável e o nível de sinal mínimo aceitável.
+msgid "Dynamic Range"
+msgstr "Intervalo dinâmico"
+
 msgid "Invalid"
 msgstr "Inválido"
 
 msgid "Flip"
 msgstr "Inverter"
+
+# en - An adjustable aperture built into a camera lens to permit control of light transmission through the lens.
+# pt - 
+#a) Uma abertura ajustável incorporada numa lente de câmara para permitir o controlo da transmissão da luz através da lente.
+#b) Zona colorida do olho humano
+msgid "Iris"
+msgstr "Íris"
 
 msgid "Italic"
 msgstr "Itálico"
@@ -6211,6 +6644,15 @@ msgstr "Juntar"
 msgid "Justified"
 msgstr "Justificado"
 
+# en - LETTER K
+# pt - LETRA K
+# Para originais em inglês, especialmente unidades de medida
+
+# en - Symbol for kilohertz. It is a unit of frequency. One kilohertz is equal to 1,000 hertz or 1,000 cycles per second.
+# pt - Símbolo para quilohertz. É uma unidade de frequência. Um quilohertz é igual a 1.000 hertz ou 1.000 ciclos por segundo.
+msgid "kHz"
+msgstr "kHz"
+
 # en - LETTER L
 # pt - LETRA L
 msgid "Portuguese words starting with the letter L"
@@ -6218,6 +6660,11 @@ msgstr "Palavras portuguesas começadas com a letra L"
 
 msgid "Width"
 msgstr "Largura"
+
+# en - The range of signal frequencies that a piece of audio or video equipment can encode or decode; the difference between the limiting frequencies of a continuous frequency band. Video uses higher frequency than audio, thus requires a wider bandwidth.
+# pt - A gama de frequências de sinal que um equipamento de áudio ou vídeo pode codificar ou descodificar; a diferença entre as frequências limite de uma banda de frequência contínua. O vídeo utiliza frequências mais elevadas do que o áudio, pelo que requer uma maior largura de banda.
+msgid "Bandwidth"
+msgstr "Largura de banda"
 
 msgid "Drop"
 msgstr "Largar"
@@ -6228,10 +6675,30 @@ msgstr "Legenda"
 msgid "Reminder"
 msgstr "Lembrete"
 
+# en - One or more pieces of curved optical glass or similar material designed to form an image of an object by converging or diverging rays of light from the object.
+# pt - Um ou mais pedaços de vidro óptico curvo ou material similar concebido para formar uma imagem de um objecto através de raios de luz convergentes ou divergentes do objecto.
+msgid "Lens"
+msgstr "Lente"
+
+# en - An optical system of continuously variable focal length, the focal plane remaining in a fixed position.
+# pt - Um sistema óptico de distância focal continuamente variável, permanecendo o plano focal numa posição fixa.
+msgid "Zoom Lens"
+msgstr "Lente de aumento"
+
+# en - A lens that automatically adjusts the amount of light reaching the imager.
+# pt - Uma lente que ajusta automaticamente a quantidade de luz que chega ao gerador de imagens.
+msgid "Automatic Iris Lens"
+msgstr "Lente de íris automática"
+
 # en -
 # pt - também se aplica a leitura de ficheiros
 msgid "Read"
 msgstr "Ler"
+
+# en - A method of displaying widescreen video on a screen with a different aspect ratio by leaving a space, usually black bars, above and below the image.
+# pt - Um método de exibição de vídeo em ecrã panorâmico num ecrã com uma relação de aspecto diferente, deixando um espaço, geralmente barras pretas, acima e abaixo da imagem.
+msgid "Letterboxing"
+msgstr "Letterboxing"
 
 # en -
 # pt - NÃO TRADUZIR por "Fonte"
@@ -6284,6 +6751,11 @@ msgstr "Ligado"
 msgid "Connect"
 msgstr "Ligar"
 
+# en - The process that established a fixed level for the picture level at the beginning of each scanning line.
+# pt - O processo que estabeleceu um nível fixo para o nível de imagem no início de cada linha de varrimento.
+msgid "Clamping"
+msgstr "Limitar"
+
 msgid "Clean"
 msgstr "Limpar"
 
@@ -6307,6 +6779,11 @@ msgstr "Lista"
 msgid "Smooth"
 msgstr "Liso"
 
+# en - Free, as in free beer. Maybe free as a bird, who knows...
+# pt - Livre, como um pássaro fora da gaiola. Também pode ser grátis, gratuito...
+msgid "Free"
+msgstr "Livre, Solto"
+
 msgid "Book"
 msgstr "Livro"
 
@@ -6318,6 +6795,36 @@ msgstr "Local"
 
 msgid "Location"
 msgstr "Localização"
+
+# en - A unit of measurement of the amount of brightness that comes from a light source. Lumens define “luminous flux,” which is energy within the range of frequencies we perceive as light.
+# pt - Uma unidade de medida da quantidade de brilho que vem de uma fonte de luz. Os lumens definem "fluxo luminoso", que é a energia dentro da gama de frequências que percebemos como luz.
+msgid "Lumen (LM)"
+msgstr "Lumen (LM)"
+
+# en - A unit of incident light. It is the illumination on a surface one square foot in area on which a flux of one lumen is uniformly distributed, or the illumination at a surface all points of which are at a distance of one foot from a uniform source of one candela.
+# pt - Uma unidade de luz incidente. É a iluminação numa superfície de um pé quadrado numa área em que um fluxo de um lúmen é uniformemente distribuído, ou a iluminação numa superfície cujos pontos se encontram todos a uma distância de um pé de uma fonte uniforme de uma candela.
+msgid "Lumen/FT2"
+msgstr "Lumen/FT2"
+
+# en - Luminous intensity of any surface in a given direction per unit of projected area of the surface viewed from that direction. The amount of brightness, measured in lumens that is given off by a pixel or area on a screen.
+# pt - Intensidade luminosa de qualquer superfície numa dada direcção por unidade de área projectada da superfície vista a partir dessa direcção. A quantidade de brilho, medida em lúmenes que é emitida por um pixel ou área num ecrã.
+msgid "Luminance (Photometric Brightness)"
+msgstr "Luminância (brilho fotométrico)"
+
+# en - SI unit of illumination, equal to one lumen per square meter. Lux is a measurement in light intensity.
+# pt - unidade SI de iluminação, igual a um lúmen por metro quadrado. Lux é uma medida em intensidade luminosa.
+msgid "Lux"
+msgstr "Lux"
+
+# en - Electromagnetic radiation that has a wavelength in the range from about 400 to 750 nm and may be perceived by the normal unaided human eye.
+# pt - radiação electromagnética que tem um comprimento de onda na gama de cerca de 400 a 750 nm e que pode ser percebida pelo olho humano normal sem ajuda.
+msgid "Light"
+msgstr "Luz"
+
+# en - The direct light that falls on an object.
+# pt - A luz directa que cai sobre um objecto.
+msgid "Incident Light"
+msgstr "Luz incidente"
 
 # en - LETTER M
 # pt - LETRA M
@@ -6376,8 +6883,26 @@ msgstr "Margem"
 msgid "Margin"
 msgstr "Margem"
 
+# en - Corresponds to colors such as red, blue, etc. A color wheel contains basic pigments. All the hues of the rainbow encircle the cone's perimeter. The wavelength of the color that allows color to be distinguished such as red, blue and green. Often used synonymously with the term tint. It is the dominant wavelength that distinguishes a color such as red, yellow, etc. Most commonly, video hue is influenced by a camera's white balance or scene lighting. Video color processors, such as the video equalizer, are the main tools used to adjust and correct hue problems.
+# pt - Corresponde a cores como o vermelho, azul, etc. Uma roda de cor contém pigmentos básicos. Todas as tonalidades do arco-íris circundam o perímetro do cone. O comprimento de onda da cor que permite distinguir cores como o vermelho, o azul e o verde. Muitas vezes utilizado como sinónimo com o termo tinturão. É o comprimento de onda dominante que distingue uma cor tal como o vermelho, amarelo, etc. Mais frequentemente, a tonalidade do vídeo é influenciada pelo equilíbrio branco de uma câmara ou pela iluminação de uma cena. Os processadores de cor de vídeo, tais como o equalizador de vídeo, são as principais ferramentas utilizadas para ajustar e corrigir problemas de matizes.
 msgid "Hue"
 msgstr "Matiz"
+
+# en - Nearly identical to HSI except Intensity is called Lightness. Both serve the same function .
+# pt - Quase idêntico ao HSI excepto que a Intensidade é chamada de Leveza. Ambas servem a mesma função .
+msgid "Hue, Saturation, and Lightness (HSL)"
+msgstr "Matiz, saturação e claridade (HSL)"
+
+# en - Color space system based on the values of Hue, Saturation, and Intensity. Intensity, analogous to luma, is the vertical axis of the polar system. The hue is the angle and the saturation is the distance out from the axis.
+# pt - Sistema de espaço de cor baseado nos valores de Tonalidade, Saturação, e Intensidade. Intensidade, análoga à luma, é o eixo vertical do sistema polar. A tonalidade é o ângulo e a saturação é a distância para fora do eixo.
+msgid "Hue, Saturation, and Intensity (HSI)"
+msgstr "Matiz, saturação e intensidade (HSI)"
+
+# en - Nearly identical to HSI and HSL except Intensity and Lightness are called Value. All three serve the same function.
+# pt - Quase idêntico ao HSI e HSL excepto que Intensidade e Leveza são chamados de Valor. Todos os três servem a mesma função.
+msgid "Hue, Saturation, and Value (HSV)"
+msgstr "Matiz, saturação e valor (HSV)"
+
 
 msgid "Array"
 msgstr "Matriz"
@@ -6576,6 +7101,11 @@ msgstr "Objecto"
 msgid "OLE objects"
 msgstr "Objectos OLE"
 
+# en - Ability to control the integration (of light) time to the sensor to less than 1/60 second; e.g., stop motion of moving traffic.
+# pt - Capacidade de controlar o tempo de integração (de luz) ao sensor a menos de 1/60 segundo; por exemplo, movimento de paragem do tráfego em movimento.
+msgid "Shutter"
+msgstr "Obturador"
+
 msgid "Occurred"
 msgstr "Ocorreu"
 
@@ -6595,6 +7125,11 @@ msgstr "ODF"
 # pt - refere-se a "Object Linking and Embedding" - NÂO TRADUZIR
 msgid "OLE"
 msgstr "OLE"
+
+# en - Amplitude variations in the output voltage of a power supply caused by insufficient filtering.
+# pt - Variações de amplitude na tensão de saída de uma fonte de alimentação causadas por uma filtragem insuficiente.
+msgid "Ripple"
+msgstr "Ondulação"
 
 msgid "Online"
 msgstr "Online"
@@ -6647,8 +7182,23 @@ msgstr "Outubro"
 msgid "Portuguese words starting with the letter P"
 msgstr "Palavras portuguesas começadas com a letra P"
 
+# en - One unit of binary data capable of being routed through a computer network. To improve communication performance and reliability, each message sent between two network devices is often subdivided into packets by the underlying hardware and software.
+# pt - Uma unidade de dados binários capaz de ser encaminhada através de uma rede informática. Para melhorar o desempenho e a fiabilidade da comunicação, cada mensagem enviada entre dois dispositivos de rede é frequentemente subdividida em pacotes pelo hardware e software subjacentes.
+msgid "Packet"
+msgstr "Pacote"
+
 msgid "Package"
 msgstr "Pacote"
+
+# en - A chart especially prepared for checking overall performance of a television system. It contains various combinations of lines and geometric shapes. The camera is focused on the chart, and the pattern is viewed at the monitor for fidelity.
+# pt - Um gráfico especialmente preparado para verificar o desempenho geral de um sistema de televisão. Contém várias combinações de linhas e formas geométricas. A câmara está focada no gráfico, e o padrão é visto no monitor para fidelidade.
+msgid "Test Pattern"
+msgstr "Padrão de teste"
+
+# en - Special test pattern for adjusting color TV receivers or color encoders. The upper portion consists of vertical bars of saturated colors and white. The power horizontal bars have black and white areas and I and Q signals.
+# pt - Padrão de teste especial para ajustar receptores de TV a cores ou codificadores de cor. A parte superior é constituída por barras verticais de cores saturadas e branco. As barras horizontais de potência têm áreas a preto e branco e sinais I e Q.
+msgid "Bar Test Pattern (SMPTE)"
+msgstr "Padrão do teste de barras (SMPTE)"
 
 # en -
 # pt - "Textura" aplica-se mais a programas de desenho.
@@ -6664,11 +7214,26 @@ msgstr "Página"
 msgid "Site"
 msgstr "Página, Site"
 
+# en - A panel where circuits are terminated and facilities provided for interconnecting between circuits by means of jacks and plugs.
+# pt - Um painel onde são terminados os circuitos e previstas instalações para a interligação entre circuitos por meio de macacos e fichas.
+msgid "Patch Panel"
+msgstr "Painel de ligações"
+
+# en - Short for Phase Alternate Line. The TV broadcasting system used in Europe and other countries.
+# pt - Abreviatura de Phase Alternate Line. O sistema de radiodifusão televisiva utilizado na Europa e noutros países.
+msgid "PAL"
+msgstr "PAL"
+
 # en - can be a variable type, do not translate
 # pt - pode ser um tipo de variável numérica, caso em que não deve ser
 # traduzida
 msgid "Word"
 msgstr "Palavra"
+
+# en - A device upon which a camera can be mounted that allows movement in both the azimuth (pan) and in the vertical plane (tilt).
+# pt -  dispositivo de montagem de câmaras que permitem movimentos panorâmicos horizontais (pan) e verticais (tilt)
+msgid "Pan and Tilt"
+msgstr "Pan and Tilt"
 
 msgid "Paper"
 msgstr "Papel"
@@ -6696,11 +7261,26 @@ msgstr "Pasta"
 msgid "Folder"
 msgstr "Pasta"
 
+# en - The ratio of the power at one point in a transmission system to the power at a point farther along the line; usually expressed in decibels. The actual power that is lost in transmitting signal from one point to another through a medium or along a line.
+# pt - A relação entre a potência num ponto de um sistema de transmissão e a potência num ponto mais distante da linha; geralmente expressa em decibéis. A potência real que se perde ao transmitir sinal de um ponto para outro através de um meio ou ao longo de uma linha.
+msgid "Loss"
+msgstr "Perda"
+
+# en - The signal strength loss when a piece of equipment is inserted into a line.
+# pt - A perda da força do sinal quando um equipamento é inserido numa linha.
+msgid "Insertion Loss"
+msgstr "Perda de inserção"
+
 msgid "Lost"
 msgstr "Perdido"
 
 msgid "Period"
 msgstr "Período"
+
+# en - A generalized use class aspect that specifies the timeframe in which a video be used. As in, will the video be used in real-time or will it be recorded?
+# pt - Um aspecto de classe de uso generalizado que especifica o período de tempo em que um vídeo deve ser utilizado. Como em, o vídeo será utilizado em tempo real ou será gravado?
+msgid "Usage Timeframe"
+msgstr "Período de uso"
 
 msgid "Allowed"
 msgstr "Permitido"
@@ -6714,6 +7294,43 @@ msgstr "Personalizar"
 msgid "Personal"
 msgstr "Pessoal"
 
+# en - A transient of short duration, comprising part of a pulse, during which the amplitude considerably exceeds the average amplitude of the pulse.
+# pt - Um transitório de curta duração, compreendendo parte de um pulso, durante o qual a amplitude excede consideravelmente a amplitude média do pulso.
+msgid "Spike"
+msgstr "Pico"
+
+# en - The amplitude (voltage) difference between the most positive and the most negative excursions (peaks) of an electrical signal. A full video signal measures one volt peak to peak.
+# pt - A diferença de amplitude (voltagem) entre as excursões mais positivas e as mais negativas (picos) de um sinal eléctrico. Um sinal de vídeo completo mede um volt de pico a pico.
+msgid "Peak-to-Peak"
+msgstr "Pico-a-Pico"
+
+# en - That portion of the composite color signal, comprising a few cycles of a sine wave of chrominance subcarrier frequency, which is used to establish a reference for demodulating the chrominance signal; Normally approximately 9 cycles of 3.579545 MHz.
+# pt - A parte do sinal de cor composto, compreendendo alguns ciclos de uma onda senoidal de frequência da subportadora da crominância, que é utilizada para estabelecer uma referência para desmodular o sinal de crominância; Normalmente cerca de 9 ciclos de 3,579545 MHz.
+msgid "Color Burst"
+msgstr "Pico de cor"
+
+# en - A quick succession of edits from one angle to another of the same scene.
+# pt - Uma sucessão rápida de edições de um ângulo para outro da mesma cena.
+msgid "Ping-Pongy"
+msgstr "Pingue-Pongue"
+
+# en - Short for Picture Element. The most basic unit of an image displayed on a computer or video display screen. Pixels are generally arranged in rows and columns; a given combination among the pixels of various brightness and color values forms an image.
+# pt - Abreviatura de Picture Element. A unidade mais básica de uma imagem exibida num computador ou num ecrã de vídeo. Os pixels estão geralmente dispostos em linhas e colunas; uma dada combinação entre os pixels de vários valores de brilho e cor forma uma imagem.
+msgid "Pixel"
+msgid_plural "Pixels"
+msgstr "Pixel"
+msgstr[1] "Pixels"
+
+# en - The plane in which an image produced by an optical system is formed; if the object plane is perpendicular to the optical axis, the image plane will ordinarily also be perpendicular to the axis.
+# pt - O plano no qual uma imagem produzida por um sistema óptico é formada; se o plano do objecto for perpendicular ao eixo óptico, o plano da imagem será normalmente também perpendicular ao eixo.
+msgid "Image Plane"
+msgstr "Plano da imagem"
+
+# en - A plane (through the focal point) at right angles to the principal point of the lens.
+# pt - Um plano (através do ponto focal) em ângulo recto com o ponto principal da lente.
+msgid "Focal Plane"
+msgstr "Plano focal"
+
 msgid "Pointer"
 msgstr "Ponteiro"
 
@@ -6726,14 +7343,29 @@ msgstr "Pontilhado"
 msgid "Dot"
 msgstr "Ponto"
 
-msgid "Position"
-msgstr "Posição"
+# en - The point at which a lens or mirror will focus parallel incident radiation.
+# pt - O ponto em que uma lente ou espelho focará a radiação incidente paralela.
+msgid "Focal Point"
+msgstr "Ponto focal"
 
 msgid "Please"
 msgstr "Por favor"
 
 msgid "Please wait"
 msgstr "Por favor, aguarde"
+
+msgid "Position"
+msgstr "Posição"
+
+# en - Follower Pots are installed on lens that allows feedback to the controller information relevant to zoom and focus positioning allowing the controller to quickly adjust to a preselected scene and arrive in focus at the proper focal length automatically.
+# pt - Os Pots de seguidores são instalados em lentes que permitem resposta ao controlador de informação relevante para a ampliação e posicionamento de foco, permitindo ao controlador ajustar-se rapidamente a uma cena pré-seleccionada e chegar ao foco na distância focal adequada automaticamente.
+msgid "Lens Preset Positioning"
+msgstr "Posição predefinida da lente"
+
+# en - Follower pots are installed on pan/tilt unit to allow feedback to the controller and provides information relevant to horizontal and vertical positioning, allowing the controller to quickly adjust to a pre-selected scene automatically.
+# pt - Os vasos seguidores são instalados na unidade pan/tilt para permitir o feedback ao controlador e fornecer informações relevantes para o posicionamento horizontal e vertical, permitindo ao controlador ajustar-se rapidamente a uma cena pré-seleccionada automaticamente.
+msgid "Pan/Tilt Preset Positioning"
+msgstr "Posição predefinida Pan and Tilt"
 
 msgid "Sharpness"
 msgstr "Precisão"
@@ -6759,6 +7391,11 @@ msgstr "Principal"
 msgid "Privilege"
 msgstr "Privilégio"
 
+# en - When applied to video cameras, DSP means that the analog signal from the CCD sensors is converted to a digital signal. It is then processed for signal separation, bandwidth settings and signal adjustments. After processing, the video signal either remains in the digital domain for recording by a DVR or is converted back into an analog signal for recording or transmission. DSP is also used in other parts of the video chain, including DVRs, and switching and routing devices.
+# pt - Quando aplicado a câmaras de vídeo, DSP significa que o sinal analógico dos sensores CCD é convertido para um sinal digital. É então processado para separação de sinal, ajustes de largura de banda e ajustes de sinal. Após processamento, o sinal de vídeo ou permanece no domínio digital para gravação por um DVR ou é convertido novamente num sinal analógico para gravação ou transmissão. O DSP é também utilizado noutras partes da cadeia de vídeo, incluindo DVRs, e dispositivos de comutação e encaminhamento.
+msgid "Digital Signal Processing (DSP)"
+msgstr "Processamento de sinais digitais (DSP)"
+
 msgid "Parse"
 msgstr "Processar"
 
@@ -6780,6 +7417,21 @@ msgstr "Procurar (por)(ir para)"
 msgid "Product"
 msgstr "Produto"
 
+# en - The number of levels that a pixel might have, such as 256 with an 8-bit depth or 1024 with a 10-bit depth.
+# pt - O número de níveis que um pixel pode ter, tais como 256 com uma profundidade de 8 bits ou 1024 com uma profundidade de 10 bits.
+msgid "Bit Depth"
+msgstr "Profundidade de bits"
+
+# en - The in-focus range of a lens or optical system around an item of interest. It is measured from the distance behind an object of interest, to the distance in front of the object of interest, when the viewing lens is specifically focused on the object of interest. Depth of field depends on subject-to-camera distance, focal length of the lens, and f-stop.
+# pt - A gama de foco de uma lente ou sistema óptico em torno de um item de interesse. É medida desde a distância atrás de um objecto de interesse, até à distância à frente do objecto de interesse, quando a lente de visualização está especificamente focada no objecto de interesse. A profundidade do campo depende da distância do objecto à câmara, da distância focal da lente, e do f-stop.
+msgid "Depth of Field"
+msgstr "Profundidade de campo"
+
+# en - The range of sensor-to-lens distance for which the image formed by the lens is clearly focused.
+# pt - A gama de distância sensor-lente para a qual a imagem formada pela lente é claramente focada.
+msgid "Depth of Focus"
+msgstr "Profundidade de foco"
+
 msgid "Application"
 msgstr "Programa, Aplicação"
 
@@ -6791,6 +7443,16 @@ msgstr "Progresso"
 
 msgid "Property"
 msgstr "Propriedade"
+
+# en - The ratio of width to height for the frame of the televised picture. 4:3 for standard systems, 5:4 for 1K x 1K, and 16:9 for HDTV.
+# pt - A relação entre largura e altura para a moldura da imagem televisiva. 4:3 para sistemas standard, 5:4 para 1K x 1K, e 16:9 para HDTV.
+msgid "Aspect Ratio"
+msgstr "Proporção"
+
+# en - The ratio between useful television signal and disturbing noise or snow.
+# pt - A relação entre o sinal útil de televisão e o ruído ou a chuva perturbadora.
+msgid "Signal-to-Noise Ratio (S/N)"
+msgstr "Proporção Sinal-Ruído (S/N)"
 
 msgid "Proceed"
 msgstr "Prosseguir"
@@ -6804,6 +7466,11 @@ msgstr "Protecção"
 msgid "Protected"
 msgstr "Protegido"
 
+# en - The degree to which a color is free of white or any other color. In reference to the operation of a tri-color picture tube it refers to the production of pure red, green or blue illumination of the phosphor dot faceplate.
+# pt - O grau em que uma cor está livre do branco ou de qualquer outra cor. Em referência ao funcionamento de um tubo de imagem tricolor, refere-se à produção de iluminação vermelha, verde ou azul pura da placa frontal do ponto de fósforo.
+msgid "Color Purity"
+msgstr "Pureza de cor"
+
 # en - LETTER Q
 # pt - LETRA Q
 msgid "Portuguese words starting with the letter Q"
@@ -6811,6 +7478,11 @@ msgstr "Palavras portuguesas começadas com a letra Q"
 
 msgid "Quality"
 msgstr "Qualidade"
+
+# en - The ability of the public safety agency to use the required video to perform the purpose intended. For example, if the purpose of the video is to capture license plates on vehicles in a range of outdoor conditions, video quality is measured in the ability of the video outputs to provide that specific information across a range of environmental conditions.
+# pt - A capacidade da agência de segurança pública de utilizar o vídeo necessário para realizar o objectivo pretendido. Por exemplo, se o objectivo do vídeo for a captura de matrículas em veículos numa série de condições exteriores, a qualidade do vídeo é medida na capacidade das saídas de vídeo para fornecer essa informação específica numa série de condições ambientais.
+msgid "Video Quality (Public Safety)"
+msgstr "Qualidade vídeo (segurança pública)"
 
 msgid "Square"
 msgstr "Quadrado"
@@ -6834,6 +7506,11 @@ msgstr "Palavras portuguesas começadas com a letra R"
 msgid "Root"
 msgstr "Raiz"
 
+# en - A picture condition in which groups of horizontal lines are displaced in an irregular manner.
+# pt - Uma condição de imagem em que grupos de linhas horizontais são deslocados de forma irregular.
+msgid "Tearing"
+msgstr "Rasgar"
+
 msgid "Strikethrough"
 msgstr "Rasurado"
 
@@ -6843,6 +7520,17 @@ msgstr "Realce, Contorno, Perfil, Resumo, Esboço"
 msgid "Perform"
 msgstr "Realizar"
 
+# en - a) The determination by any means of the individuality of persons, or of objects such as aircraft or cars. b) The determination that an object is similar within a category of something already known; e.g., car, truck, man.
+# pt - 
+#a) A determinação por qualquer meio da individualidade das pessoas, ou de objectos como aviões ou carros. #b) A determinação de que um objecto é semelhante dentro de uma categoria de algo já conhecido; por exemplo, carro, camião, homem.
+msgid "Recognition"
+msgstr "Reconhecimento"
+
+# en - A rectangular cutting off of image edges.
+# pt - Um corte rectangular de margens de imagem.
+msgid "Cropping"
+msgstr "Recortar"
+
 msgid "Back"
 msgstr "Recuar"
 
@@ -6851,6 +7539,11 @@ msgstr "Recuar"
 
 msgid "Network"
 msgstr "Rede"
+
+# en - The path over which all signals are transmitted.
+# pt - O caminho através do qual todos os sinais são transmitidos.
+msgid "Communications Network"
+msgstr "Rede de comunicações"
 
 msgid "Resize"
 msgstr "Redimensionar"
@@ -6905,8 +7598,35 @@ msgstr "Repetir"
 msgid "Reset"
 msgstr "Repor"
 
+# en - Sudden variations in picture presentation (brightness, size, etc.,) independent of scene illumination.
+# pt - variações bruscas na apresentação da imagem (brilho, tamanho, etc.), independentemente da iluminação da cena.
+msgid "Bounce"
+msgstr "Ressalto"
+
+# en - The act, process, or capability of distinguishing between two separate but adjacent parts or stimuli, such as elements of detail in an image, or similar colors.
+# pt - O acto, processo, ou capacidade de distinguir entre duas partes ou estímulos separados mas adjacentes, tais como elementos de detalhe numa imagem, ou cores semelhantes.
 msgid "Resolution"
 msgstr "Resolução"
+
+# en - The amount of resolvable detail in the horizontal direction in a picture. It is usually expressed as the number of distinct vertical lines, alternately black and white, which can be seen in a distance equal to picture height.
+# pt - A quantidade de detalhe resolúvel na direcção horizontal numa imagem. É geralmente expressa como o número de linhas verticais distintas, alternadamente preto e branco, que podem ser vistas a uma distância igual à altura da imagem.
+msgid "Resolution (horizontal)"
+msgstr "Resolução (horizontal)"
+
+# en - The details that can be distinguished on the television screen. Vertical resolution refers to the number of horizontal black and white lines that can be resolved in the picture height. Horizontal resolution refers to the black and white lines resolved in a dimension equal to the vertical height and may be limited by the video amplifier bandwidth.
+# pt - Os detalhes que podem ser distinguidos no ecrã da televisão. A resolução vertical refere-se ao número de linhas horizontais a preto e branco que podem ser resolvidas na altura da imagem. A resolução horizontal refere-se às linhas a preto e branco resolvidas numa dimensão igual à altura vertical e pode ser limitada pela largura de banda do amplificador de vídeo.
+msgid "Resolution, Limiting"
+msgstr "Resolução, limitar"
+
+# en - The amount of resolvable detail in the vertical direction in a picture. It is usually expressed as the number of distinct horizontal lines, alternately black and white, which can theoretically be seen in a picture.
+# pt - A quantidade de detalhe resolúvel na direcção vertical numa imagem. É geralmente expressa como o número de linhas horizontais distintas, alternadamente preto e branco, que teoricamente podem ser vistas numa imagem.
+msgid "Resolution (vertical)"
+msgstr "Resolução (vertical)"
+
+# en - The range of frequencies that a piece of equipment can process and is directly related to the system's ability to uniformly transfer signal components of different frequencies over the entire video spectrum without affecting their amplitudes. This parameter is also known as gain/frequency distortion or amplitude versus frequency response. The amplitude variation maybe expressed in dB, percent or IRE.
+# pt - A gama de frequências que um equipamento pode processar e está directamente relacionada com a capacidade do sistema de transferir uniformemente componentes de sinal de diferentes frequências em todo o espectro de vídeo sem afectar as suas amplitudes. Este parâmetro é também conhecido como distorção de ganho/frequência ou amplitude versus resposta de frequência. A variação de amplitude pode ser expressa em dB, percentagem ou IRE.
+msgid "Frequency Response"
+msgstr "Resposta de frequência"
 
 msgid "Restore"
 msgstr "Restaurar"
@@ -6920,6 +7640,21 @@ msgstr "Retomar"
 msgid "Reverse"
 msgstr "Reverso"
 
+# en - Frequency at which coherent electromagnetic radiation of energy is useful for communication purposes. Also, the entire range of such frequencies.
+# pt - Frequência em que a radiação electromagnética coerente da energia é útil para fins de comunicação. Além disso, toda a gama de tais frequências.
+msgid "RF (Radio Frequency)"
+msgstr "RF (frequência rádio)"
+
+# en -The method of feeding a series of high impedance circuits (such as multiple monitor/displays in parallel) from a pulse or video source with a coax transmission line in such a manner that the line is bridged (with minimum length stubs) and that the last unit properly terminates the line in its characteristic impedance. This minimizes discontinuities or reflections on the transmission line.
+# pt - O método de alimentação de uma série de circuitos de alta impedância (tais como múltiplos monitores/exposições em paralelo) a partir de uma fonte de pulso ou vídeo com uma linha de transmissão coaxial, de tal forma que a linha é atravessada (com peças de comprimento mínimo) e que a última unidade termina correctamente a linha na sua impedância característica. Isto minimiza as descontinuidades ou reflexos na linha de transmissão.
+msgid "Loop Through"
+msgstr "Rodar por, Circular por"
+
+# en - A loss of vertical synchronization which causes the picture to move up or down on a receiver or monitor.
+# pt - Uma perda de sincronização vertical que faz com que a imagem se mova para cima ou para baixo num receptor ou monitor.
+msgid "Roll"
+msgstr "Rolamento"
+
 msgid "Scroll"
 msgstr "Rolar"
 
@@ -6928,6 +7663,11 @@ msgstr "Rodapé"
 
 msgid "Rotation"
 msgstr "Rotação"
+
+# en - The word noise originated in audio practice and refers to random spurts of electrical energy or interference. In some cases, it will produce a “salt-and-pepper” pattern over the televised picture. Heavy noise is sometimes referred to as snow.
+# pt - A palavra ruído teve origem na prática áudio e refere-se a esporões aleatórios de energia eléctrica ou interferência. Em alguns casos, produzirá um padrão "sal e pimenta" sobre a imagem televisiva. O ruído pesado é por vezes referido como neve.
+msgid "Noise"
+msgstr "Ruído"
 
 # en - LETTER S
 # pt - LETRA S
@@ -7043,6 +7783,11 @@ msgstr "Assédio"
 msgid "SQL"
 msgstr "SQL"
 
+# en - Something other than what it appears to be. Stairsteps on what should be a smooth diagonal line are an example of spatial alias. Wagon wheels appearing to move backwards are an example of temporal alias. Aliases are cause by sampling and can be reduced or eliminated by pre-filtering, which can appear to be a blurring effect. Defects in the picture typically caused by insufficient sampling (violation of the Nyquist sampling rate) in the analog to digital conversion process or poor filtering of digital video. Defects are typically seen as jaggies on diagonal lines and twinkling or brightening in picture detail. Examples are: Temporal Aliasing — such as rotating wagon wheel spokes appearing to rotate in the reverse direction. Raster Scan Aliasing — such as sparkling or pulsing effects in sharp horizontal lines. Stair-Stepping — stepped or jagged edges in diagonal lines or the diagonal parts of a letter.
+# pt - Algo diferente do que parece ser. As escadas no que deveria ser uma linha diagonal lisa são um exemplo de pseudónimo espacial. As rodas do vagão que parecem mover-se para trás são um exemplo de pseudónimo temporal. Os pseudónimos são causados por amostragem e podem ser reduzidos ou eliminados por pré-filtragem, o que pode parecer um efeito de embaçamento. Defeitos na imagem causados tipicamente por amostragem insuficiente (violação da taxa de amostragem Nyquist) no processo de conversão analógica para digital ou má filtragem do vídeo digital. Os defeitos são tipicamente vistos como jaggies nas linhas diagonais e cintilação ou brilho nos detalhes da imagem. Exemplos disso são: Aliasing temporal - tais como raios de roda de vagão rotativos que parecem rodar na direcção inversa. Aliasing Raster Scan - tais como efeitos cintilantes ou pulsantes em linhas horizontais afiadas. Stair-Stepping - margens escalonadas ou irregulares em linhas diagonais ou nas partes diagonais de uma letra.
+msgid "Aliasing"
+msgstr "Suavização"
+
 msgid "Antialias"
 msgstr "Suavização"
 
@@ -7093,6 +7838,11 @@ msgstr "Tabulação"
 msgid "Size"
 msgstr "Tamanho"
 
+# en - A generalized use class aspect that specifies the size of the object of interest with respect to the field of view.
+# pt - Um aspecto de classe de uso generalizado que especifica o tamanho do objecto de interesse no que diz respeito ao campo de visão.
+msgid "Target Size"
+msgstr "Tamanho-alvo"
+
 # en -
 # - pt "Tamanho" pode ser usado em certos casos por ser mais curta
 msgid "length"
@@ -7101,8 +7851,42 @@ msgstr "Tamanho, Comprimento"
 msgid "Task"
 msgstr "Tarefa"
 
+# en - a) The rate at which the compressed bit stream is delivered from the storage medium to the input of a decoder. The digital equivalent of analog bandwidth. b) The speed at which bits are transmitted, usually expressed in bit/s (sometimes abbreviated "bps"). video information, in a digitized image for example, is transferred, recorded, and reproduced through the production process at some bit rate appropriate to the nature and capabilities of the origination, the channel, and the receptor. c) The amount of data transported in a given amount of time, usually defined in Mbit/s. Bit rate is one means used to define the amount of compression used on a video signal. The uncompressed D1 format has a bit rate of 270 Mbit/s. MPEG-1 has a bit rate of 1.2 Mbit/s.
+# pt -
+#a) O ritmo a que o fluxo de bits comprimido é entregue a partir do meio de armazenamento até à entrada de um descodificador. O equivalente digital da largura de banda analógica.
+#b) A velocidade a que os bits são transmitidos, geralmente expressa em bit/s (por vezes abreviado "bps"). informação vídeo, numa imagem digitalizada, por exemplo, é transferida, gravada e reproduzida através do processo de produção a alguma velocidade de bits adequada à natureza e capacidades da origem, do canal e do receptor.
+#c) A quantidade de dados transportados num determinado período de tempo, geralmente definida em Mbit/s. A taxa de bits é um meio utilizado para definir a quantidade de compressão utilizada num sinal de vídeo. O formato D1 não comprimido tem uma taxa de bits de 270 Mbit/s. O MPEG-1 tem uma taxa de bits de 1,2 Mbit/s.
+msgid "Bit Rate"
+msgstr "Taxa de bits"
+
+# en - A compression scheme in which each unit of input material can be compressed to different sizes. For MPEG-2 video, for example, this means that “easier” sequences (that is, with no motion) can compress to very small sizes, whereas “hard” sequences (with lots of motion and scene cuts) can compress to much larger sizes. VBR compression can take better advantage of the overall available bandwidth of a video transmission or DVD player by allocating the available bits intelligently to the difficult parts of a sequence.
+# pt - Um esquema de compressão em que cada unidade de material de entrada pode ser comprimida em tamanhos diferentes. Para vídeo MPEG-2, por exemplo, isto significa que as sequências "mais fáceis" (isto é, sem movimento) podem ser comprimidas em tamanhos muito pequenos, enquanto que as sequências "duras" (com muito movimento e cortes de cena) podem ser comprimidas em tamanhos muito maiores. A compressão VBR pode tirar melhor partido da largura de banda total disponível de uma transmissão de vídeo ou leitor de DVD, atribuindo os bits disponíveis de forma inteligente às partes difíceis de uma sequência.
+msgid "Variable Bit Rate (VBR)"
+msgstr "Taxa de bits variável (VBR)"
+
+# en -
+# a) The rate at which frames of video data are scanned on the screen. In an NTSC system, the frame rate is 29.97 frames per second. For PAL, the frame rate is 25 frames per second.
+# b) The number of frames per second at which a video clip is displayed.
+# c) The rate at which frames are output from a video decoding device or stored in memory.
+# pt - 
+# a) O ritmo a que os fotogramas de dados de vídeo são digitalizados no ecrã. Num sistema NTSC, a velocidade de fotogramas é de 29,97 fotogramas por segundo. Para PAL, a taxa de fotogramas é de 25 fotogramas por segundo.
+# b) O número de fotogramas por segundo em que um videoclipe é exibido.
+# c) A velocidade a que os fotogramas são emitidos a partir de um dispositivo de descodificação de vídeo ou armazenados na memória.
+msgid "Frame Rate (also known as frame frequency)"
+msgstr "Taxa de fotogramas (frequência de fotogramas)"
+
 msgid "Key"
 msgstr "Tecla, Chave"
+
+# en - Video primarily used for surveillance and security that is not broadcast to the general public.
+# pt - Vídeo utilizado principalmente para vigilância e segurança que não é transmitido ao público em geral.
+msgid "Closed-Circuit Television"
+msgstr "Televisão em circuito fechado"
+
+# en - The transmission of a broadcast audio/video signal that consists of digital data.
+# pt - A transmissão de um sinal de áudio/vídeo transmitido que consiste em dados digitais.
+msgid "Digital Television"
+msgstr "Televisão digital"
 
 msgid "Theme"
 msgstr "Tema"
@@ -7150,8 +7934,43 @@ msgstr "Traje"
 msgid "Lock/Unlock"
 msgstr "Trancar/Destrancar"
 
+# en - To convert from one compression format to another (that is, from DV video from a camcorder to MPEG-2 for DVD). Preferably done intelligently to minimize loss of quality from repeated compression, and not requiring fully decompressing the input and then recompressing to the output.
+# pt - Converter de um formato de compressão para outro (ou seja, de vídeo DV de uma câmara de vídeo para MPEG-2 para DVD). De preferência feito de forma inteligente para minimizar a perda de qualidade da compressão repetida, e não requerendo a descompressão total da entrada e depois a recompressão para a saída.
+msgid "Transcode"
+msgstr "Transcodificar"
+
+# en - A CCD imager where an entire matrix of pixels is read into storage before being output from the camera. This differs from interline transfer where lines of pixels are output.
+# pt - Um gerador de imagens CCD onde toda uma matriz de pixels é lida para armazenamento antes de ser emitida pela câmara. Isto difere da transferência entre linhas onde são emitidas linhas de pixels.
+msgid "Frame Transfer"
+msgstr "Transferência de fotogramas"
+
+# en - A technology of CCD design, where rows of pixels are output from the camera. The sensor's active pixel area and storage register are both contained within the active image area. This differs from frame transfer cameras that move all active pixels to a storage register outside of the active area.
+# pt - Uma tecnologia de desenho CCD, em que linhas de pixels são emitidas a partir da câmara. A área activa de pixels do sensor e o registo de armazenamento estão ambos contidos dentro da área activa da imagem. Isto difere das câmaras de transferência de imagem que movem todos os pixels activos para um registo de armazenamento fora da área activa.
+msgid "Interline Transfer"
+msgstr "Transferência entrelinha"
+
 msgid "Download"
 msgstr "Transferir"
+
+# en - Signals which exist for a brief period of time prior to the attainment of a steady-state condition. These may include overshoots, damped sinusoidal waves, etc.
+# pt - Sinais que existem durante um breve período de tempo antes da obtenção de uma condição de estado estável. Estes podem incluir excessos, ondas sinusoidais humedecidas, etc.
+msgid "Transients"
+msgstr "Transitórios"
+
+# en - A low-bit-rate encoding format intended for use over networks and the Internet. Streaming files match the encoded bit rate to the connection speed of the user, so the remote viewer can play audio or video with minimal stoppage without first downloading the entire video file.
+# pt - Um formato de codificação de baixa taxa de bits destinado à utilização em redes e na Internet. Os ficheiros em fluxo contínuo correspondem à taxa de bits codificados à velocidade de ligação do utilizador, para que o visualizador remoto possa reproduzir áudio ou vídeo com uma paragem mínima sem transferir primeiro todo o ficheiro de vídeo.
+msgid "Streaming"
+msgstr "Transmissão"
+
+# en - The transmission of a signal which represents both the brightness values and the color values in a picture.
+# pt - A transmissão de um sinal que representa tanto os valores de brilho como os valores de cor de uma imagem.
+msgid "Color Transmission"
+msgstr "Transmissão de cor"
+
+# en - The transmission of a signal wave which represents the brightness values in the picture, but not the color (chrominance) values.
+# pt - A transmissão de uma onda de sinal que representa os valores de brilho na imagem, mas não os valores de cor (crominância).
+msgid "Monochrome Transmission"
+msgstr "Transmissão monocromática"
 
 msgid "Transparency"
 msgstr "Transparência"
@@ -7163,6 +7982,11 @@ msgstr "Transparente"
 # pt - normalmente usado para 0 "vai 1" em contas
 msgid "Overflow"
 msgstr "Transporte"
+
+# en - A rapid variation in the pitch or of a recorded audio signal usually on a turntable or tape recording, caused by variations in the speed of the turntable or tape drive.
+# pt - Uma variação rápida do passo ou de um sinal áudio gravado geralmente numa mesa giratória ou gravação em fita, causada por variações na velocidade do gira-discos ou da unidade de fita.
+msgid "Flutter"
+msgstr "Tremulação"
 
 # Salvo possíveis excepções, "Tudo" é mais abrangente e evita erros de género ou quantidade.
 # "All", em inglês, tanto pode ser masculino como feminino e plural ou singular.
@@ -7214,11 +8038,26 @@ msgstr "Valor"
 msgid "Values"
 msgstr "Valores"
 
+# en - The portion of a composite picture signal that lies between the leading edge of the horizontal blanking pulse and the leading edge of the corresponding sync pulse.
+# pt - A porção de um sinal de imagem composto que se encontra entre a borda dianteira do pulso de obturação horizontal e a borda dianteira do pulso de sincronização correspondente.
+msgid "Front Porch"
+msgstr "Varanda da frente"
+
+# en - That portion of the composite picture signal which lies between the trailing edge of the horizontal sync pulse and the trailing edge of the corresponding blanking pulse.
+# pt - A porção do sinal composto da imagem que se encontra entre a margem final do impulso de sincronização horizontal e a margem final do correspondente impulso de obturação.
+msgid "Back Porch"
+msgstr "Varanda de trás"
+
 msgid "Variable"
 msgstr "Variável"
 
 msgid "Empty"
 msgstr "Vazio, Em branco"
+
+# en - The ability of a lens to transmit light, represented as the ratio of the focal length to the diameter of the lens. The largest lens opening (smallest f-number) at which the lens can be set. A fast lens transmits more light and has a larger opening than a slow lens.
+# pt - A capacidade de uma lente para transmitir luz, representada como a relação entre a distância focal e o diâmetro da lente. A maior abertura da lente (número f mais pequeno) em que a lente pode ser ajustada. Uma lente rápida transmite mais luz e tem uma abertura maior do que uma lente lenta.
+msgid "Lens Speed"
+msgstr "Velocidade da lente"
 
 msgid "View"
 msgstr "Ver"
@@ -7237,6 +8076,16 @@ msgstr "Vertical"
 
 msgid "Vertically"
 msgstr "Verticalmente"
+
+# en - The electronic representation of a sequence of images, depicting either stationary or moving scenes. It may include audio.
+# pt - A representação electrónica de uma sequência de imagens, representando cenas estacionárias ou em movimento. Pode incluir áudio.
+msgid "Video"
+msgstr "Vídeo"
+
+# en - A video signal containing all information except sync.
+# pt - Um sinal de vídeo contendo toda a informação excepto a sincronização.
+msgid "Non-Composite Video"
+msgstr "Vídeo não composto"
 
 msgid "Visible"
 msgstr "Visível"
@@ -7260,6 +8109,11 @@ msgstr "Palavras portuguesas começadas com a letra X"
 # pt - LETRA Z
 msgid "Portuguese words starting with the letter Z"
 msgstr "Palavras portuguesas começadas com a letra Z"
+
+# en - Electrical disturbance at the power supply frequency or harmonics thereof.
+# pt - Perturbação eléctrica na frequência de alimentação ou harmónicos da mesma.
+msgid "Hum"
+msgstr "Zumbido"
 
 # ######################################################################
 msgid "Common Sentences"
