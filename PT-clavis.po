@@ -3,17 +3,13 @@
 # This file is distributed under the <https://www.gnu.org/licenses/gpl-3.0.en.html>.
 # Pedro Albuquerque <pmra@protonmail.com>, 2015, 2018, 2020.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
 "Report-Msgid-Bugs-To: <pmra@protonmail.com>+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-<<<<<<< HEAD
-"PO-Revision-Date: 2021-04-01 16:31Hora de Verão de GMT\n"
-=======
+"PO-Revision-Date: 2021-04-03 12:49Hora de Verão de GMT\n"
 "PO-Revision-Date: 2021-04-03 12:04+0100\n"
->>>>>>> d3ba1fb8593f08e6ddae85f155975b7cab1209fb
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -21,26 +17,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Geany / PoHelper 1.37\n"
+"X-Generator: Geany / PoHelper 1.36\n"
 "X-Project-Style: \n"
 
-msgctxt
 msgid "`File' Menu"
 msgstr ""
 "MENU FICHEIRO - as cadeias seguintes são usadas no menu \"Ficheiro\" de "
 "qualquer programa"
 
+# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
+# en - The ratio of width to height for the frame of the televised picture. 4:3 for standard systems, 5:4 for 1K x 1K, and 16:9 for HDTV.
+# pt - A relação entre largura e altura para a moldura da imagem televisiva. 4:3 para sistemas standard, 5:4 para 1K x 1K, e 16:9 para HDTV.
+msgid "Aspect Ratio"
+msgstr "Proporção"
+
 # en -
 # pt -
 # Shortcut / Atalho: F
-msgctxt
 msgid "_File"
 msgstr "_Ficheiro"
 
 # en - Can be 'New <anything>'
 # pt - Pode ser "Novo(a) <qualquer coisa>"
 # Shortcut / Atalho: N
-msgctxt
 msgid "_New"
 msgstr "_Novo(a)"
 
@@ -48,21 +47,18 @@ msgstr "_Novo(a)"
 # pt - Pode ser "Abrir <qualquer coisa>"
 # Caso em que o atalho é forçosamente diferente do original. A primeira letra é a opção favorita
 # Shortcut / Atalho: A
-msgctxt
 msgid "_Open"
 msgstr "_Abrir"
 
 # en -
 # pt -
 # Shortcut / Atalho: D
-msgctxt
 msgid "_Recent documents"
 msgstr "Documentos _recentes"
 
 # en - Save Data, Store clothing, Save lives
 # pt - Gravar dados, Guardar roupa, Salvar vidas
 # Shortcut / Atalho: G
-msgctxt
 msgid "_Save"
 msgstr "_Gravar"
 
@@ -71,42 +67,36 @@ msgstr "_Gravar"
 # pt -não pode ser o original A (já usado em "Abrir") nem G (já usado em "Gravar").
 # Escolhido "V" como menos provável no menu "Ficheiro".
 # Shortcut / Atalho: V
-msgctxt
 msgid "S_ave as..."
 msgstr "Gra_var como..."
 
 # en -
 # pt -
 # Shortcut / Atalho: C
-msgctxt
 msgid "Save a _copy"
 msgstr "Gravar uma _cópia"
 
 # en -
 # pt - A utilização de "tudo" evita o género masculino/feminino
 # Shortcut / Atalho: T
-msgctxt
 msgid "Save all"
 msgstr "Gravar _tudo"
 
 # en - Export, Export as, etc.
 # pt - Exportar, Exportar como, etc.
 # Shortcut / Atalho: E
-msgctxt
 msgid "_Export"
 msgstr "_Exportar"
 
 # en - Import
 # pt - Importar
 # Shortcut / Atalho: I
-msgctxt
 msgid "_Import"
 msgstr "_Importar"
 
 # en -
 # pt -
 # Shortcut / Atalho: P
-msgctxt
 msgid "_Print"
 msgstr "Im_primir"
 
@@ -114,40 +104,34 @@ msgstr "Im_primir"
 # pt - Preferi Antevisão por ser mais curta. É usada em botões onde o
 # espaço é limitado
 # Shortcut / Atalho: E
-msgctxt
 msgid "Print Pr_eview"
 msgstr "Ant_ever impressão"
 
 # en -
 # pt - É preferível impressão a impressora.
 # Shortcut / Atalho: R
-msgctxt
 msgid "P_rinter Setup"
 msgstr "Configurar imp_ressão"
 
 # en -
 # pt -
 # Shortcut / Atalho: G
-msgctxt
 msgid "Pa_ge Setup"
 msgstr "Configurar pá_gina"
 
 # en -
 # pt -
 # Shortcut / Atalho: S
-msgctxt
 msgid "_Exit"
 msgstr "_Sair"
 
 # en -
 # pt -
 # Shortcut / Atalho: S
-msgctxt
 msgid "_Quit"
 msgstr "_Sair"
 
 # ######################################################################
-msgctxt
 msgid "`Edit' Menu'"
 msgstr ""
 "MENU EDITAR - as cadeias seguintes são usadas no menu \"Editar\" de qualquer "
@@ -156,5579 +140,4564 @@ msgstr ""
 # en -
 # pt -
 # Shortcut / Atalho: C
-msgctxt
 msgid "_Copy"
 msgstr "_Copiar"
 
 # en -
 # pt -
 # Shortcut / Atalho: T
-msgctxt
 msgid "Cu_t"
 msgstr "Cor_tar"
 
 # en -
 # pt -
 # Shortcut / Atalho: L
-msgctxt
 msgid "_Paste"
 msgstr "Co_lar"
 
 # en -
 # pt -
 # Shortcut / Atalho: D
-msgctxt
 msgid "_Undo"
 msgstr "_Desfazer"
 
 # en -
 # pt -
 # Shortcut / Atalho: R
-msgctxt
 msgid "_Redo"
 msgstr "_Refazer"
 
 # en -
 # pt -
 # Shortcut / Atalho: S
-msgctxt
 msgid "_Select"
 msgstr "_Seleccionar"
 
 # en -
 # pt -
 # Shortcut / Atalho: A
-msgctxt
 msgid "Select _All"
 msgstr "Seleccion_ar tudo"
 
 # ######################################################################
-msgctxt
 msgid "Countries"
 msgstr "Países"
 
-msgctxt
 msgid "Afghanistan"
 msgstr "Afeganistão"
 
-msgctxt
 msgid "Akrotiri"
 msgstr "Akrotiri"
 
-msgctxt
 msgid "Albania"
 msgstr "Albânia"
 
-msgctxt
 msgid "Algeria"
 msgstr "Argélia"
 
-msgctxt
 msgid "American Samoa"
 msgstr "Samoa Americana"
 
-msgctxt
 msgid "Andorra"
 msgstr "Andorra"
 
-msgctxt
 msgid "Angola"
 msgstr "Angola"
 
-msgctxt
 msgid "Anguilla"
 msgstr "Anguila"
 
-msgctxt
 msgid "Antarctica"
 msgstr "Antárctica"
 
-msgctxt
 msgid "Antigua and Barbuda"
 msgstr "Antígua e Barbuda"
 
-msgctxt
 msgid "Argentina"
 msgstr "Argentina"
 
-msgctxt
 msgid "Armenia"
 msgstr "Arménia"
 
-msgctxt
 msgid "Aruba"
 msgstr "Aruba"
 
-msgctxt
 msgid "Ashmore and Cartier Islands"
 msgstr "Ilhas Ashmore e Cartier"
 
-msgctxt
 msgid "Australia"
 msgstr "Austrália"
 
-msgctxt
 msgid "Austria"
 msgstr "Áustria"
 
-msgctxt
 msgid "Azerbaijan"
 msgstr "Azerbaijão"
 
-msgctxt
 msgid "Bahamas, The"
 msgstr "Bahamas"
 
-msgctxt
 msgid "Bahrain"
 msgstr "Bahrein"
 
-msgctxt
 msgid "Bangladesh"
 msgstr "Bangladesh"
 
-msgctxt
 msgid "Barbados"
 msgstr "Barbados"
 
-msgctxt
 msgid "Bassas da India"
 msgstr "Bassas da Índia"
 
-msgctxt
 msgid "Belarus"
 msgstr "Bielorrússia"
 
-msgctxt
 msgid "Belgium"
 msgstr "Bélgica"
 
-msgctxt
 msgid "Belize"
 msgstr "Belize"
 
-msgctxt
 msgid "Benin"
 msgstr "Benin"
 
-msgctxt
 msgid "Bermuda"
 msgstr "Bermudas"
 
-msgctxt
 msgid "Bhutan"
 msgstr "Butão"
 
-msgctxt
 msgid "Bolivia"
 msgstr "Bolívia"
 
-msgctxt
 msgid "Bosnia and Herzegovina"
 msgstr "Bósnia e Herzegovina"
 
-msgctxt
 msgid "Botswana"
 msgstr "Botswana"
 
-msgctxt
 msgid "Bouvet Island"
 msgstr "Ilha de Bouvet"
 
-msgctxt
 msgid "Brazil"
 msgstr "Brasil"
 
-msgctxt
 msgid "British Indian Ocean Territory"
 msgstr "Território britânico do Oceano Índico"
 
-msgctxt
 msgid "British Virgin Islands"
 msgstr "Ilhas Virgens Britânicas"
 
-msgctxt
 msgid "Brunei"
 msgstr "Brunei"
 
-msgctxt
 msgid "Bulgaria"
 msgstr "Bulgária"
 
-msgctxt
 msgid "Burkina Faso"
 msgstr "Burkina Faso"
 
-msgctxt
 msgid "Burma"
 msgstr "Birmânia"
 
-msgctxt
 msgid "Burundi"
 msgstr "Burundi"
 
-msgctxt
 msgid "Cambodia"
 msgstr "Cambodja"
 
-msgctxt
 msgid "Cameroon"
 msgstr "Camarões"
 
-msgctxt
 msgid "Canada"
 msgstr "Canadá"
 
-msgctxt
 msgid "Cape Verde"
 msgstr "Cabo Verde"
 
-msgctxt
 msgid "Cayman Islands"
 msgstr "Ilhas Cayman"
 
-msgctxt
 msgid "Central African Republic"
 msgstr "República Centro-Africana"
 
-msgctxt
 msgid "Chad"
 msgstr "Chade"
 
-msgctxt
 msgid "Chile"
 msgstr "Chile"
 
-msgctxt
 msgid "China"
 msgstr "China"
 
-msgctxt
 msgid "Christmas Island"
 msgstr "Ilha do Natal"
 
-msgctxt
 msgid "Clipperton Island"
 msgstr "Ilha Clipperton"
 
-msgctxt
 msgid "Cocos (Keeling) Islands"
 msgstr "Ilhas Cocos (Keeling)"
 
-msgctxt
 msgid "Colombia"
 msgstr "Colômbia"
 
-msgctxt
 msgid "Comoros"
 msgstr "Comores"
 
-msgctxt
 msgid "Congo, Democratic Republic of the"
 msgstr "República Democrática do Congo"
 
-msgctxt
 msgid "Congo, Republic of the"
 msgstr "República do Congo"
 
-msgctxt
 msgid "Cook Islands"
 msgstr "Ilhas Cook"
 
-msgctxt
 msgid "Coral Sea Islands"
 msgstr "Ilhas do Mar do Coral"
 
-msgctxt
 msgid "Costa Rica"
 msgstr "Costa Rica"
 
-msgctxt
 msgid "Cote d'Ivoire"
 msgstr "Costa do Marfim"
 
-msgctxt
 msgid "Croatia"
 msgstr "Croácia"
 
-msgctxt
 msgid "Cuba"
 msgstr "Cuba"
 
-msgctxt
 msgid "Cyprus"
 msgstr "Chipre"
 
-msgctxt
 msgid "Czech Republic"
 msgstr "República Checa"
 
-msgctxt
 msgid "Denmark"
 msgstr "Dinamarca"
 
-msgctxt
 msgid "Dhekelia"
 msgstr "Dhekelia"
 
-msgctxt
 msgid "Djibouti"
 msgstr "Djibouti"
 
-msgctxt
 msgid "Dominica"
 msgstr "Dominica"
 
-msgctxt
 msgid "Dominican Republic"
 msgstr "República Dominicana"
 
-msgctxt
 msgid "Ecuador"
 msgstr "Equador"
 
-msgctxt
 msgid "Egypt"
 msgstr "Egito"
 
-msgctxt
 msgid "El Salvador"
 msgstr "El Salvador"
 
-msgctxt
 msgid "Equatorial Guinea"
 msgstr "Guiné Equatorial"
 
-msgctxt
 msgid "Eritrea"
 msgstr "Eritreia"
 
-msgctxt
 msgid "Estonia"
 msgstr "Estónia"
 
-msgctxt
 msgid "Ethiopia"
 msgstr "Etiópia"
 
-msgctxt
 msgid "Europa Island"
 msgstr "Ilha Europa"
 
-msgctxt
 msgid "Falkland Islands (Islas Malvinas)"
 msgstr "Ilhas Falkland (Malvinas)"
 
-msgctxt
 msgid "Faroe Islands"
 msgstr "Ilhas Faroe"
 
-msgctxt
 msgid "Fiji"
 msgstr "Fiji"
 
-msgctxt
 msgid "Finland"
 msgstr "Finlândia"
 
-msgctxt
 msgid "France"
 msgstr "França"
 
-msgctxt
 msgid "French Guiana"
 msgstr "Guiana Francesa"
 
-msgctxt
 msgid "French Polynesia"
 msgstr "Polinésia Francesa"
 
-msgctxt
 msgid "French Southern and Antarctic Lands"
 msgstr "Terras Austral e Antárctica Francesas"
 
-msgctxt
 msgid "Gabon"
 msgstr "Gabão"
 
-msgctxt
 msgid "Gambia, The"
 msgstr "Gâmbia"
 
-msgctxt
 msgid "Gaza Strip"
 msgstr "Faixa de Gaza"
 
-msgctxt
 msgid "Georgia"
 msgstr "Geórgia"
 
-msgctxt
 msgid "Germany"
 msgstr "Alemanha"
 
-msgctxt
 msgid "Ghana"
 msgstr "Gana"
 
-msgctxt
 msgid "Gibraltar"
 msgstr "Gibraltar"
 
-msgctxt
 msgid "Glorioso Islands"
 msgstr "Ilhas Gloriosas"
 
-msgctxt
 msgid "Greece"
 msgstr "Grécia"
 
-msgctxt
 msgid "Greenland"
 msgstr "Gronelândia"
 
-msgctxt
 msgid "Grenada"
 msgstr "Grenada"
 
-msgctxt
 msgid "Guadeloupe"
 msgstr "Guadalupe"
 
-msgctxt
 msgid "Guam"
 msgstr "Guam"
 
-msgctxt
 msgid "Guatemala"
 msgstr "Guatemala"
 
-msgctxt
 msgid "Guernsey"
 msgstr "Guernsey"
 
-msgctxt
 msgid "Guinea"
 msgstr "Guiné"
 
-msgctxt
 msgid "Guinea-Bissau"
 msgstr "Guiné-Bissau"
 
-msgctxt
 msgid "Guyana"
 msgstr "Guiana"
 
-msgctxt
 msgid "Haiti"
 msgstr "Haiti"
 
-msgctxt
 msgid "Heard Island and McDonald Islands"
 msgstr "Ilha Heard e Ilhas McDonald"
 
-msgctxt
 msgid "Holy See (Vatican City)"
 msgstr "Cidade Estado do Vaticano)"
 
-msgctxt
 msgid "Honduras"
 msgstr "Honduras"
 
-msgctxt
 msgid "Hong Kong"
 msgstr "Hong Kong"
 
-msgctxt
 msgid "Hungary"
 msgstr "Hungria"
 
-msgctxt
 msgid "Iceland"
 msgstr "Islândia"
 
-msgctxt
 msgid "India"
 msgstr "Índia"
 
-msgctxt
 msgid "Indonesia"
 msgstr "Indonésia"
 
-msgctxt
 msgid "Iran"
 msgstr "Irão"
 
-msgctxt
 msgid "Iraq"
 msgstr "Iraque"
 
-msgctxt
 msgid "Ireland"
 msgstr "Irlanda"
 
-msgctxt
 msgid "Isle of Man"
 msgstr "Ilha de Man"
 
-msgctxt
 msgid "Israel"
 msgstr "Israel"
 
-msgctxt
 msgid "Italy"
 msgstr "Itália"
 
-msgctxt
 msgid "Jamaica"
 msgstr "Jamaica"
 
-msgctxt
 msgid "Jan Mayen"
 msgstr "Jan Mayen"
 
-msgctxt
 msgid "Japan"
 msgstr "Japão"
 
-msgctxt
 msgid "Jersey"
 msgstr "Jersey"
 
-msgctxt
 msgid "Jordan"
 msgstr "Jordânia"
 
-msgctxt
 msgid "Juan de Nova Island"
 msgstr "Ilha de Juan de Nova"
 
-msgctxt
 msgid "Kazakhstan"
 msgstr "Cazaquistão"
 
-msgctxt
 msgid "Kenya"
 msgstr "Quênia"
 
-msgctxt
 msgid "Kiribati"
 msgstr "Kiribati"
 
-msgctxt
 msgid "Korea, North"
 msgstr "Coreia do Norte"
 
-msgctxt
 msgid "Korea, South"
 msgstr "Coréia do Sul"
 
-msgctxt
 msgid "Kuwait"
 msgstr "Kuwait"
 
-msgctxt
 msgid "Kyrgyzstan"
 msgstr "Quirguistão"
 
-msgctxt
 msgid "Laos"
 msgstr "Laos"
 
-msgctxt
 msgid "Latvia"
 msgstr "Letónia"
 
-msgctxt
 msgid "Lebanon"
 msgstr "Líbano"
 
-msgctxt
 msgid "Lesotho"
 msgstr "Lesoto"
 
-msgctxt
 msgid "Liberia"
 msgstr "Libéria"
 
-msgctxt
 msgid "Libya"
 msgstr "Líbia"
 
-msgctxt
 msgid "Liechtenstein"
 msgstr "Liechtenstein"
 
-msgctxt
 msgid "Lithuania"
 msgstr "Lituânia"
 
-msgctxt
 msgid "Luxembourg"
 msgstr "Luxemburgo"
 
-msgctxt
 msgid "Macau"
 msgstr "Macau"
 
-msgctxt
 msgid "Macedonia"
 msgstr "Macedónia"
 
-msgctxt
 msgid "Madagascar"
 msgstr "Madagáscar"
 
-msgctxt
 msgid "Malawi"
 msgstr "Malawi"
 
-msgctxt
 msgid "Malaysia"
 msgstr "Malásia"
 
-msgctxt
 msgid "Maldives"
 msgstr "Maldivas"
 
-msgctxt
 msgid "Mali"
 msgstr "Mali"
 
-msgctxt
 msgid "Malta"
 msgstr "Malta"
 
-msgctxt
 msgid "Marshall Islands"
 msgstr "Ilhas Marshall"
 
-msgctxt
 msgid "Martinique"
 msgstr "Martinica"
 
-msgctxt
 msgid "Mauritania"
 msgstr "Mauritânia"
 
-msgctxt
 msgid "Mauritius"
 msgstr "Maurícia"
 
-msgctxt
 msgid "Mayotte"
 msgstr "Mayotte"
 
-msgctxt
 msgid "Mexico"
 msgstr "México"
 
-msgctxt
 msgid "Micronesia, Federated States of"
 msgstr "Estados Federados da Micronésia"
 
-msgctxt
 msgid "Moldova"
 msgstr "Moldávia"
 
-msgctxt
 msgid "Monaco"
 msgstr "Mónaco"
 
-msgctxt
 msgid "Mongolia"
 msgstr "Mongólia"
 
-msgctxt
 msgid "Montserrat"
 msgstr "Montserrat"
 
-msgctxt
 msgid "Morocco"
 msgstr "Marrocos"
 
-msgctxt
 msgid "Mozambique"
 msgstr "Moçambique"
 
-msgctxt
 msgid "Namibia"
 msgstr "Namíbia"
 
-msgctxt
 msgid "Nauru"
 msgstr "Nauru"
 
-msgctxt
 msgid "Navassa Island"
 msgstr "Ilha de Navassa"
 
-msgctxt
 msgid "Nepal"
 msgstr "Nepal"
 
-msgctxt
 msgid "Netherlands"
 msgstr "Holanda"
 
-msgctxt
 msgid "Netherlands Antilles"
 msgstr "Antilhas holandesas"
 
-msgctxt
 msgid "New Caledonia"
 msgstr "Nova Caledónia"
 
-msgctxt
 msgid "New Zealand"
 msgstr "Nova Zelândia"
 
-msgctxt
 msgid "Nicaragua"
 msgstr "Nicarágua"
 
-msgctxt
 msgid "Niger"
 msgstr "Níger"
 
-msgctxt
 msgid "Nigeria"
 msgstr "Nigéria"
 
-msgctxt
 msgid "Niue"
 msgstr "Niue"
 
-msgctxt
 msgid "Norfolk Island"
 msgstr "Ilha de Norfolk"
 
-msgctxt
 msgid "Northern Mariana Islands"
 msgstr "Ilhas Marianas do Norte"
 
-msgctxt
 msgid "Norway"
 msgstr "Noruega"
 
-msgctxt
 msgid "Oman"
 msgstr "Omã"
 
-msgctxt
 msgid "Pakistan"
 msgstr "Paquistão"
 
-msgctxt
 msgid "Palau"
 msgstr "Palau"
 
-msgctxt
 msgid "Panama"
 msgstr "Panamá"
 
-msgctxt
 msgid "Papua New Guinea"
 msgstr "Papua Nova Guiné"
 
-msgctxt
 msgid "Paracel Islands"
 msgstr "Ilhas Paracel"
 
-msgctxt
 msgid "Paraguay"
 msgstr "Paraguai"
 
-msgctxt
 msgid "Peru"
 msgstr "Peru"
 
-msgctxt
 msgid "Philippines"
 msgstr "Filipinas"
 
-msgctxt
 msgid "Pitcairn Islands"
 msgstr "Ilhas Pitcairn"
 
-msgctxt
 msgid "Poland"
 msgstr "Polónia"
 
-msgctxt
 msgid "Portugal"
 msgstr "Portugal"
 
-msgctxt
 msgid "Puerto Rico"
 msgstr "Porto Rico"
 
-msgctxt
 msgid "Qatar"
 msgstr "Catar"
 
-msgctxt
 msgid "Reunion"
 msgstr "Reunião"
 
-msgctxt
 msgid "Romania"
 msgstr "Roménia"
 
-msgctxt
 msgid "Russia"
 msgstr "Rússia"
 
-msgctxt
 msgid "Rwanda"
 msgstr "Ruanda"
 
-msgctxt
 msgid "Saint Helena"
 msgstr "Santa Helena"
 
-msgctxt
 msgid "Saint Kitts and Nevis"
 msgstr "São Cristóvão e Nevis"
 
-msgctxt
 msgid "Saint Lucia"
 msgstr "Santa Lúcia"
 
-msgctxt
 msgid "Saint Pierre and Miquelon"
 msgstr "São Pedro e Miquelon"
 
-msgctxt
 msgid "Saint Vincent and the Grenadines"
 msgstr "São Vicente e Granadinas"
 
-msgctxt
 msgid "Samoa"
 msgstr "Samoa"
 
-msgctxt
 msgid "San Marino"
 msgstr "San Marino"
 
-msgctxt
 msgid "Sao Tome and Principe"
 msgstr "São Tomé e Príncipe"
 
-msgctxt
 msgid "Saudi Arabia"
 msgstr "Arábia Saudita"
 
-msgctxt
 msgid "Senegal"
 msgstr "Senegal"
 
-msgctxt
 msgid "Serbia and Montenegro"
 msgstr "Sérvia e Montenegro"
 
-msgctxt
 msgid "Seychelles"
 msgstr "Seychelles"
 
-msgctxt
 msgid "Sierra Leone"
 msgstr "Serra Leoa"
 
-msgctxt
 msgid "Singapore"
 msgstr "Singapura"
 
-msgctxt
 msgid "Slovakia"
 msgstr "Eslováquia"
 
-msgctxt
 msgid "Slovenia"
 msgstr "Eslovénia"
 
-msgctxt
 msgid "Solomon Islands"
 msgstr "Ilhas Salomão"
 
-msgctxt
 msgid "Somalia"
 msgstr "Somália"
 
-msgctxt
 msgid "South Africa"
 msgstr "África do Sul"
 
-msgctxt
 msgid "South Georgia and the South Sandwich Islands"
 msgstr "Geórgia do Sul e Ilhas Sandwich do Sul"
 
-msgctxt
 msgid "Spain"
 msgstr "Espanha"
 
-msgctxt
 msgid "Spratly Islands"
 msgstr "Ilhas Spratly"
 
-msgctxt
 msgid "Sri Lanka"
 msgstr "Sri Lanka"
 
-msgctxt
 msgid "Sudan"
 msgstr "Sudão"
 
-msgctxt
 msgid "Suriname"
 msgstr "Suriname"
 
-msgctxt
 msgid "Svalbard"
 msgstr "Svalbard"
 
-msgctxt
 msgid "Swaziland"
 msgstr "Suazilândia"
 
-msgctxt
 msgid "Sweden"
 msgstr "Suécia"
 
-msgctxt
 msgid "Switzerland"
 msgstr "Suíça"
 
-msgctxt
 msgid "Syria"
 msgstr "Síria"
 
-msgctxt
 msgid "Taiwan"
 msgstr "Taiwan"
 
-msgctxt
 msgid "Tajikistan"
 msgstr "Tajiquistão"
 
-msgctxt
 msgid "Tanzania"
 msgstr "Tanzânia"
 
-msgctxt
 msgid "Thailand"
 msgstr "Tailândia"
 
-msgctxt
 msgid "Timor-Leste"
 msgstr "Timor-Leste"
 
-msgctxt
 msgid "Togo"
 msgstr "Togo"
 
-msgctxt
 msgid "Tokelau"
 msgstr "Tokelau"
 
-msgctxt
 msgid "Tonga"
 msgstr "Tonga"
 
-msgctxt
 msgid "Trinidad and Tobago"
 msgstr "Trinidad e Tobago"
 
-msgctxt
 msgid "Tromelin Island"
 msgstr "Ilha de Tromelin"
 
-msgctxt
 msgid "Tunisia"
 msgstr "Tunísia"
 
-msgctxt
 msgid "Turkey"
 msgstr "Turquia"
 
-msgctxt
 msgid "Turkmenistan"
 msgstr "Turquemenistão"
 
-msgctxt
 msgid "Turks and Caicos Islands"
 msgstr "Ilhas Turcas e Caicos"
 
-msgctxt
 msgid "Tuvalu"
 msgstr "Tuvalu"
 
-msgctxt
 msgid "Uganda"
 msgstr "Uganda"
 
-msgctxt
 msgid "Ukraine"
 msgstr "Ucrânia"
 
-msgctxt
 msgid "United Arab Emirates"
 msgstr "Emirados Árabes Unidos"
 
-msgctxt
 msgid "United Kingdom"
 msgstr "Reino Unido"
 
-msgctxt
 msgid "United States"
 msgstr "Estados Unidos"
 
-msgctxt
 msgid "Uruguay"
 msgstr "Uruguai"
 
-msgctxt
 msgid "Uzbekistan"
 msgstr "Uzbequistão"
 
-msgctxt
 msgid "Vanuatu"
 msgstr "Vanuatu"
 
-msgctxt
 msgid "Venezuela"
 msgstr "Venezuela"
 
-msgctxt
 msgid "Vietnam"
 msgstr "Vietname"
 
-msgctxt
 msgid "Virgin Islands"
 msgstr "Ilhas Virgens"
 
-msgctxt
 msgid "Wake Island"
 msgstr "Wake Island"
 
-msgctxt
 msgid "Wallis and Futuna"
 msgstr "Wallis e Futuna"
 
-msgctxt
 msgid "West Bank"
 msgstr "Cisjordânia"
 
-msgctxt
 msgid "Western Sahara"
 msgstr "Saara Ocidental"
 
-msgctxt
 msgid "Yemen"
 msgstr "Iémen"
 
-msgctxt
 msgid "Zambia"
 msgstr "Zâmbia"
 
-msgctxt
 msgid "Zimbabwe"
 msgstr "Zimbábue"
 
 # ######################################################################
-msgctxt
 msgid "Languages"
 msgstr "Idiomas"
 
-msgctxt
 msgid "Portuguese"
 msgstr "Português"
 
 # ######################################################################
-msgctxt
 msgid "Colors"
 msgstr "Cores"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5d8aa8
-msgctxt
 msgid "Air Force blue"
 msgstr "Azul da Força Aérea"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f0f8ff
-msgctxt
 msgid "Alice blue"
 msgstr "Azul Alice"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e32636
-msgctxt
 msgid "Alizarin crimson"
 msgstr "Carmesim Alizarin"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: # #efdecd
-msgctxt
 msgid "Almond"
 msgstr "Amêndoa"
 
 # en - hex color code:
 # en - hex color code:
 # pt - código hexadecimal da cor: # #e52b50
-msgctxt
 msgid "Amaranth"
 msgstr "Amaranto"
 
 # en - hex color code:
 # en - hex color code:
 # pt - código hexadecimal da cor: # #ffbf00
-msgctxt
 msgid "Amber"
 msgstr "Âmbar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff033e
-msgctxt
 msgid "American rose"
 msgstr "Rosa americano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9966cc
-msgctxt
 msgid "Amethyst"
 msgstr "Ametista"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a4c639
-msgctxt
 msgid "Android Green"
 msgstr "Verde Android"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f2f3f4
-msgctxt
 msgid "Anti-flash white"
 msgstr "Branco anti-flash"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cd9575
-msgctxt
 msgid "Antique brass"
 msgstr "Bronze antigo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #915c83
-msgctxt
 msgid "Antique fuchsia"
 msgstr "Fúcsia antigo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #faebd7
-msgctxt
 msgid "Antique white"
 msgstr "Branco antigo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #008000
-msgctxt
 msgid "Ao"
 msgstr "Ao"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8db600
-msgctxt
 msgid "Apple green"
 msgstr "Maçã verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fbceb1
-msgctxt
 msgid "Apricot"
 msgstr "Damasco"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ffff
-msgctxt
 msgid "Aqua"
 msgstr "Aqua"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #7fffd4
-msgctxt
 msgid "Aquamarine"
 msgstr "Aquamarine"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4b5320
-msgctxt
 msgid "Army green"
 msgstr "Verde Exército"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e9d66b
-msgctxt
 msgid "Arylide yellow"
 msgstr "Amarelo Arilide"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b2beb5
-msgctxt
 msgid "Ash grey"
 msgstr "Cor de cinza"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #87a96b
-msgctxt
 msgid "Asparagus"
 msgstr "Espargos"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff9966
-msgctxt
 msgid "Atomic tangerine"
 msgstr "Tangerina atómica"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a52a2a
-msgctxt
 msgid "Auburn"
 msgstr "Auburn"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fdee00
-msgctxt
 msgid "Aureolin"
 msgstr "Aureolina"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6e7f80
-msgctxt
 msgid "AuroMetalSaurus"
 msgstr "AuroMetalSaurus"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff2052
-msgctxt
 msgid "Awesome"
 msgstr "Impressionante"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #007fff
-msgctxt
 msgid "Azure"
 msgstr "Azure"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f0ffff
-msgctxt
 msgid "Azure mist/web"
 msgstr "Névoa/Teia Azure"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #89cff0
-msgctxt
 msgid "Baby blue"
 msgstr "Azul bebé"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a1caf1
-msgctxt
 msgid "Baby blue eyes"
 msgstr "Olhos azul bebé"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4c2c2
-msgctxt
 msgid "Baby pink"
 msgstr "Rosa bebé"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #21abcd
-msgctxt
 msgid "Ball Blue"
 msgstr "Azul bola"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fae7b5
-msgctxt
 msgid "Banana Mania"
 msgstr "Mania da banana"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffe135
-msgctxt
 msgid "Banana yellow"
 msgstr "Amarelo banana"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #848482
-msgctxt
 msgid "Battleship grey"
 msgstr "Cinzento navio de guerra"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #98777b
-msgctxt
 msgid "Bazaar"
 msgstr "Bazar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bcd4e6
-msgctxt
 msgid "Beau blue"
 msgstr "Azul Beau"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9f8170
-msgctxt
 msgid "Beaver"
 msgstr "Castor"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f5f5dc
-msgctxt
 msgid "Beige"
 msgstr "Bege"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffe4c4
-msgctxt
 msgid "Bisque"
 msgstr "Bisque"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #3d2b1f
-msgctxt
 msgid "Bistre"
 msgstr "Bistre"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fe6f5e
-msgctxt
 msgid "Bittersweet"
 msgstr "Agridoce"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #000000
-msgctxt
 msgid "Black"
 msgstr "Preto"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffebcd
-msgctxt
 msgid "Blanched Almond"
 msgstr "Amêndoa pálida"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #318ce7
-msgctxt
 msgid "Bleu de France"
 msgstr "Bleu de France"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ace5ee
-msgctxt
 msgid "Blizzard Blue"
 msgstr "Azul nevasca"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #faf0be
-msgctxt
 msgid "Blond"
 msgstr "Loiro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0000ff
-msgctxt
 msgid "Blue"
 msgstr "Azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a2a2d0
-msgctxt
 msgid "Blue Bell"
 msgstr "Azul sino"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6699cc
-msgctxt
 msgid "Blue Gray"
 msgstr "Cinzento azulado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0d98ba
-msgctxt
 msgid "Blue green"
 msgstr "Verde azulado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8a2be2
-msgctxt
 msgid "Blue purple"
 msgstr "Roxo azulado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8a2be2
-msgctxt
 msgid "Blue violet"
 msgstr "Violeta azulado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #de5d83
-msgctxt
 msgid "Blush"
 msgstr "Corado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #79443b
-msgctxt
 msgid "Bole"
 msgstr "Argila"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0095b6
-msgctxt
 msgid "Bondi blue"
 msgstr "Azul Bondi"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e3dac9
-msgctxt
 msgid "Bone"
 msgstr "Osso"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc0000
-msgctxt
 msgid "Boston University Red"
 msgstr "Vermemlho da Universidade de Boston"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #006a4e
-msgctxt
 msgid "Bottle green"
 msgstr "Verde garrafa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #873260
-msgctxt
 msgid "Boysenberry"
 msgstr "Boysenberry"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0070ff
-msgctxt
 msgid "Brandeis blue"
 msgstr "Azul Brandeis"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b5a642
-msgctxt
 msgid "Brass"
 msgstr "Latão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cb4154
-msgctxt
 msgid "Brick red"
 msgstr "Cor de tijolo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1dacd6
-msgctxt
 msgid "Bright cerulean"
 msgstr "Cerúlea brilhante"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #66ff00
-msgctxt
 msgid "Bright green"
 msgstr "Verde claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bf94e4
-msgctxt
 msgid "Bright lavender"
 msgstr "Lavanda claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c32148
-msgctxt
 msgid "Bright maroon"
 msgstr "Castanho claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff007f
-msgctxt
 msgid "Bright pink"
 msgstr "Rosa claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #08e8de
-msgctxt
 msgid "Bright turquoise"
 msgstr "Turquesa claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d19fe8
-msgctxt
 msgid "Bright ube"
 msgstr "Ube claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4bbff
-msgctxt
 msgid "Brilliant lavender"
 msgstr "Lavanda brilhante"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff55a3
-msgctxt
 msgid "Brilliant rose"
 msgstr "Rosa brilhante"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fb607f
-msgctxt
 msgid "Brink pink"
 msgstr "Rosa Brink"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #004225
-msgctxt
 msgid "British racing green"
 msgstr "Verde Racing inglês"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cd7f32
-msgctxt
 msgid "Bronze"
 msgstr "Bronze"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a52a2a
-msgctxt
 msgid "Brown"
 msgstr "Castanho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffc1cc
-msgctxt
 msgid "Bubble gum"
 msgstr "Chiclete"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e7feff
-msgctxt
 msgid "Bubbles"
 msgstr "Bolhas"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f0dc82
-msgctxt
 msgid "Buff"
 msgstr "Buff"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #480607
-msgctxt
 msgid "Bulgarian rose"
 msgstr "Rosa búlgara"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #800020
-msgctxt
 msgid "Burgundy"
 msgstr "Borgonha"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #deb887
-msgctxt
 msgid "Burlywood"
 msgstr "Madeira robusta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc5500
-msgctxt
 msgid "Burnt orange"
 msgstr "Laranja queimado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e97451
-msgctxt
 msgid "Burnt sienna"
 msgstr "Sienna queimado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8a3324
-msgctxt
 msgid "Burnt umber"
 msgstr "Umbra queimado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bd33a4
-msgctxt
 msgid "Byzantine"
 msgstr "Bizantino"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #702963
-msgctxt
 msgid "Byzantium"
 msgstr "Bizantino"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #007aa5
-msgctxt
 msgid "CG Blue"
 msgstr "Azul CG"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e03c31
-msgctxt
 msgid "CG Red"
 msgstr "Vermelho CG"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #536872
-msgctxt
 msgid "Cadet"
 msgstr "Cadete"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5f9ea0
-msgctxt
 msgid "Cadet blue"
 msgstr "Azul cadete"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #91a3b0
-msgctxt
 msgid "Cadet grey"
 msgstr "Cinzento cadete"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #006b3c
-msgctxt
 msgid "Cadmium green"
 msgstr "Verde cádmio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ed872d
-msgctxt
 msgid "Cadmium orange"
 msgstr "Laranja cádmio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e30022
-msgctxt
 msgid "Cadmium red"
 msgstr "Vermelho cádmio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fff600
-msgctxt
 msgid "Cadmium yellow"
 msgstr "Amarelo cádmio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a67b5b
-msgctxt
 msgid "Café au lait"
 msgstr "Café com leite"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4b3621
-msgctxt
 msgid "Café noir"
 msgstr "Café preto"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1e4d2b
-msgctxt
 msgid "Cal Poly Pomona green"
 msgstr "Verde Cal Poly Pomona"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a3c1ad
-msgctxt
 msgid "Cambridge Blue"
 msgstr "Azul Cambridge"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c19a6b
-msgctxt
 msgid "Camel"
 msgstr "Camelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #78866b
-msgctxt
 msgid "Camouflage green"
 msgstr "Camuflagem verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffff99
-msgctxt
 msgid "Canary"
 msgstr "Canário"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffef00
-msgctxt
 msgid "Canary yellow"
 msgstr "Amarelo canário"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff0800
-msgctxt
 msgid "Candy apple red"
 msgstr "Vermelho Candy apple"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e4717a
-msgctxt
 msgid "Candy pink"
 msgstr "Rosa Candy"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00bfff
-msgctxt
 msgid "Capri"
 msgstr "Capri"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #592720
-msgctxt
 msgid "Caput mortuum"
 msgstr "Caput mortuum"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c41e3a
-msgctxt
 msgid "Cardinal"
 msgstr "Cardeal"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00cc99
-msgctxt
 msgid "Caribbean green"
 msgstr "Verde do Caribe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff0040
-msgctxt
 msgid "Carmine"
 msgstr "Carmim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #eb4c42
-msgctxt
 msgid "Carmine pink"
 msgstr "Rosa carmim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff0038
-msgctxt
 msgid "Carmine red"
 msgstr "Vermelho carmim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa6c9
-msgctxt
 msgid "Carnation pink"
 msgstr "Cravo rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b31b1b
-msgctxt
 msgid "Carnelian"
 msgstr "Cornalina"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #99badd
-msgctxt
 msgid "Carolina blue"
 msgstr "Azul Carolina"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ed9121
-msgctxt
 msgid "Carrot orange"
 msgstr "Cor de cenoura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ace1af
-msgctxt
 msgid "Celadon"
 msgstr "Celadon"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b2ffff
-msgctxt
 msgid "Celeste"
 msgstr "Celeste"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4997d0
-msgctxt
 msgid "Celestial blue"
 msgstr "Azul celestial"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #de3163
-msgctxt
 msgid "Cerise"
 msgstr "Cor de cereja"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ec3b83
-msgctxt
 msgid "Cerise pink"
 msgstr "Cor de cereja rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #007ba7
-msgctxt
 msgid "Cerulean"
 msgstr "Ceruleano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #2a52be
-msgctxt
 msgid "Cerulean blue"
 msgstr "Azul ceruleano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a0785a
-msgctxt
 msgid "Chamoisee"
 msgstr "Chamoisee"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fad6a5
-msgctxt
 msgid "Champagne"
 msgstr "Champanhe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #36454f
-msgctxt
 msgid "Charcoal"
 msgstr "Carvão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #7fff00
-msgctxt
 msgid "Chartreuse"
 msgstr "Chartreuse"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #de3163
-msgctxt
 msgid "Cherry"
 msgstr "Cereja"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffb7c5
-msgctxt
 msgid "Cherry blossom pink"
 msgstr "Flor de cerejeira rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cd5c5c
-msgctxt
 msgid "Chestnut"
 msgstr "Castanha"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d2691e
-msgctxt
 msgid "Chocolate"
 msgstr "Chocolate"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa700
-msgctxt
 msgid "Chrome yellow"
 msgstr "Amarelo crómio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #98817b
-msgctxt
 msgid "Cinereous"
 msgstr "Cinereous"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e34234
-msgctxt
 msgid "Cinnabar"
 msgstr "Cinabre"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d2691e
-msgctxt
 msgid "Cinnamon"
 msgstr "Canela"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e4d00a
-msgctxt
 msgid "Citrine"
 msgstr "Citrino"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fbcce7
-msgctxt
 msgid "Classic rose"
 msgstr "Rosa clássica"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0047ab
-msgctxt
 msgid "Cobalt"
 msgstr "Cobalto"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d2691e
-msgctxt
 msgid "Cocoa brown"
 msgstr "Cacau castanho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6f4e37
-msgctxt
 msgid "Coffee"
 msgstr "Café"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9bddff
-msgctxt
 msgid "Columbia blue"
 msgstr "Azul Columbia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #002e63
-msgctxt
 msgid "Cool black"
 msgstr "Preto fresco"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8c92ac
-msgctxt
 msgid "Cool grey"
 msgstr "Cinzento fresco"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b87333
-msgctxt
 msgid "Copper"
 msgstr "Cobre"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #996666
-msgctxt
 msgid "Copper rose"
 msgstr "Rosa acobreado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff3800
-msgctxt
 msgid "Coquelicot"
 msgstr "Coquelicot"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff7f50
-msgctxt
 msgid "Coral"
 msgstr "Coral"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f88379
-msgctxt
 msgid "Coral pink"
 msgstr "Coral rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff4040
-msgctxt
 msgid "Coral red"
 msgstr "Coral vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #893f45
-msgctxt
 msgid "Cordovan"
 msgstr "Cordovão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fbec5d
-msgctxt
 msgid "Corn"
 msgstr "Milho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b31b1b
-msgctxt
 msgid "Cornell Red"
 msgstr "Vermelho Cornell"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9aceeb
-msgctxt
 msgid "Cornflower"
 msgstr "Centáurea-azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6495ed
-msgctxt
 msgid "Cornflower blue"
 msgstr "Azul Cornflower"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fff8dc
-msgctxt
 msgid "Cornsilk"
 msgstr "Cornsilk"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fff8e7
-msgctxt
 msgid "Cosmic latte"
 msgstr "Latte cósmico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffbcd9
-msgctxt
 msgid "Cotton candy"
 msgstr "Algodão doce"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fffdd0
-msgctxt
 msgid "Cream"
 msgstr "Creme"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #dc143c
-msgctxt
 msgid "Crimson"
 msgstr "Carmesim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #990000
-msgctxt
 msgid "Crimson Red"
 msgstr "Vermelho carmesim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #be0032
-msgctxt
 msgid "Crimson glory"
 msgstr "Glória carmesim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ffff
-msgctxt
 msgid "Cyan"
 msgstr "Ciano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffff31
-msgctxt
 msgid "Daffodil"
 msgstr "Daffodil"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f0e130
-msgctxt
 msgid "Dandelion"
 msgstr "Dente-de-leão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00008b
-msgctxt
 msgid "Dark blue"
 msgstr "Azul escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #654321
-msgctxt
 msgid "Dark brown"
 msgstr "Castanho escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5d3954
-msgctxt
 msgid "Dark byzantium"
 msgstr "Byzantium escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a40000
-msgctxt
 msgid "Dark candy apple red"
 msgstr "Vermelho maçã escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #08457e
-msgctxt
 msgid "Dark cerulean"
 msgstr "Cerulean escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #986960
-msgctxt
 msgid "Dark chestnut"
 msgstr "Castanha escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cd5b45
-msgctxt
 msgid "Dark coral"
 msgstr "Coral escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #008b8b
-msgctxt
 msgid "Dark cyan"
 msgstr "Ciano escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #536878
-msgctxt
 msgid "Dark electric blue"
 msgstr "Azul eléctrico escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b8860b
-msgctxt
 msgid "Dark goldenrod"
 msgstr "Goldenrod escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a9a9a9
-msgctxt
 msgid "Dark gray"
 msgstr "Cinzento escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #013220
-msgctxt
 msgid "Dark green"
 msgstr "Verde escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1a2421
-msgctxt
 msgid "Dark jungle green"
 msgstr "Verde selva escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bdb76b
-msgctxt
 msgid "Dark khaki"
 msgstr "Cáqui escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #483c32
-msgctxt
 msgid "Dark lava"
 msgstr "Lava escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #734f96
-msgctxt
 msgid "Dark lavender"
 msgstr "Lavanda escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8b008b
-msgctxt
 msgid "Dark magenta"
 msgstr "Magenta escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #003366
-msgctxt
 msgid "Dark midnight blue"
 msgstr "Azul escuro meia-noite"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #556b2f
-msgctxt
 msgid "Dark olive green"
 msgstr "Verde-azeitona escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff8c00
-msgctxt
 msgid "Dark orange"
 msgstr "Laranja escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9932cc
-msgctxt
 msgid "Dark orchid"
 msgstr "Orquídea escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #779ecb
-msgctxt
 msgid "Dark pastel blue"
 msgstr "Azul pastel escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #03c03c
-msgctxt
 msgid "Dark pastel green"
 msgstr "Verde pastel escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #966fd6
-msgctxt
 msgid "Dark pastel purple"
 msgstr "Roxo pastel escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c23b22
-msgctxt
 msgid "Dark pastel red"
 msgstr "Vermelho pastel escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e75480
-msgctxt
 msgid "Dark pink"
 msgstr "Rosa escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #003399
-msgctxt
 msgid "Dark powder blue"
 msgstr "Azul pólvora escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #872657
-msgctxt
 msgid "Dark raspberry"
 msgstr "Framboesa escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8b0000
-msgctxt
 msgid "Dark red"
 msgstr "Vermelho escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e9967a
-msgctxt
 msgid "Dark salmon"
 msgstr "Salmão escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #560319
-msgctxt
 msgid "Dark scarlet"
 msgstr "Escarlate escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8fbc8f
-msgctxt
 msgid "Dark sea green"
 msgstr "Verde mar escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #3c1414
-msgctxt
 msgid "Dark sienna"
 msgstr "Siena escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #483d8b
-msgctxt
 msgid "Dark slate blue"
 msgstr "Azul ardósia escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #2f4f4f
-msgctxt
 msgid "Dark slate gray"
 msgstr "Dark ardósia cinza"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #177245
-msgctxt
 msgid "Dark spring green"
 msgstr "Verde Primavera escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #918151
-msgctxt
 msgid "Dark tan"
 msgstr "Bronzeado escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa812
-msgctxt
 msgid "Dark tangerine"
 msgstr "Tangerina escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #483c32
-msgctxt
 msgid "Dark taupe"
 msgstr "Taupe escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc4e5c
-msgctxt
 msgid "Dark terra cotta"
 msgstr "Terracota escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ced1
-msgctxt
 msgid "Dark turquoise"
 msgstr "Turquesa escura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9400d3
-msgctxt
 msgid "Dark violet"
 msgstr "Violeta escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00693e
-msgctxt
 msgid "Dartmouth green"
 msgstr "Verde Dartmouth"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #555555
-msgctxt
 msgid "Davy grey"
 msgstr "Cinzento Davy"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d70a53
-msgctxt
 msgid "Debian red"
 msgstr "Vermelho Debian"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a9203e
-msgctxt
 msgid "Deep carmine"
 msgstr "Carmin profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ef3038
-msgctxt
 msgid "Deep carmine pink"
 msgstr "Rosa carmin profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e9692c
-msgctxt
 msgid "Deep carrot orange"
 msgstr "Cor de cenoura profunda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #da3287
-msgctxt
 msgid "Deep cerise"
 msgstr "Cereja profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fad6a5
-msgctxt
 msgid "Deep champagne"
 msgstr "Champanhe profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b94e48
-msgctxt
 msgid "Deep chestnut"
 msgstr "Castanha profunda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #704241
-msgctxt
 msgid "Deep coffee"
 msgstr "Café profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c154c1
-msgctxt
 msgid "Deep fuchsia"
 msgstr "Fúcsia profunda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #004b49
-msgctxt
 msgid "Deep jungle green"
 msgstr "Verde selva profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9955bb
-msgctxt
 msgid "Deep lilac"
 msgstr "Lilás profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc00cc
-msgctxt
 msgid "Deep magenta"
 msgstr "Magenta profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffcba4
-msgctxt
 msgid "Deep peach"
 msgstr "Pêssego profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff1493
-msgctxt
 msgid "Deep pink"
 msgstr "Rosa profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff9933
-msgctxt
 msgid "Deep saffron"
 msgstr "Açafrão profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00bfff
-msgctxt
 msgid "Deep sky blue"
 msgstr "Azul céu profundo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1560bd
-msgctxt
 msgid "Denim"
 msgstr "Denim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c19a6b
-msgctxt
 msgid "Desert"
 msgstr "Deserto"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #edc9af
-msgctxt
 msgid "Desert sand"
 msgstr "Areia do deserto"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #696969
-msgctxt
 msgid "Dim gray"
 msgstr "Cinzento escuro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1e90ff
-msgctxt
 msgid "Dodger blue"
 msgstr "Azul Dodger"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d71868
-msgctxt
 msgid "Dogwood rose"
 msgstr "Rosa Dogwood"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #85bb65
-msgctxt
 msgid "Dollar bill"
 msgstr "Nota de dólar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #967117
-msgctxt
 msgid "Drab"
 msgstr "Castanho amarelado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00009c
-msgctxt
 msgid "Duke blue"
 msgstr "Azul Duke"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e1a95f
-msgctxt
 msgid "Earth yellow"
 msgstr "Terra amarela"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c2b280
-msgctxt
 msgid "Ecru"
 msgstr "Ecru"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #614051
-msgctxt
 msgid "Eggplant"
 msgstr "Berinjela"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f0ead6
-msgctxt
 msgid "Eggshell"
 msgstr "Casca de ovo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1034a6
-msgctxt
 msgid "Egyptian blue"
 msgstr "Azul egípcio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #7df9ff
-msgctxt
 msgid "Electric blue"
 msgstr "Azul eléctrico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff003f
-msgctxt
 msgid "Electric crimson"
 msgstr "Carmim eléctrico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ffff
-msgctxt
 msgid "Electric cyan"
 msgstr "Ciano eléctrico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ff00
-msgctxt
 msgid "Electric green"
 msgstr "Verde eléctrico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6f00ff
-msgctxt
 msgid "Electric indigo"
 msgstr "Indigo eléctrico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4bbff
-msgctxt
 msgid "Electric lavender"
 msgstr "Lavanda eléctrica"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ccff00
-msgctxt
 msgid "Electric lime"
 msgstr "Cal eléctrica"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bf00ff
-msgctxt
 msgid "Electric purple"
 msgstr "Roxo eléctrico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #3f00ff
-msgctxt
 msgid "Electric ultramarine"
 msgstr "Electric ultramarine"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8f00ff
-msgctxt
 msgid "Electric violet"
 msgstr "Violeta eléctrica"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffff00
-msgctxt
 msgid "Electric yellow"
 msgstr "Amarelo eléctrico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #50c878
-msgctxt
 msgid "Emerald"
 msgstr "Esmeralda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #96c8a2
-msgctxt
 msgid "Eton blue"
 msgstr "Eton azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c19a6b
-msgctxt
 msgid "Fallow"
 msgstr "Fallow"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #801818
-msgctxt
 msgid "Falu red"
 msgstr "Falu red"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff00ff
-msgctxt
 msgid "Famous"
 msgstr "Famoso"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b53389
-msgctxt
 msgid "Fandango"
 msgstr "Fandango"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f400a1
-msgctxt
 msgid "Fashion fuchsia"
 msgstr "Moda fúcsia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e5aa70
-msgctxt
 msgid "Fawn"
 msgstr "Fawn"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4d5d53
-msgctxt
 msgid "Feldgrau"
 msgstr "Feldgrau"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #71bc78
-msgctxt
 msgid "Fern"
 msgstr "Fern"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4f7942
-msgctxt
 msgid "Fern green"
 msgstr "Fern verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff2800
-msgctxt
 msgid "Ferrari Red"
 msgstr "Ferrari Red"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6c541e
-msgctxt
 msgid "Field drab"
 msgstr "Campo monótono"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ce2029
-msgctxt
 msgid "Fire engine red"
 msgstr "Motor de bombeiros vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b22222
-msgctxt
 msgid "Firebrick"
 msgstr "Firebrick"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e25822
-msgctxt
 msgid "Flame"
 msgstr "Chama"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fc8eac
-msgctxt
 msgid "Flamingo pink"
 msgstr "Flamingo rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f7e98e
-msgctxt
 msgid "Flavescent"
 msgstr "Flavescent"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #eedc82
-msgctxt
 msgid "Flax"
 msgstr "Linho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fffaf0
-msgctxt
 msgid "Floral white"
 msgstr "Branco floral"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffbf00
-msgctxt
 msgid "Fluorescent orange"
 msgstr "Laranja fluorescente"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff1493
-msgctxt
 msgid "Fluorescent pink"
 msgstr "Rosa fluorescente"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ccff00
-msgctxt
 msgid "Fluorescent yellow"
 msgstr "Amarelo fluorescente"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff004f
-msgctxt
 msgid "Folly"
 msgstr "Loucura"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #228b22
-msgctxt
 msgid "Forest green"
 msgstr "Verde floresta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a67b5b
-msgctxt
 msgid "French beige"
 msgstr "Bege francês"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0072bb
-msgctxt
 msgid "French blue"
 msgstr "Azul francês"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #86608e
-msgctxt
 msgid "French lilac"
 msgstr "Lilás francês"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f64a8a
-msgctxt
 msgid "French rose"
 msgstr "Rosa francês"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff00ff
-msgctxt
 msgid "Fuchsia"
 msgstr "Fúcsia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff77ff
-msgctxt
 msgid "Fuchsia pink"
 msgstr "Rosa fúcsia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e48400
-msgctxt
 msgid "Fulvous"
 msgstr "Fulvous"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc6666
-msgctxt
 msgid "Fuzzy Wuzzy"
 msgstr "Felpudo, macio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #dcdcdc
-msgctxt
 msgid "Gainsboro"
 msgstr "Gainsboro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e49b0f
-msgctxt
 msgid "Gamboge"
 msgstr "Gamboge"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f8f8ff
-msgctxt
 msgid "Ghost white"
 msgstr "Branco fantasma"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b06500
-msgctxt
 msgid "Ginger"
 msgstr "Gengibre"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6082b6
-msgctxt
 msgid "Glaucous"
 msgstr "Glauco"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e6e8fa
-msgctxt
 msgid "Glitter"
 msgstr "Glitter"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffd700
-msgctxt
 msgid "Gold"
 msgstr "Ouro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #996515
-msgctxt
 msgid "Golden brown"
 msgstr "Castanho dourado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fcc200
-msgctxt
 msgid "Golden poppy"
 msgstr "Papoula dourada"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffdf00
-msgctxt
 msgid "Golden yellow"
 msgstr "Amarelo dourado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #daa520
-msgctxt
 msgid "Goldenrod"
 msgstr "Goldenrod"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a8e4a0
-msgctxt
 msgid "Granny Smith Apple"
 msgstr "Maçã Granny Smith"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #808080
-msgctxt
 msgid "Gray"
 msgstr "Cinzento"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #465945
-msgctxt
 msgid "Gray asparagus"
 msgstr "Espargos cinzentos"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ff00
-msgctxt
 msgid "Green"
 msgstr "Verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1164b4
-msgctxt
 msgid "Green Blue"
 msgstr "Azul esverdeado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #adff2f
-msgctxt
 msgid "Green yellow"
 msgstr "Verde amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a99a86
-msgctxt
 msgid "Grullo"
 msgstr "Grullo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ff7f
-msgctxt
 msgid "Guppie green"
 msgstr "Guppie verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #663854
-msgctxt
 msgid "Halayà úbe"
 msgstr "Halayà úbe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #446ccf
-msgctxt
 msgid "Han blue"
 msgstr "Han azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5218fa
-msgctxt
 msgid "Han purple"
 msgstr "Han roxo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e9d66b
-msgctxt
 msgid "Hansa yellow"
 msgstr "Hansa amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #3fff00
-msgctxt
 msgid "Harlequin"
 msgstr "Arlequim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c90016
-msgctxt
 msgid "Harvard crimson"
 msgstr "Harvard Crimson"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #da9100
-msgctxt
 msgid "Harvest Gold"
 msgstr "Harvest Gold"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #808000
-msgctxt
 msgid "Heart Gold"
 msgstr "Coração de ouro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #df73ff
-msgctxt
 msgid "Heliotrope"
 msgstr "Heliotrópio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f400a1
-msgctxt
 msgid "Hollywood cerise"
 msgstr "Hollywood Cerise"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f0fff0
-msgctxt
 msgid "Honeydew"
 msgstr "Melada"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #49796b
-msgctxt
 msgid "Hooker green"
 msgstr "Hooker verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff1dce
-msgctxt
 msgid "Hot magenta"
 msgstr "Magenta quente"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff69b4
-msgctxt
 msgid "Hot pink"
 msgstr "Rosa quente"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #355e3b
-msgctxt
 msgid "Hunter green"
 msgstr "Hunter verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fcf75e
-msgctxt
 msgid "Icterine"
 msgstr "Icterine"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b2ec5d
-msgctxt
 msgid "Inchworm"
 msgstr "Inchworm"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #138808
-msgctxt
 msgid "India green"
 msgstr "Verde da Índia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cd5c5c
-msgctxt
 msgid "Indian red"
 msgstr "Vermelho indiano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e3a857
-msgctxt
 msgid "Indian yellow"
 msgstr "Amarelo indiano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4b0082
-msgctxt
 msgid "Indigo"
 msgstr "Índigo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #002fa7
-msgctxt
 msgid "International Klein Blue"
 msgstr "International Klein Blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff4f00
-msgctxt
 msgid "International orange"
 msgstr "Laranja internacional"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5a4fcf
-msgctxt
 msgid "Iris"
 msgstr "Íris"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4f0ec
-msgctxt
 msgid "Isabelline"
 msgstr "Isabelina"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #009000
-msgctxt
 msgid "Islamic green"
 msgstr "Verde islâmico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fffff0
-msgctxt
 msgid "Ivory"
 msgstr "Marfim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00a86b
-msgctxt
 msgid "Jade"
 msgstr "Jade"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f8de7e
-msgctxt
 msgid "Jasmine"
 msgstr "Jasmim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d73b3e
-msgctxt
 msgid "Jasper"
 msgstr "Jaspe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a50b5e
-msgctxt
 msgid "Jazzberry jam"
 msgstr "Merda Jazzberry"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fada5e
-msgctxt
 msgid "Jonquil"
 msgstr "Jonquil"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bdda57
-msgctxt
 msgid "June bud"
 msgstr "Bud de junho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #29ab87
-msgctxt
 msgid "Jungle green"
 msgstr "Selva verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e8000d
-msgctxt
 msgid "KU Crimson"
 msgstr "KU Crimson"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4cbb17
-msgctxt
 msgid "Kelly green"
 msgstr "Kelly verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c3b091
-msgctxt
 msgid "Khaki"
 msgstr "Khaki"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #087830
-msgctxt
 msgid "La Salle Green"
 msgstr "La Salle Green"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d6cadd
-msgctxt
 msgid "Languid lavender"
 msgstr "Lavanda Languid"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #26619c
-msgctxt
 msgid "Lapis lazuli"
 msgstr "Lápis lazúli"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fefe22
-msgctxt
 msgid "Laser Lemon"
 msgstr "Laser Lemon"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a9ba9d
-msgctxt
 msgid "Laurel green"
 msgstr "Verde laurel"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cf1020
-msgctxt
 msgid "Lava"
 msgstr "Lava"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e6e6fa
-msgctxt
 msgid "Lavender"
 msgstr "Lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ccccff
-msgctxt
 msgid "Lavender blue"
 msgstr "Azul lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fff0f5
-msgctxt
 msgid "Lavender blush"
 msgstr "Lavender blush"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c4c3d0
-msgctxt
 msgid "Lavender gray"
 msgstr "Cinza lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9457eb
-msgctxt
 msgid "Lavender indigo"
 msgstr "Índigo de lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ee82ee
-msgctxt
 msgid "Lavender magenta"
 msgstr "Magenta de lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e6e6fa
-msgctxt
 msgid "Lavender mist"
 msgstr "Névoa lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fbaed2
-msgctxt
 msgid "Lavender pink"
 msgstr "Rosa lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #967bb6
-msgctxt
 msgid "Lavender purple"
 msgstr "Lavender purple"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fba0e3
-msgctxt
 msgid "Lavender rose"
 msgstr "Lavender rose"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #7cfc00
-msgctxt
 msgid "Lawn green"
 msgstr "Lawn green"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fff700
-msgctxt
 msgid "Lemon"
 msgstr "Limão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fff44f
-msgctxt
 msgid "Lemon Yellow"
 msgstr "Limão amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fffacd
-msgctxt
 msgid "Lemon chiffon"
 msgstr "Chiffon de limão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bfff00
-msgctxt
 msgid "Lemon lime"
 msgstr "Limão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f56991
-msgctxt
 msgid "Light Crimson"
 msgstr "Light Crimson"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e68fac
-msgctxt
 msgid "Light Thulian pink"
 msgstr "Light Thulian pink"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fdd5b1
-msgctxt
 msgid "Light apricot"
 msgstr "Alperce claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #add8e6
-msgctxt
 msgid "Light blue"
 msgstr "Azul claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b5651d
-msgctxt
 msgid "Light brown"
 msgstr "Castanho claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e66771
-msgctxt
 msgid "Light carmine pink"
 msgstr "Light carmine pink"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f08080
-msgctxt
 msgid "Light coral"
 msgstr "Coral claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #93ccea
-msgctxt
 msgid "Light cornflower blue"
 msgstr "Light cornflower blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e0ffff
-msgctxt
 msgid "Light cyan"
 msgstr "Ciano claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f984ef
-msgctxt
 msgid "Light fuchsia pink"
 msgstr "Rosa fúcsia leve"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fafad2
-msgctxt
 msgid "Light goldenrod yellow"
 msgstr "Amarelo claro dourado amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d3d3d3
-msgctxt
 msgid "Light gray"
 msgstr "Cinza claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #90ee90
-msgctxt
 msgid "Light green"
 msgstr "Luz verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f0e68c
-msgctxt
 msgid "Light khaki"
 msgstr "Light khaki"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b19cd9
-msgctxt
 msgid "Light pastel purple"
 msgstr "Light pastel purple"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffb6c1
-msgctxt
 msgid "Light pink"
 msgstr "Luz rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa07a
-msgctxt
 msgid "Light salmon"
 msgstr "Salmão claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff9999
-msgctxt
 msgid "Light salmon pink"
 msgstr "Rosa salmão claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #20b2aa
-msgctxt
 msgid "Light sea green"
 msgstr "Mar verde claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #87cefa
-msgctxt
 msgid "Light sky blue"
 msgstr "Céu azul claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #778899
-msgctxt
 msgid "Light slate gray"
 msgstr "Light ardósia cinza"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b38b6d
-msgctxt
 msgid "Light taupe"
 msgstr "Taupe claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffffed
-msgctxt
 msgid "Light yellow"
 msgstr "Luz amarela"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c8a2c8
-msgctxt
 msgid "Lilac"
 msgstr "Lilás"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bfff00
-msgctxt
 msgid "Lime"
 msgstr "Lima"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #32cd32
-msgctxt
 msgid "Lime green"
 msgstr "Verde limão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #195905
-msgctxt
 msgid "Lincoln green"
 msgstr "Lincoln verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #faf0e6
-msgctxt
 msgid "Linen"
 msgstr "Linho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c19a6b
-msgctxt
 msgid "Lion"
 msgstr "Leão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #534b4f
-msgctxt
 msgid "Liver"
 msgstr "Fígado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e62020
-msgctxt
 msgid "Lust"
 msgstr "Luxúria"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #18453b
-msgctxt
 msgid "MSU Green"
 msgstr "MSU Green"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffbd88
-msgctxt
 msgid "Macaroni and Cheese"
 msgstr "Macarrão com queijo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff00ff
-msgctxt
 msgid "Magenta"
 msgstr "Magenta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #aaf0d1
-msgctxt
 msgid "Magic mint"
 msgstr "Menta mágica"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f8f4ff
-msgctxt
 msgid "Magnolia"
 msgstr "Magnólia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c04000
-msgctxt
 msgid "Mahogany"
 msgstr "Mogno"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fbec5d
-msgctxt
 msgid "Maize"
 msgstr "Milho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6050dc
-msgctxt
 msgid "Majorelle Blue"
 msgstr "Majorelle Blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0bda51
-msgctxt
 msgid "Malachite"
 msgstr "Malaquita"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #979aaa
-msgctxt
 msgid "Manatee"
 msgstr "Manatee"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff8243
-msgctxt
 msgid "Mango Tango"
 msgstr "Mango Tango"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #74c365
-msgctxt
 msgid "Mantis"
 msgstr "Louva-a-Deus"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #800000
-msgctxt
 msgid "Maroon"
 msgstr "Maroon"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e0b0ff
-msgctxt
 msgid "Mauve"
 msgstr "Malva"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #915f6d
-msgctxt
 msgid "Mauve taupe"
 msgstr "Taupe malva"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ef98aa
-msgctxt
 msgid "Mauvelous"
 msgstr "Mauvelous"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #73c2fb
-msgctxt
 msgid "Maya blue"
 msgstr "Maya azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e5b73b
-msgctxt
 msgid "Meat brown"
 msgstr "Carne marrom"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0067a5
-msgctxt
 msgid "Medium Persian blue"
 msgstr "Médio azul persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #66ddaa
-msgctxt
 msgid "Medium aquamarine"
 msgstr "Aquamarine média"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0000cd
-msgctxt
 msgid "Medium blue"
 msgstr "Azul médio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e2062c
-msgctxt
 msgid "Medium candy apple red"
 msgstr "Maçã de doce de maçã média"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #af4035
-msgctxt
 msgid "Medium carmine"
 msgstr "Carmin médio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f3e5ab
-msgctxt
 msgid "Medium champagne"
 msgstr "Champagne médio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #035096
-msgctxt
 msgid "Medium electric blue"
 msgstr "Azul eléctrico médio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1c352d
-msgctxt
 msgid "Medium jungle green"
 msgstr "Verde médio da selva"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #dda0dd
-msgctxt
 msgid "Medium lavender magenta"
 msgstr "Magenta de lavanda média"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ba55d3
-msgctxt
 msgid "Medium orchid"
 msgstr "Orquídea média"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9370db
-msgctxt
 msgid "Medium purple"
 msgstr "Médio roxo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bb3385
-msgctxt
 msgid "Medium red violet"
 msgstr "Médio violeta vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #3cb371
-msgctxt
 msgid "Medium sea green"
 msgstr "Verde médio do mar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #7b68ee
-msgctxt
 msgid "Medium slate blue"
 msgstr "Meio azul de ardósia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c9dc87
-msgctxt
 msgid "Medium spring bud"
 msgstr "Mola de primavera média"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00fa9a
-msgctxt
 msgid "Medium spring green"
 msgstr "Primavera média verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #674c47
-msgctxt
 msgid "Medium taupe"
 msgstr "Taupe médio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0054b4
-msgctxt
 msgid "Medium teal blue"
 msgstr "Metais azuis"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #48d1cc
-msgctxt
 msgid "Medium turquoise"
 msgstr "Turquesa média"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c71585
-msgctxt
 msgid "Medium violet red"
 msgstr "Vermelho violeta médio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fdbcb4
-msgctxt
 msgid "Melon"
 msgstr "Melão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #191970
-msgctxt
 msgid "Midnight blue"
 msgstr "Azul da meia noite"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #004953
-msgctxt
 msgid "Midnight green"
 msgstr "Verde da meia-noite"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffc40c
-msgctxt
 msgid "Mikado yellow"
 msgstr "Mikado amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #3eb489
-msgctxt
 msgid "Mint"
 msgstr "Hortelã"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f5fffa
-msgctxt
 msgid "Mint cream"
 msgstr "Creme de mint"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #98ff98
-msgctxt
 msgid "Mint green"
 msgstr "Pimenta verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffe4e1
-msgctxt
 msgid "Misty rose"
 msgstr "Misty rose"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #faebd7
-msgctxt
 msgid "Moccasin"
 msgstr "Mocassim"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #967117
-msgctxt
 msgid "Mode beige"
 msgstr "Modo bege"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #73a9c2
-msgctxt
 msgid "Moonstone blue"
 msgstr "Blue Moonstone"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ae0c00
-msgctxt
 msgid "Mordant red 19"
 msgstr "Mordant red 19"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #addfad
-msgctxt
 msgid "Moss green"
 msgstr "Musgo verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #30ba8f
-msgctxt
 msgid "Mountain Meadow"
 msgstr "Mountain Meadow"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #997a8d
-msgctxt
 msgid "Mountbatten pink"
 msgstr "Mountbatten pink"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c54b8c
-msgctxt
 msgid "Mulberry"
 msgstr "Mulberry"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f2f3f4
-msgctxt
 msgid "Munsell"
 msgstr "Munsell"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffdb58
-msgctxt
 msgid "Mustard"
 msgstr "Mostarda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #21421e
-msgctxt
 msgid "Myrtle"
 msgstr "Murta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f6adc6
-msgctxt
 msgid "Nadeshiko pink"
 msgstr "Nadeshiko rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #2a8000
-msgctxt
 msgid "Napier green"
 msgstr "Napier verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fada5e
-msgctxt
 msgid "Naples yellow"
 msgstr "Nápoles amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffdead
-msgctxt
 msgid "Navajo white"
 msgstr "Navajo branco"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #000080
-msgctxt
 msgid "Navy blue"
 msgstr "Azul marinho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa343
-msgctxt
 msgid "Neon Carrot"
 msgstr "Cenoura de néon"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fe59c2
-msgctxt
 msgid "Neon fuchsia"
 msgstr "Fúcsia de néon"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #39ff14
-msgctxt
 msgid "Neon green"
 msgstr "Verde neon"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a4dded
-msgctxt
 msgid "Non-photo blue"
 msgstr "Não foto azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #059033
-msgctxt
 msgid "North Texas Green"
 msgstr "North Texas Green"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0077be
-msgctxt
 msgid "Ocean Boat Blue"
 msgstr "Ocean Boat Blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc7722
-msgctxt
 msgid "Ochre"
 msgstr "Ocre"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #008000
-msgctxt
 msgid "Office green"
 msgstr "Escritório verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cfb53b
-msgctxt
 msgid "Old gold"
 msgstr "Ouro Velho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fdf5e6
-msgctxt
 msgid "Old lace"
 msgstr "Laço velho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #796878
-msgctxt
 msgid "Old lavender"
 msgstr "Lavanda antiga"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #673147
-msgctxt
 msgid "Old mauve"
 msgstr "Malva velha"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c08081
-msgctxt
 msgid "Old rose"
 msgstr "Velho rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #808000
-msgctxt
 msgid "Olive"
 msgstr "Oliva"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6b8e23
-msgctxt
 msgid "Olive Drab"
 msgstr "Olive Drab"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bab86c
-msgctxt
 msgid "Olive Green"
 msgstr "Verde oliva"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9ab973
-msgctxt
 msgid "Olivine"
 msgstr "Olivine"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0f0f0f
-msgctxt
 msgid "Onyx"
 msgstr "Ônix"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b784a7
-msgctxt
 msgid "Opera mauve"
 msgstr "Ópera malva"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa500
-msgctxt
 msgid "Orange"
 msgstr "Laranja"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f8d568
-msgctxt
 msgid "Orange Yellow"
 msgstr "Laranja amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff9f00
-msgctxt
 msgid "Orange peel"
 msgstr "Casca de laranja, Celulite"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff4500
-msgctxt
 msgid "Orange red"
 msgstr "Laranja vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #da70d6
-msgctxt
 msgid "Orchid"
 msgstr "Orquídea"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #654321
-msgctxt
 msgid "Otter brown"
 msgstr "Otter brown"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #414a4c
-msgctxt
 msgid "Outer Space"
 msgstr "Espaço sideral"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff6e4a
-msgctxt
 msgid "Outrageous Orange"
 msgstr "Outrageous Orange"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #002147
-msgctxt
 msgid "Oxford Blue"
 msgstr "Oxford Blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1ca9c9
-msgctxt
 msgid "Pacific Blue"
 msgstr "Pacific Blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #006600
-msgctxt
 msgid "Pakistan green"
 msgstr "Paquistão verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #273be2
-msgctxt
 msgid "Palatinate blue"
 msgstr "Palatinado azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #682860
-msgctxt
 msgid "Palatinate purple"
 msgstr "Palatinado roxo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bcd4e6
-msgctxt
 msgid "Pale aqua"
 msgstr "Pale aqua"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #afeeee
-msgctxt
 msgid "Pale blue"
 msgstr "Azul pálido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #987654
-msgctxt
 msgid "Pale brown"
 msgstr "Castanho claro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #af4035
-msgctxt
 msgid "Pale carmine"
 msgstr "Carmine pálido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9bc4e2
-msgctxt
 msgid "Pale cerulean"
 msgstr "Pale cerulean"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ddadaf
-msgctxt
 msgid "Pale chestnut"
 msgstr "Castanha pálida"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #da8a67
-msgctxt
 msgid "Pale copper"
 msgstr "Cobre pálido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #abcdef
-msgctxt
 msgid "Pale cornflower blue"
 msgstr "Pale cornflower blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e6be8a
-msgctxt
 msgid "Pale gold"
 msgstr "Pale gold"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #eee8aa
-msgctxt
 msgid "Pale goldenrod"
 msgstr "Pura dourada"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #98fb98
-msgctxt
 msgid "Pale green"
 msgstr "Verde pálido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #dcd0ff
-msgctxt
 msgid "Pale lavender"
 msgstr "Pálido lavanda"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f984e5
-msgctxt
 msgid "Pale magenta"
 msgstr "Pálido magenta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fadadd
-msgctxt
 msgid "Pale pink"
 msgstr "Rosa pálido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #dda0dd
-msgctxt
 msgid "Pale plum"
 msgstr "Ameixa palida"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #db7093
-msgctxt
 msgid "Pale red violet"
 msgstr "Violeta vermelho pálido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #96ded1
-msgctxt
 msgid "Pale robin egg blue"
 msgstr "Pale robin egg blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c9c0bb
-msgctxt
 msgid "Pale silver"
 msgstr "Prata pálida"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ecebbd
-msgctxt
 msgid "Pale spring bud"
 msgstr "Pale spring bud"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bc987e
-msgctxt
 msgid "Pale taupe"
 msgstr "Pale taupe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #db7093
-msgctxt
 msgid "Pale violet red"
 msgstr "Pálido violeta vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #78184a
-msgctxt
 msgid "Pansy purple"
 msgstr "Pansy purple"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffefd5
-msgctxt
 msgid "Papaya whip"
 msgstr "Chicote de papaia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #50c878
-msgctxt
 msgid "Paris Green"
 msgstr "Paris Green"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #aec6cf
-msgctxt
 msgid "Pastel blue"
 msgstr "Pastel azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #836953
-msgctxt
 msgid "Pastel brown"
 msgstr "Pastel brown"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cfcfc4
-msgctxt
 msgid "Pastel gray"
 msgstr "Cinza Pastel"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #77dd77
-msgctxt
 msgid "Pastel green"
 msgstr "Pastel verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f49ac2
-msgctxt
 msgid "Pastel magenta"
 msgstr "Pastel magenta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffb347
-msgctxt
 msgid "Pastel orange"
 msgstr "Laranja Pastel"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffd1dc
-msgctxt
 msgid "Pastel pink"
 msgstr "Pastel rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b39eb5
-msgctxt
 msgid "Pastel purple"
 msgstr "Pastel roxo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff6961
-msgctxt
 msgid "Pastel red"
 msgstr "Pastel vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cb99c9
-msgctxt
 msgid "Pastel violet"
 msgstr "Pastel violeta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fdfd96
-msgctxt
 msgid "Pastel yellow"
 msgstr "Amarelo em Pastel"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #800080
-msgctxt
 msgid "Patriarch"
 msgstr "Patriarca"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #536878
-msgctxt
 msgid "Payne grey"
 msgstr "Payne cinza"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffe5b4
-msgctxt
 msgid "Peach"
 msgstr "Pêssego"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffdab9
-msgctxt
 msgid "Peach puff"
 msgstr "Puff de pêssego"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fadfad
-msgctxt
 msgid "Peach yellow"
 msgstr "Amarelo de pêssego"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d1e231
-msgctxt
 msgid "Pear"
 msgstr "Pera"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #eae0c8
-msgctxt
 msgid "Pearl"
 msgstr "Pérola"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #88d8c0
-msgctxt
 msgid "Pearl Aqua"
 msgstr "Pearl Aqua"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e6e200
-msgctxt
 msgid "Peridot"
 msgstr "Peridoto"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ccccff
-msgctxt
 msgid "Periwinkle"
 msgstr "Pervinca"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1c39bb
-msgctxt
 msgid "Persian blue"
 msgstr "Azul persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #32127a
-msgctxt
 msgid "Persian indigo"
 msgstr "Índigo persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d99058
-msgctxt
 msgid "Persian orange"
 msgstr "Laranja persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f77fbe
-msgctxt
 msgid "Persian pink"
 msgstr "Rosa persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #701c1c
-msgctxt
 msgid "Persian plum"
 msgstr "Ameixa persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc3333
-msgctxt
 msgid "Persian red"
 msgstr "Vermelho persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fe28a2
-msgctxt
 msgid "Persian rose"
 msgstr "Rosa persa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #df00ff
-msgctxt
 msgid "Phlox"
 msgstr "Phlox"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #000f89
-msgctxt
 msgid "Phthalo blue"
 msgstr "Phthalo blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #123524
-msgctxt
 msgid "Phthalo green"
 msgstr "Phthalo verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fddde6
-msgctxt
 msgid "Piggy pink"
 msgstr "Piggy pink"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #01796f
-msgctxt
 msgid "Pine green"
 msgstr "Pinho verde"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffc0cb
-msgctxt
 msgid "Pink"
 msgstr "Rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fc74fd
-msgctxt
 msgid "Pink Flamingo"
 msgstr "Pink Flamingo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f78fa7
-msgctxt
 msgid "Pink Sherbet"
 msgstr "Sorvete cor-de-rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e7accf
-msgctxt
 msgid "Pink pearl"
 msgstr "Pérola rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #93c572
-msgctxt
 msgid "Pistachio"
 msgstr "Pistache"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e5e4e2
-msgctxt
 msgid "Platinum"
 msgstr "Platina"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #dda0dd
-msgctxt
 msgid "Plum"
 msgstr "Ameixa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff5a36
-msgctxt
 msgid "Portland Orange"
 msgstr "Portland Orange"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b0e0e6
-msgctxt
 msgid "Powder blue"
 msgstr "Pó azul"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff8f00
-msgctxt
 msgid "Princeton orange"
 msgstr "Laranja Princeton"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #003153
-msgctxt
 msgid "Prussian blue"
 msgstr "Azul prussiano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #df00ff
-msgctxt
 msgid "Psychedelic purple"
 msgstr "Púrpura psicodélico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cc8899
-msgctxt
 msgid "Puce"
 msgstr "Puce"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff7518
-msgctxt
 msgid "Pumpkin"
 msgstr "Abóbora"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #800080
-msgctxt
 msgid "Purple"
 msgstr "Roxa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #69359c
-msgctxt
 msgid "Purple Heart"
 msgstr "Coração roxo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9d81ba
-msgctxt
 msgid "Purple Mountain's Majesty"
 msgstr "Majestade da Montanha Roxa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9678b6
-msgctxt
 msgid "Purple mountain majesty"
 msgstr "Majestade da montanha roxa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fe4eda
-msgctxt
 msgid "Purple pizzazz"
 msgstr "Pizzazz roxo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #50404d
-msgctxt
 msgid "Purple taupe"
 msgstr "Taupe roxo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5d8aa8
-msgctxt
 msgid "Rackley"
 msgstr "Rackley"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff355e
-msgctxt
 msgid "Radical Red"
 msgstr "Vermelho radical"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e30b5d
-msgctxt
 msgid "Raspberry"
 msgstr "Framboesa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #915f6d
-msgctxt
 msgid "Raspberry glace"
 msgstr "Glaseada de framboesa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e25098
-msgctxt
 msgid "Raspberry pink"
 msgstr "Rosa de framboesa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b3446c
-msgctxt
 msgid "Raspberry rose"
 msgstr "Rosa de framboesa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d68a59
-msgctxt
 msgid "Raw Sienna"
 msgstr "Raw Sienna"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff33cc
-msgctxt
 msgid "Razzle dazzle rose"
 msgstr "Razzle deslumbrou rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e3256b
-msgctxt
 msgid "Razzmatazz"
 msgstr "Razzmatazz"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff0000
-msgctxt
 msgid "Red"
 msgstr "Vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff5349
-msgctxt
 msgid "Red Orange"
 msgstr "Laranja vermelha"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a52a2a
-msgctxt
 msgid "Red brown"
 msgstr "Castanho vermelho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c71585
-msgctxt
 msgid "Red violet"
 msgstr "Violeta vermelha"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #004040
-msgctxt
 msgid "Rich black"
 msgstr "Rico preto"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d70040
-msgctxt
 msgid "Rich carmine"
 msgstr "Carmin rico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0892d0
-msgctxt
 msgid "Rich electric blue"
 msgstr "Azul eléctrico rico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b666d2
-msgctxt
 msgid "Rich lilac"
 msgstr "Lilás rico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b03060
-msgctxt
 msgid "Rich maroon"
 msgstr "Castanho rico"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #414833
-msgctxt
 msgid "Rifle green"
 msgstr "Rifle green"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #1fcecb
-msgctxt
 msgid "Robin's Egg Blue"
 msgstr "Robin's Egg Blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff007f
-msgctxt
 msgid "Rose"
 msgstr "Rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f9429e
-msgctxt
 msgid "Rose bonbon"
 msgstr "Bonbon rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #674846
-msgctxt
 msgid "Rose ebony"
 msgstr "Ebony Rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b76e79
-msgctxt
 msgid "Rose gold"
 msgstr "Rosa ouro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e32636
-msgctxt
 msgid "Rose madder"
 msgstr "Rose Madder"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff66cc
-msgctxt
 msgid "Rose pink"
 msgstr "Rosa rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #aa98a9
-msgctxt
 msgid "Rose quartz"
 msgstr "Quartzo rosa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #905d5d
-msgctxt
 msgid "Rose taupe"
 msgstr "Rose Taupe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ab4e52
-msgctxt
 msgid "Rose vale"
 msgstr "Rose vale"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #65000b
-msgctxt
 msgid "Rosewood"
 msgstr "Rosewood"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d40000
-msgctxt
 msgid "Rosso corsa"
 msgstr "Rosso corsa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bc8f8f
-msgctxt
 msgid "Rosy brown"
 msgstr "Rosy Brown"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0038a8
-msgctxt
 msgid "Royal azure"
 msgstr "Royal Azure"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4169e1
-msgctxt
 msgid "Royal blue"
 msgstr "Azul real"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ca2c92
-msgctxt
 msgid "Royal fuchsia"
 msgstr "Fúcsia real"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #7851a9
-msgctxt
 msgid "Royal purple"
 msgstr "Roxo real"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e0115f
-msgctxt
 msgid "Ruby"
 msgstr "Rubi"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff0028
-msgctxt
 msgid "Ruddy"
 msgstr "Ruddy"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #bb6528
-msgctxt
 msgid "Ruddy brown"
 msgstr "Castanho ruivo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e18e96
-msgctxt
 msgid "Ruddy pink"
 msgstr "Rosa ruivo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a81c07
-msgctxt
 msgid "Rufous"
 msgstr "Rufous"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #80461b
-msgctxt
 msgid "Russet"
 msgstr "Russet"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b7410e
-msgctxt
 msgid "Rust"
 msgstr "Ferrugem"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00563f
-msgctxt
 msgid "Sacramento State green"
 msgstr "Sacramento State green"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8b4513
-msgctxt
 msgid "Saddle brown"
 msgstr "Sela marrom"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff6700
-msgctxt
 msgid "Safety orange"
 msgstr "Segurança laranja"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4c430
-msgctxt
 msgid "Saffron"
 msgstr "Açafrão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #23297a
-msgctxt
 msgid "Saint Patrick Blue"
 msgstr "Saint Patrick Blue"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff8c69
-msgctxt
 msgid "Salmon"
 msgstr "Salmão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff91a4
-msgctxt
 msgid "Salmon pink"
 msgstr "Rosa salmão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c2b280
-msgctxt
 msgid "Sand"
 msgstr "Areia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #967117
-msgctxt
 msgid "Sand dune"
 msgstr "Duna de areia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ecd540
-msgctxt
 msgid "Sandstorm"
 msgstr "Tempestade de areia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4a460
-msgctxt
 msgid "Sandy brown"
 msgstr "Castanho arenoso"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #967117
-msgctxt
 msgid "Sandy taupe"
 msgstr "Taupe arenoso"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #507d2a
-msgctxt
 msgid "Sap green"
 msgstr "Verde Sap"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0f52ba
-msgctxt
 msgid "Sapphire"
 msgstr "Safira"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cba135
-msgctxt
 msgid "Satin sheen gold"
 msgstr "Cetim dourado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff2400
-msgctxt
 msgid "Scarlet"
 msgstr "Escarlate"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffd800
-msgctxt
 msgid "School bus yellow"
 msgstr "Amarelo Schoolbus"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #76ff7a
-msgctxt
 msgid "Screamin Green"
 msgstr "Verde berrante"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #006994
-msgctxt
 msgid "Sea blue"
 msgstr "Azul mar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #2e8b57
-msgctxt
 msgid "Sea green"
 msgstr "Verde mar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #321414
-msgctxt
 msgid "Seal brown"
 msgstr "Castanho foca"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fff5ee
-msgctxt
 msgid "Seashell"
 msgstr "Concha do mar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffba00
-msgctxt
 msgid "Selective yellow"
 msgstr "Amarelo selectivo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #704214
-msgctxt
 msgid "Sepia"
 msgstr "Sépia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8a795d
-msgctxt
 msgid "Shadow"
 msgstr "Sombra"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #45cea2
-msgctxt
 msgid "Shamrock"
 msgstr "Trevo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #009e60
-msgctxt
 msgid "Shamrock green"
 msgstr "Verde trevo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fc0fc0
-msgctxt
 msgid "Shocking pink"
 msgstr "Rosa choque"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #882d17
-msgctxt
 msgid "Sienna"
 msgstr "Siena"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c0c0c0
-msgctxt
 msgid "Silver"
 msgstr "Prata"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cb410b
-msgctxt
 msgid "Sinopia"
 msgstr "Sinopia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #007474
-msgctxt
 msgid "Skobeloff"
 msgstr "Skobeloff"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #87ceeb
-msgctxt
 msgid "Sky blue"
 msgstr "Azul celeste"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cf71af
-msgctxt
 msgid "Sky magenta"
 msgstr "Magenta celeste"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #6a5acd
-msgctxt
 msgid "Slate blue"
 msgstr "Azul ardósia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #708090
-msgctxt
 msgid "Slate gray"
 msgstr "Cinzento ardósia"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #003399
-msgctxt
 msgid "Smalt"
 msgstr "Smalt"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #933d41
-msgctxt
 msgid "Smokey topaz"
 msgstr "Topázio Smokey"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #100c08
-msgctxt
 msgid "Smoky black"
 msgstr "Preto Smoky"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fffafa
-msgctxt
 msgid "Snow"
 msgstr "Neve"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0fc0fc
-msgctxt
 msgid "Spiro Disco Ball"
 msgstr "Spiro Disco Ball"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a7fc00
-msgctxt
 msgid "Spring bud"
 msgstr "Primavera"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ff7f
-msgctxt
 msgid "Spring green"
 msgstr "Verde Primavera"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4682b4
-msgctxt
 msgid "Steel blue"
 msgstr "Azul aço"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fada5e
-msgctxt
 msgid "Stil de grain yellow"
 msgstr "Amarelo grão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #990000
-msgctxt
 msgid "Stizza"
 msgstr "Stizza"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #008080
-msgctxt
 msgid "Stormcloud"
 msgstr "Nuvem de tempestade"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e4d96f
-msgctxt
 msgid "Straw"
 msgstr "Palha"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffcc33
-msgctxt
 msgid "Sunglow"
 msgstr "Brilho solar"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fad6a5
-msgctxt
 msgid "Sunset"
 msgstr "Pôr do Sol"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fd5e53
-msgctxt
 msgid "Sunset Orange"
 msgstr "Pôr do Sol laranja"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d2b48c
-msgctxt
 msgid "Tan"
 msgstr "Bronzeado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f94d00
-msgctxt
 msgid "Tangelo"
 msgstr "Tangelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f28500
-msgctxt
 msgid "Tangerine"
 msgstr "Tangerina"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffcc00
-msgctxt
 msgid "Tangerine yellow"
 msgstr "Tangerina amarela"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #483c32
-msgctxt
 msgid "Taupe"
 msgstr "Taupe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8b8589
-msgctxt
 msgid "Taupe gray"
 msgstr "Cinzento Taupe"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #cd5700
-msgctxt
 msgid "Tawny"
 msgstr "Tawny"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d0f0c0
-msgctxt
 msgid "Tea green"
 msgstr "Verde chá"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f4c2c2
-msgctxt
 msgid "Tea rose"
 msgstr "Rosa chá"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #008080
-msgctxt
 msgid "Teal"
 msgstr "Cerceta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #367588
-msgctxt
 msgid "Teal blue"
 msgstr "Azul cerceta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #006d5b
-msgctxt
 msgid "Teal green"
 msgstr "Verde cerceta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e2725b
-msgctxt
 msgid "Terra cotta"
 msgstr "Terracota"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d8bfd8
-msgctxt
 msgid "Thistle"
 msgstr "Cardo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #de6fa1
-msgctxt
 msgid "Thulian pink"
 msgstr "Rosa Thulian"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fc89ac
-msgctxt
 msgid "Tickle Me Pink"
 msgstr "Rosa Tickle Me"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0abab5
-msgctxt
 msgid "Tiffany Blue"
 msgstr "Azul Tiffany"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e08d3c
-msgctxt
 msgid "Tiger eye"
 msgstr "Olho de tigre"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #dbd7d2
-msgctxt
 msgid "Timberwolf"
 msgstr "Lobo de madeira"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #eee600
-msgctxt
 msgid "Titanium yellow"
 msgstr "Amarelo titânio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff6347
-msgctxt
 msgid "Tomato"
 msgstr "Tomate"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #746cc0
-msgctxt
 msgid "Toolbox"
 msgstr "Caixa de ferramentas"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffc87c
-msgctxt
 msgid "Topaz"
 msgstr "Topázio"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fd0e35
-msgctxt
 msgid "Tractor red"
 msgstr "Vermalho Tractor"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #808080
-msgctxt
 msgid "Trolley Grey"
 msgstr "Cinzento Trolley"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00755e
-msgctxt
 msgid "Tropical rain forest"
 msgstr "Floresta tropical"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0073cf
-msgctxt
 msgid "True Blue"
 msgstr "Azul verdadeiro"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #417dc1
-msgctxt
 msgid "Tufts Blue"
 msgstr "Azul Tufts"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #deaa88
-msgctxt
 msgid "Tumbleweed"
 msgstr "Tumbleweed"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b57281
-msgctxt
 msgid "Turkish rose"
 msgstr "Rosa turca"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #30d5c8
-msgctxt
 msgid "Turquoise"
 msgstr "Turquesa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ffef
-msgctxt
 msgid "Turquoise blue"
 msgstr "Azul turquesa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a0d6b4
-msgctxt
 msgid "Turquoise green"
 msgstr "Verde turquesa"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #66424d
-msgctxt
 msgid "Tuscan red"
 msgstr "Vermelho toscano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8a496b
-msgctxt
 msgid "Twilight lavender"
 msgstr "Lavanda Crepúsculo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #66023c
-msgctxt
 msgid "Tyrian purple"
 msgstr "Púrpura Tyrian"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0033aa
-msgctxt
 msgid "UA blue"
 msgstr "Azul UA"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d9004c
-msgctxt
 msgid "UA red"
 msgstr "Vermelho UA"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #536895
-msgctxt
 msgid "UCLA Blue"
 msgstr "Azul UCLA"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffb300
-msgctxt
 msgid "UCLA Gold"
 msgstr "Dourado UCLA"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #3cd070
-msgctxt
 msgid "UFO Green"
 msgstr "Verde UFO"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #014421
-msgctxt
 msgid "UP Forest green"
 msgstr "Verde floresta UP"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #7b1113
-msgctxt
 msgid "UP Maroon"
 msgstr "Castanho UP"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #990000
-msgctxt
 msgid "USC Cardinal"
 msgstr "USC Cardinal"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffcc00
-msgctxt
 msgid "USC Gold"
 msgstr "Dourado USC"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #8878c3
-msgctxt
 msgid "Ube"
 msgstr "Ube"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff6fff
-msgctxt
 msgid "Ultra pink"
 msgstr "Rosa ultra"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #120a8f
-msgctxt
 msgid "Ultramarine"
 msgstr "Ultramarino"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #4166f5
-msgctxt
 msgid "Ultramarine blue"
 msgstr "Azul ultramarino"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #635147
-msgctxt
 msgid "Umber"
 msgstr "Umber"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5b92e5
-msgctxt
 msgid "United Nations blue"
 msgstr "Azul Nações Unidas"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #b78727
-msgctxt
 msgid "University of California Gold"
 msgstr "Dourado University of California"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffff66
-msgctxt
 msgid "Unmellow Yellow"
 msgstr "Amarelo Unmellow"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ae2029
-msgctxt
 msgid "Upsdell red"
 msgstr "Vermelho Upsdell"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e1ad21
-msgctxt
 msgid "Urobilin"
 msgstr "Urobilin"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #d3003f
-msgctxt
 msgid "Utah Crimson"
 msgstr "Carmim Utah"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f3e5ab
-msgctxt
 msgid "Vanilla"
 msgstr "Baunilha"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c5b358
-msgctxt
 msgid "Vegas gold"
 msgstr "Dourado Vegas"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c80815
-msgctxt
 msgid "Venetian red"
 msgstr "Vermelho veneziano"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #43b3ae
-msgctxt
 msgid "Verdigris"
 msgstr "Verdigris"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #e34234
-msgctxt
 msgid "Vermilion"
 msgstr "Vermelhão"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a020f0
-msgctxt
 msgid "Veronica"
 msgstr "Verónica"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ee82ee
-msgctxt
 msgid "Violet"
 msgstr "Violeta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #324ab2
-msgctxt
 msgid "Violet Blue"
 msgstr "Azul violeta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f75394
-msgctxt
 msgid "Violet Red"
 msgstr "Vermelho violeta"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #40826d
-msgctxt
 msgid "Viridian"
 msgstr "Viridian"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #922724
-msgctxt
 msgid "Vivid auburn"
 msgstr "Castanho avermelhado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9f1d35
-msgctxt
 msgid "Vivid burgundy"
 msgstr "Borgonha vívido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #da1d81
-msgctxt
 msgid "Vivid cerise"
 msgstr "Cereja vívido"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffa089
-msgctxt
 msgid "Vivid tangerine"
 msgstr "Tangerina vívida"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9f00ff
-msgctxt
 msgid "Vivid violet"
 msgstr "Violeta vívida"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #004242
-msgctxt
 msgid "Warm black"
 msgstr "Preto quente"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #00ffff
-msgctxt
 msgid "Waterspout"
 msgstr "Waterspout"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #645452
-msgctxt
 msgid "Wenge"
 msgstr "Wenge"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f5deb3
-msgctxt
 msgid "Wheat"
 msgstr "Trigo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffffff
-msgctxt
 msgid "White"
 msgstr "Branco"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #f5f5f5
-msgctxt
 msgid "White smoke"
 msgstr "Fumo branco"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ff43a4
-msgctxt
 msgid "Wild Strawberry"
 msgstr "Morango selvagem"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #fc6c85
-msgctxt
 msgid "Wild Watermelon"
 msgstr "Melancia selvagem"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #a2add0
-msgctxt
 msgid "Wild blue yonder"
 msgstr "Azul selvagem"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #722f37
-msgctxt
 msgid "Wine"
 msgstr "Vinho"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #c9a0dc
-msgctxt
 msgid "Wisteria"
 msgstr "Wisteria"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #738678
-msgctxt
 msgid "Xanadu"
 msgstr "Xanadu"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0f4d92
-msgctxt
 msgid "Yale Blue"
 msgstr "Azul Yale"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffff00
-msgctxt
 msgid "Yellow"
 msgstr "Amarelo"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #ffae42
-msgctxt
 msgid "Yellow Orange"
 msgstr "Amarelo alaranjado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #9acd32
-msgctxt
 msgid "Yellow green"
 msgstr "Amarelo esverdeado"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #0014a8
-msgctxt
 msgid "Zaffre"
 msgstr "Zaffre"
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #2c1608
-msgctxt
 msgid "Zinnwaldite brown"
 msgstr "Castanho Zinnwaldite"
 
 # ######################################################################
-msgctxt
 msgid "HARDWARE"
 msgstr ""
 "EQUIPAMENTO - secção destinada a equipamento físico, real, maquinaria, etc. "
@@ -5736,7 +4705,6 @@ msgstr ""
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Laptop"
 msgstr "Portátil"
 
@@ -5744,7 +4712,6 @@ msgstr "Portátil"
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Desktop"
 msgstr ""
 "#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
@@ -5755,82 +4722,70 @@ msgstr ""
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Mobile"
 msgstr "Telemóvel"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Printer"
 msgstr "Impressora"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Plotter"
 msgstr "Traçador"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Webcam"
 msgstr "Câmara web"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Headphones"
 msgstr "Auscultadores"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Speaker"
 msgstr "Coluna"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Keyboard"
 msgstr "Teclado"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Mouse"
 msgstr "Rato"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Screen"
 msgstr "Monitor"
 
 # en - Microphone, Mic
 # pt - Encontram-se abreviaturas. Se for o caso, pôr um ponto final
 # Shortcut / Atalho:
-msgctxt
 msgid "Microphone"
 msgstr "Microfone"
 
 # en -
 # pt -
 # Shortcut / Atalho:
-msgctxt
 msgid "Scanner"
 msgstr "Digitalizador"
 
 # ######################################################################
-msgctxt
 msgid ""
 "PROGRAMMING OBJECTS - section for terms used in computer programs, like "
 "checkbox, dropdown, scrollbar, etc."
@@ -5838,253 +4793,200 @@ msgstr ""
 "OBJECTOS DE PROGRAMAÇÃO - secção destinada a termos usados em programação, "
 "tais como objectos de programação (botões, listas, barras, etc.)"
 
-msgctxt
 msgid "Button"
 msgstr "Botão"
 
-msgctxt
 msgid "Checkbox"
 msgstr "Caixa de marcação"
 
-msgctxt
 msgid "Dropdown List"
 msgstr "Lista pendente"
 
 # ######################################################################
-msgctxt
 msgid "List of words sorted alphabetically"
 msgstr "Lista de palavras ordenadas alfabeticamente"
 
 # en - LETTER A
 # pt - LETRA A
-msgctxt
 msgid "Portuguese words starting with the letter A"
 msgstr "Palavras portuguesas começadas com a letra A"
 
-msgctxt
 msgid "Loading"
 msgstr "A carregar"
 
-msgctxt
 msgid "Creating"
 msgstr "A criar"
 
-msgctxt
 msgid "Editing"
 msgstr "A editar"
 
-msgctxt
 msgid "Formatting"
 msgstr "A formatar"
 
-msgctxt
 msgid "Saving"
 msgstr "A gravar"
 
-msgctxt
 msgid "Printing"
 msgstr "A imprimir"
 
-msgctxt
 msgid "Beginning"
 msgstr "A iniciar, Início"
 
 # en - An optical defect of a lens that causes different colors or wavelengths of light to be focused at different distances from the lens. It is seen as color fringes or halos along edges and around every point in the image.
 # pt -
-msgctxt
 msgid "Chromatic Aberration"
 msgstr "Aberração cromática"
 
 # en - The effective diameter of the lens that controls the amount of light reaching the photoconductive or photo emitting image pickup sensor.
 # pt -
-msgctxt
 msgid "Aperture"
 msgstr "Abertura"
 
-msgctxt
 msgid "April"
 msgstr "Abril"
 
-msgctxt
 msgid "Action"
 msgstr "Acção"
 
-msgctxt
 msgid "Accept"
 msgstr "Aceitar"
 
-msgctxt
 msgid "OK"
 msgstr "Aceitar"
 
 # Eventualmente, alterar para _Sobre
-msgctxt
 msgid "About"
 msgstr "Acerca"
 
-msgctxt
 msgid "Access"
 msgstr "Acesso"
 
-msgctxt
 msgid "Agreement"
 msgstr "Acordo"
 
-msgctxt
 msgid "Enable"
 msgstr "Activar"
 
-msgctxt
 msgid "Active"
 msgstr "Activo"
 
-msgctxt
 msgid "Update"
 msgstr "Actualizar"
 
-msgctxt
 msgid "Updated"
 msgstr "Actualizado"
 
 # en - A device that converts analog signals into digital signals.
 # pt -
-msgctxt
 msgid "ADC (analogue to digital converter)"
 msgstr "ADC (conversor analógico->digital)"
 
-msgctxt
 msgid "Added"
 msgstr "Adicionado"
 
-msgctxt
 msgid "Additional"
 msgstr "Adicional"
 
-msgctxt
 msgid "Add"
 msgstr "Adicione, Adicionar"
 
-msgctxt
 msgid "Administrator"
 msgstr "Administrador"
 
 # en -
 # pt - normalmente aplicado em programas de desenho, melhorar a
 # definição
-msgctxt
 msgid "Sharpen"
 msgstr "Afiar, Focar"
 
 # en - A circuit for automatically controlling amplifier gain in order to  maintain a constant output voltage with a varying input voltage within a predetermined range of input-to-output variation.
 # pt -
-msgctxt
 msgid "AGC (automatic gain control)"
 msgstr "AGC (controlo de ganho automático)"
 
-msgctxt
 msgid "August"
 msgstr "Agosto"
 
-<<<<<<< HEAD
 msgid "Wait"
 msgstr "Aguarde"
 
-=======
-msgctxt
->>>>>>> d3ba1fb8593f08e6ddae85f155975b7cab1209fb
 msgid "Help"
 msgstr "Ajuda"
 
 # en -
 # pt - vê-se muito em diálogos de dimensionamento de imagens
-msgctxt
 msgid "Fit"
 msgstr "Ajustar"
 
-msgctxt
 msgid "Adjust"
 msgstr "Ajustar"
 
-msgctxt
 msgid "Align"
 msgstr "Alinhar"
 
-msgctxt
 msgid "Alignment"
 msgstr "Alinhamento"
 
-msgctxt
 msgid "Lighten"
 msgstr "Aliviar, Clarear"
 
-msgctxt
 msgid "Changed"
 msgstr "Alterado"
 
-msgctxt
 msgid "Change"
 msgstr "Altere, Alterar"
 
-msgctxt
 msgid "Height"
 msgstr "Altura"
 
-msgctxt
 msgid "Environment"
 msgstr "Ambiente"
 
 # en -
 # pt - ambiente de utilização, de troca de informação, de comunicação
 # embora a palavra exista no dicionário, raras vezes é necessária.
-msgctxt
 msgid "Interface"
 msgstr "Ambiente"
 
-msgctxt
 msgid "Sample"
 msgstr "Amostra"
 
-msgctxt
-msgid "Zoom"
-msgstr "Ampliação"
-
-msgctxt
-msgid "Zoom in"
-msgstr "Ampliar"
-
+# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
 # en - To enlarge or reduce, on a continuously variable basis, the size of a televised image primarily by varying lens focal length.
 # pt -
-msgctxt
+#, fuzzy
 msgid "Zoom"
+msgstr ""
+"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
+"Ampliação\n"
+"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
+"Ampliar"
+
+msgid "Zoom in"
 msgstr "Ampliar"
 
 # en - A device that provides several isolated outputs from one looping or bridging input, and has a sufficiently high input impedance and input-to-output isolation to prevent loading of the input source.
 # pt -
-msgctxt
 msgid "Distribution Amplifier"
 msgstr "Amplificador de distribuição"
 
 # en - A device used to divide single video signals, while boosting their strength for delivery to multiple video devices.
 # pt -
-msgctxt
 msgid "Video Distribution Amplifier"
 msgstr "Amplificador de distribuição vídeo"
 
 # en - An amplifier with input circuitry and output circuitry designed to eliminate the effects of changes made at either upon the other. They provide electrical isolation and a safety barrier.
 # pt -
-msgctxt
 msgid "Isolation Amplifier"
 msgstr "Amplificador de isolamento"
 
 # en - An amplifier for audio or video signals that in installed in the transmission line to boost the signal as it travels over certain distances; also called program amplifier.
 # pt -
-msgctxt
 msgid "Line Amplifier"
 msgstr "Amplificador de linha"
 
 # en - A wideband amplifier used for passing picture signals.
 # pt -
-msgctxt
 msgid "Video Amplifier"
 msgstr "Amplificador vídeo"
 
@@ -6095,79 +4997,62 @@ msgstr "Amplitude do pulso"
 
 # en - A technique of combining two television fields in order to produce a full frame. The two fields are composed of only odd and only even lines, which are displayed one after the other but with the physical position of all the lines interleaving each other, hence interlace.
 # pt -
-msgctxt
 msgid "Interlaced Scanning"
 msgstr "Anãlise entrelaçada"
 
 # en - The science of analysis. Arriving at an optimal or realistic decision based on existing data. In the video industry it is often used for analyzing video to detect and determine temporal events not based on single image. It has a wide range of application in safety and security to examine video for specific data, behavior, objects or attitude.
 # pt -
-msgctxt
 msgid "Analytics"
 msgstr "Analítica"
 
 # en - Any form of signal that carries information in the form of variable physical values, such as amplitude or frequency modulation. A signal which moves through a continuous range of settings or levels. An adjective describing any signal that varies continuously as opposed to a digital signal that contains discrete levels representing the binary digits 0 and 1.
 # pt -
-msgctxt
 msgid "Analog"
 msgstr "Analógico"
 
-msgctxt
 msgid "Anchor"
 msgstr "Âncora"
 
-msgctxt
 msgid "Dock, Dockable"
 msgstr "Ancorar, Ancorável"
 
 # Tem sido traduzido como "Máquina", mas não transmite a ideia correcta
 # Hospedeiro é outra hipótese, mais comprida
-msgctxt
 msgid "Host"
 msgstr "Anfitrião"
 
-msgctxt
 msgid "Angle"
 msgstr "Ângulo"
 
-msgctxt
 msgid "Previous"
 msgstr "Anterior"
 
-msgctxt
 msgid "Preview"
 msgstr "Antevisão"
 
-msgctxt
 msgid "Erase"
 msgstr "Apague, Apagar"
 
 # en - An electronic limit usually imposed in cameras to avoid overly bright or dark signals. When improperly applied can result in loss of picture information in very bright or very dark areas; Also used in switchers to set the cutoff point for mixing video signals. The electronic process of shearing off the peaks of either the white or black excursions of a video signal for limiting purposes. Sometimes, clipping is performed prior to modulation, and sometimes to limit the signal, so it will not exceed a predetermined level.
 # pt -
-msgctxt
 msgid "Clipping"
 msgstr "Aparar"
 
-msgctxt
 msgid "Shear"
 msgstr "Aparar"
 
-msgctxt
 msgid "Flatten"
 msgstr "Aplanar"
 
-msgctxt
 msgid "Applied"
 msgstr "Aplicado"
 
-msgctxt
 msgid "Apply"
 msgstr "Aplicar"
 
-msgctxt
 msgid "Presentation"
 msgstr "Apresentação"
 
-msgctxt
 msgid "Arabic"
 msgstr "Arábico"
 
@@ -6176,7 +5061,6 @@ msgstr "Arábico"
 # pt - traduzida habitualmente em Windows como "Área de transferência"
 # 	   preferi o termo mais genérico, mais curto e mais abrangente
 # 	   "Memória"
-msgctxt
 msgid "Clipboard"
 msgstr ""
 "#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
@@ -6184,649 +5068,501 @@ msgstr ""
 "#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
 "Memória"
 
-msgctxt
 msgid "Argument"
 msgstr "Argumento"
 
-msgctxt
 msgid "Stored"
 msgstr "Armazenado"
 
-msgctxt
 msgid "Store"
 msgstr "Armazenar"
 
 # en - boot stands for booting a computer
 # pt - boot refere-se ao arranque inicial du um computador
-msgctxt
 msgid "boot"
 msgstr "arranque"
 
-msgctxt
 msgid "Drag"
 msgstr "Arrastar"
 
-msgctxt
 msgid "Rounded"
 msgstr "Arredondado"
 
 # en - A defect or distortion of the video image, introduced along the sequence from origination and image capture to final display. Artifacts may arise from the overload of channel capacity by excess signal bandwidth. Artifacts may also result from: sampling effects in temporal, spatial, or frequency domains; processing by the transfer functions; compromises and inadequacies in the system employed; cascading of minor defects; basically any other departure of the total system from “complete transparency” resulting in visual errors.
 # pt -
-msgctxt
 msgid "Artifact"
 msgstr "Artefacto"
 
 # en - An acronym for "Advanced Televisions System Committee", the organization that defines the standard for high-definition TV in the United States.
 # pt -
-msgctxt
 msgid "ATSC"
 msgstr "ATSC"
 
-msgctxt
 msgid "Ascending"
 msgstr "Ascendente"
 
-msgctxt
 msgid "Asian"
 msgstr "Asiático"
 
-msgctxt
 msgid "Signed"
 msgstr "Assinado"
 
-msgctxt
 msgid "Signature"
 msgstr "Assinatura"
 
-msgctxt
 msgid "Wizard"
 msgstr "Assistente"
 
 # en - VESA's mission is to promote and develop timely, relevant, open display and display interface standards, ensuring interoperability, and encouraging innovation and market growth. Its vision is to be one of the leading, worldwide standards organizations and internationally recognized voices in the video electronics industry.
 # pt -
-msgctxt
 msgid "Video Electronic Standards Association (VESA)"
 msgstr "Associação de padrões electrónicos vídeo (VESA)"
 
-msgctxt
 msgid "Subject"
 msgstr "Assunto"
 
 # en - In general terms, a reduction in signal strength.
 # pt -
-msgctxt
 msgid "Attenuation"
 msgstr "Atenuação"
 
-msgctxt
 msgid "Assigned"
 msgstr "Atribuído"
 
-msgctxt
 msgid "Assign"
 msgstr "Atribuir"
 
-msgctxt
 msgid "Attribute"
 msgstr "Atributo"
 
-msgctxt
 msgid "Automatic"
 msgstr "Automático"
 
-msgctxt
 msgid "Automatically"
 msgstr "Automaticamente"
 
-msgctxt
 msgid "Author"
 msgstr "Autor"
 
-msgctxt
 msgid "Forward"
 msgstr "Avançar, Encaminhar"
 
-msgctxt
 msgid "Warning"
 msgstr "Aviso"
 
 # en - LETTER B
 # pt - LETRA B
-msgctxt
 msgid "Portuguese words starting with the letter B"
 msgstr "Palavras portuguesas começadas com a letra B"
 
 # en -
 # pt - normalmente é um "balão" com dicas, menus contextuais, etc.
-msgctxt
 msgid "Pop-up Window"
 msgstr "Balão"
 
-msgctxt
 msgid "Bar"
 msgstr "Barra"
 
-msgctxt
 msgid "Base"
 msgstr "Base"
 
-msgctxt
 msgid "Database"
 msgstr "Base de dados"
 
-msgctxt
 msgid "Basic"
 msgstr "Básico, Basic (linguagem de programação)"
 
-msgctxt
 msgid "Library"
 msgstr "Biblioteca"
 
 # en - github fork a repository
 # pt - bifurcar um repositório para fazer alterações
-msgctxt
 msgid "Fork"
 msgstr "Bifurcar"
 
-msgctxt
 msgid "Locked"
 msgstr "Bloqueado"
 
-msgctxt
 msgid "Block/Unblock"
 msgstr "Bloquear/Desbloquear"
 
 # en - use to avoid genders
 # pt - usar "Boas vindas" para fugir aos masculinos/femininos
-msgctxt
 msgid "Welcome"
 msgstr "Boas vindas"
 
 # en -
 # pt - NÃO traduzir por "Booleano"
-msgctxt
 msgid "Boolean"
 msgstr "Booliano"
 
-msgctxt
 msgid "Cap"
 msgstr "Boné, Barrete, Topo"
 
 # en - LETTER C
 # pt - LETRA C
-msgctxt
 msgid "Portuguese words starting with the letter C"
 msgstr "Palavras portuguesas começadas com a letra C"
 
-msgctxt
 msgid "Header"
 msgstr "Cabeçalho"
 
 # en -
 # pt - não traduzir por expressão, que implica um resultado.
 # Pode ser um tipo de variável de programação.
-msgctxt
 msgid "String"
 msgstr "Cadeia"
 
-msgctxt
 msgid "Calculate"
 msgstr "Calcular"
 
-msgctxt
 msgid "Calculation"
 msgstr "Cálculo"
 
-msgctxt
 msgid "Calculus"
 msgstr "Cálculo"
 
-msgctxt
 msgid "Box"
 msgstr "Caixa"
 
 # en - usually refers to computer paths
 # pt - habitualmente refere-se a caminhos dentro de computadores
-msgctxt
 msgid "Path"
 msgstr "Caminho"
 
-msgctxt
 msgid "Field"
 msgstr "Campo"
 
-msgctxt
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgctxt
 msgid "Bevel"
 msgstr "Chanfro"
 
-msgctxt
 msgid "Chapter"
 msgstr "Capítulo"
 
 # Normalmente é usado em expressóes como "Snap to grid",
 # Capturar na grelha, fixar na grelha, ou semelhante
-msgctxt
 msgid "Snap"
 msgstr "Capturar, Fixar"
 
-msgctxt
 msgid "Character"
 msgstr "Carácter"
 
-msgctxt
 msgid "Loaded"
 msgstr "Carregado"
 
-msgctxt
 msgid "Load"
 msgstr "Carregar"
 
-msgctxt
 msgid "Category"
 msgstr "Categoria"
 
-msgctxt
 msgid "Cell"
 msgstr "Célula"
 
-msgctxt
 msgid "Center"
 msgstr "Centre, Centrar, Centro"
 
-msgctxt
 msgid "Centered"
 msgstr "Centrado"
 
 # en -
 # pt - "Preenchido" será o mais adequado mas pode não caber"
-msgctxt
 msgid "Filled"
 msgstr "Cheio, Preenchido"
 
-msgctxt
 msgid "Chinese"
 msgstr "Chinês"
 
-msgctxt
 msgid "Top"
 msgstr "Cimo, Topo"
 
-msgctxt
 msgid "Circle"
 msgstr "Círculo"
 
-msgctxt
 msgid "Class"
 msgstr "Classe"
 
-msgctxt
 msgid "Click"
 msgstr "Clique, Clicar"
 
-msgctxt
 msgid "Right Click"
 msgstr "Clique direito"
 
-msgctxt
 msgid "Left Click"
 msgstr "Clique esquerdo"
 
 # en -
 # pt - Palavra com vários significados mas que pode significar
 #      genericamente cobrir, abranger, etc.
-msgctxt
 msgid "Span"
 msgstr "Cobre, Abrange"
 
-msgctxt
 msgid "Code"
 msgstr "Código"
 
-msgctxt
 msgid "Paste"
 msgstr "Colar"
 
-msgctxt
 msgid "Column"
 msgstr "Coluna"
 
-msgctxt
 msgid "Command"
 msgstr "Comando"
 
-msgctxt
 msgid "Combine"
 msgstr "Combinar"
 
-msgctxt
 msgid "Begin"
 msgstr "Começar"
 
-msgctxt
 msgid "Comment"
 msgstr "Comentário"
 
-msgctxt
 msgid "match"
 msgstr "comparar"
 
-msgctxt
 msgid "entire"
 msgstr "completo"
 
-msgctxt
 msgid "Complex"
 msgstr "Complexo"
 
-msgctxt
 msgid "Component"
 msgstr "Componente"
 
-msgctxt
 msgid "Successfully"
 msgstr "Com sucesso"
 
-msgctxt
 msgid "Completed"
 msgstr "Concluído"
 
 # en -
 # pt - para além do tamanho da palavra, refere-se normalmente a
 # concluir automaticamente cadeias, palavras em dicionários, etc.
-msgctxt
 msgid "Completion"
 msgstr "Conclusão"
 
-msgctxt
 msgid "Condition"
 msgstr "Condição"
 
-msgctxt
 msgid "Conditional"
 msgstr "Condicional"
 
-msgctxt
 msgid "Configuration"
 msgstr "Configuração"
 
-msgctxt
 msgid "Setup"
 msgstr "Configuração"
 
-msgctxt
 msgid "Confirm"
 msgstr "Confirmar"
 
-msgctxt
 msgid "Connector"
 msgstr "Conector"
 
-msgctxt
 msgid "Account"
 msgstr "Conta"
 
-msgctxt
 msgid "Contact"
 msgstr "Contacto"
 
-msgctxt
 msgid "Contour"
 msgstr "Contorno"
 
-msgctxt
 msgid "Contrast"
 msgstr "Contraste"
 
-msgctxt
 msgid "Driver"
 msgstr "Controlador"
 
-msgctxt
 msgid "Conversion"
 msgstr "Conversão"
 
 # en -
 # pt - pode ter vários significados. Consulta aplica-se mais a bases
 # de dados
-msgctxt
 msgid "Query"
 msgstr "Consulta"
 
-msgctxt
 msgid "Content"
 msgstr "Conteúdo"
 
-msgctxt
 msgid "Continue"
 msgstr "Continue, Continuar"
 
 # en -
 # pt - A alternativa "Borda" é bastante feia, embora mais curta
-msgctxt
 msgid "Border"
 msgstr "Contorno"
 
-msgctxt
 msgid "Control"
 msgstr "Controlo"
 
-msgctxt
 msgid "Convert"
 msgstr "Converter"
 
-msgctxt
 msgid "Converted"
 msgstr "Convertido"
 
-msgctxt
 msgid "Copy"
 msgstr "Copie, Copiar"
 
-msgctxt
 msgid "Color"
 msgstr "Cor"
 
-msgctxt
 msgid "Font color"
 msgstr "Cor da letra"
 
-msgctxt
 msgid "Background color"
 msgstr "Cor de fundo"
 
-msgctxt
 msgid "AutoCorrect"
 msgstr "Correcção automática"
 
-msgctxt
 msgid "Mail"
 msgstr "Correio"
 
 # en -
 # pt - é sinónimo de "Corrompido" e mais curto
-msgctxt
 msgid "Corrupt"
 msgstr "Corrupto"
 
-msgctxt
 msgid "Create"
 msgstr "Crie, Criar"
 
-msgctxt
 msgid "Created"
 msgstr "Criado"
 
-msgctxt
 msgid "Criteria"
 msgstr "Critério"
 
-msgctxt
 msgid "Screen (SVG)"
 msgstr "Crivar"
 
-msgctxt
 msgid "Timeline"
 msgstr "Cronologia"
 
 # Este termo é usado em programas de comunicação na rede.
 # Não é o aperto de mão tradicional
-msgctxt
 msgid "Handshake"
 msgstr "Cumprimento"
 
-msgctxt
 msgid "Cursor"
 msgstr "Cursor"
 
-msgctxt
 msgid "Short"
 msgstr "Curto"
 
-msgctxt
 msgid "Curve"
 msgstr "Curva"
 
 # en - LETTER D
 # pt - LETRA D
-msgctxt
 msgid "Portuguese words starting with the letter D"
 msgstr "Palavras portuguesas começadas com a letra D"
 
-msgctxt
 msgid "Data"
 msgstr "Dados"
 
-msgctxt
 msgid "Date"
 msgstr "Data"
 
 # en -
 # pt - não traduzir: https://pt.wikipedia.org/wiki/Dynamic_Data_Exchange
-msgctxt
 msgid "DDE"
 msgstr "DDE"
 
-msgctxt
 msgid "Decimal"
 msgstr "Decimal"
 
-msgctxt
 msgid "Statement"
 msgstr "Declaração"
 
-msgctxt
 msgid "Setting"
 msgstr "Definição"
 
-msgctxt
 msgid "Defined"
 msgstr "Definido"
 
-msgctxt
 msgid "Define"
 msgstr "Definir"
 
-msgctxt
 msgid "Leave"
 msgstr "Deixar"
 
-msgctxt
 msgid "Inside"
 msgstr "Dentro"
 
-msgctxt
 msgid "Within"
 msgstr "Dentro"
 
-msgctxt
 msgid "Debug"
 msgstr "Depurar, Depuração"
 
-msgctxt
 msgid "Disabled"
 msgstr "Desactivado"
 
-msgctxt
 msgid "Disable"
 msgstr "Desactivar"
 
-msgctxt
 msgid "Descending"
 msgstr "Descendente"
 
-msgctxt
 msgid "Unknown"
 msgstr "Desconhecido"
 
-msgctxt
 msgid "Description"
 msgstr "Descrição"
 
-msgctxt
 msgid "Desired"
 msgstr "Desejado"
 
 # Pode ser traduzido como "Entregar", como a forma como uma dada imagem
 # é entregue no ecrã
-msgctxt
 msgid "Render"
 msgstr "Desenhar, Entregar, Criar"
 
-msgctxt
 msgid "Draw"
 msgstr "Desenhar"
 
 # en -
 # pt - a palavra também existe em português
-msgctxt
 msgid "Design"
 msgstr "Desenho"
 
-msgctxt
 msgid "Drawing"
 msgstr "Desenho, A desenhar"
 
-msgctxt
 msgid "Undo"
 msgstr "Desfazer"
 
-msgctxt
 msgid "Blur"
 msgstr "Desfocar"
 
-msgctxt
 msgid "Destination"
 msgstr "Destino"
 
-msgctxt
 msgid "Target"
 msgstr "Destino, Alvo"
 
-msgctxt
 msgid "Fade"
 msgstr "Desvanecer"
 
-msgctxt
 msgid "Offset"
 msgstr "Desvio"
 
-msgctxt
 msgid "Detailed"
 msgstr "Detalhado"
 
-msgctxt
 msgid "Detail"
 msgstr "Detalhe"
 
-msgctxt
 msgid "Determined"
 msgstr "Determinado"
 
-msgctxt
 msgid "Due"
 msgstr "Devido"
 
@@ -6834,433 +5570,330 @@ msgstr "Devido"
 # pt - além destas pode ser:
 # uma tecla num teclado MacOS
 # uma palavra-chave em linguagens de programação
-msgctxt
 msgid "Return"
 msgstr "Devolver, Retornar, Voltar a"
 
-msgctxt
 msgid "December"
 msgstr "Dezembro"
 
-msgctxt
 msgid "Day"
 msgstr "Dia"
 
-msgctxt
 msgid "Diagonal"
 msgstr "Diagonal"
 
-msgctxt
 msgid "Slideshow"
 msgstr "Diaporama"
 
-msgctxt
 msgid "Slide"
 msgstr "Diapositivo"
 
-msgctxt
 msgid "Dialog"
 msgstr "Diálogo"
 
 # Pode ser "Explorar". Exemplo: "Scan mailbox" -> Explorar caixa de correio
-msgctxt
 msgid "Scan"
 msgstr "Digitalizar"
 
-msgctxt
 msgid "Dimension"
 msgstr "Dimensão"
 
-msgctxt
 msgid "Direction"
 msgstr "Direcção"
 
-msgctxt
 msgid "Rights"
 msgstr "Direitos"
 
-msgctxt
 msgid "Disk"
 msgstr "Disco"
 
 # Normalmente refere-se a discussões em listas de correio ou assuntos
 # em repositórios. Pode ter outros significados.
-msgctxt
 msgid "Thread"
 msgstr "Discussão"
 
-msgctxt
 msgid "Arrange"
 msgstr "Dispor"
 
-msgctxt
 msgid "Layout"
 msgstr "Disposição, Esquema"
 
-msgctxt
 msgid "Device"
 msgstr "Dispositivo"
 
-msgctxt
 msgid "Warp"
 msgstr "Distorcer"
 
-msgctxt
 msgid "Distribution"
 msgstr "Distribuição"
 
-msgctxt
 msgid "Distro"
 msgstr "Distribuição"
 
-msgctxt
 msgid "Split"
 msgstr "Dividir"
 
-msgctxt
 msgid "HTML document"
 msgstr "Documento HTML"
 
-msgctxt
 msgid "Master document"
 msgstr "Documento mestre"
 
-msgctxt
 msgid "Text document"
 msgstr "Documento de texto"
 
-msgctxt
 msgid "Owner"
 msgstr "Dono, Proprietário"
 
-msgctxt
 msgid "Duplicate"
 msgstr "Duplicado"
 
-msgctxt
 msgid "Double"
 msgstr "Duplo"
 
 # en - LETTER E
 # pt - LETRA E
-msgctxt
 msgid "Portuguese words starting with the letter E"
 msgstr "Palavras portuguesas começadas com a letra E"
 
-msgctxt
 msgid "screen"
 msgstr "ecrã, monitor"
 
 # Usar sempre "Ecrã completo" em vez de "Ecrã inteiro" ou outras alternativas
-msgctxt
 msgid "Full Screen"
 msgstr "Ecrã completo"
 
-msgctxt
 msgid "Edit"
 msgstr "Edite, Editar"
 
-msgctxt
 msgid "Editor"
 msgstr "Editor"
 
-msgctxt
 msgid "Effect"
 msgstr "Efeito"
 
 # e.g. significa "exempli gratia", ou seja, "por exemplo"
-msgctxt
 msgid "E.g."
 msgstr "E.g."
 
-msgctxt
 msgid "Axis"
 msgstr "Eixo"
 
-msgctxt
 msgid "Deletion"
 msgstr "Eliminação"
 
-msgctxt
 msgid "Element"
 msgstr "Elemento"
 
 # en -
 # pt - Eliminar para "Delete", Apagar para "Erase" e Limpar para "Clean"
-msgctxt
 msgid "Delete"
 msgstr "Elimine, Eliminar"
 
-msgctxt
 msgid "Deleted"
 msgstr "Eliminado"
 
-msgctxt
 msgid "Blank"
 msgstr "Em branco"
 
-msgctxt
 msgid "Emboss"
 msgstr "Embutido"
 
-msgctxt
 msgid "Running"
 msgstr "Em execução"
 
-msgctxt
 msgid "Missing"
 msgstr "Em falta"
 
-msgctxt
 msgid "E-mail"
 msgstr "Email"
 
-msgctxt
 msgid "e-mail"
 msgstr "email"
 
-msgctxt
 msgid "Shrink"
 msgstr "Encolher"
 
-msgctxt
 msgid "Found"
 msgstr "Encontrado"
 
-msgctxt
 msgid "Address"
 msgstr "Endereço"
 
-msgctxt
 msgid "Got it"
 msgstr "Entendi"
 
-msgctxt
 msgid "Entry"
 msgstr "Entrada, Elemento de tabela"
 
-msgctxt
 msgid "Entries"
 msgstr "Entradas"
 
-msgctxt
 msgid "Input"
 msgstr "Entrada"
 
-msgctxt
 msgid "Envelope"
 msgstr "Envelope"
 
-msgctxt
 msgid "Send"
 msgstr "Enviar"
 
-msgctxt
 msgid "Upload"
 msgstr "Enviar"
 
-msgctxt
 msgid "Wrong"
 msgstr "Errado"
 
-msgctxt
 msgid "Error: "
 msgstr "Erro: "
 
-msgctxt
 msgid "Error"
 msgstr "Erro"
 
-msgctxt
 msgid "Feather"
 msgstr "Esbater"
 
-msgctxt
 msgid "Scale"
 msgstr "Escala"
 
 # en -
 # pt num caso extremo de falta de espaço poderá ser só "Cinzentos"
-msgctxt
 msgid "Grayscale"
 msgstr "Escala de cinzentos, Tons de cinzento"
 
-msgctxt
 msgid "Choose"
 msgstr "Escolha, Escolher"
 
-msgctxt
 msgid "Write"
 msgstr "Escrever"
 
-msgctxt
 msgid "Writer"
 msgstr "Escritor"
 
-msgctxt
 msgid "Office"
 msgstr "Escritório"
 
-msgctxt
 msgid "Spacing"
 msgstr "Espaçamento"
 
-msgctxt
 msgid "Space"
 msgstr "Espaço"
 
 # en -
 # pt - refere-se ao preenchimento do espaço entre um contorno e o
 # conteúdo. Usei "Espaço" só para diferenciar de espaçamento.
-msgctxt
 msgid "Padding"
 msgstr "Espaço"
 
-msgctxt
 msgid "Line spacing"
 msgstr "Espaçamento entre linhas"
 
-msgctxt
 msgid "Special"
 msgstr "Especial"
 
-msgctxt
 msgid "Mirroring"
 msgstr "Espelhação"
 
-msgctxt
 msgid "Left"
 msgstr "Esquerda"
 
-msgctxt
 msgid "Established"
 msgstr "Estabelecido"
 
-msgctxt
 msgid "Status"
 msgstr "Estado"
 
-msgctxt
 msgid "Style"
 msgstr "Estilo"
 
-msgctxt
 msgid "character style"
 msgstr "estilo de carácter"
 
-msgctxt
 msgid "Page style"
 msgstr "Estilo de página"
 
 # en -
 # pt - Depende do contexto
-msgctxt
 msgid "Label"
 msgstr "Etiqueta, Rótulo"
 
-msgctxt
 msgid "Event"
 msgstr "Evento"
 
-msgctxt
 msgid "Executed"
 msgstr "Executado"
 
-msgctxt
 msgid "Run"
 msgstr "Executar"
 
-msgctxt
 msgid "Execute"
 msgstr "Executar"
 
-msgctxt
 msgid "Exist"
 msgstr "Existe"
 
-msgctxt
 msgid "Existing"
 msgstr "Existente"
 
-msgctxt
 msgid "Exists"
 msgstr "Existe"
 
-msgctxt
 msgid "Export"
 msgstr "Exportar"
 
-msgctxt
 msgid "Expression"
 msgstr "Expressão"
 
-msgctxt
 msgid "Expunge"
 msgstr "Expurgar"
 
-msgctxt
 msgid "Outer"
 msgstr "Exterior"
 
-msgctxt
 msgid "Extension"
 msgstr "Extensão"
 
-msgctxt
 msgid "External"
 msgstr "Externo"
 
 # en - LETTER F
 # pt - LETRA F
-msgctxt
 msgid "Portuguese words starting with the letter F"
 msgstr "Palavras portuguesas começadas com a letra F"
 
-msgctxt
 msgid "Failed"
 msgstr "Falha"
 
-msgctxt
 msgid "Fax"
 msgstr "Fax"
 
-msgctxt
 msgid "Closed"
 msgstr "Fechado"
 
-msgctxt
 msgid "Close"
 msgstr "Feche, Fechar"
 
-msgctxt
 msgid "Tool"
 msgstr "Ferramenta"
 
-msgctxt
 msgid "February"
 msgstr "Fevereiro"
 
-msgctxt
 msgid "february"
 msgstr "Fevereiro"
 
-msgctxt
 msgid "Fixed"
 msgstr "Fixo"
 
-msgctxt
 msgid "Flow"
 msgstr "Fluxo"
 
-msgctxt
 msgid "Text flow"
 msgstr "Fluxo de texto"
 
-msgctxt
 msgid "Sheet"
 msgstr "Folha"
 
-msgctxt
 msgid "Spreadsheet"
 msgstr "Folha de cálculo"
 
@@ -7268,1744 +5901,1346 @@ msgstr "Folha de cálculo"
 # pt - como em "código-fonte" ou "fonte de informação".
 # Também pode ser "Origem"
 # Não confundir com "Font", que significa "Letra" ou "Tipo de letra"
-msgctxt
 msgid "Source"
 msgstr "Fonte"
 
 # "Feed" aqui refere-se a "RSS feed", fonte de notícias. Poderia ser
 # simplesmente RSS
-msgctxt
 msgid "News Feed"
 msgstr "Fonte"
 
-msgctxt
 msgid "Data source"
 msgstr "Fonte de dados"
 
 # en -
 # pt - sem tradução: https://en.wikipedia.org/w/index.php?title=FontWork&redirect=no
-msgctxt
 msgid "Fontwork"
 msgstr "Fontwork"
 
-msgctxt
 msgid "Morph"
 msgstr "Formar"
 
-msgctxt
 msgid "Formatted"
 msgstr "Formatado"
 
-msgctxt
 msgid "Form"
 msgstr "Formulário, Forma"
 
-msgctxt
 msgid "Shape"
 msgstr "Forma"
 
-msgctxt
 msgid "Format"
 msgstr "Formate, Formatar"
 
-msgctxt
 msgid "File format"
 msgstr "Formato de ficheiro"
 
-msgctxt
 msgid "Formula"
 msgstr "Fórmula"
 
-msgctxt
 msgid "Front"
 msgstr "Frente"
 
-msgctxt
 msgid "Function"
 msgstr "Função"
 
-msgctxt
 msgid "Feature"
 msgstr "Funcionalidade"
 
-msgctxt
 msgid "Functionality"
 msgstr "Funcionalidade"
 
-msgctxt
 msgid "Background"
 msgstr "Fundo, 2º plano"
 
 # en - LETTER G
 # pt - LETRA G
-msgctxt
 msgid "Portuguese words starting with the letter G"
 msgstr "Palavras portuguesas começadas com a letra G"
 
-msgctxt
 msgid "Gallery"
 msgstr "Galeria"
 
-msgctxt
 msgid "Manager"
 msgstr "Gestor"
 
+# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
 # en - Free, as in free beer. Maybe free as a bird, who knows...
 # pt - Grátis, gratuito. Também pode ser livre como um pássaro...
-msgctxt
+# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
+# en - Free as a bird. Maybe free as in free beer, who knows...
+# pt - Livre, como um pássaro fora da gaiola. Também pode ser grátis, gratuito...
+#, fuzzy
 msgid "Free"
-msgstr "Gratuito, grátis"
+msgstr ""
+"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
+"Gratuito, grátis\n"
+"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
+"Livre, Solto"
 
 # en -
 # pt - NÃO traduzir por gradiente. Não se aplica à generalidade das
 # formas em que a palavra é usada, tal como o aspecto do ecrã.
-msgctxt
 msgid "Gradient"
 msgstr "Gradação"
 
-msgctxt
 msgid "Grid"
 msgstr "Grelha"
 
-msgctxt
 msgid "Graphic"
 msgstr "Gráfico"
 
 # en - can refer to a map or a analisys chart
 # pt - pode referir-se a um gráfico ou a um mapa
-msgctxt
 msgid "Chart"
 msgstr "Gráfico (de barras, etc), Mapa"
 
 # en - Save Data, Store clothing, Save lives
 # pt - Gravar dados, Guardar roupa, Salvar vidas
-msgctxt
 msgid "Save"
 msgstr "Grave, Gravar"
 
-msgctxt
 msgid "Saved"
 msgstr "Gravado"
 
-msgctxt
 msgid "Guide"
 msgstr "Guia"
 
 # en - LETTER H
 # pt - LETRA H
-msgctxt
 msgid "Portuguese words starting with the letter H"
 msgstr "Palavras portuguesas começadas com a letra H"
 
 # en -
 # pt - pode-se usar "Hifenação"
-msgctxt
 msgid "Hyphenation"
 msgstr "Hifenização"
 
-msgctxt
 msgid "Hyperlink"
 msgstr "Hiperligação"
 
-msgctxt
 msgid "History"
 msgstr "Histórico, Historial"
 
-msgctxt
 msgid "Time"
 msgstr "Hora"
 
-msgctxt
 msgid "Horizontal"
 msgstr "Horizontal"
 
-msgctxt
 msgid "Horizontally"
 msgstr "Horizontalmente"
 
-msgctxt
 msgid "HTML"
 msgstr "HTML"
 
 # en - LETTER I
 # pt - LETRA I
-msgctxt
 msgid "Portuguese words starting with the letter I"
 msgstr "Palavras portuguesas começadas com a letra I"
 
-msgctxt
 msgid "Icon"
 msgstr "Ícone"
 
-msgctxt
 msgid "Language"
 msgstr "Idioma, Língua, Linguagem de programação"
 
-msgctxt
 msgid "Equal"
 msgstr "Igual"
 
-msgctxt
 msgid "Ignore"
 msgstr "Ignorar"
 
-msgctxt
 msgid "Skip, skipped"
 msgstr "Ignorar, ignorado"
 
-msgctxt
 msgid "Image"
 msgstr "Imagem"
 
-msgctxt
 msgid "Picture"
 msgstr "Imagem"
 
-msgctxt
 msgid "Unable"
 msgstr "Impossível"
 
-msgctxt
 msgid "Cannot"
 msgstr "Impossível"
 
-msgctxt
 msgid "Could not"
 msgstr "Impossível"
 
-msgctxt
 msgid "Couldn't"
 msgstr "Impossível"
 
-msgctxt
 msgid "Unnable to"
 msgstr "Impossível"
 
-msgctxt
 msgid "Printed"
 msgstr "Imprimido"
 
-msgctxt
 msgid "Imported"
 msgstr "Importado"
 
-msgctxt
 msgid "Import"
 msgstr "Importe, Importar"
 
 # Tem sido traduzido por tempo de espera, tempo esgotado, etc.
-msgctxt
 msgid "Timeout"
 msgstr "Inacção"
 
-msgctxt
 msgid "Incorrect"
 msgstr "Incorrecto"
 
-msgctxt
 msgid "Indent"
 msgstr "Indentar"
 
-msgctxt
 msgid "Index"
 msgstr "Índice"
 
-msgctxt
 msgid "Table of contents"
 msgstr "Índice"
 
-msgctxt
 msgid "Individual"
 msgstr "Indivíduo, Individual"
 
-msgctxt
 msgid "Lower"
 msgstr "Inferior"
 
-msgctxt
 msgid "Information"
 msgstr "Informação"
 
-msgctxt
 msgid "Unexpected"
 msgstr "Inesperado"
 
-msgctxt
 msgid "Started"
 msgstr "Iniciado"
 
-msgctxt
 msgid "Initial"
 msgstr "Inicial"
 
-msgctxt
 msgid "Start"
 msgstr "Iniciar, Início"
 
 # en - command to input something
 # pt - comando para inserir dados ou informação
-msgctxt
 msgid "Enter"
 msgstr "Inserir, Insira"
 
-msgctxt
 msgid "Entered"
 msgstr "Inserido"
 
-msgctxt
 msgid "Inserted"
 msgstr "Inserido"
 
-msgctxt
 msgid "Insert"
 msgstr "Inserir"
 
-msgctxt
 msgid "Installation"
 msgstr "Instalação"
 
-msgctxt
 msgid "Installed"
 msgstr "Instalado"
 
-msgctxt
 msgid "Install"
 msgstr "Instalar"
 
 # en - GRUB commands to integrate files, etc.
 # pt - comando GRUB para inserir dados ou informação
-msgctxt
 msgid "Embedd"
 msgstr "Integrar"
 
-msgctxt
 msgid "Internet"
 msgstr "Internet"
 
-msgctxt
 msgid "Internal"
 msgstr "Interno"
 
-msgctxt
 msgid "Range"
 msgstr "Intervalo"
 
-msgctxt
 msgid "Interval"
 msgstr "Intervalo"
 
-msgctxt
 msgid "Invalid"
 msgstr "Inválido"
 
-msgctxt
 msgid "Flip"
 msgstr "Inverter"
 
-msgctxt
 msgid "Italic"
 msgstr "Itálico"
 
-msgctxt
 msgid "Item"
 msgstr "Item"
 
 # en - LETTER J
 # pt - LETRA J
-msgctxt
 msgid "Portuguese words starting with the letter J"
 msgstr "Palavras portuguesas começadas com a letra J"
 
-msgctxt
 msgid "January"
 msgstr "Janeiro"
 
-msgctxt
 msgid "january"
 msgstr "Janeiro"
 
-msgctxt
 msgid "Window"
 msgstr "Janela"
 
-msgctxt
 msgid "Java"
 msgstr "Java"
 
-msgctxt
 msgid "java"
 msgstr "Java"
 
-msgctxt
 msgid "June"
 msgstr "Junho"
 
-msgctxt
 msgid "june"
 msgstr "Junho"
 
-msgctxt
 msgid "July"
 msgstr "Julho"
 
-msgctxt
 msgid "july"
 msgstr "Julho"
 
-msgctxt
 msgid "Join"
 msgstr "Juntar"
 
-msgctxt
 msgid "Justified"
 msgstr "Justificado"
 
 # en - LETTER L
 # pt - LETRA L
-msgctxt
 msgid "Portuguese words starting with the letter L"
 msgstr "Palavras portuguesas começadas com a letra L"
 
-msgctxt
 msgid "Width"
 msgstr "Largura"
 
-msgctxt
 msgid "Drop"
 msgstr "Largar"
 
-msgctxt
 msgid "Caption"
 msgstr "Legenda"
 
-msgctxt
 msgid "Reminder"
 msgstr "Lembrete"
 
 # en -
 # pt - também se aplica a leitura de ficheiros
-msgctxt
 msgid "Read"
 msgstr "Ler"
 
 # en -
 # pt - NÃO TRADUZIR por "Fonte"
-msgctxt
 msgid "Font"
 msgstr "Letra"
 
 # en -
 # pt - carta pode ser um tipo de papel ou uma missiva real a alguém
-msgctxt
 msgid "Letter"
 msgstr "Letra, Carta"
 
 # en -
 # pt - e.g. azul claro
-msgctxt
 msgid "Light"
 msgstr "Leve, Luz, Claro"
 
 # en -
 # pt - habitualmente traduzido como "Dicionário de sinónimos",
 # normalmente visto em menus, onde o tamanho não é prejudicial
-msgctxt
 msgid "Thesaurus"
 msgstr "Léxico"
 
-msgctxt
 msgid "License"
 msgstr "Licença"
 
 # en - Like in "Internet connection"
 # pt - como em "Ligação à Internet"
-msgctxt
 msgid "Connection"
 msgstr "Ligação"
 
 # en - Like in "Link a picture to a contact"
 # pt - como em "Ligar uma imagem a um contacto"
-msgctxt
 msgid "Link"
 msgstr "Ligação"
 
 # en -
 # pt - ligação fixa, persistente entre ficheiros
-msgctxt
 msgid "Hard Link"
 msgstr "Ligação fixa"
 
 # en -
 # pt - ligação simbólica, volátil entre ficheiros,
 # só funciona em memória, desfaz-se ao encerrar o sistema
-msgctxt
 msgid "Symbolic Link, SymLink"
 msgstr "Ligação simbólica"
 
-msgctxt
 msgid "Linked"
 msgstr "Ligado"
 
-msgctxt
 msgid "Connect"
 msgstr "Ligar"
 
-msgctxt
 msgid "Clean"
 msgstr "Limpar"
 
-msgctxt
 msgid "Clear"
 msgstr "Limpar"
 
-msgctxt
 msgid "Linear"
 msgstr "Linear"
 
-msgctxt
 msgid "Line"
 msgstr "Linha"
 
-msgctxt
 msgid "Row"
 msgstr "Linha"
 
 # en - May be a command or a noun
 # pt - Pode ser um comando (Listar) ou um substantivo (Lista)
-msgctxt
 msgid "List"
 msgstr "Lista"
 
-msgctxt
 msgid "Smooth"
 msgstr "Liso"
 
-# en - Free as a bird. Maybe free as in free beer, who knows...
-# pt - Livre, como um pássaro fora da gaiola. Também pode ser grátis, gratuito...
-msgctxt
-msgid "Free"
-msgstr "Livre, Solto"
-
-msgctxt
 msgid "Book"
 msgstr "Livro"
 
-msgctxt
 msgid "Address book"
 msgstr "Livro de endereços"
 
-msgctxt
 msgid "Local"
 msgstr "Local"
 
-msgctxt
 msgid "Location"
 msgstr "Localização"
 
 # en - LETTER M
 # pt - LETRA M
-msgctxt
 msgid "Portuguese words starting with the letter M"
 msgstr "Palavras portuguesas começadas com a letra M"
 
 # en -
 # pt - micro-programa de computador
-msgctxt
 msgid "Macro"
 msgstr "Macro"
 
-msgctxt
 msgid "May"
 msgstr "Maio"
 
-msgctxt
 msgid "may"
 msgstr "Maio"
 
-msgctxt
 msgid "Slur"
 msgstr "Manchar"
 
-msgctxt
 msgid "Smear"
 msgstr "Manchar"
 
-msgctxt
 msgid "Smudge"
 msgstr "Manchar"
 
-msgctxt
 msgid "Manual"
 msgstr "Manual"
 
-msgctxt
 msgid "Bitmap"
 msgstr "Mapa de bits"
 
-msgctxt
 msgid "Bullet"
 msgstr "Marca"
 
-msgctxt
 msgid "Mark"
 msgstr "Marca, Marcar"
 
-msgctxt
-msgid "Check "
+msgid "Check"
 msgstr "Marcar, Verificar, Procurar"
 
 # en -
 # pt - normalmente será marcador. Pode ser "Favorito" num navegador web
-msgctxt
 msgid "Bookmark"
 msgstr "Marcador, Favorito"
 
-msgctxt
 msgid "Placeholder"
 msgstr "Marcador de posição, Variável"
 
-msgctxt
 msgid "March"
 msgstr "Março"
 
-msgctxt
 msgid "Edge"
 msgstr "Margem"
 
-msgctxt
 msgid "Margin"
 msgstr "Margem"
 
-msgctxt
 msgid "Hue"
 msgstr "Matiz"
 
-msgctxt
 msgid "Array"
 msgstr "Matriz"
 
-msgctxt
 msgid "Maximum"
 msgstr "Máximo"
 
-msgctxt
 msgid "Max"
 msgstr "Máximo"
 
-msgctxt
 msgid "Medium"
 msgstr "Média"
 
-msgctxt
 msgid "Middle"
 msgstr "Meio"
 
 # en -
 # pt - pode ser "Nota" em caso de necessidade de espaço
-msgctxt
 msgid "Memo"
 msgstr "Memorando, Nota"
 
-msgctxt
 msgid "Cache"
 msgstr "Memória"
 
-msgctxt
 msgid "Memory"
 msgstr "Memória"
 
-msgctxt
 msgid "Menu"
 msgstr "Menu"
 
-msgctxt
 msgid "Message"
 msgstr "Mensagem"
 
-msgctxt
 msgid "Month"
 msgstr "Mês"
 
-msgctxt
 msgid "Months"
 msgstr "Meses"
 
-msgctxt
 msgid "Master"
 msgstr "Mestre"
 
-msgctxt
 msgid "Method"
 msgstr "Método"
 
-msgctxt
 msgid "Thumbnails"
 msgstr "Miniaturas"
 
 # en - can be minimum or minute
 # pt - pode ser mínimo ou minuto. Minuto é abreviado como "m"
-msgctxt
 msgid "Min"
 msgstr "Mín., Mínimo"
 
-msgctxt
 msgid "Minimum"
 msgstr "Mínimo"
 
-msgctxt
 msgid "Lowercase"
 msgstr "Minúsculas"
 
-msgctxt
 msgid "Minute"
 msgstr "Minuto"
 
-msgctxt
 msgid "Blend"
 msgstr "Misturar"
 
-msgctxt
 msgid "Template"
 msgstr "Modelo"
 
-msgctxt
 msgid "Modify"
 msgstr "Modifique, Modificar"
 
-msgctxt
 msgid "Modified"
 msgstr "Modificado"
 
-msgctxt
 msgid "Currency"
 msgstr "Moeda"
 
 # en -
 # pt - em imagens habitualmente refere-se a repetir a imagem em todo
 # o ecrã. Em janelas, significa dispô-las em cascata, pilha desalinhada
-msgctxt
 msgid "Tile"
 msgstr "Mosaico"
 
-msgctxt
 msgid "Shown"
 msgstr "Mostrado"
 
-msgctxt
 msgid "Reason"
 msgstr "Motivo, Razão"
 
-msgctxt
 msgid "Move"
 msgstr "Mova, Mover"
 
 # en - can be a math function
 # pt - pode ser uma função matemática
-msgctxt
 msgid "Mode"
 msgstr "Modo"
 
-msgctxt
 msgid "Module"
 msgstr "Módulo"
 
 # en -
 # pt - as conotações são muitas, há que adaptar ao âmbito em que se insere
-msgctxt
 msgid "Frame"
 msgstr "Moldura"
 
 # en -
 # pt - Preferível a "Apresentar" por ser mais curta.
-msgctxt
 msgid "Display"
 msgstr "Mostrar, Exibir"
 
-msgctxt
 msgid "Displayed"
 msgstr "Mostrado"
 
-msgctxt
 msgid "Show"
 msgstr "Mostrar"
 
-msgctxt
 msgid "Multiple"
 msgstr "Múltiplo"
 
 # en - LETTER N
 # pt - LETRA N
-msgctxt
 msgid "Portuguese words starting with the letter N"
 msgstr "Palavras portuguesas começadas com a letra N"
 
-msgctxt
 msgid "No"
 msgstr "Não"
 
-msgctxt
 msgid "Unsupported"
 msgstr "Não suportado"
 
-msgctxt
 msgid "Navigation"
 msgstr "Navegação"
 
-msgctxt
 msgid "Browser"
 msgstr "Navegador, Explorador"
 
-msgctxt
 msgid "Navigator"
 msgstr "Navegador"
 
-msgctxt
 msgid "Browse"
 msgstr "Navegar, Explorar"
 
-msgctxt
 msgid "Bold"
 msgstr "Negrito"
 
-msgctxt
 msgid "Business"
 msgstr "Negócio"
 
-msgctxt
 msgid "Level"
 msgstr "Nível"
 
-msgctxt
 msgid "Name"
 msgstr "Nome"
 
-msgctxt
 msgid "Named"
 msgstr "Nomeado, Chamado, Designado"
 
-msgctxt
 msgid "Names"
 msgstr "Nomes"
 
-msgctxt
 msgid "Standard"
 msgstr "Norma, Padrão, Standard"
 
-msgctxt
 msgid "Normal"
 msgstr "Normal"
 
-msgctxt
 msgid "Ordinary"
 msgstr "Normal"
 
-msgctxt
 msgid "Regular"
 msgstr "Normal"
 
-msgctxt
 msgid "Note"
 msgstr "Nota"
 
-msgctxt
 msgid "Footnote"
 msgstr "Nota de rodapé"
 
-msgctxt
 msgid "November"
 msgstr "Novembro"
 
-msgctxt
 msgid "november"
 msgstr "Novembro"
 
-msgctxt
 msgid "Numbering"
 msgstr "Numeração"
 
 # en - LETTER O
 # pt - LETRA O
-msgctxt
 msgid "Portuguese words starting with the letter O"
 msgstr "Palavras portuguesas começadas com a letra O"
 
-msgctxt
 msgid "Object"
 msgstr "Objecto"
 
-msgctxt
 msgid "OLE objects"
 msgstr "Objectos OLE"
 
-msgctxt
 msgid "Occurred"
 msgstr "Ocorreu"
 
-msgctxt
 msgid "Error occurred"
 msgstr "Ocorreu um erro"
 
-msgctxt
 msgid "Hide"
 msgstr "Ocultar"
 
-msgctxt
 msgid "Hidden"
 msgstr "Oculto"
 
-msgctxt
 msgid "ODF"
 msgstr "ODF"
 
 # en -
 # pt - refere-se a "Object Linking and Embedding" - NÂO TRADUZIR
-msgctxt
 msgid "OLE"
 msgstr "OLE"
 
-msgctxt
 msgid "Online"
 msgstr "Online"
 
-msgctxt
 msgid "Option"
 msgstr "Opção"
 
-msgctxt
 msgid "Optional"
 msgstr "Opcional"
 
 # en -
 # pt - formato do documento, NÃO TRADUZIR
-msgctxt
 msgid "OpenDocument"
 msgstr "OpenDocument"
 
-msgctxt
 msgid "Operation"
 msgstr "Operação"
 
-msgctxt
 msgid "Optimal"
 msgstr "Óptimo"
 
-msgctxt
 msgid "Sorting"
 msgstr "Ordem, A ordenar"
 
-msgctxt
 msgid "Sort"
 msgstr "Ordenar"
 
 # en -
 # pt - preferi "Ordem" por ser mais curta do que "Ordenação"
-msgctxt
 msgid "Sort Order"
 msgstr "Ordem"
 
-msgctxt
 msgid "Orientation"
 msgstr "Orientação"
 
-msgctxt
 msgid "Original"
 msgstr "Original"
 
-msgctxt
 msgid "Spellcheck"
 msgstr "Ortografia"
 
-msgctxt
 msgid "Spelling"
 msgstr "Ortografia"
 
-msgctxt
 msgid "October"
 msgstr "Outubro"
 
 # en - LETTER P
 # pt - LETRA P
-msgctxt
 msgid "Portuguese words starting with the letter P"
 msgstr "Palavras portuguesas começadas com a letra P"
 
-msgctxt
 msgid "Package"
 msgstr "Pacote"
 
 # en -
 # pt - "Textura" aplica-se mais a programas de desenho.
-msgctxt
 msgid "Pattern"
 msgstr "Padrão, Textura"
 
-msgctxt
 msgid "Page"
 msgstr "Página"
 
 # en -
 # pt - entendo como site se houver mais de uma página derivada da
 # inicial
-msgctxt
 msgid "Site"
 msgstr "Página, Site"
 
 # en - can be a variable type, do not translate
 # pt - pode ser um tipo de variável numérica, caso em que não deve ser
 # traduzida
-msgctxt
 msgid "Word"
 msgstr "Palavra"
 
-msgctxt
 msgid "Paper"
 msgstr "Papel"
 
-msgctxt
 msgid "Paragraph"
 msgstr "Parágrafo"
 
-msgctxt
 msgid "Parameter"
 msgstr "Parâmetro"
 
-msgctxt
 msgid "Stop"
 msgstr "Parar"
 
-msgctxt
 msgid "Shared"
 msgstr "Partilhado"
 
-msgctxt
 msgid "Step"
 msgstr "Passo"
 
 # en - could be 'Directório' but this word is much smaller
 # podia ser "Directório" mas esta palavra é muito mais curta
-msgctxt
 msgid "Directory"
 msgstr "Pasta"
 
-msgctxt
 msgid "Folder"
 msgstr "Pasta"
 
-msgctxt
 msgid "Lost"
 msgstr "Perdido"
 
-msgctxt
 msgid "Period"
 msgstr "Período"
 
-msgctxt
 msgid "Allowed"
 msgstr "Permitido"
 
-msgctxt
 msgid "Custom"
 msgstr "Personalizado"
 
-msgctxt
 msgid "Customize"
 msgstr "Personalizar"
 
-msgctxt
 msgid "Personal"
 msgstr "Pessoal"
 
-msgctxt
 msgid "Pointer"
 msgstr "Ponteiro"
 
-msgctxt
 msgid "Dithering"
 msgstr "Pontilhado"
 
 # en - in some cases can be replaced by literal and quoted "."
 # pt - em casos extremos pode ser substituído pelo carácter literal
 # entre aspas "."
-msgctxt
 msgid "Dot"
 msgstr "Ponto"
 
-msgctxt
 msgid "Position"
 msgstr "Posição"
 
-<<<<<<< HEAD
 msgid "Please"
 msgstr "Por favor"
 
 msgid "Please wait"
 msgstr "Por favor, aguarde"
 
-=======
-msgctxt
->>>>>>> d3ba1fb8593f08e6ddae85f155975b7cab1209fb
 msgid "Sharpness"
 msgstr "Precisão"
 
 # en -
 # pt - Pode ser "Omissão" mas não reflecte bem a ideia. Omissão é um
 # valor em falta, predefinição é um valor já definido.
-msgctxt
 msgid "Default"
 msgstr "Predefinição"
 
-msgctxt
 msgid "Fill"
 msgstr "Preencher"
 
-msgctxt
 msgid "Press"
 msgstr "Premir, Prima"
 
-msgctxt
 msgid "Primary"
 msgstr "Primário"
 
-msgctxt
 msgid "Main"
 msgstr "Principal"
 
-msgctxt
 msgid "Privilege"
 msgstr "Privilégio"
 
-msgctxt
 msgid "Parse"
 msgstr "Processar"
 
-msgctxt
 msgid "Process"
 msgstr "Processo"
 
-msgctxt
 msgid "Check (for updates)"
 msgstr "Procurar (actualizações)"
 
 # en -
 # pt - para distinção com "Find - Localizar". Lembrar sempre que quem
 # busca são os cães
-msgctxt
 msgid "Search"
 msgstr "Procurar"
 
-msgctxt
 msgid "Seek"
 msgstr "Procurar (por)(ir para)"
 
-msgctxt
 msgid "Product"
 msgstr "Produto"
 
-msgctxt
 msgid "Application"
 msgstr "Programa, Aplicação"
 
-msgctxt
 msgid "Software"
 msgstr "Programa, Aplicação"
 
-msgctxt
 msgid "Progress"
 msgstr "Progresso"
 
-msgctxt
-msgid "Aspect Ratio"
-msgstr "Proporção"
-
-msgctxt
 msgid "Property"
 msgstr "Propriedade"
 
-msgctxt
 msgid "Proceed"
 msgstr "Prosseguir"
 
-msgctxt
 msgid "Protect"
 msgstr "Proteger"
 
-msgctxt
 msgid "Protection"
 msgstr "Protecção"
 
-msgctxt
 msgid "Protected"
 msgstr "Protegido"
 
 # en - LETTER Q
 # pt - LETRA Q
-msgctxt
 msgid "Portuguese words starting with the letter Q"
 msgstr "Palavras portuguesas começadas com a letra Q"
 
-msgctxt
 msgid "Quality"
 msgstr "Qualidade"
 
-msgctxt
 msgid "Square"
 msgstr "Quadrado"
 
-msgctxt
 msgid "Amount"
 msgstr "Quantidade"
 
-msgctxt
 msgid "Break"
 msgstr "Quebra"
 
 # en - wrap lines
 # pt - quebrar linhas
-msgctxt
 msgid "Wrap"
 msgstr "Quebrar"
 
 # en - LETTER R
 # pt - LETRA R
-msgctxt
 msgid "Portuguese words starting with the letter R"
 msgstr "Palavras portuguesas começadas com a letra R"
 
-msgctxt
 msgid "Root"
 msgstr "Raiz"
 
-msgctxt
 msgid "Strikethrough"
 msgstr "Rasurado"
 
-msgctxt
 msgid "Outline"
 msgstr "Realce, Contorno, Perfil, Resumo, Esboço"
 
-msgctxt
 msgid "Perform"
 msgstr "Realizar"
 
-msgctxt
 msgid "Back"
 msgstr "Recuar"
 
-msgctxt
 msgid "Backward"
 msgstr "Recuar"
 
-msgctxt
 msgid "Network"
 msgstr "Rede"
 
-msgctxt
 msgid "Resize"
 msgstr "Redimensionar"
 
-msgctxt
 msgid "Round"
 msgstr "Redondo"
 
-msgctxt
 msgid "Zoom out"
 msgstr "Reduzir"
 
-msgctxt
 msgid "Reference"
 msgstr "Referência"
 
-msgctxt
 msgid "Record"
 msgstr "Registo"
 
-msgctxt
 msgid "Ruler"
 msgstr "Régua"
 
-msgctxt
 msgid "Restart"
 msgstr "Reiniciar"
 
-msgctxt
 msgid "Relative"
 msgstr "Relativo"
 
-msgctxt
 msgid "Report"
 msgstr "Relatório"
 
-msgctxt
 msgid "Repeat"
 msgstr "Repita, Repetir"
 
-msgctxt
 msgid "Swirl"
 msgstr "Remoinho"
 
-msgctxt
 msgid "Whirl"
 msgstr "Remoinho"
 
-msgctxt
 msgid "Removed"
 msgstr "Removido"
 
-msgctxt
 msgid "Remove"
 msgstr "Remova, Remover"
 
-msgctxt
 msgid "Rename"
 msgstr "Renomear"
 
 # en - Would be best to use 'Try again'
 # pt - "Tentar de novo" era melhor mas é muito mais comprido
-msgctxt
 msgid "Retry"
 msgstr "Repetir"
 
-msgctxt
 msgid "Reset"
 msgstr "Repor"
 
-msgctxt
 msgid "Resolution"
 msgstr "Resolução"
 
-msgctxt
 msgid "Restore"
 msgstr "Restaurar"
 
-msgctxt
 msgid "Summary"
 msgstr "Resumo"
 
-msgctxt
 msgid "Resume"
 msgstr "Retomar"
 
-msgctxt
 msgid "Reverse"
 msgstr "Reverso"
 
-msgctxt
 msgid "Scroll"
 msgstr "Rolar"
 
-msgctxt
 msgid "Footer"
 msgstr "Rodapé"
 
-msgctxt
 msgid "Rotation"
 msgstr "Rotação"
 
 # en - LETTER S
 # pt - LETRA S
-msgctxt
 msgid "Portuguese words starting with the letter S"
 msgstr "Palavras portuguesas começadas com a letra S"
 
-msgctxt
 msgid "Output"
 msgstr "Saída"
 
-msgctxt
 msgid "Exit"
 msgstr "Sair"
 
-msgctxt
 msgid "Quit"
 msgstr "_Sair"
 
-msgctxt
 msgid "Backup"
 msgstr "Salvaguarda, Segurança, Cópia de segurança"
 
 # en -
 # pt - se referente a scripts de linguagem de programação não deve ser
 # traduzido
-msgctxt
 msgid "script"
 msgstr "Script, Escrito, Rabisco, Nota"
 
-msgctxt
 msgid "Section"
 msgstr "Secção"
 
-msgctxt
 msgid "Next"
 msgstr "Seguinte"
 
-msgctxt
 msgid "Security"
 msgstr "Segurança"
 
-msgctxt
 msgid "Separator"
 msgstr "Separador"
 
-msgctxt
 msgid "Selection"
 msgstr "Selecção"
 
-msgctxt
 msgid "Selected"
 msgstr "Seleccionado"
 
-msgctxt
 msgid "Select"
 msgstr "Seleccionar"
 
 # en -
 # pt - habitualmente NÃO é plural
-msgctxt
 msgid "Series"
 msgstr "Série"
 
-msgctxt
 msgid "Service"
 msgstr "Serviço"
 
-msgctxt
 msgid "Server"
 msgstr "Servidor"
 
 # en -
 # pt - "Senha" é sempre preferível a "Palavra-passe" por ser mais curta
-msgctxt
 msgid "Password"
 msgstr "Senha"
 
-msgctxt
 msgid "Arrow"
 msgstr "Seta"
 
-msgctxt
 msgid "September"
 msgstr "Setembro"
 
-msgctxt
 msgid "september"
 msgstr "Setembro"
 
-msgctxt
 msgid "Symbol"
 msgstr "Símbolo"
 
-msgctxt
 msgid "Syntax"
 msgstr "Sintaxe"
 
-msgctxt
 msgid "System"
 msgstr "Sistema"
 
-msgctxt
 msgid "Overwrite"
 msgstr "Sobrescrever"
 
-msgctxt
 msgid "Overline"
 msgstr "Sobre-linha"
 
-msgctxt
 msgid "Overlay"
 msgstr "Sobrepor"
 
 # en -
 # pt - pode ser empregue como expoente (matemática)
-msgctxt
 msgid "Superscript"
 msgstr "Sobrescrito, Expoente"
 
 # Poderá ser "Sobrexposição de cor"
-msgctxt
 msgid "Color-burn"
 msgstr "Sobrexposição"
 
-msgctxt
 msgid "Read-only"
 msgstr "Só de leitura"
 
-msgctxt
 msgid "Sound"
 msgstr "Som"
 
-msgctxt
 msgid "Sum"
 msgstr "Soma"
 
-msgctxt
 msgid "Shadows"
 msgstr "Sombras"
 
-msgctxt
 msgid "Spam"
 msgstr "Assédio"
 
-msgctxt
 msgid "SQL"
 msgstr "SQL"
 
-msgctxt
 msgid "Antialias"
 msgstr "Suavização"
 
 # Poderá ser "Subexposição de cor"
-msgctxt
 msgid "Color-dodge"
 msgstr "Subexposição"
 
-msgctxt
 msgid "Subscript"
 msgstr "Subscrito, Base (oposto de expoente [matemática]), Índice"
 
-msgctxt
 msgid "Underline"
 msgstr "Sublinhado"
 
-msgctxt
 msgid "Replaced"
 msgstr "Substituído"
 
-msgctxt
 msgid "Replace"
 msgstr "Substituir"
 
-msgctxt
 msgid "Upper"
 msgstr "Superior"
 
 # en -
 # pt - não confundir com "multimedia". Refere-se a um suporte de dados,
 # disco, disquete, pen, cartão SD, etc.
-msgctxt
 msgid "Media"
 msgstr "Suporte"
 
 # en -
 # pt - assistência, apoio
-msgctxt
 msgid "Support"
 msgstr "Suporte"
 
-msgctxt
 msgid "Supported"
 msgstr "Suportado"
 
 # en - LETTER T
 # pt - LETRA T
-msgctxt
 msgid "Portuguese words starting with the letter T"
 msgstr "Palavras portuguesas começadas com a letra T"
 
-msgctxt
 msgid "Table"
 msgstr "Tabela"
 
-msgctxt
 msgid "Tab"
 msgstr "Tabulação"
 
-msgctxt
 msgid "Size"
 msgstr "Tamanho"
 
 # en -
 # - pt "Tamanho" pode ser usado em certos casos por ser mais curta
-msgctxt
 msgid "length"
 msgstr "Tamanho, Comprimento"
 
-msgctxt
 msgid "Task"
 msgstr "Tarefa"
 
-msgctxt
 msgid "Key"
 msgstr "Tecla, Chave"
 
-msgctxt
 msgid "Theme"
 msgstr "Tema"
 
-msgctxt
 msgid "Finished"
 msgstr "Terminado"
 
-msgctxt
 msgid "Finish"
 msgstr "Terminar, Concluir"
 
-msgctxt
 msgid "Term"
 msgstr "Termo"
 
-msgctxt
 msgid "Test"
 msgstr "Teste, Testar"
 
-msgctxt
 msgid "Text"
 msgstr "Texto"
 
-msgctxt
 msgid "Heading"
 msgstr "Título"
 
-msgctxt
 msgid "Title"
 msgstr "Título"
 
 # en -
 # pt - pode ser "Limite"
-msgctxt
 msgid "Threshold"
 msgstr "Tolerância"
 
 # en -
 # pt - não é contagem. Na maioria dos casos fica incorrecto
-msgctxt
 msgid "Count"
 msgstr "Total, Contar"
 
-msgctxt
 msgid "Total"
 msgstr "Total"
 
-msgctxt
 msgid "Stroke"
 msgstr "Traçado, Pincelada, Golpe"
 
-msgctxt
 msgid "Costume"
 msgstr "Traje"
 
-msgctxt
 msgid "Lock/Unlock"
 msgstr "Trancar/Destrancar"
 
-msgctxt
 msgid "Download"
 msgstr "Transferir"
 
-msgctxt
 msgid "Transparency"
 msgstr "Transparência"
 
-msgctxt
 msgid "Transparent"
 msgstr "Transparente"
 
 # en -
 # pt - normalmente usado para 0 "vai 1" em contas
-msgctxt
 msgid "Overflow"
 msgstr "Transporte"
 
 # Salvo possíveis excepções, "Tudo" é mais abrangente e evita erros de género ou quantidade.
 # "All", em inglês, tanto pode ser masculino como feminino e plural ou singular.
-msgctxt
 msgid "All"
 msgstr "Tudo"
 
 # en - LETTER U
 # pt - LETRA U
-msgctxt
 msgid "Portuguese words starting with the letter U"
 msgstr "Palavras portuguesas começadas com a letra U"
 
-msgctxt
 msgid "Single"
 msgstr "Único"
 
-msgctxt
 msgid "Merge"
 msgstr "Unir"
 
 # en -
 # pt - Uniform Resource Locator é masculino
-msgctxt
 msgid "URL"
 msgstr "URL"
 
-msgctxt
 msgid "Unique"
 msgstr "Único, Exclusivo"
 
-msgctxt
 msgid "Drive"
 msgstr "Unidade"
 
-msgctxt
 msgid "Unit"
 msgstr "Unidade"
 
-msgctxt
 msgid "User"
 msgstr "Utilizador"
 
-msgctxt
 msgid "User name"
 msgstr "Utilizador"
 
 # en - LETTER V
 # pt - LETRA V
-msgctxt
 msgid "Portuguese words starting with the letter V"
 msgstr "Palavras portuguesas começadas com a letra V"
 
-msgctxt
 msgid "Valid"
 msgstr "Válido"
 
-msgctxt
 msgid "Value"
 msgstr "Valor"
 
-msgctxt
 msgid "Values"
 msgstr "Valores"
 
-msgctxt
 msgid "Variable"
 msgstr "Variável"
 
-msgctxt
 msgid "Empty"
 msgstr "Vazio, Em branco"
 
-msgctxt
 msgid "View"
 msgstr "Ver"
 
-msgctxt
 msgid "True"
 msgstr "Verdadeiro"
 
-msgctxt
 msgid "Check (Verify)"
 msgstr "Verificar"
 
-msgctxt
 msgid "Version"
 msgstr "Versão"
 
-msgctxt
 msgid "Vertical"
 msgstr "Vertical"
 
-msgctxt
 msgid "Vertically"
 msgstr "Verticalmente"
 
-msgctxt
 msgid "Visible"
 msgstr "Visível"
 
-msgctxt
 msgid "Viewer"
 msgstr "Visualizador"
 
@@ -9013,151 +7248,116 @@ msgstr "Visualizador"
 # pt - LETRA W
 # en -
 # pt - usar a palavra em minúsculas no meio das frases
-msgctxt
 msgid "Web"
 msgstr "Web"
 
 # en - LETTER X
 # pt - LETRA X
-msgctxt
 msgid "Portuguese words starting with the letter X"
 msgstr "Palavras portuguesas começadas com a letra X"
 
 # en - LETTER Z
 # pt - LETRA Z
-msgctxt
 msgid "Portuguese words starting with the letter Z"
 msgstr "Palavras portuguesas começadas com a letra Z"
 
 # ######################################################################
-msgctxt
 msgid "Common Sentences"
 msgstr "Frases comuns"
 
-msgctxt
 msgid "Common sentences"
 msgstr "Frases frequentes"
 
-msgctxt
 msgid "Soft-burn"
 msgstr "Sobrexposição suave"
 
-msgctxt
 msgid "Soft-dodge"
 msgstr "Subexposição suave"
 
-msgctxt
 msgid "Soft-light"
 msgstr "Luz suave"
 
 # Não traduzir para "Taxa de amostra""
-msgctxt
 msgid "Sample Rate"
 msgstr "Taxa de amostragem"
 
-msgctxt
 msgid "Not a regular file"
 msgstr "Não é um ficheiro normal"
 
-msgctxt
 msgid "Hard-light"
 msgstr "Luz forte"
 
 # en -
 # pt - refere-se a um programa que está em execução ou dados obtidos
 # durante a execução de um programa
-msgctxt
 msgid "runtime"
 msgstr "em execução"
 
-msgctxt
 msgid "Desaturate"
 msgstr "Reduzir saturação"
 
-msgctxt
 msgid "text direction"
 msgstr "direcção do texto"
 
-msgctxt
 msgid "moving"
 msgstr "a mover"
 
-msgctxt
 msgid "column width"
 msgstr "largura da coluna"
 
-msgctxt
 msgid "endnote"
 msgstr "nota final"
 
-msgctxt
 msgid "copying"
 msgstr "a copiar"
 
-msgctxt
 msgid "AutoText"
 msgstr "Texto automático"
 
-msgctxt
 msgid "asian typography"
 msgstr "tipografia asiática"
 
-msgctxt
 msgid "accessing"
 msgstr "a aceder"
 
-msgctxt
 msgid "align left"
 msgstr "alinhar à esquerda"
 
-msgctxt
 msgid "removing"
 msgstr "a remover"
 
-msgctxt
 msgid "file system"
 msgstr "sistema de ficheiros"
 
-msgctxt
 msgid "deleting"
 msgstr "a eliminar"
 
-msgctxt
 msgid "starting"
 msgstr "a iniciar"
 
-msgctxt
 msgid "Left-to-right"
 msgstr "Esquerda->direita"
 
-msgctxt
 msgid "paragraph style"
 msgstr "estilo de parágrafo"
 
-msgctxt
 msgid "User-defined"
 msgstr "Definido pelo utilizador"
 
-msgctxt
 msgid "Cannot open file"
 msgstr "Impossível abrir o ficheiro"
 
-msgctxt
 msgid "Display this information"
 msgstr "Mostrar esta informação"
 
-msgctxt
 msgid "Display the program's version"
 msgstr "Mostrar a versão do programa"
 
-msgctxt
 msgid "File already exists"
 msgstr "O ficheiro já existe"
 
-msgctxt
 msgid "drawing objects"
 msgstr "desenhar objectos"
 
-msgctxt
 msgid "Try again later"
 msgstr "Tente mais tarde"
