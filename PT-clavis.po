@@ -9,7 +9,11 @@ msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
 "Report-Msgid-Bugs-To: <pmra@protonmail.com>+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
+<<<<<<< HEAD
+"PO-Revision-Date: 2021-04-01 16:31Hora de Verão de GMT\n"
+=======
 "PO-Revision-Date: 2021-04-03 12:04+0100\n"
+>>>>>>> d3ba1fb8593f08e6ddae85f155975b7cab1209fb
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -5981,7 +5985,13 @@ msgctxt
 msgid "August"
 msgstr "Agosto"
 
+<<<<<<< HEAD
+msgid "Wait"
+msgstr "Aguarde"
+
+=======
 msgctxt
+>>>>>>> d3ba1fb8593f08e6ddae85f155975b7cab1209fb
 msgid "Help"
 msgstr "Ajuda"
 
@@ -8314,7 +8324,7 @@ msgid "Dithering"
 msgstr "Pontilhado"
 
 # en - in some cases can be replaced by literal and quoted "."
-# pt - em casos extremos pode ser substítuído pelo carácter literal
+# pt - em casos extremos pode ser substituído pelo carácter literal
 # entre aspas "."
 msgctxt
 msgid "Dot"
@@ -8324,7 +8334,16 @@ msgctxt
 msgid "Position"
 msgstr "Posição"
 
+<<<<<<< HEAD
+msgid "Please"
+msgstr "Por favor"
+
+msgid "Please wait"
+msgstr "Por favor, aguarde"
+
+=======
 msgctxt
+>>>>>>> d3ba1fb8593f08e6ddae85f155975b7cab1209fb
 msgid "Sharpness"
 msgstr "Precisão"
 
