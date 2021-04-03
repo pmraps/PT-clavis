@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
 "Report-Msgid-Bugs-To: <pmra@protonmail.com>+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2021-01-11 16:15Hora padrão de GMT\n"
+"PO-Revision-Date: 2021-04-01 16:31Hora de Verão de GMT\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt\n"
@@ -4880,6 +4880,9 @@ msgstr "Afiar, Focar"
 msgid "August"
 msgstr "Agosto"
 
+msgid "Wait"
+msgstr "Aguarde"
+
 msgid "Help"
 msgstr "Ajuda"
 
@@ -6609,13 +6612,19 @@ msgid "Dithering"
 msgstr "Pontilhado"
 
 # en - in some cases can be replaced by literal and quoted "."
-# pt - em casos extremos pode ser substítuído pelo carácter literal
+# pt - em casos extremos pode ser substituído pelo carácter literal
 # entre aspas "."
 msgid "Dot"
 msgstr "Ponto"
 
 msgid "Position"
 msgstr "Posição"
+
+msgid "Please"
+msgstr "Por favor"
+
+msgid "Please wait"
+msgstr "Por favor, aguarde"
 
 msgid "Sharpness"
 msgstr "Precisão"
