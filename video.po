@@ -1,731 +1,1050 @@
-# A device that converts analog signals into digital signals.
-msgid "ADC (analogue to digital converter)"
-msgstr "ADC (conversor analógico->digital"
-
-AGC (automatic gain control)
-A circuit for automatically controlling amplifier gain in order to maintain a constant output voltage with a varying input voltage within a predetermined range of input-to-output variation.
-
-Aliasing
-Something other than what it appears to be. Stairsteps on what should be a smooth diagonal line are an example of spatial alias. Wagon wheels appearing to move backwards are an example of temporal alias. Aliases are cause by sampling and can be reduced or eliminated by pre-filtering, which can appear to be a blurring effect. Defects in the picture typically caused by insufficient sampling (violation of the Nyquist sampling rate) in the analog to digital conversion process or poor filtering of digital video. Defects are typically seen as jaggies on diagonal lines and twinkling or brightening in picture detail. Examples are: Temporal Aliasing — such as rotating wagon wheel spokes appearing to rotate in the reverse direction. Raster Scan Aliasing — such as sparkling or pulsing effects in sharp horizontal lines. Stair-Stepping — stepped or jagged edges in diagonal lines or the diagonal parts of a letter.[1]
-
-Analog
-Any form of signal that carries information in the form of variable physical values, such as amplitude or frequency modulation. A signal which moves through a continuous range of settings or levels. An adjective describing any signal that varies continuously as opposed to a digital signal that contains discrete levels representing the binary digits 0 and 1.
-
-Analytics
-The science of analysis. Arriving at an optimal or realistic decision based on existing data. In the video industry it is often used for analyzing video to detect and determine temporal events not based on single image. It has a wide range of application in safety and security to examine video for specific data, behavior, objects or attitude.
-
-Aperture
-The effective diameter of the lens that controls the amount of light reaching the photoconductive or photo emitting image pickup sensor.
-
-Aperture Correction
-Compensation for the loss in sharpness of detail because of the finite dimensions of the image elements or the dot-pitch of the monitor.
-
-Artifact
-A defect or distortion of the video image, introduced along the sequence from origination and image capture to final display. Artifacts may arise from the overload of channel capacity by excess signal bandwidth. Artifacts may also result from: sampling effects in temporal, spatial, or frequency domains; processing by the transfer functions; compromises and inadequacies in the system employed; cascading of minor defects; basically any other departure of the total system from “complete transparency” resulting in visual errors.
-
-Aspect Ratio
-The ratio of width to height for the frame of the televised picture. 4:3 for standard systems, 5:4 for 1K x 1K, and 16:9 for HDTV.
-
-ATSC
-An acronym for "Advanced Televisions System Committee", the organization that defines the standard for high-definition TV in the United States.
-
-Attenuation
-In general terms, a reduction in signal strength.
-
-Auto Balance
-A system for detecting errors in color balance in white and black areas of the picture and automatically adjusting the white and black levels of both the red and blue signals as needed for correction.
-
-Auto Light Range
-The range of light, e.g., sunlight to moonlight, over which a TV camera is capable of automatically operating at specified output.
-
-Automatic Brightness Control
-In display devices, the self-acting mechanism which controls brightness of the device as a function of ambient light.
-
-Automatic Frequency
-An arrangement whereby the frequency of an oscillator is automatically maintained within specified limits.
-
-Automatic Gain Control
-See AGC
-
-Automatic Iris Lens
-A lens that automatically adjusts the amount of light reaching the imager.
-
-Automatic Light Control
-The process by which the illumination incident upon the face of a pickup device is automatically adjusted as a function of scene brightness.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-B
-Back Porch
-That portion of the composite picture signal which lies between the trailing edge of the horizontal sync pulse and the trailing edge of the corresponding blanking pulse.
-
-Bandwidth
-The range of signal frequencies that a piece of audio or video equipment can encode or decode; the difference between the limiting frequencies of a continuous frequency band. Video uses higher frequency than audio, thus requires a wider bandwidth.[2]
-
-Bar Test Pattern (SMPTE)
-Special test pattern for adjusting color TV receivers or color encoders. The upper portion consists of vertical bars of saturated colors and white. The power horizontal bars have black and white areas and I and Q signals.
-
-Bit
-Short for "Binary Digit". The smallest piece of binary digital data and is represented by either 0 or 1.
-
-Bit Depth
-The number of levels that a pixel might have, such as 256 with an 8-bit depth or 1024 with a 10-bit depth.[1]
-
-Bit Rate
-a) The rate at which the compressed bit stream is delivered from the storage medium to the input of a decoder. The digital equivalent of analog bandwidth. b) The speed at which bits are transmitted, usually expressed in bit/s (sometimes abbreviated "bps"). video information, in a digitized image for example, is transferred, recorded, and reproduced through the production process at some bit rate appropriate to the nature and capabilities of the origination, the channel, and the receptor. c) The amount of data transported in a given amount of time, usually defined in Mbit/s. Bit rate is one means used to define the amount of compression used on a video signal. The uncompressed D1 format has a bit rate of 270 Mbit/s. MPEG-1 has a bit rate of 1.2 Mbit/s.[1]
-
-Blooming
-This effect is sometimes called whiter-than-white. Blooming occurs when the white voltage level is exceeded and screen objects become fuzzy and large. The defocusing of regions of a picture where brightness is excessive.[1]
-
-Bounce
-Sudden variations in picture presentation (brightness, size, etc.,) independent of scene illumination.
-
-Brightness
-The attribute of visual perception in accordance with which an area appear to emit more of less light. (Luminance is the recommended name for the photo-electric quantity which has also been called brightness.)
-
-Broadband
-In TV system use, a device having a bandpass greater than the band of a single VHF TV channel.
-
-Burned-In-Image
-Also called burn. An image which persists in a fixed position in the output signal of a camera tube after the camera has been turned to a different scene or, on a monitor screen.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-C
-Candela
-A unit for measuring luminous intensity. One candela is approximately equal to the amount of light energy generated by an ordinary candle. Since 1948 a more precise definition of a candela has become: “the luminous intensity of a black body of 1 square centimeter heated up to a temperature at which platinum converges from a liquid state to a solid.” [1]
-
-CCD (charge-coupled device)
-See Charged-Couple Device.
-
-CCTV (closed-circuit television)
-See Closed-Circuit Television.
-
-Charged Couple Device
-a) A semiconductor device that converts optical images to electronic signals. CCDs are the most commonly found type of image sensor in consumer camcorders and video cameras. b) Serial storage technology that uses MOS capacitors. c) A solid-state image sensor that converts light energy to electricity.[1]
-
-Chroma
-The quality of color that embraces both hue and saturation. White, black, and grays have no chroma.
-
-Chroma Control
-A color TV receiver control that regulates the saturation (vividness) of colors in a picture.
-
-Chroma Detector
-Detects the absence of chrominance information in a color encoder input. The chroma detector automatically deletes the color burst from the color encoder output when the absence of chrominance is detected.
-
-Chromatic Aberration
-An optical defect of a lens that causes different colors or wavelengths of light to be focused at different distances from the lens. It is seen as color fringes or halos along edges and around every point in the image.
-
-Chromaticity
-The color quality of light that is defined by the wavelength (hue) and saturation. Chromaticity defines all the qualities of color except its brightness.
-
-Chrominance
-A color term defining the hue and saturation of a color. Chrominance does not refer to brightness.
-
-Chrominance Signal/Subcarrier
-That portion of the NTSC color TV signal that contains the color information.
-
-Clamp
-A device which functions during the horizontal blanking or synchronizing interval to fix the level of the picture signal at some predetermined reference level at the beginning of each scanning line.
-
-Clamping
-The process that established a fixed level for the picture level at the beginning of each scanning line.
-
-Clipping
-An electronic limit usually imposed in cameras to avoid overly bright or dark signals. When improperly applied can result in loss of picture information in very bright or very dark areas; Also used in switchers to set the cutoff point for mixing video signals. The electronic process of shearing off the peaks of either the white or black excursions of a video signal for limiting purposes. Sometimes, clipping is performed prior to modulation, and sometimes to limit the signal, so it will not exceed a predetermined level.[1]
-
-Closed-Circuit Television
-Video primarily used for surveillance and security that is not broadcast to the general public.
-
-CMOS (complementary metal-oxide-semiconductor)
-A type of digital camera sensor.
-
-C-Mount
-The first standard for CCTV lens screw mounting. This mounting is defined by a 1-inch (2.54 cm) diameter hole with 32 TPI (turns/threads per inch), female on the camera side, male on the lens side, and a back flange-to-CCD distance of 17.526 mm (0.69 inches). The C-mount description applies to both lenses and cameras. C-mount lenses can be put on both, C-mount and CS-mount cameras; only in the latter case a 5 mm (.19 inches) adaptor is required.
-
-Coaxial Cable
-A particular type of cable capable of passing a wide range of frequencies with very low signal loss. Such a cable in its simplest form consists of a hollow metallic shield with a single wire accurately placed along the center of the shield and isolated from the shield.
-
-CODEC (Coding/Decoding)
-a) The algorithm used to capture analog video or audio in digital form. b) Used to implement the physical combination of the coding and decoding circuits. c) A device for converting signals from analog to coded digital and then back again for use in digital transmission schemes. Most codecs employ proprietary coding algorithms for data compression.[1]
-
-Color
-A visual perception that humans correspond to the categories called red, green, blue and others.
-
-Color Burst
-That portion of the composite color signal, comprising a few cycles of a sine wave of chrominance subcarrier frequency, which is used to establish a reference for demodulating the chrominance signal; Normally approximately 9 cycles of 3.579545 MHz.
-
-Color Edging
-Extraneous colors appearing at the edges of colored objects, and differing from the true colors in the object.
-
-Color Encoder
-A device which produces an NTSC color signal from separate R, G, and B video inputs.
-
-Color Fringing
-Spurious colors introduced into the picture by the change in position of the televised object from field to field.
-
-Color Purity
-The degree to which a color is free of white or any other color. In reference to the operation of a tri-color picture tube it refers to the production of pure red, green or blue illumination of the phosphor dot faceplate.
-
-Color Saturation
-The degree to which a color is free of white light.
-
-Color Sync Signal
-A signal used to establish and to maintain the same color relationships that are transmitted.
-
-Color Transmission
-The transmission of a signal which represents both the brightness values and the color values in a picture.
-
-Communications Network
-The path over which all signals are transmitted.
-
-Composite Video Signal
-The combined picture signal, including vertical and horizontal blanking and synchronizing signals.
-
-Compression
-a) The process of electronically processing a digital video picture to make it use less storage or to allow more video to be sent down a transmission channel. b) The process of removing picture data to decrease the size of a video image. c) The reduction in the volume of data from any given process so that more data can be stored in a smaller space. There are a variety of compression schemes that can be applied to data of which MPEG-1 and MPEG-2 are called lossy since the data produced by compression is not totally recoverable. There are other compression schemes that are totally recoverable, but the degree of compression is much more limited.[1]
-
-Contrast
-The range of light to dark values in a picture or the ratio between the maximum and minimum brightness values.
-
-Contrast Range (Ratio)
-The ratio between the whitest and blackest portions of a TV image.
-
-Convergence
-The crossover of the three electron beams of a three-gun tri-color picture tube. This normally occurs at the plane of the aperture mask.
-
-Core Components
-Equipment in the video system that can change the video signal, thereby affecting the quality of the delivered video.
-
-Cropping
-A rectangular cutting off of image edges.
-
-Crosstalk
-An undesired signal from a different channel interfering with the desired signal.
-
-CS-Mount
-A standard for CCTV lens screw mounting. This mounting is defined by a 1-inch (2.54 mm) diameter hole with 32 TPI (turns/threads per inch), female on the camera side, male on the lens side, and a back flange-to-CCD distance of 12.5 mm (0.49 inches). The CS-mount description applies to both lenses and cameras. CS-mount lens cannot be put on C-mount cameras. C-mount lenses can be put on CS-mount cameras but a 5 mm (1.9 inches) adaptor is required.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-D
-DAT
-An acronym for Digital Audio Tape. Developed by Sony in 1987, it looks similar to an analogue audio cassette but contains professional quality digital information. It is capable of high fidelity music reproduction.
-
-dB (Decibel)
-A measure of the power ratio of two signals. In system use, a measure of the voltage ratio of two signals, provided they are measured across a common impedance.
-
-Decoder
-Device used to recover the component signals from a composite (encoded) source. Decoders are used in displays and in various processing hardware where components signals are required from a composite source such as composite chroma keying or color correction equipment. Device that changes digital signals to analog, or reconstructs information (data) by performing the inverse (reverse) functions of an encode process.[1]
-
-Definition
-The aggregate of fine details available on-screen. The higher the definition of an image, the greater the number of details [that can be discerned by the human eye or displayed]. During video recording and subsequent playback, several factors can conspire to cause a loss of definition. Among these are the limited frequency response of magnetic tapes and signal losses associated with electronic circuitry employed in the recording process. These losses occur because fine details appear in the highest frequency region of a video signal and this portion is usually the first casualty of signal degradation. Each additional generation of a videotape results in fewer and fewer fine details as losses are accumulated.[1]
-
-Depth of Field
-The in-focus range of a lens or optical system around an item of interest. It is measured from the distance behind an object of interest, to the distance in front of the object of interest, when the viewing lens is specifically focused on the object of interest. Depth of field depends on subject-to-camera distance, focal length of the lens, and f-stop.
-
-Depth of Focus
-The range of sensor-to-lens distance for which the image formed by the lens is clearly focused.
-
-Digital Imager
-A fundamental component in every digital camera. The imager records the view received from the camera lens.
-
-Digital Signal
-a) An electronic signal where every different value from the real-life excitation (sound, light) has a different value of binary combinations (words) that represent the analog signal.[1] b) An analog signal that has been converted to a digital form.[2]
-
-Digital Signal Processing (DSP)
-When applied to video cameras, DSP means that the analog signal from the CCD sensors is converted to a digital signal. It is then processed for signal separation, bandwidth settings and signal adjustments. After processing, the video signal either remains in the digital domain for recording by a DVR or is converted back into an analog signal for recording or transmission. DSP is also used in other parts of the video chain, including DVRs, and switching and routing devices.[1]
-
-Digital Television
-The transmission of a broadcast audio/video signal that consists of digital data.
-
-Digitizing
-Converting analog audio and/or video into digital form.
-
-Discrimination Level (also known as Level of Discrimination)
-a) Qualitatively: Capacity for seeing distinctly fine details that have a very small angular separation.
-
-b) Quantitatively: Any of a number of measures of spatial visual resolution such as the reciprocal of the value of the angular separation in minutes of arc of two neighboring objects (points or lines or other specified stimuli) which the observer can just perceive to be separate.
-
-A generalized use class aspect that specifies what discrimination level you need to recognize a target of interest. See the Discrimination Level topic for video quality requirements considerations.[3]
-
-Display
-a) The ultimate image presented to a viewer; the process of presenting that image. b) CRT, LCD, LED or other photoluminescent panel upon which numbers, characters, graphics or other data is presented.[1]
-
-Distortion
-The deviation of the received signal waveform from that of the original transmitted waveform.
-
-Distribution Amplifier
-A device that provides several isolated outputs from one looping or bridging input, and has a sufficiently high input impedance and input-to-output isolation to prevent loading of the input source.
-
-Dynamic Range
-The difference between the maximum acceptable signal level and the minimum acceptable signal level.
-
-DVD
-An acronym for "Digital Versatile Disk". It is the same size as a compact disc (CD). A single-layer DVD has a storage capacity of 4.7 GB and a dual-layer disc has a capacity of 8.5 GB.
-
-E
-EIA Sync
-The signal used for the synchronizing of scanning specified in EIA Standards RS-170, RS-330, RS-343, or subsequent issues.
-
-Equalizer
-An electronic circuit that introduces compensation for frequency discriminative effects of elements within the television system, particularly long coaxial transmission systems.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-F
-Fiber Optics (use of light transmitted through fibers)
-The technology of transferring information, e.g., in communications or computer technology, through thin flexible glass or plastic tubes of optical fibers using modulated light waves.[4]
-
-Fidelity (precision of reproduction field)
-The extent to which an electronic device such as a stereo system or television accurately reproduces sound or images. a) In interlaced scan systems, the information for one picture is divided up into two fields. Each field contains one-half of the lines required to produce the entire picture. Adjacent lines in the picture are in alternate fields. b) Half of the horizontal lines (262.5 in NTSC and 312.5 in PAL) needed to create a complete picture. c) One complete vertical scan of an image. In a progressive scanning system, all of the scanning lines comprising a frame also comprise a field. d) An area in a window in which you can type text. e) A television picture is produced by scanning the TV screen with an electron beam. One complete scan of the screen is called a field. Two fields are required to make a complete picture, which is called a frame. The duration of a field is approximately 1/60 of a second in NTSC and 1/50 or 1/60 of a second in PAL. f) One half of a complete interlaced video picture (frame), containing all the odd or even scanning lines of the picture.
-
-Field of View
-The maximum angle of view that can be seen through a lens.
-
-Flutter
-A rapid variation in the pitch or of a recorded audio signal usually on a turntable or tape recording, caused by variations in the speed of the turntable or tape drive.
-
-Focal Length (of a lens)
-The distance from the focal point to the principal point of the lens. The focal length is usually measured in millimeters of the lens. Focal length is an indication of the lens capability to capture a wide angle of view or a narrow view of objects that are far away (telephoto).
-
-Focal Plane
-A plane (through the focal point) at right angles to the principal point of the lens.
-
-Focal Point
-The point at which a lens or mirror will focus parallel incident radiation.
-
-Footcandle
-See Lumen/FT2.
-
-Footlambert (FL)
-A unit of luminance equal to 1 / Π candela per square foot or to the uniform luminance at a perfectly diffusing surface emitting or reflecting light at the rate of one lumen per square foot. A lumen per square foot is a unit of incident light and a footlambert is a unit of emitted or reflected light. For a perfectly reflecting and perfectly diffusing surface, the number of lumens per square foot is equal to the number of footlamberts.
-
-Frame
-The total area, occupied by the television picture, which is scanned while the picture signal is not blanked. a) A frame consists of all the information required for a complete picture. For interlaced scan systems, there are two fields in a frame. For progressive video, these lines contain samples starting from one time instant and continuing through successive lines to the bottom of the frame. b) A complete picture composed of two fields. In the NTSC system, 525 interlaced horizontal lines of picture information in 29.97 frames per second. In the PAL system, 625 interlaced horizontal lines of picture information in 25 frames per second.[1]
-
-Frame Rate (also known as frame frequency)
-a) The rate at which frames of video data are scanned on the screen. In an NTSC system, the frame rate is 29.97 frames per second. For PAL, the frame rate is 25 frames per second. b) The number of frames per second at which a video clip is displayed. c) The rate at which frames are output from a video decoding device or stored in memory.[1]
-
-Frame Transfer
-A CCD imager where an entire matrix of pixels is read into storage before being output from the camera. This differs from interline transfer where lines of pixels are output.
-
-Frequency Interlace
-The method by which color and black-and-white sideband signals are interwoven within the same channel bandwidth.
-
-Frequency Response
-The range of frequencies that a piece of equipment can process and is directly related to the system's ability to uniformly transfer signal components of different frequencies over the entire video spectrum without affecting their amplitudes. This parameter is also known as gain/frequency distortion or amplitude versus frequency response. The amplitude variation maybe expressed in dB, percent or IRE.
-
-Front Porch
-The portion of a composite picture signal that lies between the leading edge of the horizontal blanking pulse and the leading edge of the corresponding sync pulse.
-
-F-Stop (also known as f-number or f-system)
-The speed or ability of a lens to pass light. It is calculated by dividing the focal length of the lens by its diameter. The f-stop also is a factor in more areas of focus in the image known as Depth of Field.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-G
-Gain
-An increase in voltage or power, usually expressed in dB.
-
-Gamma
-A numerical value, or the degree of contrast in a video picture, which is the exponent of that power law which is used to approximate the curve of output magnitude versus input magnitude over the region of interest. Since picture monitors have a nonlinear relationship between the input voltage and brightness, the signal must be correspondingly pre distorted. Gamma correction is always done at the source (camera).
-
-Gamma Correction
-To provide for a linear transfer characteristic from input to output device.
-
-Genlock
-A device used to lock the frequency of an internal sync generator to an external source.
-
-Ghost
-A spurious image resulting from an echo.
-
-Gray Scale
-Variations in value from white, through shades of gray, to black on a display.
-
-H
-H.264
-Also known as MPEG-4 AVC (Advanced Video Coding) it is now one of the most commonly used recording formats for high definition video. It offers significantly greater compression than previous formats.
-
-HDTV (high-definition television)
-a) General term for standards pertaining to consumer high-resolution TV. b) A TV format capable of displaying on a wider screen (16:9) as opposed to the conventional 4:3) and at higher resolution. Rather than a single HDTV standard the FCC has approved several different standards, allowing broadcasters to choose which to use. This means new TV sets will have to support all of them. All of the systems will be broadcast as component digital. c) By HDTV, we normally understand transmission, rendering and display systems that feature about double the number of scanning lines, improved color quality, and less artifacts than that of composite systems.[1]
-
-Hertz
-The standard unit for measuring frequency. One hertz (abbreviated Hz) equals one cycle per second. It is commonly used to measure sound waves, light waves and radio waves.
-
-High Pass Filter
-An electronic filter that attenuates audio frequencies below a certain level and allows them above that level.
-
-Hue
-Corresponds to colors such as red, blue, etc. A color wheel contains basic pigments. All the hues of the rainbow encircle the cone's perimeter. The wavelength of the color that allows color to be distinguished such as red, blue and green. Often used synonymously with the term tint. It is the dominant wavelength that distinguishes a color such as red, yellow, etc. Most commonly, video hue is influenced by a camera's white balance or scene lighting. Video color processors, such as the video equalizer, are the main tools used to adjust and correct hue problems.[1]
-
-Hue, Saturation, and Intensity (HSI)
-Color space system based on the values of Hue, Saturation, and Intensity. Intensity, analogous to luma, is the vertical axis of the polar system. The hue is the angle and the saturation is the distance out from the axis.[1]
-
-Hue, Saturation, and Lightness (HSL)
-Nearly identical to HSI except Intensity is called Lightness. Both serve the same function .[1]
-
-Hue, Saturation, and Value (HSV)
-Nearly identical to HSI and HSL except Intensity and Lightness are called Value. All three serve the same function.[1]
-
-Hum
-Electrical disturbance at the power supply frequency or harmonics thereof.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-I
-Image
-a) A bit stream duplicate of the original data. b) An imitation or representation of a person or thing, drawn, painted, photographed, axis etc.[5]
-
-Image Intensifier
-A device that intensifies low light-level images to light levels that can be seen with the human eye or can be detected by a video camera. (Lambert Instruments)
-
-Image Plane
-The plane in which an image produced by an optical system is formed; if the object plane is perpendicular to the optical axis, the image plane will ordinarily also be perpendicular to the axis.
-
-Impedance (input or output)
-The total of the resistance, measured in ohms, that a circuit presents to the flow of alternating current at a given frequency (Columbia University). The characteristics of a system component that determines the type of transmission cable to be used. The cable used must have the same characteristic impedance as the component. Video distribution has standardized on 75-ohm coaxial and 124-ohm balanced cable.
-
-Incident Light
-The direct light that falls on an object.
-
-Insertion Loss
-The signal strength loss when a piece of equipment is inserted into a line.
-
-Interference
-Disturbance to the normal or expected operation electronic devices, equipment and systems. The inhibition or prevention of clear reception of broadcast signals.[6]
-
-Interline Transfer
-A technology of CCD design, where rows of pixels are output from the camera. The sensor's active pixel area and storage register are both contained within the active image area. This differs from frame transfer cameras that move all active pixels to a storage register outside of the active area.
-
-Interlaced Scanning
-A technique of combining two television fields in order to produce a full frame. The two fields are composed of only odd and only even lines, which are displayed one after the other but with the physical position of all the lines interleaving each other, hence interlace.[5]
-
-Iris
-An adjustable aperture built into a camera lens to permit control of light transmission through the lens.[7]
-
-Isolation Amplifier
-An amplifier with input circuitry and output circuitry designed to eliminate the effects of changes made at either upon the other. They provide electrical isolation and a safety barrier.
-
-J
-Jitter
-Small, rapid variations in a waveform due to mechanical disturbances or to changes in the characteristic of components. Supply voltages, imperfect synchronizing signals, circuits, frequency pulses, etc.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-K
-kHz
-Symbol for kilohertz. It is a unit of frequency. One kilohertz is equal to 1,000 hertz or 1,000 cycles per second.
-
-L
-Lens
-One or more pieces of curved optical glass or similar material designed to form an image of an object by converging or diverging rays of light from the object.[8]
-
-Lens Preset Positioning
-Follower Pots are installed on lens that allows feedback to the controller information relevant to zoom and focus positioning allowing the controller to quickly adjust to a preselected scene and arrive in focus at the proper focal length automatically.[7]
-
-Lens Speed
-The ability of a lens to transmit light, represented as the ratio of the focal length to the diameter of the lens. The largest lens opening (smallest f-number) at which the lens can be set. A fast lens transmits more light and has a larger opening than a slow lens.[7]
-
-Letterboxing
-A method of displaying widescreen video on a screen with a different aspect ratio by leaving a space, usually black bars, above and below the image.
-
-Light
-Electromagnetic radiation that has a wavelength in the range from about 400 to 750 nm and may be perceived by the normal unaided human eye.[6]
-
-Lighting Level
-A generalized use class aspect that specifies the level of lighting do you anticipate in a scene of interest. See also, the Lighting Level topic for video quality requirements considerations.
-
-Line Amplifier
-An amplifier for audio or video signals that in installed in the transmission line to boost the signal as it travels over certain distances; also called program amplifier.
-
-Loop
-Either a
-
-repeating section of audio or video material, or of cartoon cells.
-a synonym for "post-sync": dialog replacement (i.e. dubbing) during post-processing to improve audio quality.
-Loop Through
-The method of feeding a series of high impedance circuits (such as multiple monitor/displays in parallel) from a pulse or video source with a coax transmission line in such a manner that the line is bridged (with minimum length stubs) and that the last unit properly terminates the line in its characteristic impedance. This minimizes discontinuities or reflections on the transmission line.
-
-Loss
-The ratio of the power at one point in a transmission system to the power at a point farther along the line; usually expressed in decibels. The actual power that is lost in transmitting signal from one point to another through a medium or along a line.[6]
-
-Low-Frequency Distortion
-An undesired change in a waveform or signals which occur at low frequencies. In television, generally considered as any frequency below the 15.75-kHz line frequency.
-
-Lowpass Filter
-A filter that attenuates frequencies above a specified frequency and allows those below that value to pass.
-
-Lumen (LM)
-A unit of measurement of the amount of brightness that comes from a light source. Lumens define “luminous flux,” which is energy within the range of frequencies we perceive as light.[6]
-
-Lumen/FT2
-A unit of incident light. It is the illumination on a surface one square foot in area on which a flux of one lumen is uniformly distributed, or the illumination at a surface all points of which are at a distance of one foot from a uniform source of one candela.
-
-Luminance (Photometric Brightness)
-Luminous intensity of any surface in a given direction per unit of projected area of the surface viewed from that direction. The amount of brightness, measured in lumens that is given off by a pixel or area on a screen.[6]
-
-Luminance Signal (See also, Y Signal.)
-That portion of the NTSC color television signal which contains the luminance or brightness information.
-
-Lux
-SI unit of illumination, equal to one lumen per square meter. Lux is a measurement in light intensity.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-M
-Matrix Switcher
-A combination or array of electromechanical or electronic switches which route a number of signal sources to one or more destinations.
-
-Mbps
-Abbreviation of megabits per second. One megabit is equal to one million bits or 1,000 kilobits. It is used to measure high data transfer speeds of connections such as Ethernet and cable modems.
-
-Megabyte
-A measure of computer memory or storage. It is one million bytes (in the context of computer memory, sometimes used to mean 1,048,576 (2 to the power 20) bytes).
-
-Megahertz
-A unit of frequency equal to one million hertz or cycles per second. Usually abbreviated to MHz.
-
-Megapixel
-The term pixel comes from the phrase picture element. One megapixel is equal to 1,000,000 (one million) pixels. For the most part, the larger number of pixels, the better the quality of the picture.
-
-Modulation
-The process, or results of the process, whereby some characteristic of one signal is varied in accordance with another signal. The modulated signal is called the carrier. The carrier may be modulated in three fundamental ways: by varying the amplitude, called amplitude modulation; by varying the frequency, called frequency modulation; by varying the phase, called phase modulation.
-
-Monitor
-A device that accepts video signals from a computer or video camera and displays information on a screen; a video display.
-
-Monochrome
-Black and white with all shades of gray.
-
-Monochrome Signal
-In monochrome television, a signal wave for controlling the brightness values in the picture. In color television, that part of the signal wave which has major control of the brightness values of the picture, whether displayed in color or in monochrome.
-
-Monochrome Transmission
-The transmission of a signal wave which represents the brightness values in the picture, but not the color (chrominance) values.
-
-Motion
-A generalized use class aspect that specifies the level of motion you anticipate in a scene of interest. See also, the Motion topic for video quality requirements considerations.[3]
-
-Motion Picture Expert Group (MPEG)
-A group of standards for encoding and compressing audiovisual information such as movies, video, and music. MPEG compression is as high as 200:1 for low-motion video of VHS quality, and broadcast quality can be achieved at 6 Mbit/s. Audio is supported at rates from 32 kbit/s to 384 kbit/s for up to two stereo channels.
-
-Multi-factor Authentication (MFA)
-A security system that requires more than one method of authentication from independent categories of credentials to verify the user's identity for a login or other transaction.
-
-N
-National Television Systems Committee (NTSC)
-A committee that worked with the FCC in formulating standards for the present day United States color television system.
-
-Neutral Density Filter (ND filter)
-A filter that attenuates light evenly over the visible light spectrum. It reduces the light entering a lens, thus forcing the iris to open to its maximum.
-
-Noise
-The word noise originated in audio practice and refers to random spurts of electrical energy or interference. In some cases, it will produce a “salt-and-pepper” pattern over the televised picture. Heavy noise is sometimes referred to as snow.
-
-Non-Composite Video
-A video signal containing all information except sync.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-O
-Output
-The signal level at the output of an amplifier or other device.
-
-P
-Packet
-One unit of binary data capable of being routed through a computer network. To improve communication performance and reliability, each message sent between two network devices is often subdivided into packets by the underlying hardware and software.
-
-PAL
-Short for Phase Alternate Line. The TV broadcasting system used in Europe and other countries.
-
-Pan and Tilt
-A device upon which a camera can be mounted that allows movement in both the azimuth (pan) and in the vertical plane (tilt).[7]
-
-Pan/Tilt Preset Positioning
-Follower pots are installed on pan/tilt unit to allow feedback to the controller and provides information relevant to horizontal and vertical positioning, allowing the controller to quickly adjust to a pre-selected scene automatically.
-
-Patch Panel
-A panel where circuits are terminated and facilities provided for interconnecting between circuits by means of jacks and plugs.
-
-Peak Pulse Amplitude
-The maximum absolute peak value of a pulse, excluding those portions considered to be unwanted, such as spikes.
-
-Peak-to-Peak
-The amplitude (voltage) difference between the most positive and the most negative excursions (peaks) of an electrical signal. A full video signal measures one volt peak to peak.
-
-Picture Element
-See Pixel.
-
-Ping-Pongy
-A quick succession of edits from one angle to another of the same scene.
-
-Pixel
-Short for Picture Element. The most basic unit of an image displayed on a computer or video display screen. Pixels are generally arranged in rows and columns; a given combination among the pixels of various brightness and color values forms an image.
-
-Phono plug
-Also called RCA connector, it is a widely used cable connector for home audio and video equipment.
-
-Primary Colors
-Three colors wherein no mixture of any two can produce the third. In color television these are the additive primary colors red, blue and green.
-
-Processed Image
-Any image that has undergone enhancement, restoration or other operation.
-
-Progressive Scan
-Display scan pattern where each line of the frame is scanned sequentially.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-R
-Raw Image Format
-A camera raw image file contains minimally processed data from the image sensor of either a digital camera, image or motion picture film scanner. Raw files are so named because they are not yet processed and therefore are not ready to be printed or edited with a bitmap graphics editor. Normally, the image is processed by a raw converter in a wide-gamut internal colorspace where precise adjustments can be made before conversion to a positive file format such as TIFF or JPEG for storage, printing, or further manipulation, which often encodes the image in a device-dependent colorspace.
-
-Real-Time
-Of or relating to systems that update information at the same rate as they receive data, enabling them to direct or control a process such as video recording and display. Sometimes referred to as live or real-life timing of events.
-
-Recognition
-a) The determination by any means of the individuality of persons, or of objects such as aircraft or cars. b) The determination that an object is similar within a category of something already known; e.g., car, truck, man.[3]
-
-Resolution
-The act, process, or capability of distinguishing between two separate but adjacent parts or stimuli, such as elements of detail in an image, or similar colors.[5]
-
-Resolution (horizontal)
-The amount of resolvable detail in the horizontal direction in a picture. It is usually expressed as the number of distinct vertical lines, alternately black and white, which can be seen in a distance equal to picture height.
-
-Resolution, Limiting
-The details that can be distinguished on the television screen. Vertical resolution refers to the number of horizontal black and white lines that can be resolved in the picture height. Horizontal resolution refers to the black and white lines resolved in a dimension equal to the vertical height and may be limited by the video amplifier bandwidth.
-
-Resolution (vertical)
-The amount of resolvable detail in the vertical direction in a picture. It is usually expressed as the number of distinct horizontal lines, alternately black and white, which can theoretically be seen in a picture.
-
-Retained Image
-Also called image burn. A change produced in or on the target which remains for a large number of frames after the removal of a previously stationary light image and which yields a spurious electrical signal corresponding to that light image.
-
-RF (Radio Frequency)
-Frequency at which coherent electromagnetic radiation of energy is useful for communication purposes. Also, the entire range of such frequencies.
-
-Ripple
-Amplitude variations in the output voltage of a power supply caused by insufficient filtering.
-
-Roll
-A loss of vertical synchronization which causes the picture to move up or down on a receiver or monitor.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-S
-Saturation
-In color, the degree to which a color is diluted with white light or is pure. The vividness of a color, described by such terms as bright, deep, pastel, or pale. Saturation is directly related to the amplitude of the chrominance signal.
-
-Scanning
-The process of moving the electron beam of a pickup tube or a picture tube across the target or screen area of a tube.
-
-Sensitivity
-In television, a factor expressing the incident illumination upon a specified scene required to produce a specified picture signal at the output terminals of a television camera.
-
-Shutter
-Ability to control the integration (of light) time to the sensor to less than 1/60 second; e.g., stop motion of moving traffic.
-
-Signal-to-Noise Ratio (S/N)
-The ratio between useful television signal and disturbing noise or snow.
-
-SMPTE (Society of Motion Picture and Television Engineers)
-A global organization, based in the United States, which, among other things, sets standards for baseband visual communications. This includes film as well as video standards.
-
-Snow
-Heavy random noise.
-
-Spike
-A transient of short duration, comprising part of a pulse, during which the amplitude considerably exceeds the average amplitude of the pulse.
-
-Standard Minimum Signal
-1000 µV at 75 ohms (0 dB µV) in RF systems; 0.7-VPP non-composite, 1-VPP composite in video systems.
-
-Streaming
-A low-bit-rate encoding format intended for use over networks and the Internet. Streaming files match the encoded bit rate to the connection speed of the user, so the remote viewer can play audio or video with minimal stoppage without first downloading the entire video file.
-
-Sync
-A contraction of synchronous or synchronize.
-
-Sync Generator
-A device for generating a synchronizing signal.
-
-Sync Level
-The level of the peaks of a synchronizing signal.
-
-Synchronize
-To keep two sequences playing at the same rate (in sync). A slide show or a series of video clips can be synced to the beat on an audio track. A talking-head video needs to maintain lip-sync, so that the audio matches the mouth movements of the speaker.
-
-Synchronizing
-Maintaining two or more scanning processes in phase.
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-T
-Target Size
-A generalized use class aspect that specifies the size of the object of interest with respect to the field of view. See also, the Target Size topic for video quality requirements considerations.[3]
-
-Tearing
-A picture condition in which groups of horizontal lines are displaced in an irregular manner.
-
-Test Pattern
-A chart especially prepared for checking overall performance of a television system. It contains various combinations of lines and geometric shapes. The camera is focused on the chart, and the pattern is viewed at the monitor for fidelity.
-
-Time Lapse Video Recording
-The process by which images are recorded at less than the standard rate of frames per second (NTSC — 29.97; PAL — 25.00) thus extending the period of time that can be covered by the storage medium.[5]
-
-Transcode
-To convert from one compression format to another (that is, from DV video from a camcorder to MPEG-2 for DVD). Preferably done intelligently to minimize loss of quality from repeated compression, and not requiring fully decompressing the input and then recompressing to the output.
-
-Transients
-Signals which exist for a brief period of time prior to the attainment of a steady-state condition. These may include overshoots, damped sinusoidal waves, etc.
-
-U
-Use Case
-In software and systems engineering, a use case is a description of a system's behavior in response to external stimuli. This technique is used to develop functional requirements by specifying the system's behavior through scenarios. This concept can be expanded to apply to video systems that are used to perform specific tasks. A use case is a combination of the scene being observed and the task being performed by a viewer (or analyst). See also, the Use Cases topic for more information.[3]
-
-Use Class
-A use class shares certain important aspects of specific use cases that are common to other use cases, allowing you to make video quality requirements generalizations between them. For example, all use cases have an analyst and a scene under observation. To identify a use class, the next step is to derive generalized aspects from the analyst's intended use of the video (Use Characteristics — usage timeframe, discrimination level) and what is in the scene under observation (Scene Content — target size, motion, lighting level). See also, the Generalized Use Class Aspects topic for more information.[3]
-
-Usage Timeframe
-A generalized use class aspect that specifies the timeframe in which a video be used. As in, will the video be used in real-time or will it be recorded? See also, the Usage Timeframe topic for video quality requirements considerations.[3]
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-V
-Variable Bit Rate (VBR)
-A compression scheme in which each unit of input material can be compressed to different sizes. For MPEG-2 video, for example, this means that “easier” sequences (that is, with no motion) can compress to very small sizes, whereas “hard” sequences (with lots of motion and scene cuts) can compress to much larger sizes. VBR compression can take better advantage of the overall available bandwidth of a video transmission or DVD player by allocating the available bits intelligently to the difficult parts of a sequence.
-
-Video Electronic Standards Association (VESA)
-VESA's mission is to promote and develop timely, relevant, open display and display interface standards, ensuring interoperability, and encouraging innovation and market growth. Its vision is to be one of the leading, worldwide standards organizations and internationally recognized voices in the video electronics industry.
-
-Video
-The electronic representation of a sequence of images, depicting either stationary or moving scenes. It may include audio.
-
-Video Amplifier
-A wideband amplifier used for passing picture signals.
-
-Video Band
-The frequency band width utilized to transmit a composite video signal.
-
-Video Distribution Amplifier
-A device used to divide single video signals, while boosting their strength for delivery to multiple video devices.
-
-Video Quality (Public Safety)
-The ability of the public safety agency to use the required video to perform the purpose intended. For example, if the purpose of the video is to capture license plates on vehicles in a range of outdoor conditions, video quality is measured in the ability of the video outputs to provide that specific information across a range of environmental conditions.[3]
-
-Video Signal (Non-Composite)
-The picture signal. A signal containing visual information and horizontal and vertical blanking but not sync. (See also, Composite Video Signal.)
-
-Y
-Y Signal
-A signal transmitted in color television containing brightness information. This signal produces a black-and-white picture on a standard monochrome receiver. In a color picture it supplies fine detail and brightness information (see also luminance signal).
-
-Contents: 
-Top A B C D E F G H I J K L M N O P Q R S T U V W X Y Z References
-Z
-Zoom
-To enlarge or reduce, on a continuously variable basis, the size of a televised image primarily by varying lens focal length.
-
-Zoom Lens
-An optical system of continuously variable focal length, the focal plane remaining in a fixed position.
+# en - Something other than what it appears to be. Stairsteps on what should be a smooth diagonal line are an example of spatial alias. Wagon wheels appearing to move backwards are an example of temporal alias. Aliases are cause by sampling and can be reduced or eliminated by pre-filtering, which can appear to be a blurring effect. Defects in the picture typically caused by insufficient sampling (violation of the Nyquist sampling rate) in the analog to digital conversion process or poor filtering of digital video. Defects are typically seen as jaggies on diagonal lines and twinkling or brightening in picture detail. Examples are: Temporal Aliasing — such as rotating wagon wheel spokes appearing to rotate in the reverse direction. Raster Scan Aliasing — such as sparkling or pulsing effects in sharp horizontal lines. Stair-Stepping — stepped or jagged edges in diagonal lines or the diagonal parts of a letter.
+# pt -
+msgid "Aliasing"
+msgstr "Suavização"
+
+# en - Compensation for the loss in sharpness of detail because of the finite dimensions of the image elements or the dot-pitch of the monitor.
+# pt -
+msgid "Aperture Correction"
+msgstr "Correcção de abertura"
+
+# en - The ratio of width to height for the frame of the televised picture. 4:3 for standard systems, 5:4 for 1K x 1K, and 16:9 for HDTV.
+# pt -
+msgid "Aspect Ratio"
+msgstr "Proporção"
+
+# en - A system for detecting errors in color balance in white and black areas of the picture and automatically adjusting the white and black levels of both the red and blue signals as needed for correction.
+# pt -
+msgid "Auto Balance"
+msgstr "Equilíbrio automático"
+
+# en - The range of light, e.g., sunlight to moonlight, over which a TV camera is capable of automatically operating at specified output.
+# pt -
+msgid "Auto Light Range"
+msgstr "Intervalo de luz automático"
+
+# en - In display devices, the self-acting mechanism which controls brightness of the device as a function of ambient light.
+# pt -
+msgid "Automatic Brightness Control"
+msgstr "Controlo de brilho automático"
+
+# en - An arrangement whereby the frequency of an oscillator is automatically maintained within specified limits.
+# pt -
+msgid "Automatic Frequency"
+msgstr "Frequência automática"
+
+# en - See AGC
+# pt -
+msgid "Automatic Gain Control"
+msgstr "Controlo de ganho automático"
+
+# en - A lens that automatically adjusts the amount of light reaching the imager.
+# pt -
+msgid "Automatic Iris Lens"
+msgstr "Lente de íris automática"
+
+# en - The process by which the illumination incident upon the face of a pickup device is automatically adjusted as a function of scene brightness.
+# pt -
+msgid "Automatic Light Control"
+msgstr "Controlo de luz automático"
+
+# en - That portion of the composite picture signal which lies between the trailing edge of the horizontal sync pulse and the trailing edge of the corresponding blanking pulse.
+# pt -
+msgid "Back Porch"
+msgstr "Varanda de trás"
+
+# en - The range of signal frequencies that a piece of audio or video equipment can encode or decode; the difference between the limiting frequencies of a continuous frequency band. Video uses higher frequency than audio, thus requires a wider bandwidth.
+# pt -
+msgid "Bandwidth"
+msgstr "Largura de banda"
+
+# en - Special test pattern for adjusting color TV receivers or color encoders. The upper portion consists of vertical bars of saturated colors and white. The power horizontal bars have black and white areas and I and Q signals.
+# pt -
+msgid "Bar Test Pattern (SMPTE)"
+msgstr "Padrão do teste de barras (SMPTE)"
+
+# en - Short for "Binary Digit". The smallest piece of binary digital data and is represented by either 0 or 1.
+# pt -
+msgid "Bit"
+msgid_plural "Bits"
+msgstr[0] "Bit"
+msgstr[1] "Bits"
+
+# en - The number of levels that a pixel might have, such as 256 with an 8-bit depth or 1024 with a 10-bit depth.
+# pt -
+msgid "Bit Depth"
+msgstr "Profundidade de bits"
+
+# en - a) The rate at which the compressed bit stream is delivered from the storage medium to the input of a decoder. The digital equivalent of analog bandwidth. b) The speed at which bits are transmitted, usually expressed in bit/s (sometimes abbreviated "bps"). video information, in a digitized image for example, is transferred, recorded, and reproduced through the production process at some bit rate appropriate to the nature and capabilities of the origination, the channel, and the receptor. c) The amount of data transported in a given amount of time, usually defined in Mbit/s. Bit rate is one means used to define the amount of compression used on a video signal. The uncompressed D1 format has a bit rate of 270 Mbit/s. MPEG-1 has a bit rate of 1.2 Mbit/s.
+# pt -
+msgid "Bit Rate"
+msgstr "Taxa de bits"
+
+# en - This effect is sometimes called whiter-than-white. Blooming occurs when the white voltage level is exceeded and screen objects become fuzzy and large. The defocusing of regions of a picture where brightness is excessive.
+# pt -
+msgid "Blooming"
+msgstr "Florescente"
+
+# en - Sudden variations in picture presentation (brightness, size, etc.,) independent of scene illumination.
+# pt -
+msgid "Bounce"
+msgstr "Ressalto"
+
+# en - The attribute of visual perception in accordance with which an area appear to emit more of less light. (Luminance is the recommended name for the photo-electric quantity which has also been called brightness.)
+# pt -
+msgid "Brightness"
+msgstr "Brilho"
+
+# en - In TV system use, a device having a bandpass greater than the band of a single VHF TV channel.
+# pt -
+msgid "Broadband"
+msgstr "Banda larga"
+
+# en - Also called burn. An image which persists in a fixed position in the output signal of a camera tube after the camera has been turned to a different scene or, on a monitor screen.
+# pt -
+msgid "Burned-In-Image"
+msgstr "Imagem queimada"
+
+# en - A unit for measuring luminous intensity. One candela is approximately equal to the amount of light energy generated by an ordinary candle. Since 1948 a more precise definition of a candela has become: “the luminous intensity of a black body of 1 square centimeter heated up to a temperature at which platinum converges from a liquid state to a solid.”
+# pt -
+msgid "Candela"
+msgstr "Candela"
+
+# en - See Charged-Couple Device.
+# pt -
+msgid "CCD (charge-coupled device)"
+msgstr "CCD (dispositivo emparelhado carregado)"
+
+# en - See Closed-Circuit Television.
+# pt -
+msgid "CCTV (closed-circuit television)"
+msgstr "CCTV (televisão em circuito fechado)"
+
+# en -
+# a) A semiconductor device that converts optical images to electronic signals. CCDs are the most commonly found type of image sensor in consumer camcorders and video cameras.
+# b) Serial storage technology that uses MOS capacitors.
+# c) A solid-state image sensor that converts light energy to electricity.
+# pt -
+msgid "Charged Couple Device"
+msgstr "Dispositivo emparelhado carregado"
+
+# en - The quality of color that embraces both hue and saturation. White, black, and grays have no chroma.
+# pt -
+msgid "Chroma"
+msgstr "Croma"
+
+# en - A color TV receiver control that regulates the saturation (vividness) of colors in a picture.
+# pt -
+msgid "Chroma Control"
+msgstr "Controlo de croma"
+
+# en - Detects the absence of chrominance information in a color encoder input. The chroma detector automatically deletes the color burst from the color encoder output when the absence of chrominance is detected.
+# pt -
+msgid "Chroma Detector"
+msgstr "Detector de croma"
+
+# en - The color quality of light that is defined by the wavelength (hue) and saturation. Chromaticity defines all the qualities of color except its brightness.
+# pt -
+msgid "Chromaticity"
+msgstr "Cromaticidade"
+
+# en - A color term defining the hue and saturation of a color. Chrominance does not refer to brightness.
+# pt -
+msgid "Chrominance"
+msgstr "Crominância"
+
+# en - That portion of the NTSC color TV signal that contains the color information.
+# pt -
+msgid "Chrominance Signal/Subcarrier"
+msgstr "Sinal/Sub-portadora de crominância"
+
+# en - A device which functions during the horizontal blanking or synchronizing interval to fix the level of the picture signal at some predetermined reference level at the beginning of each scanning line.
+# pt -
+msgid "Clamp"
+msgstr "Grampo, pinça, braçadeira"
+
+# en - The process that established a fixed level for the picture level at the beginning of each scanning line.
+# pt -
+msgid "Clamping"
+msgstr "Limitar"
+
+# en - Video primarily used for surveillance and security that is not broadcast to the general public.
+# pt -
+msgid "Closed-Circuit Television"
+msgstr "Televisão em circuito fechado"
+
+# en - A type of digital camera sensor.
+# pt -
+msgid "CMOS (complementary metal-oxide-semiconductor)"
+msgstr "CMOS (semi-condutor complementar semi-óxido)"
+
+# en - The first standard for CCTV lens screw mounting. This mounting is defined by a 1-inch (2.54 cm) diameter hole with 32 TPI (turns/threads per inch), female on the camera side, male on the lens side, and a back flange-to-CCD distance of 17.526 mm (0.69 inches). The C-mount description applies to both lenses and cameras. C-mount lenses can be put on both, C-mount and CS-mount cameras; only in the latter case a 5 mm (.19 inches) adaptor is required.
+# pt -
+msgid "C-Mount"
+msgstr "C-Mount"
+
+# en - A particular type of cable capable of passing a wide range of frequencies with very low signal loss. Such a cable in its simplest form consists of a hollow metallic shield with a single wire accurately placed along the center of the shield and isolated from the shield.
+# pt -
+msgid "Coaxial Cable"
+msgstr "Cabo coaxial"
+
+# en - a) The algorithm used to capture analog video or audio in digital form. b) Used to implement the physical combination of the coding and decoding circuits. c) A device for converting signals from analog to coded digital and then back again for use in digital transmission schemes. Most codecs employ proprietary coding algorithms for data compression.
+# pt -
+msgid "CODEC (Coding/Decoding)"
+msgstr "CODEC (codificar/descodificar)"
+
+# en - A visual perception that humans correspond to the categories called red, green, blue and others.
+# pt -
+msgid "Color"
+msgstr "Cor"
+
+# en - That portion of the composite color signal, comprising a few cycles of a sine wave of chrominance subcarrier frequency, which is used to establish a reference for demodulating the chrominance signal; Normally approximately 9 cycles of 3.579545 MHz.
+# pt -
+msgid "Color Burst"
+msgstr "Pico de cor"
+
+# en - Extraneous colors appearing at the edges of colored objects, and differing from the true colors in the object.
+# pt -
+msgid "Color Edging"
+msgstr "Margens de cor"
+
+# en - A device which produces an NTSC color signal from separate R, G, and B video inputs.
+# pt -
+msgid "Color Encoder"
+msgstr "Codificador de cor"
+
+# en - Spurious colors introduced into the picture by the change in position of the televised object from field to field.
+# pt -
+msgid "Color Fringing"
+msgstr "Cor marginal"
+
+# en - The degree to which a color is free of white or any other color. In reference to the operation of a tri-color picture tube it refers to the production of pure red, green or blue illumination of the phosphor dot faceplate.
+# pt -
+msgid "Color Purity"
+msgstr "Pureza de cor"
+
+# en - The degree to which a color is free of white light.
+# pt -
+msgid "Color Saturation"
+msgstr "Saturação de cor"
+
+# en - A signal used to establish and to maintain the same color relationships that are transmitted.
+# pt -
+msgid "Color Sync Signal"
+msgstr "Sinal de sincronizção de cor"
+
+# en - The transmission of a signal which represents both the brightness values and the color values in a picture.
+# pt -
+msgid "Color Transmission"
+msgstr "Transmissão de cor"
+
+# en - The path over which all signals are transmitted.
+# pt -
+msgid "Communications Network"
+msgstr "Rede de comunicações"
+
+# en - The combined picture signal, including vertical and horizontal blanking and synchronizing signals.
+# pt -
+msgid "Composite Video Signal"
+msgstr "Sinal vídeo composto"
+
+# en - a) The process of electronically processing a digital video picture to make it use less storage or to allow more video to be sent down a transmission channel. b) The process of removing picture data to decrease the size of a video image. c) The reduction in the volume of data from any given process so that more data can be stored in a smaller space. There are a variety of compression schemes that can be applied to data of which MPEG-1 and MPEG-2 are called lossy since the data produced by compression is not totally recoverable. There are other compression schemes that are totally recoverable, but the degree of compression is much more limited.
+# pt -
+msgid "Compression"
+msgstr "Compressão"
+
+# en - The range of light to dark values in a picture or the ratio between the maximum and minimum brightness values.
+# pt -
+msgid "Contrast"
+msgstr "Contraste"
+
+# en - The ratio between the whitest and blackest portions of a TV image.
+# pt -
+msgid "Contrast Range (Ratio)"
+msgstr "Intervalo de contraste (proporção)"
+
+# en - The crossover of the three electron beams of a three-gun tri-color picture tube. This normally occurs at the plane of the aperture mask.
+# pt -
+msgid "Convergence"
+msgstr "Convergência"
+
+# en - Equipment in the video system that can change the video signal, thereby affecting the quality of the delivered video.
+# pt -
+msgid "Core Components"
+msgstr "Componentes nucleares"
+
+# en - A rectangular cutting off of image edges.
+# pt -
+msgid "Cropping"
+msgstr "Recortar"
+
+# en - An undesired signal from a different channel interfering with the desired signal.
+# pt -
+msgid "Crosstalk"
+msgstr "Sinal cruzado"
+
+# en - A standard for CCTV lens screw mounting. This mounting is defined by a 1-inch (2.54 mm) diameter hole with 32 TPI (turns/threads per inch), female on the camera side, male on the lens side, and a back flange-to-CCD distance of 12.5 mm (0.49 inches). The CS-mount description applies to both lenses and cameras. CS-mount lens cannot be put on C-mount cameras. C-mount lenses can be put on CS-mount cameras but a 5 mm (1.9 inches) adaptor is required.
+# pt -
+msgid "CS-Mount"
+msgstr "CS-Mount"
+
+# en - An acronym for Digital Audio Tape. Developed by Sony in 1987, it looks similar to an analogue audio cassette but contains professional quality digital information. It is capable of high fidelity music reproduction.
+# pt -
+msgid "DAT"
+msgstr "DAT"
+
+# en - A measure of the power ratio of two signals. In system use, a measure of the voltage ratio of two signals, provided they are measured across a common impedance.
+# pt -
+msgid "dB (Decibel)"
+msgstr "dB (Decibel)"
+
+# en - Device used to recover the component signals from a composite (encoded) source. Decoders are used in displays and in various processing hardware where components signals are required from a composite source such as composite chroma keying or color correction equipment. Device that changes digital signals to analog, or reconstructs information (data) by performing the inverse (reverse) functions of an encode process.
+# pt -
+msgid "Decoder"
+msgstr "Descodificador"
+
+# en - The aggregate of fine details available on-screen. The higher the definition of an image, the greater the number of details [that can be discerned by the human eye or displayed]. During video recording and subsequent playback, several factors can conspire to cause a loss of definition. Among these are the limited frequency response of magnetic tapes and signal losses associated with electronic circuitry employed in the recording process. These losses occur because fine details appear in the highest frequency region of a video signal and this portion is usually the first casualty of signal degradation. Each additional generation of a videotape results in fewer and fewer fine details as losses are accumulated.
+# pt -
+msgid "Definition"
+msgstr "Definição"
+
+# en - The in-focus range of a lens or optical system around an item of interest. It is measured from the distance behind an object of interest, to the distance in front of the object of interest, when the viewing lens is specifically focused on the object of interest. Depth of field depends on subject-to-camera distance, focal length of the lens, and f-stop.
+# pt -
+msgid "Depth of Field"
+msgstr "Profundidade de campo"
+
+# en - The range of sensor-to-lens distance for which the image formed by the lens is clearly focused.
+# pt -
+msgid "Depth of Focus"
+msgstr "Profundidade de foco"
+
+# en - A fundamental component in every digital camera. The imager records the view received from the camera lens.
+# pt -
+msgid "Digital Imager"
+msgstr "Gerador de imagens digital"
+
+# en - a) An electronic signal where every different value from the real-life excitation (sound, light) has a different value of binary combinations (words) that represent the analog signal. b) An analog signal that has been converted to a digital form.
+# pt -
+msgid "Digital Signal"
+msgstr "Sinal digital"
+
+# en - When applied to video cameras, DSP means that the analog signal from the CCD sensors is converted to a digital signal. It is then processed for signal separation, bandwidth settings and signal adjustments. After processing, the video signal either remains in the digital domain for recording by a DVR or is converted back into an analog signal for recording or transmission. DSP is also used in other parts of the video chain, including DVRs, and switching and routing devices.
+# pt -
+msgid "Digital Signal Processing (DSP)"
+msgstr "Processamento de sinais digitais (DSP)"
+
+# en - The transmission of a broadcast audio/video signal that consists of digital data.
+# pt -
+msgid "Digital Television"
+msgstr "Televisão digital"
+
+# en - Converting analog audio and/or video into digital form.
+# pt -
+msgid "Digitizing"
+msgstr "Digitalizar"
+
+# en -
+# a) Qualitatively: Capacity for seeing distinctly fine details that have a very small angular separation.
+# b) Quantitatively: Any of a number of measures of spatial visual resolution such as the reciprocal of the value of the angular separation in minutes of arc of two neighboring objects (points or lines or other specified stimuli) which the observer can just perceive to be separate.
+# A generalized use class aspect that specifies what discrimination level you need to recognize a target of interest. See the Discrimination Level topic for video quality requirements considerations.
+# pt -
+msgid "Discrimination Level (also known as Level of Discrimination)"
+msgstr "Nível de discriminação"
+
+# en -
+# a) The ultimate image presented to a viewer; the process of presenting that image.
+# b) CRT, LCD, LED or other photoluminescent panel upon which numbers, characters, graphics or other data is presented.
+# pt -
+msgid "Display"
+msgstr "Mostrar, Monitor"
+
+# en - The deviation of the received signal waveform from that of the original transmitted waveform.
+# pt -
+msgid "Distortion"
+msgstr "Distorção"
+
+# en - The difference between the maximum acceptable signal level and the minimum acceptable signal level.
+# pt -
+msgid "Dynamic Range"
+msgstr "Intervalo dinâmico"
+
+# en - An acronym for "Digital Versatile Disk". It is the same size as a compact disc (CD). A single-layer DVD has a storage capacity of 4.7 GB and a dual-layer disc has a capacity of 8.5 GB.
+# pt -
+msgid "DVD"
+msgstr "DVD"
+
+# en - The signal used for the synchronizing of scanning specified in EIA Standards RS-170, RS-330, RS-343, or subsequent issues.
+# pt -
+msgid "EIA Sync"
+msgstr "Sincronização EIA"
+
+# en - An electronic circuit that introduces compensation for frequency discriminative effects of elements within the television system, particularly long coaxial transmission systems.
+# pt -
+msgid "Equalizer"
+msgstr "Equalizador"
+
+# en - The technology of transferring information, e.g., in communications or computer technology, through thin flexible glass or plastic tubes of optical fibers using modulated light waves.
+# pt -
+msgid "Fiber Optics (use of light transmitted through fibers)"
+msgstr "Fibra óptica (uso de luz transmitida através de fibras)"
+
+# en - The extent to which an electronic device such as a stereo system or television accurately reproduces sound or images. a) In interlaced scan systems, the information for one picture is divided up into two fields. Each field contains one-half of the lines required to produce the entire picture. Adjacent lines in the picture are in alternate fields. b) Half of the horizontal lines (262.5 in NTSC and 312.5 in PAL) needed to create a complete picture. c) One complete vertical scan of an image. In a progressive scanning system, all of the scanning lines comprising a frame also comprise a field. d) An area in a window in which you can type text. e) A television picture is produced by scanning the TV screen with an electron beam. One complete scan of the screen is called a field. Two fields are required to make a complete picture, which is called a frame. The duration of a field is approximately 1/60 of a second in NTSC and 1/50 or 1/60 of a second in PAL. f) One half of a complete interlaced video picture (frame), containing all the odd or even scanning lines of the picture.
+# pt -
+msgid "Fidelity (precision of reproduction field)"
+msgstr "Fidelidade (precisão do campo de reprodução)"
+
+# en - The maximum angle of view that can be seen through a lens.
+# pt -
+msgid "Field of View"
+msgstr "Campo de visão"
+
+# en - A rapid variation in the pitch or of a recorded audio signal usually on a turntable or tape recording, caused by variations in the speed of the turntable or tape drive.
+# pt -
+msgid "Flutter"
+msgstr "Tremulação"
+
+# en - The distance from the focal point to the principal point of the lens. The focal length is usually measured in millimeters of the lens. Focal length is an indication of the lens capability to capture a wide angle of view or a narrow view of objects that are far away (telephoto).
+# pt -
+msgid "Focal Length (of a lens)"
+msgstr "Distância focal (da lente)"
+
+# en - A plane (through the focal point) at right angles to the principal point of the lens.
+# pt -
+msgid "Focal Plane"
+msgstr "Plano focal"
+
+# en - The point at which a lens or mirror will focus parallel incident radiation.
+# pt -
+msgid "Focal Point"
+msgstr "Ponto focal"
+
+# en - See Lumen/FT2.
+# pt -
+msgid "Footcandle"
+msgstr "Footcandle"
+
+# en - A unit of luminance equal to 1 / Π candela per square foot or to the uniform luminance at a perfectly diffusing surface emitting or reflecting light at the rate of one lumen per square foot. A lumen per square foot is a unit of incident light and a footlambert is a unit of emitted or reflected light. For a perfectly reflecting and perfectly diffusing surface, the number of lumens per square foot is equal to the number of footlamberts.
+# pt -
+msgid "Footlambert (FL)"
+msgstr "Footlambert (FL)"
+
+# en - The total area, occupied by the television picture, which is scanned while the picture signal is not blanked.
+# a) A frame consists of all the information required for a complete picture. For interlaced scan systems, there are two fields in a frame. For progressive video, these lines contain samples starting from one time instant and continuing through successive lines to the bottom of the frame.
+# b) A complete picture composed of two fields. In the NTSC system, 525 interlaced horizontal lines of picture information in 29.97 frames per second. In the PAL system, 625 interlaced horizontal lines of picture information in 25 frames per second.
+# pt -
+msgid "Frame"
+msgstr "Quadro"
+
+# en -
+# a) The rate at which frames of video data are scanned on the screen. In an NTSC system, the frame rate is 29.97 frames per second. For PAL, the frame rate is 25 frames per second.
+# b) The number of frames per second at which a video clip is displayed.
+# c) The rate at which frames are output from a video decoding device or stored in memory.
+# pt -
+msgid "Frame Rate (also known as frame frequency)"
+msgstr "Taxa de quadros (frequência de quadros)"
+
+# en - A CCD imager where an entire matrix of pixels is read into storage before being output from the camera. This differs from interline transfer where lines of pixels are output.
+# pt -
+msgid "Frame Transfer"
+msgstr "Transferência de quadros"
+
+# en - The method by which color and black-and-white sideband signals are interwoven within the same channel bandwidth.
+# pt -
+msgid "Frequency Interlace"
+msgstr "Entrelace da frequência"
+
+# en - The range of frequencies that a piece of equipment can process and is directly related to the system's ability to uniformly transfer signal components of different frequencies over the entire video spectrum without affecting their amplitudes. This parameter is also known as gain/frequency distortion or amplitude versus frequency response. The amplitude variation maybe expressed in dB, percent or IRE.
+# pt -
+msgid "Frequency Response"
+msgstr "Resposta de frequência"
+
+# en - The portion of a composite picture signal that lies between the leading edge of the horizontal blanking pulse and the leading edge of the corresponding sync pulse.
+# pt -
+msgid "Front Porch"
+msgstr "Varanda da frente"
+
+# en - The speed or ability of a lens to pass light. It is calculated by dividing the focal length of the lens by its diameter. The f-stop also is a factor in more areas of focus in the image known as Depth of Field.
+# pt -
+msgid "F-Stop (also known as f-number or f-system)"
+msgstr "F-Stop (f-number ou f-system"
+
+# en - An increase in voltage or power, usually expressed in dB.
+# pt -
+msgid "Gain"
+msgstr "Ganho"
+
+# en - A numerical value, or the degree of contrast in a video picture, which is the exponent of that power law which is used to approximate the curve of output magnitude versus input magnitude over the region of interest. Since picture monitors have a nonlinear relationship between the input voltage and brightness, the signal must be correspondingly pre distorted. Gamma correction is always done at the source (camera).
+# pt -
+msgid "Gamma"
+msgstr "Gama"
+
+# en - To provide for a linear transfer characteristic from input to output device.
+# pt -
+msgid "Gamma Correction"
+msgstr "Correcção gama"
+
+# en - A device used to lock the frequency of an internal sync generator to an external source.
+# pt -
+msgid "Genlock"
+msgstr "Genlock"
+
+# en - A spurious image resulting from an echo.
+# pt -
+msgid "Ghost"
+msgstr "Fantasma"
+
+# en - Variations in value from white, through shades of gray, to black on a display.
+# pt -
+msgid "Gray Scale"
+msgstr "Escala de cinzentos"
+
+# en - Also known as MPEG-4 AVC (Advanced Video Coding) it is now one of the most commonly used recording formats for high definition video. It offers significantly greater compression than previous formats.
+# pt -
+msgid "H.264"
+msgstr "H.264"
+
+# en - a) General term for standards pertaining to consumer high-resolution TV. b) A TV format capable of displaying on a wider screen (16:9) as opposed to the conventional 4:3) and at higher resolution. Rather than a single HDTV standard the FCC has approved several different standards, allowing broadcasters to choose which to use. This means new TV sets will have to support all of them. All of the systems will be broadcast as component digital. c) By HDTV, we normally understand transmission, rendering and display systems that feature about double the number of scanning lines, improved color quality, and less artifacts than that of composite systems.
+# pt -
+msgid "HDTV (high-definition television)"
+msgstr "HDTV (televisão de alta definição)"
+
+# en - The standard unit for measuring frequency. One hertz (abbreviated Hz) equals one cycle per second. It is commonly used to measure sound waves, light waves and radio waves.
+# pt -
+msgid "Hertz"
+msgstr "Hertz"
+
+# en - An electronic filter that attenuates audio frequencies below a certain level and allows them above that level.
+# pt -
+msgid "High Pass Filter"
+msgstr "Filtro passa-altos"
+
+# en - Corresponds to colors such as red, blue, etc. A color wheel contains basic pigments. All the hues of the rainbow encircle the cone's perimeter. The wavelength of the color that allows color to be distinguished such as red, blue and green. Often used synonymously with the term tint. It is the dominant wavelength that distinguishes a color such as red, yellow, etc. Most commonly, video hue is influenced by a camera's white balance or scene lighting. Video color processors, such as the video equalizer, are the main tools used to adjust and correct hue problems.
+# pt -
+msgid "Hue"
+msgstr "Matiz"
+
+# en - Color space system based on the values of Hue, Saturation, and Intensity. Intensity, analogous to luma, is the vertical axis of the polar system. The hue is the angle and the saturation is the distance out from the axis.
+# pt -
+msgid "Hue, Saturation, and Intensity (HSI)"
+msgstr "Matiz, saturação e intensidade (HSI)"
+
+# en - Nearly identical to HSI except Intensity is called Lightness. Both serve the same function .
+# pt -
+msgid "Hue, Saturation, and Lightness (HSL)"
+msgstr "Matiz, saturação e claridade (HSL)"
+
+# en - Nearly identical to HSI and HSL except Intensity and Lightness are called Value. All three serve the same function.
+# pt -
+msgid "Hue, Saturation, and Value (HSV)"
+msgstr "Matiz, saturação e valor (HSV)"
+
+# en - Electrical disturbance at the power supply frequency or harmonics thereof.
+# pt -
+msgid "Hum"
+msgstr "Zumbido"
+
+# en -
+#a) A bit stream duplicate of the original data.
+b) An imitation or representation of a person or thing, drawn, painted, photographed, axis etc.
+# pt -
+msgid "Image"
+msgstr "Imagem"
+
+# en - A device that intensifies low light-level images to light levels that can be seen with the human eye or can be detected by a video camera. (Lambert Instruments)
+# pt -
+msgid "Image Intensifier"
+msgstr "Intensificador de imagem"
+
+# en - The plane in which an image produced by an optical system is formed; if the object plane is perpendicular to the optical axis, the image plane will ordinarily also be perpendicular to the axis.
+# pt -
+msgid "Image Plane"
+msgstr "Plano da imagem"
+
+# en - The total of the resistance, measured in ohms, that a circuit presents to the flow of alternating current at a given frequency (Columbia University). The characteristics of a system component that determines the type of transmission cable to be used. The cable used must have the same characteristic impedance as the component. Video distribution has standardized on 75-ohm coaxial and 124-ohm balanced cable.
+# pt -
+msgid "Impedance (input or output)"
+msgstr "Impedância (entrada ou saída)"
+
+# en - The direct light that falls on an object.
+# pt -
+msgid "Incident Light"
+msgstr "Luz incidente"
+
+# en - The signal strength loss when a piece of equipment is inserted into a line.
+# pt -
+msgid "Insertion Loss"
+msgstr "Perda de inserção"
+
+# en - Disturbance to the normal or expected operation electronic devices, equipment and systems. The inhibition or prevention of clear reception of broadcast signals.
+# pt -
+msgid "Interference"
+msgstr "Interferência"
+
+# en - A technology of CCD design, where rows of pixels are output from the camera. The sensor's active pixel area and storage register are both contained within the active image area. This differs from frame transfer cameras that move all active pixels to a storage register outside of the active area.
+# pt -
+msgid "Interline Transfer"
+msgstr "Transferência entrelinha"
+
+# en - An adjustable aperture built into a camera lens to permit control of light transmission through the lens.
+# pt -
+msgid "Iris"
+msgstr "Íris"
+
+# en - Small, rapid variations in a waveform due to mechanical disturbances or to changes in the characteristic of components. Supply voltages, imperfect synchronizing signals, circuits, frequency pulses, etc.
+# pt -
+msgid "Jitter"
+msgstr "Distúrbio"
+
+# en - Symbol for kilohertz. It is a unit of frequency. One kilohertz is equal to 1,000 hertz or 1,000 cycles per second.
+# pt -
+msgid "kHz"
+msgstr "kHz"
+
+# en - One or more pieces of curved optical glass or similar material designed to form an image of an object by converging or diverging rays of light from the object.
+# pt -
+msgid "Lens"
+msgstr "Lente"
+
+# en - Follower Pots are installed on lens that allows feedback to the controller information relevant to zoom and focus positioning allowing the controller to quickly adjust to a preselected scene and arrive in focus at the proper focal length automatically.
+# pt -
+msgid "Lens Preset Positioning"
+msgstr "Posição da predefinição da lente"
+
+# en - The ability of a lens to transmit light, represented as the ratio of the focal length to the diameter of the lens. The largest lens opening (smallest f-number) at which the lens can be set. A fast lens transmits more light and has a larger opening than a slow lens.
+# pt -
+msgid "Lens Speed"
+msgstr "Velocidade da lente"
+
+# en - A method of displaying widescreen video on a screen with a different aspect ratio by leaving a space, usually black bars, above and below the image.
+# pt -
+msgid "Letterboxing"
+msgstr "Letterboxing"
+
+# en - Electromagnetic radiation that has a wavelength in the range from about 400 to 750 nm and may be perceived by the normal unaided human eye.
+# pt -
+msgid "Light"
+msgstr "Luz"
+
+# en - A generalized use class aspect that specifies the level of lighting do you anticipate in a scene of interest. See also, the Lighting Level topic for video quality requirements considerations.
+# pt -
+msgid "Lighting Level"
+msgstr "Nível de iluminação"
+
+# en - Either a repeating section of audio or video material (or of cartoon cells) or a synonym for "post-sync": dialog replacement (i.e. dubbing) during post-processing to improve audio quality.
+# pt -
+msgid "Loop"
+msgstr "Ciclo"
+
+# en -The method of feeding a series of high impedance circuits (such as multiple monitor/displays in parallel) from a pulse or video source with a coax transmission line in such a manner that the line is bridged (with minimum length stubs) and that the last unit properly terminates the line in its characteristic impedance. This minimizes discontinuities or reflections on the transmission line.
+# pt -
+msgid "Loop Through"
+msgstr "Rodar por, Circular por"
+
+# en - The ratio of the power at one point in a transmission system to the power at a point farther along the line; usually expressed in decibels. The actual power that is lost in transmitting signal from one point to another through a medium or along a line.
+# pt -
+msgid "Loss"
+msgstr "Perda"
+
+# en - An undesired change in a waveform or signals which occur at low frequencies. In television, generally considered as any frequency below the 15.75-kHz line frequency.
+# pt -
+msgid "Low-Frequency Distortion"
+msgstr "Distorção de baixa frequência"
+
+# en - A filter that attenuates frequencies above a specified frequency and allows those below that value to pass.
+# pt -
+msgid "Lowpass Filter"
+msgstr "Filtro passa-baixos"
+
+# en - A unit of measurement of the amount of brightness that comes from a light source. Lumens define “luminous flux,” which is energy within the range of frequencies we perceive as light.
+# pt -
+msgid "Lumen (LM)"
+msgstr "Lumen (LM)"
+
+# en - A unit of incident light. It is the illumination on a surface one square foot in area on which a flux of one lumen is uniformly distributed, or the illumination at a surface all points of which are at a distance of one foot from a uniform source of one candela.
+# pt -
+msgid "Lumen/FT2"
+msgstr "Lumen/FT2"
+
+# en - Luminous intensity of any surface in a given direction per unit of projected area of the surface viewed from that direction. The amount of brightness, measured in lumens that is given off by a pixel or area on a screen.
+# pt -
+msgid "Luminance (Photometric Brightness)"
+msgstr "Luminância (brilho fotométrico)"
+
+# en - That portion of the NTSC color television signal which contains the luminance or brightness information.
+# pt -
+msgid "Luminance Signal (See also, Y Signal.)"
+msgstr "Sinal de luminância (veja Sinal Y)"
+
+# en - SI unit of illumination, equal to one lumen per square meter. Lux is a measurement in light intensity.
+# pt -
+msgid "Lux"
+msgstr "Lux"
+
+# en - A combination or array of electromechanical or electronic switches which route a number of signal sources to one or more destinations.
+# pt -
+msgid "Matrix Switcher"
+msgstr "Matriz de interruptores"
+
+# en - Abbreviation of megabits per second. One megabit is equal to one million bits or 1,000 kilobits. It is used to measure high data transfer speeds of connections such as Ethernet and cable modems.
+# pt -
+msgid "Mbps"
+msgstr "Mbps"
+
+# en - A measure of computer memory or storage. It is one million bytes (in the context of computer memory, sometimes used to mean 1,048,576 (2 to the power 20) bytes).
+# pt -
+msgid "Megabyte"
+msgstr "Megabyte"
+
+# en - A unit of frequency equal to one million hertz or cycles per second. Usually abbreviated to MHz.
+# pt -
+msgid "Megahertz"
+msgstr "Megahertz"
+
+# en - The term pixel comes from the phrase picture element. One megapixel is equal to 1,000,000 (one million) pixels. For the most part, the larger number of pixels, the better the quality of the picture.
+# pt -
+msgid "Megapixel"
+msgid_plural "Megapixels"
+msgstr[0] "Megapixel"
+msgstr[1] "Megapixels"
+
+# en - The process, or results of the process, whereby some characteristic of one signal is varied in accordance with another signal. The modulated signal is called the carrier. The carrier may be modulated in three fundamental ways: by varying the amplitude, called amplitude modulation; by varying the frequency, called frequency modulation; by varying the phase, called phase modulation.
+# pt -
+msgid "Modulation"
+msgstr "Modulação"
+
+# en - A device that accepts video signals from a computer or video camera and displays information on a screen; a video display.
+# pt -
+msgid "Monitor"
+msgstr "Monitor"
+
+# en - Black and white with all shades of gray.
+# pt -
+msgid "Monochrome"
+msgstr "Monocromático"
+
+# en - In monochrome television, a signal wave for controlling the brightness values in the picture. In color television, that part of the signal wave which has major control of the brightness values of the picture, whether displayed in color or in monochrome.
+# pt -
+msgid "Monochrome Signal"
+msgstr "Sinal monocromático"
+
+# en - The transmission of a signal wave which represents the brightness values in the picture, but not the color (chrominance) values.
+# pt -
+msgid "Monochrome Transmission"
+msgstr "Transmissão monocromática"
+
+# en - A generalized use class aspect that specifies the level of motion you anticipate in a scene of interest. See also, the Motion topic for video quality requirements considerations.
+# pt -
+msgid "Motion"
+msgstr "Movimento"
+
+# en - A group of standards for encoding and compressing audiovisual information such as movies, video, and music. MPEG compression is as high as 200:1 for low-motion video of VHS quality, and broadcast quality can be achieved at 6 Mbit/s. Audio is supported at rates from 32 kbit/s to 384 kbit/s for up to two stereo channels.
+# pt -
+msgid "Motion Picture Expert Group (MPEG)"
+msgstr "Motion Picture Expert Group (MPEG)"
+
+# en - A security system that requires more than one method of authentication from independent categories of credentials to verify the user's identity for a login or other transaction.
+# pt -
+msgid "Multi-factor Authentication (MFA)"
+msgstr "Autenticação multi-factor (MFA)"
+
+# en - A committee that worked with the FCC in formulating standards for the present day United States color television system.
+# pt -
+msgid "National Television Systems Committee (NTSC)"
+msgstr "National Television Systems Committee (NTSC)"
+
+# en - A filter that attenuates light evenly over the visible light spectrum. It reduces the light entering a lens, thus forcing the iris to open to its maximum.
+# pt -
+msgid "Neutral Density Filter (ND filter)"
+msgstr "Filtro de densidade neutra (ND)"
+
+# en - The word noise originated in audio practice and refers to random spurts of electrical energy or interference. In some cases, it will produce a “salt-and-pepper” pattern over the televised picture. Heavy noise is sometimes referred to as snow.
+# pt -
+msgid "Noise"
+msgstr "Ruído"
+
+# en - A video signal containing all information except sync.
+# pt -
+msgid "Non-Composite Video"
+msgstr "Vídeo não composto"
+
+# en - The signal level at the output of an amplifier or other device.
+# pt -
+msgid "Output"
+msgstr "Saída"
+
+# en - One unit of binary data capable of being routed through a computer network. To improve communication performance and reliability, each message sent between two network devices is often subdivided into packets by the underlying hardware and software.
+# pt -
+msgid "Packet"
+msgstr "Pacote"
+
+# en - Short for Phase Alternate Line. The TV broadcasting system used in Europe and other countries.
+# pt -
+msgid "PAL"
+msgstr "PAL"
+
+# en - A device upon which a camera can be mounted that allows movement in both the azimuth (pan) and in the vertical plane (tilt).
+# pt - dispositivo de montagem de câmaras que permitem movimentos panorâmicos horizontais (pan) e verticais (tilt)
+msgid "Pan and Tilt"
+msgstr "Pan and Tilt"
+
+# en - Follower pots are installed on pan/tilt unit to allow feedback to the controller and provides information relevant to horizontal and vertical positioning, allowing the controller to quickly adjust to a pre-selected scene automatically.
+# pt -
+msgid "Pan/Tilt Preset Positioning"
+msgstr "Posição predefinida Pan and Tilt"
+
+# en - A panel where circuits are terminated and facilities provided for interconnecting between circuits by means of jacks and plugs.
+# pt -
+msgid "Patch Panel"
+msgstr "Painel de ligações"
+
+# en - The amplitude (voltage) difference between the most positive and the most negative excursions (peaks) of an electrical signal. A full video signal measures one volt peak to peak.
+# pt -
+msgid "Peak-to-Peak"
+msgstr "Pico-a-Pico"
+
+# en - See Pixel.
+# pt -
+msgid "Picture Element"
+msgstr "Elemento de imagem"
+
+# en - A quick succession of edits from one angle to another of the same scene.
+# pt -
+msgid "Ping-Pongy"
+msgstr "Pingue-Pongue"
+
+# en - Short for Picture Element. The most basic unit of an image displayed on a computer or video display screen. Pixels are generally arranged in rows and columns; a given combination among the pixels of various brightness and color values forms an image.
+# pt -
+msgid "Pixel"
+msgid_plural "Pixels"
+msgstr "Pixel"
+msgstr[1] "Pixels"
+
+# en - Also called RCA connector, it is a widely used cable connector for home audio and video equipment.
+# pt -
+msgid "Phono plug"
+msgstr "Ficha áudio, ficha RCA"
+
+# en - Three colors wherein no mixture of any two can produce the third. In color television these are the additive primary colors red, blue and green.
+# pt -
+msgid "Primary Colors"
+msgstr "Cores primárias"
+
+# en - Any image that has undergone enhancement, restoration or other operation.
+# pt -
+msgid "Processed Image"
+msgstr "Imagem processada"
+
+# en - Display scan pattern where each line of the frame is scanned sequentially.
+# pt -
+msgid "Progressive Scan"
+msgstr "Análise progressiva"
+
+# en - A camera raw image file contains minimally processed data from the image sensor of either a digital camera, image or motion picture film scanner. Raw files are so named because they are not yet processed and therefore are not ready to be printed or edited with a bitmap graphics editor. Normally, the image is processed by a raw converter in a wide-gamut internal colorspace where precise adjustments can be made before conversion to a positive file format such as TIFF or JPEG for storage, printing, or further manipulation, which often encodes the image in a device-dependent colorspace.
+# pt -
+msgid "Raw Image Format"
+msgstr "Formato de imagem em bruto"
+
+# en - Of or relating to systems that update information at the same rate as they receive data, enabling them to direct or control a process such as video recording and display. Sometimes referred to as live or real-life timing of events.
+# pt -
+msgid "Real-Time"
+msgstr "Em tempo real"
+
+# en - a) The determination by any means of the individuality of persons, or of objects such as aircraft or cars. b) The determination that an object is similar within a category of something already known; e.g., car, truck, man.
+# pt -
+msgid "Recognition"
+msgstr "Reconhecimento"
+
+# en - The act, process, or capability of distinguishing between two separate but adjacent parts or stimuli, such as elements of detail in an image, or similar colors.
+# pt -
+msgid "Resolution"
+msgstr "Resolução"
+
+# en - The amount of resolvable detail in the horizontal direction in a picture. It is usually expressed as the number of distinct vertical lines, alternately black and white, which can be seen in a distance equal to picture height.
+# pt -
+msgid "Resolution (horizontal)"
+msgstr "Resolução (horizontal)"
+
+# en - The details that can be distinguished on the television screen. Vertical resolution refers to the number of horizontal black and white lines that can be resolved in the picture height. Horizontal resolution refers to the black and white lines resolved in a dimension equal to the vertical height and may be limited by the video amplifier bandwidth.
+# pt -
+msgid "Resolution, Limiting"
+msgstr "Resolução, limitar"
+
+# en - The amount of resolvable detail in the vertical direction in a picture. It is usually expressed as the number of distinct horizontal lines, alternately black and white, which can theoretically be seen in a picture.
+# pt -
+msgid "Resolution (vertical)"
+msgstr "Resolução (vertical)"
+
+# en - Also called image burn. A change produced in or on the target which remains for a large number of frames after the removal of a previously stationary light image and which yields a spurious electrical signal corresponding to that light image.
+# pt -
+msgid "Retained Image"
+msgstr "Imagem retida"
+
+# en - Frequency at which coherent electromagnetic radiation of energy is useful for communication purposes. Also, the entire range of such frequencies.
+# pt -
+msgid "RF (Radio Frequency)"
+msgstr "RF (frequência rádio)"
+
+# en - Amplitude variations in the output voltage of a power supply caused by insufficient filtering.
+# pt -
+msgid "Ripple"
+msgstr "Ondulação"
+
+# en - A loss of vertical synchronization which causes the picture to move up or down on a receiver or monitor.
+# pt -
+msgid "Roll"
+msgstr "Rolamento"
+
+# en - In color, the degree to which a color is diluted with white light or is pure. The vividness of a color, described by such terms as bright, deep, pastel, or pale. Saturation is directly related to the amplitude of the chrominance signal.
+# pt -
+msgid "Saturation"
+msgstr "Saturação"
+
+# en - The process of moving the electron beam of a pickup tube or a picture tube across the target or screen area of a tube.
+# pt -
+msgid "Scanning"
+msgstr "Análise"
+
+# en - In television, a factor expressing the incident illumination upon a specified scene required to produce a specified picture signal at the output terminals of a television camera.
+# pt -
+msgid "Sensitivity"
+msgstr "Sensitividade"
+
+# en - Ability to control the integration (of light) time to the sensor to less than 1/60 second; e.g., stop motion of moving traffic.
+# pt -
+msgid "Shutter"
+msgstr "Obturador"
+
+# en - The ratio between useful television signal and disturbing noise or snow.
+# pt -
+msgid "Signal-to-Noise Ratio (S/N)"
+msgstr "Proporção Sinal-Ruído (S/N)"
+
+# en - A global organization, based in the United States, which, among other things, sets standards for baseband visual communications. This includes film as well as video standards.
+# pt -
+msgid "SMPTE (Society of Motion Picture and Television Engineers)"
+msgstr "SMPTE (Society of Motion Picture and Television Engineers)"
+
+# en - Heavy random noise.
+# pt -
+msgid "Snow"
+msgstr "Chuva"
+
+# en - A transient of short duration, comprising part of a pulse, during which the amplitude considerably exceeds the average amplitude of the pulse.
+# pt -
+msgid "Spike"
+msgstr "Pico"
+
+# en - 1000 µV at 75 ohms (0 dB µV) in RF systems; 0.7-VPP non-composite, 1-VPP composite in video systems.
+# pt -
+msgid "Standard Minimum Signal"
+msgstr "Sinal padrão mínimo"
+
+# en - A low-bit-rate encoding format intended for use over networks and the Internet. Streaming files match the encoded bit rate to the connection speed of the user, so the remote viewer can play audio or video with minimal stoppage without first downloading the entire video file.
+# pt -
+msgid "Streaming"
+msgstr "Transmissão"
+
+# en - A contraction of synchronous or synchronize.
+# pt -
+msgid "Sync"
+msgstr "Sinc."
+
+# en - A device for generating a synchronizing signal.
+# pt -
+msgid "Sync Generator"
+msgstr "Gerador de sincronização"
+
+# en - The level of the peaks of a synchronizing signal.
+# pt -
+msgid "Sync Level"
+msgstr "Nível de sincronização"
+
+# en - To keep two sequences playing at the same rate (in sync). A slide show or a series of video clips can be synced to the beat on an audio track. A talking-head video needs to maintain lip-sync, so that the audio matches the mouth movements of the speaker.
+# pt -
+msgid "Synchronize"
+msgstr "Sincronizar"
+
+# en - Maintaining two or more scanning processes in phase.
+# pt -
+msgid "Synchronizing"
+msgstr "A sincronizar"
+
+# en - A generalized use class aspect that specifies the size of the object of interest with respect to the field of view. See also, the Target Size topic for video quality requirements considerations.
+# pt -
+msgid "Target Size"
+msgstr "Tamanho-alvo"
+
+# en - A picture condition in which groups of horizontal lines are displaced in an irregular manner.
+# pt -
+msgid "Tearing"
+msgstr "Rasgar"
+
+# en - A chart especially prepared for checking overall performance of a television system. It contains various combinations of lines and geometric shapes. The camera is focused on the chart, and the pattern is viewed at the monitor for fidelity.
+# pt -
+msgid "Test Pattern"
+msgstr "Padrão de teste"
+
+# en - The process by which images are recorded at less than the standard rate of frames per second (NTSC — 29.97; PAL — 25.00) thus extending the period of time that can be covered by the storage medium.
+# pt -
+msgid "Time Lapse Video Recording"
+msgstr "Gravar vídeo com atraso"
+
+# en - To convert from one compression format to another (that is, from DV video from a camcorder to MPEG-2 for DVD). Preferably done intelligently to minimize loss of quality from repeated compression, and not requiring fully decompressing the input and then recompressing to the output.
+# pt -
+msgid "Transcode"
+msgstr "Transcodificar"
+
+# en - Signals which exist for a brief period of time prior to the attainment of a steady-state condition. These may include overshoots, damped sinusoidal waves, etc.
+# pt -
+msgid "Transients"
+msgstr "Transitórios"
+
+# en - In software and systems engineering, a use case is a description of a system's behavior in response to external stimuli. This technique is used to develop functional requirements by specifying the system's behavior through scenarios. This concept can be expanded to apply to video systems that are used to perform specific tasks. A use case is a combination of the scene being observed and the task being performed by a viewer (or analyst). See also, the Use Cases topic for more information.
+# pt -
+msgid "Use Case"
+msgstr "Caso de uso"
+
+# en - A use class shares certain important aspects of specific use cases that are common to other use cases, allowing you to make video quality requirements generalizations between them. For example, all use cases have an analyst and a scene under observation. To identify a use class, the next step is to derive generalized aspects from the analyst's intended use of the video (Use Characteristics — usage timeframe, discrimination level) and what is in the scene under observation (Scene Content — target size, motion, lighting level). See also, the Generalized Use Class Aspects topic for more information.
+# pt -
+msgid "Use Class"
+msgstr "Classe de uso"
+
+# en - A generalized use class aspect that specifies the timeframe in which a video be used. As in, will the video be used in real-time or will it be recorded? See also, the Usage Timeframe topic for video quality requirements considerations.
+# pt -
+msgid "Usage Timeframe"
+msgstr "Período de uso"
+
+# en - A compression scheme in which each unit of input material can be compressed to different sizes. For MPEG-2 video, for example, this means that “easier” sequences (that is, with no motion) can compress to very small sizes, whereas “hard” sequences (with lots of motion and scene cuts) can compress to much larger sizes. VBR compression can take better advantage of the overall available bandwidth of a video transmission or DVD player by allocating the available bits intelligently to the difficult parts of a sequence.
+# pt -
+msgid "Variable Bit Rate (VBR)"
+msgstr "Taxa de bits variável (VBR)"
+
+# en - The electronic representation of a sequence of images, depicting either stationary or moving scenes. It may include audio.
+# pt -
+msgid "Video"
+msgstr "Vídeo"
+
+# en - The frequency band width utilized to transmit a composite video signal.
+# pt -
+msgid "Video Band"
+msgstr "Banda vídeo"
+
+# en - The ability of the public safety agency to use the required video to perform the purpose intended. For example, if the purpose of the video is to capture license plates on vehicles in a range of outdoor conditions, video quality is measured in the ability of the video outputs to provide that specific information across a range of environmental conditions.
+# pt -
+msgid "Video Quality (Public Safety)"
+msgstr "Qualidade vídeo (segurança pública)"
+
+# en - The picture signal. A signal containing visual information and horizontal and vertical blanking but not sync. (See also, Composite Video Signal.)
+# pt -
+msgid "Video Signal (Non-Composite)"
+msgstr "Sinal vídeo (não-composite)"
+
+# en - A signal transmitted in color television containing brightness information. This signal produces a black-and-white picture on a standard monochrome receiver. In a color picture it supplies fine detail and brightness information (see also luminance signal).
+# pt -
+msgid "Y Signal"
+msgstr "Sinal Y"
+
+# en - An optical system of continuously variable focal length, the focal plane remaining in a fixed position.
+# pt -
+msgid "Zoom Lens"
+msgstr "Lente de aumento"
