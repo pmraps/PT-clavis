@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
 "Report-Msgid-Bugs-To: <pmra@protonmail.com>+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2021-04-04 05:14Hora de Verão de GMT\n"
+"PO-Revision-Date: 2021-04-04 08:18Hora de Verão de GMT\n"
 "PO-Revision-Date: 2021-04-03 12:04+0100\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
@@ -274,23 +274,23 @@ msgstr "Dezembro"
 #                                                                      #
 # ######################################################################
 
-msgid "Countries"
-msgstr "Países"
-
 msgid "Afghanistan"
 msgstr "Afeganistão"
 
+msgid "South Africa"
+msgstr "África do Sul"
+
 msgid "Akrotiri"
 msgstr "Akrotiri"
+
+msgid "Germany"
+msgstr "Alemanha"
 
 msgid "Albania"
 msgstr "Albânia"
 
 msgid "Algeria"
 msgstr "Argélia"
-
-msgid "American Samoa"
-msgstr "Samoa Americana"
 
 msgid "Andorra"
 msgstr "Andorra"
@@ -307,6 +307,12 @@ msgstr "Antárctica"
 msgid "Antigua and Barbuda"
 msgstr "Antígua e Barbuda"
 
+msgid "Netherlands Antilles"
+msgstr "Antilhas holandesas"
+
+msgid "Saudi Arabia"
+msgstr "Arábia Saudita"
+
 msgid "Argentina"
 msgstr "Argentina"
 
@@ -315,9 +321,6 @@ msgstr "Arménia"
 
 msgid "Aruba"
 msgstr "Aruba"
-
-msgid "Ashmore and Cartier Islands"
-msgstr "Ilhas Ashmore e Cartier"
 
 msgid "Australia"
 msgstr "Austrália"
@@ -343,9 +346,6 @@ msgstr "Barbados"
 msgid "Bassas da India"
 msgstr "Bassas da Índia"
 
-msgid "Belarus"
-msgstr "Bielorrússia"
-
 msgid "Belgium"
 msgstr "Bélgica"
 
@@ -358,8 +358,11 @@ msgstr "Benin"
 msgid "Bermuda"
 msgstr "Bermudas"
 
-msgid "Bhutan"
-msgstr "Butão"
+msgid "Belarus"
+msgstr "Bielorrússia"
+
+msgid "Burma"
+msgstr "Birmânia"
 
 msgid "Bolivia"
 msgstr "Bolívia"
@@ -370,17 +373,8 @@ msgstr "Bósnia e Herzegovina"
 msgid "Botswana"
 msgstr "Botswana"
 
-msgid "Bouvet Island"
-msgstr "Ilha de Bouvet"
-
 msgid "Brazil"
 msgstr "Brasil"
-
-msgid "British Indian Ocean Territory"
-msgstr "Território britânico do Oceano Índico"
-
-msgid "British Virgin Islands"
-msgstr "Ilhas Virgens Britânicas"
 
 msgid "Brunei"
 msgstr "Brunei"
@@ -391,11 +385,14 @@ msgstr "Bulgária"
 msgid "Burkina Faso"
 msgstr "Burkina Faso"
 
-msgid "Burma"
-msgstr "Birmânia"
-
 msgid "Burundi"
 msgstr "Burundi"
+
+msgid "Bhutan"
+msgstr "Butão"
+
+msgid "Cape Verde"
+msgstr "Cabo Verde"
 
 msgid "Cambodia"
 msgstr "Cambodja"
@@ -406,14 +403,14 @@ msgstr "Camarões"
 msgid "Canada"
 msgstr "Canadá"
 
-msgid "Cape Verde"
-msgstr "Cabo Verde"
+msgid "Qatar"
+msgstr "Catar"
 
-msgid "Cayman Islands"
-msgstr "Ilhas Cayman"
+msgid "Kazakhstan"
+msgstr "Cazaquistão"
 
-msgid "Central African Republic"
-msgstr "República Centro-Africana"
+msgid "Holy See (Vatican City)"
+msgstr "Cidade Estado do Vaticano)"
 
 msgid "Chad"
 msgstr "Chade"
@@ -424,14 +421,11 @@ msgstr "Chile"
 msgid "China"
 msgstr "China"
 
-msgid "Christmas Island"
-msgstr "Ilha do Natal"
+msgid "Cyprus"
+msgstr "Chipre"
 
-msgid "Clipperton Island"
-msgstr "Ilha Clipperton"
-
-msgid "Cocos (Keeling) Islands"
-msgstr "Ilhas Cocos (Keeling)"
+msgid "West Bank"
+msgstr "Cisjordânia"
 
 msgid "Colombia"
 msgstr "Colômbia"
@@ -439,35 +433,23 @@ msgstr "Colômbia"
 msgid "Comoros"
 msgstr "Comores"
 
-msgid "Congo, Democratic Republic of the"
-msgstr "República Democrática do Congo"
+msgid "Korea, North"
+msgstr "Coreia do Norte"
 
-msgid "Congo, Republic of the"
-msgstr "República do Congo"
-
-msgid "Cook Islands"
-msgstr "Ilhas Cook"
-
-msgid "Coral Sea Islands"
-msgstr "Ilhas do Mar do Coral"
-
-msgid "Costa Rica"
-msgstr "Costa Rica"
+msgid "Korea, South"
+msgstr "Coreia do Sul"
 
 msgid "Cote d'Ivoire"
 msgstr "Costa do Marfim"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
 
 msgid "Croatia"
 msgstr "Croácia"
 
 msgid "Cuba"
 msgstr "Cuba"
-
-msgid "Cyprus"
-msgstr "Chipre"
-
-msgid "Czech Republic"
-msgstr "República Checa"
 
 msgid "Denmark"
 msgstr "Dinamarca"
@@ -481,9 +463,6 @@ msgstr "Djibouti"
 msgid "Dominica"
 msgstr "Dominica"
 
-msgid "Dominican Republic"
-msgstr "República Dominicana"
-
 msgid "Ecuador"
 msgstr "Equador"
 
@@ -493,11 +472,26 @@ msgstr "Egito"
 msgid "El Salvador"
 msgstr "El Salvador"
 
-msgid "Equatorial Guinea"
-msgstr "Guiné Equatorial"
+msgid "United Arab Emirates"
+msgstr "Emirados Árabes Unidos"
 
 msgid "Eritrea"
 msgstr "Eritreia"
+
+msgid "Slovakia"
+msgstr "Eslováquia"
+
+msgid "Slovenia"
+msgstr "Eslovénia"
+
+msgid "Spain"
+msgstr "Espanha"
+
+msgid "Micronesia, Federated States of"
+msgstr "Estados Federados da Micronésia"
+
+msgid "United States"
+msgstr "Estados Unidos da América"
 
 msgid "Estonia"
 msgstr "Estónia"
@@ -505,17 +499,14 @@ msgstr "Estónia"
 msgid "Ethiopia"
 msgstr "Etiópia"
 
-msgid "Europa Island"
-msgstr "Ilha Europa"
-
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Ilhas Falkland (Malvinas)"
-
-msgid "Faroe Islands"
-msgstr "Ilhas Faroe"
+msgid "Gaza Strip"
+msgstr "Faixa de Gaza"
 
 msgid "Fiji"
 msgstr "Fiji"
+
+msgid "Philippines"
+msgstr "Filipinas"
 
 msgid "Finland"
 msgstr "Finlândia"
@@ -523,47 +514,32 @@ msgstr "Finlândia"
 msgid "France"
 msgstr "França"
 
-msgid "French Guiana"
-msgstr "Guiana Francesa"
-
-msgid "French Polynesia"
-msgstr "Polinésia Francesa"
-
-msgid "French Southern and Antarctic Lands"
-msgstr "Terras Austral e Antárctica Francesas"
-
 msgid "Gabon"
 msgstr "Gabão"
 
 msgid "Gambia, The"
 msgstr "Gâmbia"
 
-msgid "Gaza Strip"
-msgstr "Faixa de Gaza"
+msgid "Ghana"
+msgstr "Gana"
 
 msgid "Georgia"
 msgstr "Geórgia"
 
-msgid "Germany"
-msgstr "Alemanha"
-
-msgid "Ghana"
-msgstr "Gana"
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Geórgia do Sul e Ilhas Sandwich do Sul"
 
 msgid "Gibraltar"
 msgstr "Gibraltar"
 
-msgid "Glorioso Islands"
-msgstr "Ilhas Gloriosas"
-
 msgid "Greece"
 msgstr "Grécia"
 
-msgid "Greenland"
-msgstr "Gronelândia"
-
 msgid "Grenada"
 msgstr "Grenada"
+
+msgid "Greenland"
+msgstr "Gronelândia"
 
 msgid "Guadeloupe"
 msgstr "Guadalupe"
@@ -577,23 +553,26 @@ msgstr "Guatemala"
 msgid "Guernsey"
 msgstr "Guernsey"
 
+msgid "Guyana"
+msgstr "Guiana"
+
+msgid "French Guiana"
+msgstr "Guiana Francesa"
+
 msgid "Guinea"
 msgstr "Guiné"
 
 msgid "Guinea-Bissau"
 msgstr "Guiné-Bissau"
 
-msgid "Guyana"
-msgstr "Guiana"
+msgid "Equatorial Guinea"
+msgstr "Guiné Equatorial"
 
 msgid "Haiti"
 msgstr "Haiti"
 
-msgid "Heard Island and McDonald Islands"
-msgstr "Ilha Heard e Ilhas McDonald"
-
-msgid "Holy See (Vatican City)"
-msgstr "Cidade Estado do Vaticano)"
+msgid "Netherlands"
+msgstr "Holanda"
 
 msgid "Honduras"
 msgstr "Honduras"
@@ -604,8 +583,89 @@ msgstr "Hong Kong"
 msgid "Hungary"
 msgstr "Hungria"
 
-msgid "Iceland"
-msgstr "Islândia"
+msgid "Yemen"
+msgstr "Iémen"
+
+msgid "Clipperton Island"
+msgstr "Ilha Clipperton"
+
+msgid "Bouvet Island"
+msgstr "Ilha de Bouvet"
+
+msgid "Juan de Nova Island"
+msgstr "Ilha de Juan de Nova"
+
+msgid "Isle of Man"
+msgstr "Ilha de Man"
+
+msgid "Navassa Island"
+msgstr "Ilha de Navassa"
+
+msgid "Norfolk Island"
+msgstr "Ilha de Norfolk"
+
+msgid "Coral Sea Islands"
+msgstr "Ilhas do Mar do Coral"
+
+msgid "Christmas Island"
+msgstr "Ilha do Natal"
+
+msgid "Europa Island"
+msgstr "Ilha Europa"
+
+msgid "Heard Island and McDonald Islands"
+msgstr "Ilha Heard e Ilhas McDonald"
+
+msgid "Wake Island"
+msgstr "Ilha Wake"
+
+msgid "Ashmore and Cartier Islands"
+msgstr "Ilhas Ashmore e Cartier"
+
+msgid "Cayman Islands"
+msgstr "Ilhas Cayman"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Ilhas Cocos (Keeling)"
+
+msgid "Cook Islands"
+msgstr "Ilhas Cook"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "Ilhas Falkland (Malvinas)"
+
+msgid "Faroe Islands"
+msgstr "Ilhas Faroe"
+
+msgid "Glorioso Islands"
+msgstr "Ilhas Gloriosas"
+
+msgid "Northern Mariana Islands"
+msgstr "Ilhas Marianas do Norte"
+
+msgid "Marshall Islands"
+msgstr "Ilhas Marshall"
+
+msgid "Paracel Islands"
+msgstr "Ilhas Paracel"
+
+msgid "Pitcairn Islands"
+msgstr "Ilhas Pitcairn"
+
+msgid "Solomon Islands"
+msgstr "Ilhas Salomão"
+
+msgid "Spratly Islands"
+msgstr "Ilhas Spratly"
+
+msgid "Turks and Caicos Islands"
+msgstr "Ilhas Turcas e Caicos"
+
+msgid "Virgin Islands"
+msgstr "Ilhas Virgens"
+
+msgid "British Virgin Islands"
+msgstr "Ilhas Virgens Britânicas"
 
 msgid "India"
 msgstr "Índia"
@@ -622,8 +682,8 @@ msgstr "Iraque"
 msgid "Ireland"
 msgstr "Irlanda"
 
-msgid "Isle of Man"
-msgstr "Ilha de Man"
+msgid "Iceland"
+msgstr "Islândia"
 
 msgid "Israel"
 msgstr "Israel"
@@ -646,41 +706,23 @@ msgstr "Jersey"
 msgid "Jordan"
 msgstr "Jordânia"
 
-msgid "Juan de Nova Island"
-msgstr "Ilha de Juan de Nova"
-
-msgid "Kazakhstan"
-msgstr "Cazaquistão"
-
-msgid "Kenya"
-msgstr "Quênia"
-
 msgid "Kiribati"
 msgstr "Kiribati"
-
-msgid "Korea, North"
-msgstr "Coreia do Norte"
-
-msgid "Korea, South"
-msgstr "Coréia do Sul"
 
 msgid "Kuwait"
 msgstr "Kuwait"
 
-msgid "Kyrgyzstan"
-msgstr "Quirguistão"
-
 msgid "Laos"
 msgstr "Laos"
+
+msgid "Lesotho"
+msgstr "Lesoto"
 
 msgid "Latvia"
 msgstr "Letónia"
 
 msgid "Lebanon"
 msgstr "Líbano"
-
-msgid "Lesotho"
-msgstr "Lesoto"
 
 msgid "Liberia"
 msgstr "Libéria"
@@ -706,11 +748,11 @@ msgstr "Macedónia"
 msgid "Madagascar"
 msgstr "Madagáscar"
 
-msgid "Malawi"
-msgstr "Malawi"
-
 msgid "Malaysia"
 msgstr "Malásia"
+
+msgid "Malawi"
+msgstr "Malawi"
 
 msgid "Maldives"
 msgstr "Maldivas"
@@ -721,17 +763,17 @@ msgstr "Mali"
 msgid "Malta"
 msgstr "Malta"
 
-msgid "Marshall Islands"
-msgstr "Ilhas Marshall"
+msgid "Morocco"
+msgstr "Marrocos"
 
 msgid "Martinique"
 msgstr "Martinica"
 
-msgid "Mauritania"
-msgstr "Mauritânia"
-
 msgid "Mauritius"
 msgstr "Maurícia"
+
+msgid "Mauritania"
+msgstr "Mauritânia"
 
 msgid "Mayotte"
 msgstr "Mayotte"
@@ -739,8 +781,8 @@ msgstr "Mayotte"
 msgid "Mexico"
 msgstr "México"
 
-msgid "Micronesia, Federated States of"
-msgstr "Estados Federados da Micronésia"
+msgid "Mozambique"
+msgstr "Moçambique"
 
 msgid "Moldova"
 msgstr "Moldávia"
@@ -754,35 +796,14 @@ msgstr "Mongólia"
 msgid "Montserrat"
 msgstr "Montserrat"
 
-msgid "Morocco"
-msgstr "Marrocos"
-
-msgid "Mozambique"
-msgstr "Moçambique"
-
 msgid "Namibia"
 msgstr "Namíbia"
 
 msgid "Nauru"
 msgstr "Nauru"
 
-msgid "Navassa Island"
-msgstr "Ilha de Navassa"
-
 msgid "Nepal"
 msgstr "Nepal"
-
-msgid "Netherlands"
-msgstr "Holanda"
-
-msgid "Netherlands Antilles"
-msgstr "Antilhas holandesas"
-
-msgid "New Caledonia"
-msgstr "Nova Caledónia"
-
-msgid "New Zealand"
-msgstr "Nova Zelândia"
 
 msgid "Nicaragua"
 msgstr "Nicarágua"
@@ -796,20 +817,17 @@ msgstr "Nigéria"
 msgid "Niue"
 msgstr "Niue"
 
-msgid "Norfolk Island"
-msgstr "Ilha de Norfolk"
-
-msgid "Northern Mariana Islands"
-msgstr "Ilhas Marianas do Norte"
-
 msgid "Norway"
 msgstr "Noruega"
 
+msgid "New Caledonia"
+msgstr "Nova Caledónia"
+
+msgid "New Zealand"
+msgstr "Nova Zelândia"
+
 msgid "Oman"
 msgstr "Omã"
-
-msgid "Pakistan"
-msgstr "Paquistão"
 
 msgid "Palau"
 msgstr "Palau"
@@ -820,8 +838,8 @@ msgstr "Panamá"
 msgid "Papua New Guinea"
 msgstr "Papua Nova Guiné"
 
-msgid "Paracel Islands"
-msgstr "Ilhas Paracel"
+msgid "Pakistan"
+msgstr "Paquistão"
 
 msgid "Paraguay"
 msgstr "Paraguai"
@@ -829,23 +847,41 @@ msgstr "Paraguai"
 msgid "Peru"
 msgstr "Peru"
 
-msgid "Philippines"
-msgstr "Filipinas"
-
-msgid "Pitcairn Islands"
-msgstr "Ilhas Pitcairn"
+msgid "French Polynesia"
+msgstr "Polinésia Francesa"
 
 msgid "Poland"
 msgstr "Polónia"
 
-msgid "Portugal"
-msgstr "Portugal"
-
 msgid "Puerto Rico"
 msgstr "Porto Rico"
 
-msgid "Qatar"
-msgstr "Catar"
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Kenya"
+msgstr "Quénia"
+
+msgid "Kyrgyzstan"
+msgstr "Quirguistão"
+
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+msgid "Central African Republic"
+msgstr "República Centro-Africana"
+
+msgid "Czech Republic"
+msgstr "República Checa"
+
+msgid "Congo, Democratic Republic of the"
+msgstr "República Democrática do Congo"
+
+msgid "Congo, Republic of the"
+msgstr "República do Congo"
+
+msgid "Dominican Republic"
+msgstr "República Dominicana"
 
 msgid "Reunion"
 msgstr "Reunião"
@@ -853,41 +889,47 @@ msgstr "Reunião"
 msgid "Romania"
 msgstr "Roménia"
 
-msgid "Russia"
-msgstr "Rússia"
-
 msgid "Rwanda"
 msgstr "Ruanda"
 
-msgid "Saint Helena"
-msgstr "Santa Helena"
+msgid "Russia"
+msgstr "Rússia"
 
-msgid "Saint Kitts and Nevis"
-msgstr "São Cristóvão e Nevis"
-
-msgid "Saint Lucia"
-msgstr "Santa Lúcia"
-
-msgid "Saint Pierre and Miquelon"
-msgstr "São Pedro e Miquelon"
-
-msgid "Saint Vincent and the Grenadines"
-msgstr "São Vicente e Granadinas"
+msgid "Western Sahara"
+msgstr "Saara Ocidental"
 
 msgid "Samoa"
 msgstr "Samoa"
 
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
 msgid "San Marino"
 msgstr "San Marino"
+
+msgid "Saint Helena"
+msgstr "Santa Helena"
+
+msgid "Saint Lucia"
+msgstr "Santa Lúcia"
+
+msgid "Saint Kitts and Nevis"
+msgstr "São Cristóvão e Nevis"
+
+msgid "Saint Pierre and Miquelon"
+msgstr "São Pedro e Miquelon"
 
 msgid "Sao Tome and Principe"
 msgstr "São Tomé e Príncipe"
 
-msgid "Saudi Arabia"
-msgstr "Arábia Saudita"
+msgid "Saint Vincent and the Grenadines"
+msgstr "São Vicente e Granadinas"
 
 msgid "Senegal"
 msgstr "Senegal"
+
+msgid "Sierra Leone"
+msgstr "Serra Leoa"
 
 msgid "Serbia and Montenegro"
 msgstr "Sérvia e Montenegro"
@@ -895,47 +937,17 @@ msgstr "Sérvia e Montenegro"
 msgid "Seychelles"
 msgstr "Seychelles"
 
-msgid "Sierra Leone"
-msgstr "Serra Leoa"
-
 msgid "Singapore"
 msgstr "Singapura"
 
-msgid "Slovakia"
-msgstr "Eslováquia"
-
-msgid "Slovenia"
-msgstr "Eslovénia"
-
-msgid "Solomon Islands"
-msgstr "Ilhas Salomão"
+msgid "Syria"
+msgstr "Síria"
 
 msgid "Somalia"
 msgstr "Somália"
 
-msgid "South Africa"
-msgstr "África do Sul"
-
-msgid "South Georgia and the South Sandwich Islands"
-msgstr "Geórgia do Sul e Ilhas Sandwich do Sul"
-
-msgid "Spain"
-msgstr "Espanha"
-
-msgid "Spratly Islands"
-msgstr "Ilhas Spratly"
-
 msgid "Sri Lanka"
 msgstr "Sri Lanka"
-
-msgid "Sudan"
-msgstr "Sudão"
-
-msgid "Suriname"
-msgstr "Suriname"
-
-msgid "Svalbard"
-msgstr "Svalbard"
 
 msgid "Swaziland"
 msgstr "Suazilândia"
@@ -943,11 +955,20 @@ msgstr "Suazilândia"
 msgid "Sweden"
 msgstr "Suécia"
 
+msgid "Sudan"
+msgstr "Sudão"
+
 msgid "Switzerland"
 msgstr "Suíça"
 
-msgid "Syria"
-msgstr "Síria"
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Svalbard"
+msgstr "Svalbard"
+
+msgid "Thailand"
+msgstr "Tailândia"
 
 msgid "Taiwan"
 msgstr "Taiwan"
@@ -958,8 +979,11 @@ msgstr "Tajiquistão"
 msgid "Tanzania"
 msgstr "Tanzânia"
 
-msgid "Thailand"
-msgstr "Tailândia"
+msgid "French Southern and Antarctic Lands"
+msgstr "Terras Austral e Antárctica Francesas"
+
+msgid "British Indian Ocean Territory"
+msgstr "Território britânico do Oceano Índico"
 
 msgid "Timor-Leste"
 msgstr "Timor-Leste"
@@ -982,38 +1006,26 @@ msgstr "Ilha de Tromelin"
 msgid "Tunisia"
 msgstr "Tunísia"
 
+msgid "Turkmenistan"
+msgstr "Turcomenistão"
+
 msgid "Turkey"
 msgstr "Turquia"
-
-msgid "Turkmenistan"
-msgstr "Turquemenistão"
-
-msgid "Turks and Caicos Islands"
-msgstr "Ilhas Turcas e Caicos"
 
 msgid "Tuvalu"
 msgstr "Tuvalu"
 
-msgid "Uganda"
-msgstr "Uganda"
-
 msgid "Ukraine"
 msgstr "Ucrânia"
 
-msgid "United Arab Emirates"
-msgstr "Emirados Árabes Unidos"
-
-msgid "United Kingdom"
-msgstr "Reino Unido"
-
-msgid "United States"
-msgstr "Estados Unidos"
+msgid "Uganda"
+msgstr "Uganda"
 
 msgid "Uruguay"
 msgstr "Uruguai"
 
 msgid "Uzbekistan"
-msgstr "Uzbequistão"
+msgstr "Usbequistão"
 
 msgid "Vanuatu"
 msgstr "Vanuatu"
@@ -1024,23 +1036,8 @@ msgstr "Venezuela"
 msgid "Vietnam"
 msgstr "Vietname"
 
-msgid "Virgin Islands"
-msgstr "Ilhas Virgens"
-
-msgid "Wake Island"
-msgstr "Wake Island"
-
 msgid "Wallis and Futuna"
 msgstr "Wallis e Futuna"
-
-msgid "West Bank"
-msgstr "Cisjordânia"
-
-msgid "Western Sahara"
-msgstr "Saara Ocidental"
-
-msgid "Yemen"
-msgstr "Iémen"
 
 msgid "Zambia"
 msgstr "Zâmbia"
@@ -1049,15 +1046,19 @@ msgid "Zimbabwe"
 msgstr "Zimbábue"
 
 # ######################################################################
-msgid "Languages"
-msgstr "Idiomas"
+#                                                                      #
+#                              IDIOMAS                                 #
+#                                                                      #
+# ######################################################################
 
 msgid "Portuguese"
 msgstr "Português"
 
 # ######################################################################
-msgid "Colors"
-msgstr "Cores"
+#                                                                      #
+#                               CORES                                  #
+#                                                                      #
+# ######################################################################
 
 # en - hex color code:
 # pt - código hexadecimal da cor: #5d8aa8
@@ -1080,12 +1081,10 @@ msgid "Almond"
 msgstr "Amêndoa"
 
 # en - hex color code:
-# en - hex color code:
 # pt - código hexadecimal da cor: # #e52b50
 msgid "Amaranth"
 msgstr "Amaranto"
 
-# en - hex color code:
 # en - hex color code:
 # pt - código hexadecimal da cor: # #ffbf00
 msgid "Amber"
@@ -4787,21 +4786,32 @@ msgid "Zinnwaldite brown"
 msgstr "Castanho Zinnwaldite"
 
 # ######################################################################
-msgid "HARDWARE"
-msgstr ""
-"EQUIPAMENTO - secção destinada a equipamento físico, real, maquinaria, etc. "
-
-# en -
-# pt -
-# Shortcut / Atalho:
-msgid "Laptop"
-msgstr "Portátil"
+#                                                                      #
+#                             EQUIPAMENTO                              #
+#    secção destinada a equipamento físico, real, maquinaria, etc.     #
+# ######################################################################
 
 # en -
 # pt -
 # Shortcut / Atalho:
 msgid "Desktop"
 msgstr "Computador, Área de trabalho"
+
+# en - A combination or array of electromechanical or electronic switches which route a number of signal sources to one or more destinations.
+# pt - Uma combinação ou conjunto de interruptores electromecânicos ou electrónicos que encaminham uma série de fontes de sinal para um ou mais destinos.
+msgid "Matrix Switcher"
+msgstr "Matriz de interruptores"
+
+# en - A device that accepts video signals from a computer or video camera and displays information on a screen; a video display.
+# pt - Um dispositivo que aceita sinais de vídeo de um computador ou câmara de vídeo e exibe informação num ecrã; uma exibição de vídeo.
+msgid "Monitor"
+msgstr "Monitor"
+
+# en -
+# pt -
+# Shortcut / Atalho:
+msgid "Laptop"
+msgstr "Portátil"
 
 # en -
 # pt -
@@ -4870,12 +4880,10 @@ msgid "Scanner"
 msgstr "Digitalizador"
 
 # ######################################################################
-msgid ""
-"PROGRAMMING OBJECTS - section for terms used in computer programs, like "
-"checkbox, dropdown, scrollbar, etc."
-msgstr ""
-"OBJECTOS DE PROGRAMAÇÃO - secção destinada a termos usados em programação, "
-"tais como objectos de programação (botões, listas, barras, etc.)"
+#                                                                      #
+#                     OBJECTOS DE PROGRAMAÇÃO                          #
+# termos usados em programação, tais como botões, listas, barras, etc. #
+# ######################################################################
 
 msgid "Button"
 msgstr "Botão"
@@ -4886,9 +4894,14 @@ msgstr "Caixa de marcação"
 msgid "Dropdown List"
 msgstr "Lista pendente"
 
+msgid "Menu"
+msgstr "Menu"
+
 # ######################################################################
-msgid "List of words sorted alphabetically"
-msgstr "Lista de palavras ordenadas alfabeticamente"
+#                                                                      #
+#                          Lista de palavras                           #
+#                                                                      #
+# ######################################################################
 
 # en - LETTER A
 # pt - LETRA A
@@ -4927,7 +4940,7 @@ msgid "Chromatic Aberration"
 msgstr "Aberração cromática"
 
 # en - The effective diameter of the lens that controls the amount of light reaching the photoconductive or photo emitting image pickup sensor.
-# pt - O diâmetro efectivo da lente que controla a quantidade de luz que atinge o sensor fotocondutor ou foto-emissor de captação de imagem.
+# pt - O diâmetro efectivo da lente que controla a quantidade de luz que atinge o sensor foto-condutor ou foto-emissor de captação de imagem.
 msgid "Aperture"
 msgstr "Abertura"
 
@@ -4940,7 +4953,7 @@ msgstr "Aceitar"
 msgid "OK"
 msgstr "Aceitar"
 
-# Eventualmente, alterar para _Sobre
+# pt - Eventualmente, alterar para _Sobre
 msgid "About"
 msgstr "Acerca"
 
@@ -5034,8 +5047,8 @@ msgstr "Ambiente"
 msgid "Sample"
 msgstr "Amostra"
 
-# en - To enlarge or reduce, on a continuously variable basis, the size of a televised image primarily by varying lens focal length.
-# pt - Aumentar ou reduzir, numa base continuamente variável, o tamanho de uma imagem televisiva, principalmente através da variação da distância focal da lente.
+# en - To enlarge or reduce, on a continuously variable basis, the size of an image primarily by varying lens focal length.
+# pt - Aumentar ou reduzir, numa base continuamente variável, o tamanho de uma imagem, principalmente através da variação da distância focal da lente.
 msgid "Zoom"
 msgstr "Ampliação"
 
@@ -6012,6 +6025,11 @@ msgstr "Eliminação"
 msgid "Element"
 msgstr "Elemento"
 
+# en - See Pixel.
+# pt - Ver Pixel.
+msgid "Picture Element"
+msgstr "Elemento de imagem"
+
 # en -
 # pt - Eliminar para "Delete", Apagar para "Erase" e Limpar para "Clean"
 msgid "Delete"
@@ -6022,6 +6040,11 @@ msgstr "Eliminado"
 
 msgid "Blank"
 msgstr "Em branco"
+
+# en - Of or relating to systems that update information at the same rate as they receive data, enabling them to direct or control a process such as video recording and display. Sometimes referred to as live or real-life timing of events.
+# pt - De ou relacionados com sistemas que actualizam a informação ao mesmo ritmo que recebem os dados, permitindo-lhes dirigir ou controlar um processo como a gravação e exibição de vídeo. Por vezes referido como tempo real ou ao vivo dos eventos.
+msgid "Real-Time"
+msgstr "Em tempo real"
 
 msgid "Emboss"
 msgstr "Embutido"
@@ -6059,6 +6082,11 @@ msgstr "Entradas"
 msgid "Input"
 msgstr "Entrada"
 
+# en - The method by which color and black-and-white sideband signals are interwoven within the same channel bandwidth.
+# pt - O método pelo qual sinais a cores e a preto e branco de banda lateral são entrelaçados dentro da mesma largura de banda de canal.
+msgid "Frequency Interlace"
+msgstr "Entrelace da frequência"
+
 msgid "Envelope"
 msgstr "Envelope"
 
@@ -6067,6 +6095,11 @@ msgstr "Enviar"
 
 msgid "Upload"
 msgstr "Enviar"
+
+# en - An electronic circuit that introduces compensation for frequency discriminative effects of elements within the television system, particularly long coaxial transmission systems.
+# pt - Um circuito electrónico que introduz compensação por efeitos discriminatórios de frequência de elementos dentro do sistema de televisão, particularmente sistemas de transmissão coaxial longa.
+msgid "Equalizer"
+msgstr "Equalizador"
 
 # en - A system for detecting errors in color balance in white and black areas of the picture and automatically adjusting the white and black levels of both the red and blue signals as needed for correction.
 # pt - Um sistema para detectar erros no equilíbrio de cores nas áreas brancas e pretas da imagem e ajustar automaticamente os níveis de branco e preto dos sinais vermelho e azul, conforme necessário para a correcção.
@@ -6088,10 +6121,10 @@ msgstr "Esbater"
 msgid "Scale"
 msgstr "Escala"
 
-# en -
-# pt num caso extremo de falta de espaço poderá ser só "Cinzentos"
-msgid "Grayscale"
-msgstr "Escala de cinzentos, Tons de cinzento"
+# en - Variations in value from white, through shades of gray, to black on a display.
+# pt - Variações de valor desde o branco, passando por tons de cinza, até ao preto num ecrã. Na falta de espaço, usar Cinzentos
+msgid "Gray Scale"
+msgstr "Escala de cinzentos"
 
 msgid "Choose"
 msgstr "Escolha, Escolher"
@@ -6323,6 +6356,15 @@ msgstr "Formato de imagem em bruto"
 
 msgid "Formula"
 msgstr "Fórmula"
+
+# en - The total area, occupied by the television picture, which is scanned while the picture signal is not blanked.
+# a) A frame consists of all the information required for a complete picture. For interlaced scan systems, there are two fields in a frame. For progressive video, these lines contain samples starting from one time instant and continuing through successive lines to the bottom of the frame.
+# b) A complete picture composed of two fields. In the NTSC system, 525 interlaced horizontal lines of picture information in 29.97 frames per second. In the PAL system, 625 interlaced horizontal lines of picture information in 25 frames per second.
+# pt - A área total, ocupada pela imagem da televisão, que é digitalizada enquanto o sinal da imagem não é apagado.
+# a) Uma moldura consiste em todas as informações necessárias para uma imagem completa. Para sistemas de scan entrelaçados, existem dois campos numa moldura. Para vídeo progressivo, estas linhas contêm amostras começando de um instante e continuando através de linhas sucessivas até ao fundo do fotograma.
+# b) Uma imagem completa composta por dois campos. No sistema NTSC, 525 linhas horizontais entrelaçadas de informação de imagem em 29,97 frames por segundo. No sistema PAL, 625 linhas horizontais entrelaçadas de informação sobre a imagem em 25 fotogramas por segundo.
+msgid "Frame"
+msgstr "Fotograma, Quadro, Moldura"
 
 msgid "Front"
 msgstr "Frente"
@@ -6912,6 +6954,11 @@ msgstr "Margem"
 msgid "Margin"
 msgstr "Margem"
 
+# en - Extraneous colors appearing at the edges of colored objects, and differing from the true colors in the object.
+# pt - Cores estranhas que aparecem nas margens dos objectos coloridos, e que diferem das cores verdadeiras do objecto.
+msgid "Color Edging"
+msgstr "Margens de cor"
+
 # en - Corresponds to colors such as red, blue, etc. A color wheel contains basic pigments. All the hues of the rainbow encircle the cone's perimeter. The wavelength of the color that allows color to be distinguished such as red, blue and green. Often used synonymously with the term tint. It is the dominant wavelength that distinguishes a color such as red, yellow, etc. Most commonly, video hue is influenced by a camera's white balance or scene lighting. Video color processors, such as the video equalizer, are the main tools used to adjust and correct hue problems.
 # pt - Corresponde a cores como o vermelho, azul, etc. Uma roda de cor contém pigmentos básicos. Todas as tonalidades do arco-íris circundam o perímetro do cone. O comprimento de onda da cor que permite distinguir cores como o vermelho, o azul e o verde. Muitas vezes utilizado como sinónimo com o termo tinturão. É o comprimento de onda dominante que distingue uma cor tal como o vermelho, amarelo, etc. Mais frequentemente, a tonalidade do vídeo é influenciada pelo equilíbrio branco de uma câmara ou pela iluminação de uma cena. Os processadores de cor de vídeo, tais como o equalizador de vídeo, são as principais ferramentas utilizadas para ajustar e corrigir problemas de matizes.
 msgid "Hue"
@@ -6942,8 +6989,32 @@ msgstr "Máximo"
 msgid "Max"
 msgstr "Máximo"
 
+# en - Abbreviation of megabits per second. One megabit is equal to one million bits or 1,000 kilobits. It is used to measure high data transfer speeds of connections such as Ethernet and cable modems.
+# pt - Abreviação de megabits por segundo. Um megabits é igual a um milhão de bits ou 1.000 kilobits. É utilizado para medir altas velocidades de transferência de dados de ligações, tais como Ethernet e modems por cabo.
+msgid "Mbps"
+msgstr "Mbps"
+
 msgid "Medium"
 msgstr "Média"
+
+# en - A measure of computer memory or storage. It is one million bytes (in the context of computer memory, sometimes used to mean 1,048,576 (2 to the power 20) bytes).
+# pt - Uma medida de memória ou armazenamento do computador. É de um milhão de bytes (no contexto da memória do computador, por vezes utilizado para significar 1.048.576 (2 à potência 20) bytes).
+msgid "Megabyte"
+msgid_plural "Megabytes"
+msgstr[0] "Megabyte"
+msgstr[1] "Megabytes"
+
+# en - A unit of frequency equal to one million hertz or cycles per second. Usually abbreviated to MHz.
+# pt - 
+msgid "Megahertz"
+msgstr "Megahertz"
+
+# en - The term pixel comes from the phrase picture element. One megapixel is equal to 1,000,000 (one million) pixels. For the most part, the larger number of pixels, the better the quality of the picture.
+# pt - O termo pixel vem da frase elemento de imagem. Um megapixel é igual a 1.000.000 (um milhão) pixels. Na sua maioria, quanto maior for o número de pixels, melhor será a qualidade da imagem.
+msgid "Megapixel"
+msgid_plural "Megapixels"
+msgstr[0] "Megapixel"
+msgstr[1] "Megapixels"
 
 msgid "Middle"
 msgstr "Meio"
@@ -7006,24 +7077,6 @@ msgstr "Modifique, Modificar"
 msgid "Modified"
 msgstr "Modificado"
 
-msgid "Currency"
-msgstr "Moeda"
-
-# en -
-# pt - em imagens habitualmente refere-se a repetir a imagem em todo
-# o ecrã. Em janelas, significa dispô-las em cascata, pilha desalinhada
-msgid "Tile"
-msgstr "Mosaico"
-
-msgid "Shown"
-msgstr "Mostrado"
-
-msgid "Reason"
-msgstr "Motivo, Razão"
-
-msgid "Move"
-msgstr "Mova, Mover"
-
 # en - can be a math function
 # pt - pode ser uma função matemática
 msgid "Mode"
@@ -7032,21 +7085,64 @@ msgstr "Modo"
 msgid "Module"
 msgstr "Módulo"
 
+# en - The process, or results of the process, whereby some characteristic of one signal is varied in accordance with another signal. The modulated signal is called the carrier. The carrier may be modulated in three fundamental ways: by varying the amplitude, called amplitude modulation; by varying the frequency, called frequency modulation; by varying the phase, called phase modulation.
+# pt - O processo, ou resultados do processo, em que algumas características de um sinal são variadas de acordo com outro sinal. O sinal modulado é chamado de portador. A portadora pode ser modulada de três formas fundamentais: variando a amplitude, chamada modulação de amplitude; variando a frequência, chamada modulação de frequência; variando a fase, chamada modulação de fase.
+msgid "Modulation"
+msgstr "Modulação"
+
+msgid "Currency"
+msgstr "Moeda"
+
 # en -
 # pt - as conotações são muitas, há que adaptar ao âmbito em que se insere
 msgid "Frame"
 msgstr "Moldura"
 
+# en - Black and white with all shades of gray.
+# pt - Preto e branco com todos os tons de cinza.
+msgid "Monochrome"
+msgstr "Monocromático"
+
 # en -
-# pt - Preferível a "Apresentar" por ser mais curta.
-msgid "Display"
-msgstr "Mostrar, Exibir"
+# pt - em imagens habitualmente refere-se a repetir a imagem em todo
+# o ecrã. Em janelas, significa dispô-las em cascata, pilha desalinhada
+msgid "Tile"
+msgstr "Mosaico"
 
 msgid "Displayed"
 msgstr "Mostrado"
 
+msgid "Shown"
+msgstr "Mostrado"
+
+# en -
+# a) The ultimate image presented to a viewer; the process of presenting that image.
+# b) CRT, LCD, LED or other photoluminescent panel upon which numbers, characters, graphics or other data is presented.
+# pt -
+# a) A imagem final apresentada a um espectador; o processo de apresentação dessa imagem.
+# b) CRT, LCD, LED ou outro painel fotoluminescente sobre o qual são apresentados números, caracteres, gráficos ou outros dados.
+msgctxt "Exibir, Apresentar, Monitor"
+msgid "Display"
+msgstr "Mostrar"
+
 msgid "Show"
 msgstr "Mostrar"
+
+# en - A group of standards for encoding and compressing audiovisual information such as movies, video, and music. MPEG compression is as high as 200:1 for low-motion video of VHS quality, and broadcast quality can be achieved at 6 Mbit/s. Audio is supported at rates from 32 kbit/s to 384 kbit/s for up to two stereo channels.
+# pt - Um grupo de normas para a codificação e compressão de informação audiovisual, como filmes, vídeo e música. A compressão MPEG é tão elevada como 200:1 para vídeo em baixa resolução de qualidade VHS, e a qualidade de difusão pode ser atingida a 6 Mbit/s. O áudio é suportado a velocidades de 32 kbit/s a 384 kbit/s para até dois canais estéreo.
+msgid "Motion Picture Expert Group (MPEG)"
+msgstr "Motion Picture Expert Group (MPEG)"
+
+msgid "Reason"
+msgstr "Motivo, Razão"
+
+msgid "Move"
+msgstr "Mova, Mover"
+
+# en - A generalized use class aspect that specifies the level of motion you anticipate in a scene of interest. See also, the Motion topic for video quality requirements considerations.
+# pt - Um aspecto de classe de uso generalizado que especifica o nível de movimento que se antecipa numa cena de interesse. Ver também, o tópico Motion para considerações sobre os requisitos de qualidade de vídeo.
+msgid "Motion"
+msgstr "Movimento"
 
 msgid "Multiple"
 msgstr "Múltiplo"
@@ -7061,6 +7157,11 @@ msgstr "Não"
 
 msgid "Unsupported"
 msgstr "Não suportado"
+
+# en - A committee that worked with the FCC in formulating standards for the present day United States color television system.
+# pt - Um comité que trabalhou com a FCC na formulação de normas para o actual sistema de televisão a cores dos Estados Unidos.
+msgid "National Television Systems Committee (NTSC)"
+msgstr "National Television Systems Committee (NTSC)"
 
 msgid "Navigation"
 msgstr "Navegação"
@@ -7082,6 +7183,27 @@ msgstr "Negócio"
 
 msgid "Level"
 msgstr "Nível"
+
+# en -
+# a) Qualitatively: Capacity for seeing distinctly fine details that have a very small angular separation.
+# b) Quantitatively: Any of a number of measures of spatial visual resolution such as the reciprocal of the value of the angular separation in minutes of arc of two neighboring objects (points or lines or other specified stimuli) which the observer can just perceive to be separate.
+# A generalized use class aspect that specifies what discrimination level you need to recognize a target of interest. See the Discrimination Level topic for video quality requirements considerations.
+# pt -
+# a) Qualitativamente: Capacidade de ver detalhes distintivamente finos que têm uma separação angular muito pequena.
+# b) Quantitativamente: Qualquer uma de várias medidas de resolução visual espacial, como a recíproca do valor da separação angular em minutos de arco de dois objectos vizinhos (pontos ou linhas ou outros estímulos especificados) que o observador pode apenas perceber como sendo separados.
+# Um aspecto de classe de uso generalizado que especifica o nível de discriminação de que se precisa para reconhecer um alvo de interesse. Ver o tópico Nível de Discriminação para considerações sobre os requisitos de qualidade de vídeo.
+msgid "Discrimination Level (also known as Level of Discrimination)"
+msgstr "Nível de discriminação"
+
+# en - A generalized use class aspect that specifies the level of lighting do you anticipate in a scene of interest. See also, the Lighting Level topic for video quality requirements considerations.
+# pt - Um aspecto de classe de uso generalizado que especifica o nível de iluminação que se antecipa numa cena de interesse. Ver também, o tópico do Nível de Iluminação para considerações sobre os requisitos de qualidade de vídeo.
+msgid "Lighting Level"
+msgstr "Nível de iluminação"
+
+# en - The level of the peaks of a synchronizing signal.
+# pt - O nível dos picos de um sinal sincronizado.
+msgid "Sync Level"
+msgstr "Nível de sincronização"
 
 msgid "Name"
 msgstr "Nome"
@@ -7694,17 +7816,23 @@ msgstr "Ruído"
 msgid "Portuguese words starting with the letter S"
 msgstr "Palavras portuguesas começadas com a letra S"
 
+# en - The signal level at the output of an amplifier or other device.
+# pt - O nível de sinal à saída de um amplificador ou outro dispositivo.
 msgid "Output"
 msgstr "Saída"
 
-msgid "Exit"
-msgstr "Sair"
-
-msgid "Quit"
-msgstr "_Sair"
-
 msgid "Backup"
 msgstr "Salvaguarda, Segurança, Cópia de segurança"
+
+# en - In color, the degree to which a color is diluted with white light or is pure. The vividness of a color, described by such terms as bright, deep, pastel, or pale. Saturation is directly related to the amplitude of the chrominance signal.
+# pt - Em cor, o grau em que uma cor é diluída com luz branca ou é pura. A vividez de uma cor, descrita por termos como brilhante, profunda, pastel, ou pálida. A saturação está directamente relacionada com a amplitude do sinal cromático.
+msgid "Saturation"
+msgstr "Saturação"
+
+# en - The degree to which a color is free of white light.
+# pt - O grau em que uma cor está livre de luz branca.
+msgid "Color Saturation"
+msgstr "Saturação de cor"
 
 # en -
 # pt - se referente a scripts de linguagem de programação não deve ser
@@ -7749,17 +7877,92 @@ msgstr "Servidor"
 msgid "Password"
 msgstr "Senha"
 
+# en - In television, a factor expressing the incident illumination upon a specified scene required to produce a specified picture signal at the output terminals of a television camera.
+# pt - Na televisão, um factor que expressa a iluminação incidente sobre uma cena especificada necessária para produzir um sinal de imagem especificado nos terminais de saída de uma câmara de televisão.
+msgid "Sensitivity"
+msgstr "Sensitividade"
+
 msgid "Arrow"
 msgstr "Seta"
 
 msgid "Symbol"
 msgstr "Símbolo"
 
+# en - An undesired signal from a different channel interfering with the desired signal.
+# pt - Um sinal indesejável de um canal diferente que interfere com o sinal desejado.
+msgid "Crosstalk"
+msgstr "Sinal cruzado"
+
+# en - A signal used to establish and to maintain the same color relationships that are transmitted.
+# pt - Um sinal utilizado para estabelecer e manter as mesmas relações de cor que são transmitidas.
+msgid "Color Sync Signal"
+msgstr "Sinal de sincronizção de cor"
+
+# en - That portion of the NTSC color television signal which contains the luminance or brightness information.
+# pt - A parte do sinal de televisão a cores NTSC que contém a luminância ou a informação de brilho.
+msgid "Luminance Signal"
+msgstr "Sinal de luminância"
+
+# en - a) An electronic signal where every different value from the real-life excitation (sound, light) has a different value of binary combinations (words) that represent the analog signal. b) An analog signal that has been converted to a digital form.
+# pt - a) Um sinal electrónico onde cada valor diferente da excitação da vida real (som, luz) tem um valor diferente de combinações binárias (palavras) que representam o sinal analógico. b) Um sinal analógico que foi convertido para uma forma digital.
+msgid "Digital Signal"
+msgstr "Sinal digital"
+
+# en - In monochrome television, a signal wave for controlling the brightness values in the picture. In color television, that part of the signal wave which has major control of the brightness values of the picture, whether displayed in color or in monochrome.
+# pt - Na televisão monocromática, uma onda de sinal para controlar os valores de brilho na imagem. Na televisão a cores, a parte da onda de sinal que tem maior controlo dos valores de luminosidade da imagem, quer seja exibida a cores ou monocromática.
+msgid "Monochrome Signal"
+msgstr "Sinal monocromático"
+
+# en - 1000 µV at 75 ohms (0 dB µV) in RF systems; 0.7-VPP non-composite, 1-VPP composite in video systems.
+# pt - 1000 µV a 75 ohms (0 dB µV) em sistemas RF; 0,7-VPP não composto, 1-VPP composto em sistemas de vídeo.
+msgid "Standard Minimum Signal"
+msgstr "Sinal padrão mínimo"
+
+# en - That portion of the NTSC color TV signal that contains the color information.
+# pt - A parte do sinal de TV a cores NTSC que contém a informação a cores.
+msgid "Chrominance Signal/Subcarrier"
+msgstr "Sinal/Sub-portadora de crominância"
+
+# en - The combined picture signal, including vertical and horizontal blanking and synchronizing signals.
+# pt - O sinal combinado de imagem, incluindo sinais verticais e horizontais de obturação e sincronização.
+msgid "Composite Video Signal"
+msgstr "Sinal vídeo composto"
+
+# en - The picture signal. A signal containing visual information and horizontal and vertical blanking but not sync. (See also, Composite Video Signal.)
+# pt - O sinal da imagem. Um sinal que contém informação visual e uma obturação horizontal e vertical mas não sincronizada. (Ver também, Composite Video Signal).
+msgid "Video Signal (Non-Composite)"
+msgstr "Sinal vídeo (não-composto)"
+
+# en - A signal transmitted in color television containing brightness information. This signal produces a black-and-white picture on a standard monochrome receiver. In a color picture it supplies fine detail and brightness information (see also luminance signal).
+# pt - Um sinal transmitido em televisão a cores contendo informação sobre o brilho. Este sinal produz uma imagem a preto e branco num receptor monocromático padrão. Numa imagem a cores, fornece informação detalhada e de brilho (ver também sinal de luminosidade).
+msgid "Y Signal"
+msgstr "Sinal Y"
+
+# en - A contraction of synchronous or synchronize.
+# pt - Uma contracção de sincronização ou sincronização.
+msgid "Sync"
+msgstr "Sinc."
+
+# en - The signal used for the synchronizing of scanning specified in EIA Standards RS-170, RS-330, RS-343, or subsequent issues.
+# pt - O sinal utilizado para a sincronização da digitalização especificada nas Normas de AIA RS-170, RS-330, RS-343, ou edições subsequentes.
+msgid "EIA Sync"
+msgstr "Sincronização EIA"
+
+# en - To keep two sequences playing at the same rate (in sync). A slide show or a series of video clips can be synced to the beat on an audio track. A talking-head video needs to maintain lip-sync, so that the audio matches the mouth movements of the speaker.
+# pt - Para manter duas sequências ao mesmo ritmo (em sincronia). Uma apresentação de diapositivos ou uma série de videoclips podem ser sincronizados com o ritmo numa pista de áudio. Um vídeo talking-head precisa de manter a sincronização labial, para que o áudio coincida com os movimentos da boca do orador.
+msgid "Synchronize"
+msgstr "Sincronizar"
+
 msgid "Syntax"
 msgstr "Sintaxe"
 
 msgid "System"
 msgstr "Sistema"
+
+# en - A global organization, based in the United States, which, among other things, sets standards for baseband visual communications. This includes film as well as video standards.
+# pt - Uma organização global, com sede nos Estados Unidos, que, entre outras coisas, estabelece padrões para as comunicações visuais de banda de base. Isto inclui padrões de filmes, bem como de vídeo.
+msgid "SMPTE (Society of Motion Picture and Television Engineers)"
+msgstr "SMPTE (Society of Motion Picture and Television Engineers)"
 
 msgid "Overwrite"
 msgstr "Sobrescrever"
