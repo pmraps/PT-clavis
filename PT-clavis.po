@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Translation Memory pt_PT 0.0.1\n"
 "Report-Msgid-Bugs-To: <pmra@protonmail.com>+L10N&component=general\n"
 "POT-Creation-Date: 2015-08-15 22:13+0000\n"
-"PO-Revision-Date: 2021-04-03 18:57Hora de Verão de GMT\n"
+"PO-Revision-Date: 2021-04-04 05:14Hora de Verão de GMT\n"
 "PO-Revision-Date: 2021-04-03 12:04+0100\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal)\n"
@@ -20,16 +20,16 @@ msgstr ""
 "X-Generator: Geany / PoHelper 1.36\n"
 "X-Project-Style: \n"
 
+# ######################################################################
+#                                                                      #
+#                           MENU FICHEIRO                              #
+#                                                                      #
+# ######################################################################
+
 msgid "`File' Menu"
 msgstr ""
 "MENU FICHEIRO - as cadeias seguintes são usadas no menu \"Ficheiro\" de "
 "qualquer programa"
-
-# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
-# en - The ratio of width to height for the frame of the televised picture. 4:3 for standard systems, 5:4 for 1K x 1K, and 16:9 for HDTV.
-# pt - A relação entre largura e altura para a moldura da imagem televisiva. 4:3 para sistemas standard, 5:4 para 1K x 1K, e 16:9 para HDTV.
-msgid "Aspect Ratio"
-msgstr "Proporção"
 
 # en -
 # pt -
@@ -132,6 +132,11 @@ msgid "_Quit"
 msgstr "_Sair"
 
 # ######################################################################
+#                                                                      #
+#                              MENU EDITAR                             #
+#                                                                      #
+# ######################################################################
+
 msgid "`Edit' Menu'"
 msgstr ""
 "MENU EDITAR - as cadeias seguintes são usadas no menu \"Editar\" de qualquer "
@@ -180,6 +185,95 @@ msgid "Select _All"
 msgstr "Seleccion_ar tudo"
 
 # ######################################################################
+#                                                                      #
+#                           DATA E HORA                                #
+#                                                                      #
+# ######################################################################
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "January"
+msgstr "Janeiro"
+
+msgid "january"
+msgstr "Janeiro"
+
+msgid "February"
+msgstr "Fevereiro"
+
+msgid "february"
+msgstr "Fevereiro"
+
+msgid "March"
+msgstr "Março"
+
+msgid "march"
+msgstr "Março"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "april"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Maio"
+
+msgid "may"
+msgstr "Maio"
+
+msgid "June"
+msgstr "Junho"
+
+msgid "june"
+msgstr "Junho"
+
+msgid "July"
+msgstr "Julho"
+
+msgid "july"
+msgstr "Julho"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "august"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Setembro"
+
+msgid "september"
+msgstr "Setembro"
+
+msgid "October"
+msgstr "Outubro"
+
+msgid "october"
+msgstr "Outubro"
+
+msgid "November"
+msgstr "Novembro"
+
+msgid "november"
+msgstr "Novembro"
+
+msgid "December"
+msgstr "Dezembro"
+
+msgid "December"
+msgstr "Dezembro"
+
+# ######################################################################
+#                                                                      #
+#                                PAÍSES                                #
+#                                                                      #
+# ######################################################################
+
 msgid "Countries"
 msgstr "Países"
 
@@ -4193,11 +4287,6 @@ msgid "Smoky black"
 msgstr "Preto Smoky"
 
 # en - hex color code:
-# pt - código hexadecimal da cor: #fffafa
-msgid "Snow"
-msgstr "Neve"
-
-# en - hex color code:
 # pt - código hexadecimal da cor: #0fc0fc
 msgid "Spiro Disco Ball"
 msgstr "Spiro Disco Ball"
@@ -4708,16 +4797,11 @@ msgstr ""
 msgid "Laptop"
 msgstr "Portátil"
 
-# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
 # en -
 # pt -
 # Shortcut / Atalho:
 msgid "Desktop"
-msgstr ""
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Computador\n"
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Área de trabalho"
+msgstr "Computador, Área de trabalho"
 
 # en -
 # pt -
@@ -4847,9 +4931,6 @@ msgstr "Aberração cromática"
 msgid "Aperture"
 msgstr "Abertura"
 
-msgid "April"
-msgstr "Abril"
-
 msgid "Action"
 msgstr "Acção"
 
@@ -4908,9 +4989,6 @@ msgstr "Afiar, Focar"
 # pt -
 msgid "AGC (automatic gain control)"
 msgstr "AGC (controlo de ganho automático)"
-
-msgid "August"
-msgstr "Agosto"
 
 msgid "Wait"
 msgstr "Aguarde"
@@ -5065,17 +5143,10 @@ msgstr "Apresentação"
 msgid "Arabic"
 msgstr "Arábico"
 
-# #-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#
 # en - Clipboard
-# pt - traduzida habitualmente em Windows como "Área de transferência"
-# 	   preferi o termo mais genérico, mais curto e mais abrangente
-# 	   "Memória"
+# pt - traduzida habitualmente em Windows como "Área de transferência", preferi o termo mais genérico, mais curto e mais abrangente "Memória"
 msgid "Clipboard"
-msgstr ""
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Área de transferência\n"
-"#-#-#-#-#  catalog.po (Translation Memory pt_PT 0.0.1)  #-#-#-#-#\n"
-"Memória"
+msgstr "Área de transferência, Memória"
 
 msgid "Argument"
 msgstr "Argumento"
@@ -5344,6 +5415,7 @@ msgstr "Chinês"
 
 # en - Heavy random noise.
 # pt - Ruído pesado aleatório.
+msgctxt "Cor: Neve - código hexadecimal: #fffafa"
 msgid "Snow"
 msgstr "Chuva"
 
@@ -5666,9 +5738,6 @@ msgstr "Dados"
 msgid "DAT"
 msgstr "DAT"
 
-msgid "Date"
-msgstr "Data"
-
 # en - A measure of the power ratio of two signals. In system use, a measure of the voltage ratio of two signals, provided they are measured across a common impedance.
 # pt - Uma medida da relação de potência de dois sinais. Na utilização do sistema, uma medida da relação de voltagem de dois sinais, desde que estes sejam medidos através de uma impedância comum.
 msgid "dB (Decibel)"
@@ -5791,9 +5860,6 @@ msgstr "Devido"
 # uma palavra-chave em linguagens de programação
 msgid "Return"
 msgstr "Devolver, Retornar, Voltar a"
-
-msgid "December"
-msgstr "Dezembro"
 
 msgid "Day"
 msgstr "Dia"
@@ -6147,12 +6213,6 @@ msgstr "Feche, Fechar"
 msgid "Tool"
 msgstr "Ferramenta"
 
-msgid "February"
-msgstr "Fevereiro"
-
-msgid "february"
-msgstr "Fevereiro"
-
 # en - The technology of transferring information, e.g., in communications or computer technology, through thin flexible glass or plastic tubes of optical fibers using modulated light waves.
 # pt - # pt - A tecnologia de transferência de informação, por exemplo, em comunicações ou tecnologia informática, através de tubos flexíveis finos de vidro ou plástico de fibras ópticas utilizando ondas de luz modulada.
 msgid "Fiber Optics (use of light transmitted through fibers)"
@@ -6397,9 +6457,6 @@ msgstr "Hiperligação"
 msgid "History"
 msgstr "Histórico, Historial"
 
-msgid "Time"
-msgstr "Hora"
-
 msgid "Horizontal"
 msgstr "Horizontal"
 
@@ -6611,12 +6668,6 @@ msgstr "Item"
 msgid "Portuguese words starting with the letter J"
 msgstr "Palavras portuguesas começadas com a letra J"
 
-msgid "January"
-msgstr "Janeiro"
-
-msgid "january"
-msgstr "Janeiro"
-
 msgid "Window"
 msgstr "Janela"
 
@@ -6625,18 +6676,6 @@ msgstr "Java"
 
 msgid "java"
 msgstr "Java"
-
-msgid "June"
-msgstr "Junho"
-
-msgid "june"
-msgstr "Junho"
-
-msgid "July"
-msgstr "Julho"
-
-msgid "july"
-msgstr "Julho"
 
 msgid "Join"
 msgstr "Juntar"
@@ -6709,11 +6748,6 @@ msgstr "Letra"
 # pt - carta pode ser um tipo de papel ou uma missiva real a alguém
 msgid "Letter"
 msgstr "Letra, Carta"
-
-# en -
-# pt - e.g. azul claro
-msgid "Light"
-msgstr "Leve, Luz, Claro"
 
 # en -
 # pt - habitualmente traduzido como "Dicionário de sinónimos",
@@ -6816,10 +6850,14 @@ msgstr "Luminância (brilho fotométrico)"
 msgid "Lux"
 msgstr "Lux"
 
-# en - Electromagnetic radiation that has a wavelength in the range from about 400 to 750 nm and may be perceived by the normal unaided human eye.
-# pt - radiação electromagnética que tem um comprimento de onda na gama de cerca de 400 a 750 nm e que pode ser percebida pelo olho humano normal sem ajuda.
+# en -
+#a) Electromagnetic radiation that has a wavelength in the range from about 400 to 750 nm and may be perceived by the normal unaided human eye.
+# b) as in light color or light weight.
+# pt -
+# a) radiação electromagnética que tem um comprimento de onda na gama de cerca de 400 a 750 nm e que pode ser percebida pelo olho humano normal sem ajuda.
+# b) cor clara ou peso leve
 msgid "Light"
-msgstr "Luz"
+msgstr "Claro, Leve, Luz"
 
 # en - The direct light that falls on an object.
 # pt - A luz directa que cai sobre um objecto.
@@ -6835,12 +6873,6 @@ msgstr "Palavras portuguesas começadas com a letra M"
 # pt - micro-programa de computador
 msgid "Macro"
 msgstr "Macro"
-
-msgid "May"
-msgstr "Maio"
-
-msgid "may"
-msgstr "Maio"
 
 msgid "Slur"
 msgstr "Manchar"
@@ -6873,9 +6905,6 @@ msgstr "Marcador, Favorito"
 
 msgid "Placeholder"
 msgstr "Marcador de posição, Variável"
-
-msgid "March"
-msgstr "Março"
 
 msgid "Edge"
 msgstr "Margem"
@@ -7081,12 +7110,6 @@ msgstr "Nota"
 msgid "Footnote"
 msgstr "Nota de rodapé"
 
-msgid "November"
-msgstr "Novembro"
-
-msgid "november"
-msgstr "Novembro"
-
 msgid "Numbering"
 msgstr "Numeração"
 
@@ -7173,9 +7196,6 @@ msgstr "Ortografia"
 
 msgid "Spelling"
 msgstr "Ortografia"
-
-msgid "October"
-msgstr "Outubro"
 
 # en - LETTER P
 # pt - LETRA P
@@ -7318,7 +7338,7 @@ msgstr "Pingue-Pongue"
 # pt - Abreviatura de Picture Element. A unidade mais básica de uma imagem exibida num computador ou num ecrã de vídeo. Os pixels estão geralmente dispostos em linhas e colunas; uma dada combinação entre os pixels de vários valores de brilho e cor forma uma imagem.
 msgid "Pixel"
 msgid_plural "Pixels"
-msgstr "Pixel"
+msgstr[0] "Pixel"
 msgstr[1] "Pixels"
 
 # en - The plane in which an image produced by an optical system is formed; if the object plane is perpendicular to the optical axis, the image plane will ordinarily also be perpendicular to the axis.
@@ -7689,7 +7709,7 @@ msgstr "Salvaguarda, Segurança, Cópia de segurança"
 # en -
 # pt - se referente a scripts de linguagem de programação não deve ser
 # traduzido
-msgid "script"
+msgid "Script"
 msgstr "Script, Escrito, Rabisco, Nota"
 
 msgid "Section"
@@ -7731,12 +7751,6 @@ msgstr "Senha"
 
 msgid "Arrow"
 msgstr "Seta"
-
-msgid "September"
-msgstr "Setembro"
-
-msgid "september"
-msgstr "Setembro"
 
 msgid "Symbol"
 msgstr "Símbolo"
@@ -7845,7 +7859,7 @@ msgstr "Tamanho-alvo"
 
 # en -
 # - pt "Tamanho" pode ser usado em certos casos por ser mais curta
-msgid "length"
+msgid "Length"
 msgstr "Tamanho, Comprimento"
 
 msgid "Task"
